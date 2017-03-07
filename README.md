@@ -3,7 +3,7 @@
 
 #### Sources: Ubuntu repo, GitHub, vendor websites.
 
-Simple alphabetical list (*Ctrl+F* everything) of 900+ useful Linux programs and packages - biased to my work, interests, and anticipated needs. Compiled over a number of years from Linux magazines and web searches.
+Simple alphabetical list (*Ctrl+F* everything) of 900+ useful Linux programs and packages - somewhat biased to my work, interests, and anticipated needs. Compiled over a number of years from Linux magazines and web searches.
 
 ###### *List is less than 1/70th of the packages in the main Ubuntu repository.*
 
@@ -38,7 +38,7 @@ apachetop | *top* for Apache | :heavy_check_mark: | | use `apt` |
 apktool | read binary XML | :heavy_multiplication_x: | | |
 aqemu | *Qemu* + KVM GUI | :heavy_check_mark: | | |
 ardour | audio editor | :heavy_check_mark: | | |
-arecabackup | backup | :heavy_multiplication_x: | [Areca Backup](http://areca-backup.org) | Java |
+arecabackup | backup | :heavy_multiplication_x: | [Areca Backup](http://areca-backup.org) | Java-based |
 argus | IP network transaction auditor | :heavy_check_mark: | | |
 argyll | monitor colour callibrator | :heavy_check_mark: | | GUI is dispcalgui |
 arista | media converter | :heavy_check_mark: | [Arista](transcoder.org) | |
@@ -105,7 +105,7 @@ checkbashisms | | :heavy_check_mark: | | in *devscripts* |
 checkinstall | installation tracker | :heavy_check_mark: | | source > package > install with package manager |
 checksecurity | basic security check | :heavy_check_mark: | | |
 chaosreader | trace network sessions, export to HTML | :heavy_check_mark: | | |
-cherrytree | notes organiser with 7zip encryption | :heavy_check_mark: | [CentOS version](http://rpm.pbone.net/index.php3/stat/4/idpl/26487133/dir/redhat_el_6/com/cherrytree-<ver>) | |
+cherrytree | notes organiser with 7zip encryption | :heavy_check_mark: | [CentOS version](http://rpm.pbone.net/index.php3/stat/4/idpl/26487133/dir/redhat_el_6/com/cherrytree) | |
 chkrootkit | rootkit detector | :heavy_check_mark: | | |
 chntpw | change Windows SAM password | :heavy_check_mark: | | |
 cinelerra | non-linear video editor | :heavy_check_mark: | | |
@@ -239,7 +239,7 @@ fdupes | compare files in two directories | :heavy_check_mark: | | uses hashes |
 featherpad | text editor (C++) | :heavy_multiplication_x: | [featherpad](https://github.com/tsujan/FeatherPad) | few dependencies |
 fehashmac | terminal hasher | :heavy_multiplication_x: | [fehashmac](https://sourceforge.net/projects/fehashmac) | |
 fern-wifi-cracker | GUI for *aircrack* | :heavy_multiplication_x: | | |
-ffmeg | media conversion utility | :heavy_check_mark: | | |
+ffmpeg | media playing/conversion utility | :heavy_check_mark: | | |
 figlet | ASCII lettering from text | :heavy_check_mark: | | |
 filefrag | file defragger | :heavy_multiplication_x: | | |
 fileverifier | verify files | :heavy_multiplication_x: | | |
@@ -267,8 +267,8 @@ fracplanet | fractals | :heavy_check_mark: | | |
 fraqtive | 3D Mandelbrot/Julia | :heavy_check_mark: | | |
 freebasic | BASIC compiler | :heavy_multiplication_x: | [FreeBASIC](http://freebasic.net/) | |
 freefilesynch | GUI folder compare and sync | :heavy_check_mark: | | |
-freemind | mindmap editor | :heavy_multiplication_x: | [FreeMind](https://sourceforge.net/projects/freemind/?source=directory) | Java |
-freeplane | mindmap editor | :heavy_check_mark: | | Java |
+freemind | mindmap editor | :heavy_multiplication_x: | [FreeMind](https://sourceforge.net/projects/freemind/?source=directory) | Java-based |
+freeplane | mindmap editor | :heavy_check_mark: | | Java-based |
 frescobaldi | sheet music editor | :heavy_check_mark: | | |
 freshmemory | flashcards | :heavy_multiplication_x: | [Fresh Memory](https://sourceforge.net/projects/freshmemory/) | |
 fruitywifi | wireless network auditing tool | :heavy_multiplication_x: | [FruityWifi](https://github.com/xtr4nge/FruityWifi) | |
@@ -396,14 +396,14 @@ indicator-cpufreq | change CPU frequency | :heavy_check_mark: | | |
 infernal-twin | auto wireless hacking tool | :heavy_multiplication_x: | [infernal-twin](https://github.com/entropy1337/infernal-twin) | |
 inguma | pentest framework | :heavy_multiplication_x: | | |
 inkscape | vector imager | :heavy_check_mark: | | |
-innotop | *MySQL* InnoDB monitor | :heavy_check_mark: | | CentOS repo |
-inotify | monitor filesystem events | :heavy_check_mark: | | especially good for Samba folders |
+innotop | *MySQL* InnoDB monitor | :heavy_check_mark: | | in CentOS repo |
+inotify | monitor filesystem events | :heavy_check_mark: | | good for Samba folders |
 instarecon | auto digital reconnaissance | :heavy_multiplication_x: | [instarecon](https://github.com/vergl4s/instarecon) | high level reconn |
-inxi | system info | :heavy_multiplication_x: | | in Red Hat repo |
+inxi | system info | :heavy_multiplication_x: | | in CentOS repo |
 ioping | disk I/O benchmarker | :heavy_check_mark: | | |
 iotop | I/O monitor | :heavy_check_mark: | | |
 iperf | network bandwidth performance | :heavy_check_mark: | | |
-ipgrab | *tcpdump*-like, detailed header info | :heavy_check_mark: | | (more explicit than *tcpdump*) |
+ipgrab | *tcpdump*-like, detailed header info | :heavy_check_mark: | | more explicit than *tcpdump* |
 iproute2 | IP tools | :heavy_check_mark: | | |
 ipsec-tools | IPsec utilities | :heavy_check_mark: | | |
 ipset | tool for kernel IP sets | :heavy_check_mark: | | |
@@ -418,7 +418,7 @@ jarte | lightweight wordprocessor (with .docx support) | :heavy_check_mark: | | 
 jbit | 6502 CPU simulator | :heavy_multiplication_x: | [JBit](https://sourceforge.net/projects/jbit/) | |
 jed | code editor | :heavy_check_mark: | | |
 jedit | code editor | :heavy_check_mark: | |
-jitsi | encrypted IM/VOIP | :heavy_multiplication_x: | | Java |
+jitsi | encrypted IM/VOIP | :heavy_multiplication_x: | | Java-based |
 joomscan | Joomla scanner | :heavy_multiplication_x: | | |
 jonny | GUI for John | :heavy_multiplication_x: | [Jonny](https://github.com/shinnok/johnny) | |
 jpeginfo | JPEG info/integrity | :heavy_check_mark: | | |
@@ -438,11 +438,11 @@ kismet | Wireless 802.11b sniffer/monitor | :heavy_check_mark: | | |
 knotter | Celtic knot app | :heavy_multiplication_x: | [Knotter](https://sourceforge.net/projects/knotter/) [info](http://knotter.mattbas.org/Knotter) | |
 kolormanager | X colour calibration | :heavy_multiplication_x: | [KolorManager](http://oyranos.org/kolormanager) | |
 komodoedit | code editor | :heavy_multiplication_x: | | |
-krita | image editor | :heavy_check_mark: | krita.org | hand-drawn target |
+krita | image editor | :heavy_check_mark: | [Krita](krita.org) | hand-drawn target |
 krop | PDF cropper/editor | :heavy_multiplication_x: | [Krop](http://arminstraub.com/software/krop) | |
 lamaperia | printable maps from OpenStreetMap | :heavy_multiplication_x: | [Lamaperia](https://github.com/federicomenaquintero/lamaperia) | |
 lame | MP3 encoder | :heavy_check_mark: | | |
-lazagne | credentials recovery | :heavy_multiplication_x: | [LaZagne](https://github.com/AlessandroZ/LaZagne) | Windows version is considered a Trojan |
+lazagne | credentials recovery | :heavy_multiplication_x: | [LaZagne](https://github.com/AlessandroZ/LaZagne) | Windows version is identified as a Trojan |
 lepton | JPEG compressor | :heavy_multiplication_x: | [lepton](https://github.com/dropbox/lepton) | |
 libmarkdown-php | Markdown library | :heavy_check_mark: | | |
 libreoffice-dbg | debugger | :heavy_check_mark: | | |
@@ -466,14 +466,14 @@ lnav | logfile reader with colour | :heavy_check_mark: | [lnav](lnav.org) | |
 logkeys | keylogger | :heavy_check_mark: | | ! |
 logwatch | log analysis emailer | :heavy_check_mark: | | |
 lshw-gtk | lshw hardware GUI | :heavy_check_mark: | | |
-lttng | program tracing | :heavy_check_mark: | | almost as powerful as SystemTap |
+lttng | program tracing | :heavy_check_mark: | | almost as powerful as *SystemTap* |
 luckybackup | rsync-based GUI backup | :heavy_check_mark: | | |
 lynis | security auditor | :heavy_check_mark: | | |
 lyx | Latex WYSIWYG | :heavy_check_mark: | | 500MB |
 lzop | fast compression | :heavy_check_mark: | | |
 macchanger | spoof network card MAC | :heavy_check_mark: | | |
 mailutils | mail utilities | :heavy_check_mark: | | |
-maltego | people-places analysis tool | :heavy_multiplication_x: | [Maltego](https://paterva.com/web7/) | Java |
+maltego | people-places analysis tool | :heavy_multiplication_x: | [Maltego](https://paterva.com/web7/) | Java-based |
 mandelbulber | 3D Mandelbrot | :heavy_check_mark: | | |
 mariadb-server | MariaDB | :heavy_check_mark: | | |
 mariadb-client | MariaDB | :heavy_check_mark: | | |
@@ -561,7 +561,7 @@ nutty | network utility | :heavy_multiplication_x: | [Nutty](https://launchpad.n
 obnam | incremental daily backups with SFTP/GPG support | :heavy_check_mark: | | |
 obs | video recording/livestreaming | :heavy_multiplication_x: | [OBS](https://obsproject.com/) | |
 ocrfeeder | OCR text scanner | :heavy_check_mark: | | |
-octave | numerical computation library and GUI | :heavy_check_mark: | | matlab-like |
+octave | numerical computation library and GUI | :heavy_check_mark: | | Matlab-like |
 oletoy | file format analyser | :heavy_multiplication_x: | [OleToy](https://github.com/renyxa/re-lab) | |
 omd | Nagios fork | :heavy_multiplication_x: | [OMD](http://omdistro.org/) | easier setup than *Nagios* |
 onedrive-d | OneDrive sync | :heavy_multiplication_x: | [onedrive-d](https://github.com/xybu92/onedrive-d) | |
@@ -597,7 +597,7 @@ pdfbooklet | PDF printer | :heavy_multiplication_x: | [PDFbooklet](https://sourc
 pdfcrack | PDF password cracker | :heavy_check_mark: | | |
 pdfedit | PDF editor | :heavy_check_mark: | | good at text, no image editing |
 pdfgrep | PDF search | :heavy_check_mark: | [PDFgrep](https://pdfgrep.org/) |
-pdfmod | PDF editor | :heavy_check_mark: | | simple but good: edit meta data. remove page, extract page |
+pdfmod | PDF editor | :heavy_check_mark: | | simple but good: edit meta data, remove page, extract page |
 pdnsd | proxy DNS server | :heavy_check_mark: | | |
 pgadmin3 | GUI admin for *PostgresSQL* | :heavy_check_mark: | | |
 pgpdump | GPG/PGP file visualiser | :heavy_check_mark: | | |
@@ -646,7 +646,7 @@ pst-utils | read MS Outlook PST files | :heavy_check_mark: | | .pst to .mbox |
 publican | docbook XML publisher | :heavy_check_mark: | | |
 puddletag | music file tag editor | :heavy_check_mark: | | |
 putty | PuTTY for Linux | :heavy_check_mark: | | |
-pv | pipe view meter | :heavy_check_mark: | | SSH bench etc |
+pv | pipe view meter | :heavy_check_mark: | | benchmark SSH etc |
 pwgen | password generator | :heavy_check_mark: | | |
 pybackpack | rdiff GUI | :heavy_check_mark: | | |
 pychecker | Python linter | :heavy_check_mark: | | |
@@ -674,7 +674,7 @@ quiterss | RSS reader | :heavy_check_mark: | | uses WebKit |
 qupzilla | lightweight Chromium-based browser | :heavy_check_mark: | | |
 qweborf | HTTP network sharing tool | :heavy_check_mark: | [QWeborf](https://github.com/ltworf/weborf) | |
 rabbitvcs | SVN GUI | :heavy_check_mark: | | |
-radamsa | fuzzer | :heavy_multiplication_x: | [Radamsa](https://github.com/aoh/radama) | swine to compile |
+radamsa | fuzzer | :heavy_multiplication_x: | [Radamsa](https://github.com/aoh/radama) | a swine to compile |
 rand | random character generator | :heavy_check_mark: | | |
 rapidsvn | SVN GUI | :heavy_check_mark: | | |
 rarcrack | RAR cracker | :heavy_multiplication_x: | [rarCrack](https://sourceforge.net/projects/rarcrack/) | |
@@ -688,7 +688,7 @@ rdiff-backup | remote incremental backup | :heavy_check_mark: | | |
 realvnc | remote desktop client | :heavy_check_mark: | | |
 reaver | router WPS PIN brute-forcer | :heavy_check_mark: | | |
 recoll | document text search | :heavy_check_mark: | | e.g. create text indexes of PDFs|
-recsveditor | CSV editor | :heavy_multiplication_x: | [reCsvEditor](https://sourceforge.net/projects/recsveditor/) | Java |
+recsveditor | CSV editor | :heavy_multiplication_x: | [reCsvEditor](https://sourceforge.net/projects/recsveditor/) | Java-based |
 rednotebook | calendar and notebook | :heavy_check_mark: | [RedNotebook](https://sourceforge.net/projects/rednotebook/) | |
 reformat | text formatter | :heavy_check_mark: | | line length, margin |
 remmina | remote desktop client | :heavy_check_mark: | | RDP must be enabled on Windows |
@@ -777,7 +777,7 @@ srm | secure file deletion | :heavy_multiplication_x: | [SRM](https://sourceforg
 ssldump | SSLv3/TLS network protocol analyser | :heavy_check_mark: | | |
 sshguard | SSH brute-force protection | :heavy_check_mark: | [SSHGuard](http://www.sshguard.net/) | more intelligent than *fail2ban* |
 sslscan | SSL scanner | :heavy_check_mark: | | |
-sshfs | mount remote filesystem | :heavy_check_mark: | | Gnome already does this through GVFS |
+sshfs | mount remote filesystem | :heavy_check_mark: | | Gnome already does this through gvfs |
 sshpass | send password to SCP etc from script | :heavy_check_mark: | | |
 sshtalk | SSH chat server | :heavy_multiplication_x: | | |
 sshuttle | VPN | :heavy_check_mark: | [sshuttle](https://github.com/apenwarr/sshuttle) | |
@@ -834,7 +834,7 @@ tofromdos | EOL character converter | :heavy_check_mark: | | |
 tomahawk | media player | :heavy_check_mark: | | |
 tor | anonymising overlay | :heavy_check_mark: | | get source, **not** repo version |
 torcs | racing car simulator | :heavy_check_mark: | [torcs](https://sourceforge.net/projects/torcs/) | |
-torsocks | use SOCKS-friendly apps with Tor | :heavy_check_mark: | | e.g. SSH |
+torsocks | use SOCKS-friendly apps with *Tor* | :heavy_check_mark: | | e.g. SSH |
 tox | encrypted chat | :heavy_multiplication_x: | [Tox](https://github.com/qTox/qTox) | see *qTox* |
 traceroute | trace packets | :heavy_check_mark: | | |
 transmageddon | media file converter | :heavy_check_mark: | | |
@@ -868,12 +868,12 @@ valentinastudio | MySQL/PostgreSQL/MSSQL browser| :heavy_multiplication_x: | [Va
 valgrind | memory debugger and profiler | :heavy_check_mark: | | |
 valkyrie | GUI for *valgrind* | :heavy_check_mark: | | |
 vbindiff | visual binary file compare | :heavy_check_mark: | | |
-vega | web app tester | :heavy_multiplication_x: | | Java |
+vega | web app tester | :heavy_multiplication_x: | | Java-based |
 veracrypt | TrueCrypt replacement | :heavy_multiplication_x: | [VeraCrypt](http://veracrypt.codeplex.com/) | |
 vidalia | TOR GUI frontend | :heavy_check_mark: | | |
 vim | programming/text editor | :heavy_check_mark: | | |
 vinagre | GNOME remote desktop client | :heavy_check_mark: | | |
-virt-manager | virtual machine manager | :heavy_check_mark: | [virt-manager](virt-manager.org) | good options range), frontend for Qemu |
+virt-manager | virtual machine manager | :heavy_check_mark: | [virt-manager](virt-manager.org) | good options range; frontend for *Qemu* |
 virtualbox | virtual machines | :heavy_check_mark: | [Virtual Box](virtualbox.org) | GPU acceleration |
 visual-studio-code | editor | :heavy_multiplication_x: | [Visual Studio Code](http://code.visualstudio.com/) | huge, limited |
 vmware | virtual machines | :heavy_check_mark: | | GPU acceleration |
@@ -903,7 +903,7 @@ whycanticonnect | connection analyser | :heavy_multiplication_x: | [Why Can't I 
 wicd | wireless manager | :heavy_check_mark: | | |
 wifite | wireless auditor/attacker | :heavy_check_mark: | | |
 wig | web app info gatherer | :heavy_multiplication_x: | [wig](https://github.com/jekyc/wig) | e.g CMS version |
-winff | GUI video/audio batch converter | :heavy_check_mark: | | uses ffmpeg |
+winff | GUI video/audio batch converter | :heavy_check_mark: | | uses *ffmpeg* |
 wings3d | 3D modeller | :heavy_check_mark: | | |
 wireguard | VPN | :heavy_multiplication_x: | [WireGuard](https://www.wireguard.io/) | |
 wireshark | GUI network traffic analyser | :heavy_check_mark: | | |
