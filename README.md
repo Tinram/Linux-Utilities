@@ -674,7 +674,7 @@ quiterss | RSS reader | :heavy_check_mark: | | uses WebKit |
 qupzilla | lightweight Chromium-based browser | :heavy_check_mark: | | |
 qweborf | HTTP network sharing tool | :heavy_check_mark: | [QWeborf](https://github.com/ltworf/weborf) | |
 rabbitvcs | SVN GUI | :heavy_check_mark: | | |
-radamsa | fuzzer | :heavy_multiplication_x: | [Radamsa](https://github.com/aoh/radama) | a swine to compile |
+radamsa | fuzzer | :heavy_multiplication_x: | [Radamsa](https://github.com/aoh/radamsa) | a swine to compile |
 rand | random character generator | :heavy_check_mark: | | |
 rapidsvn | SVN GUI | :heavy_check_mark: | | |
 rarcrack | RAR cracker | :heavy_multiplication_x: | [rarCrack](https://sourceforge.net/projects/rarcrack/) | |
