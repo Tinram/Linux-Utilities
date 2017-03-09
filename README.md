@@ -43,7 +43,7 @@ argus | IP network transaction auditor | :heavy_check_mark: | | |
 argyll | monitor colour callibrator | :heavy_check_mark: | | GUI is dispcalgui |
 arista | media converter | :heavy_check_mark: | [Arista Transcoder](http://transcoder.org/) | |
 asciinema | terminal activity recorder | :heavy_multiplication_x: | [asciinema](http://asciinema.org/) | `asciinema rec >> exit` |
-astyle | C indenter | :heavy_check_mark: | | |
+astyle | code indenter | :heavy_check_mark: | [Artistic Style](http://astyle.sourceforge.net/) | C/C++/Java; good for other langs too |
 asunder | CD ripper | :heavy_check_mark: | | |
 athena-jot | data generator | :heavy_check_mark: | | |
 atril | MATE PDF viewer | :heavy_check_mark: | | |
