@@ -1,7 +1,7 @@
 
 # Linux Utilities
 
-#### Sources: Ubuntu repository, GitHub, vendor websites.
+#### Sources: Ubuntu repository, GitHub, SourceForge, vendor websites.
 
 Simple alphabetical list (*Ctrl+F* everything) of 900+ Linux programs and packages - somewhat biased to my work, interests, and anticipated needs. Compiled over a number of years from Linux magazines and web searches.
 
@@ -11,7 +11,7 @@ A tick in the repo column means the package should exist in the main Ubuntu repo
 
 Some of the programs listed are included by default with Ubuntu-based distros. Nevertheless, they remain, since on some distro installs they are curiously absent.
 
-**Ubuntu repo search**: http://packages.ubuntu.com/
+[**Ubuntu repo search**](http://packages.ubuntu.com/)
 
 ----
 
@@ -56,10 +56,11 @@ aura | background setter | :heavy_multiplication_x: | [Aura](https://sourceforge
 autmater | webhost look-up | :heavy_multiplication_x: | | extensive look-up |
 automysqlbackup | periodic backups of *MySQL* DBs | :heavy_check_mark: | | |
 avahi-daemon | discover hosts | :heavy_check_mark: | | name instead of IP |
-avidemux | video editor/converter | :heavy_multiplication_x:| | for quick edits to single video clip |
+avidemux | video editor/converter | :heavy_multiplication_x: | | for quick edits to single video clip |
 awffull | weblog analyser | :heavy_check_mark: | | localhost-based |
 axel | terminal download accelerator | :heavy_check_mark: | | |
 babeltrace | trace conversion | :heavy_check_mark: | | |
+babe-qt | tiny Qt music player | :heavy_multiplication_x: | [babe-qt](https://github.com/milohr/babe-qt) | |
 backerupper | tar.gz backups | :heavy_multiplication_x: | [Backerupper](https://sourceforge.net/projects/backerupper/) | allows file exclusion | |
 bacula | backup | :heavy_check_mark: | | |
 bashate | Bash script linter | :heavy_check_mark: | | |
@@ -125,7 +126,7 @@ codeblocks | C editor | :heavy_check_mark: | | |
 codecounter | C/BASIC/web code counter | :heavy_multiplication_x: | [CodeCounter](https://github.com/Tinram/CodeCounter) | |
 codelite | C editor | :heavy_check_mark: | | PHP/JS/Python also supported |
 collectd, kcollectd | system stats harvester/monitoring daemon | :heavy_check_mark: | | |
-collectl | performance/benchmarking data | :heavy_check_mark: | | |
+collectl | collect performance data | :heavy_check_mark: | [Collectl](http://collectl.sourceforge.net/) | |
 colorgrab | dropper | :heavy_multiplication_x: | [colorgrab](https://github.com/Acolarh/colorgrab) | |
 colorhug | colorimeter | :heavy_check_mark: | | |
 conduit | sync tool for GNOME (files, bookmarks) | :heavy_check_mark: | | |
@@ -158,7 +159,7 @@ cyberfox | 64-bit browser | :heavy_multiplication_x: | | |
 cython | Python C extensions | :heavy_check_mark: | | |
 darkhttpd | tiny file server | :heavy_multiplication_x: | [Darkhttpd](https://unix4lyfe.org/darkhttpd/) | 34kB |
 darkstat | network traffic analyser | :heavy_check_mark: | | |
-darktable | RAW images | :heavy_check_mark: | [Darktable](http://www.darktable.org/), [article](http://www.techrepublic.com/blog/diy-it-guy/diy-enhance-your-graphic-design-work-with-darktable/)| |
+darktable | RAW images | :heavy_check_mark: | [Darktable](http://www.darktable.org/), [article](http://www.techrepublic.com/blog/diy-it-guy/diy-enhance-your-graphic-design-work-with-darktable/) | |
 darling | Mac terminal Wine | :heavy_multiplication_x: | [Darling](http://darlinghq.org/) | |
 datacleaner | database scanner | :heavy_multiplication_x: | | |
 dateutils | terminal date/time utilities | :heavy_multiplication_x: | [Dateutils](http://www.fresse.org/dateutils/) | |
@@ -180,8 +181,8 @@ dhcpcd | DHCP server for auto-configuring networking | :heavy_check_mark: | | `s
 dhcpdump | parse DHCP packets from *tcpdump* | :heavy_check_mark: | | |
 dia | diagram editor | :heavy_check_mark: | | |
 dialog | Bash dialog | :heavy_check_mark: | | |
-diffmerge | diff | :heavy_multiplication_x: | [DiffMerge](http://sourcegear.com/diffmerge/downloads.php)| |
-difftree | compare directories | :heavy_multiplication_x: | [difftree](https://github.com/rondilley/difftree)| |
+diffmerge | diff | :heavy_multiplication_x: | [DiffMerge](http://sourcegear.com/diffmerge/downloads.php) | |
+difftree | compare directories | :heavy_multiplication_x: | [difftree](https://github.com/rondilley/difftree) | |
 diffuse | file compare/merge | :heavy_check_mark: | | |
 digikam | photo manager | :heavy_check_mark: | | KDE-based |
 ding | GUI dictionary | :heavy_check_mark: | | |
@@ -202,7 +203,7 @@ doxygen | C/PHP auto-documenter | :heavy_check_mark: | | |
 doxygen-doxywizard | config GUI for *doxygen* | :heavy_check_mark: | | |
 drgeo | geometric sketcher | :heavy_check_mark: | | |
 dsniff | network sniffer | :heavy_check_mark: | | |
-dstat | resources stats | :heavy_check_mark: | | |
+dstat | resource stats tool | :heavy_check_mark: | [Dstat](http://dag.wiee.rs/home-made/dstat/) | |
 dukto | LAN transfer tool | :heavy_multiplication_x: | [dukto](https://github.com/guilhem/dukto) | |
 duplicity | encrypted backup | :heavy_check_mark: | [Duplicity](http://duplicity.nongnu.org/) | built on rsync |
 dvdbackup | DVD ripper | :heavy_check_mark: | | |
@@ -584,7 +585,7 @@ pamix | PulseAudio mixer | :heavy_multiplication_x: | [PAmix](https://github.com
 pandoc | DocX/RTF/HTML/Markdown converter | :heavy_check_mark: | [Pandoc](http://pandoc.org/) | |
 parallel | multi-threaded Bash scripts | :heavy_check_mark: | | in *moreutils* |
 parted | disk partitioner | :heavy_check_mark: | | creates GPT partitions, but does not resize |
-passwordsafe | password vault | :heavy_check_mark: | [Password Safe](https://sourceforge.net/projects/passwordsafe/)| |
+passwordsafe | password vault | :heavy_check_mark: | [Password Safe](https://sourceforge.net/projects/passwordsafe/) | |
 patator | multi-purpose brute-forcer | :heavy_multiplication_x: | | |
 pavucontrol | PulseAudio volume control | :heavy_check_mark: | | |
 pdftotext | PDF to text | :heavy_check_mark: | | in poppler-utils |
@@ -680,8 +681,9 @@ rarcrack | RAR cracker | :heavy_multiplication_x: | [rarCrack](https://sourcefor
 raspiraw | RaspPi RAW processing | :heavy_multiplication_x: | [raspiraw](https://github.com/illes/raspiraw) | |
 ratproxy | passive web app security assessor | :heavy_check_mark: | | |
 rats | rough auditing tool for security | :heavy_check_mark: | | |
-rawtherapee | RAW file editor | :heavy_check_mark: | | |
+rawtherapee | RAW file editor | :heavy_check_mark: | [RawTherapee](http://rawtherapee.com) | |
 rclone | sync files to/from GDrive/OneDrive | :heavy_multiplication_x: | [RClone](http://rclone.org/) | |
+rclonebrowser | GUI for *rclone* | :heavy_multiplication_x: | [RcloneBrowser](https://github.com/mmozeiko/RcloneBrowser) | |
 rcrack | cracker via rainbow tables | :heavy_multiplication_x: | | |
 rdiff-backup | remote incremental backup | :heavy_check_mark: | | |
 realvnc | remote desktop client | :heavy_check_mark: | | |
@@ -691,8 +693,8 @@ recsveditor | CSV editor | :heavy_multiplication_x: | [reCsvEditor](https://sour
 rednotebook | calendar and notebook | :heavy_check_mark: | [RedNotebook](https://sourceforge.net/projects/rednotebook/) | |
 reformat | text formatter | :heavy_check_mark: | | line length, margin |
 remmina | remote desktop client | :heavy_check_mark: | | RDP must be enabled on Windows |
-remnux | Linux malware analyser | :heavy_multiplication_x: | [REMnux](https://sourceforge.net/projects/remnux/ ) | |
-retext | ReText and Markdown editor | :heavy_check_mark: | [retext](https://github.com/retext-project/retext)| |
+remnux | Linux malware analyser | :heavy_multiplication_x: | [REMnux](https://sourceforge.net/projects/remnux/) | |
+retext | ReText and Markdown editor | :heavy_check_mark: | [retext](https://github.com/retext-project/retext) | |
 retroshare | encrypted IM | :heavy_multiplication_x: | [RetroShare](http://retroshare.net) | |
 rdesktop | Linux to Windows remote desktop | :heavy_check_mark: | | okay for private network, not Internet |
 recode | file charset conversion | :heavy_check_mark: | | |
@@ -796,7 +798,7 @@ svg-edit | SVG editor | :heavy_multiplication_x: | | |
 swaks | SMTP test tool | :heavy_check_mark: | | |
 swatch | log file event notifier | :heavy_check_mark: | | |
 synfig | vector 2D animation | :heavy_check_mark: | | |
-sysbench | system benchmarker | :heavy_check_mark: | [info](https://www.howtoforge.com/how-to-benchmark-your-system-cpu-file-io-mysql-with-sysbench)| |
+sysbench | system benchmarker | :heavy_check_mark: | [info](https://www.howtoforge.com/how-to-benchmark-your-system-cpu-file-io-mysql-with-sysbench) | |
 sysdig | system exploration/troubleshooting | :heavy_check_mark: | | |
 sysstat | system stats/benchmarking | :heavy_check_mark: | | *sar* as binary log reader |
 system-config-lvm | LVM partitioning GUI | :heavy_check_mark: | | |
@@ -912,7 +914,7 @@ wpscan | Wordpress scanner | :heavy_multiplication_x: | | |
 wtop | Apache top | :heavy_multiplication_x: | [wtop](https://github.com/ClockworkNet/wtop) | |
 x264 | video encoder | :heavy_check_mark: | | |
 x265 | video compressor | :heavy_multiplication_x: | [x265](http://x265.org) | |
-x2go | remote GUI connection | :heavy_multiplication_x: | [X2Go](http://wiki.x2go.org/doku.php)| with SSH |
+x2go | remote GUI connection | :heavy_multiplication_x: | [X2Go](http://wiki.x2go.org/doku.php) | with SSH |
 xa65 | 6502 CPU cross-assembler | :heavy_check_mark: | [xa65](http://www.floodgap.com/retrotech/xa/) | |
 xaos | fractals | :heavy_check_mark: | | |
 xauth | X authentication - needed for remote X GUI | :heavy_check_mark: | | |
