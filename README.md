@@ -396,7 +396,7 @@ indicator-cpufreq | change CPU frequency | :heavy_check_mark: | | |
 infernal-twin | auto wireless hacking tool | :heavy_multiplication_x: | [infernal-twin](https://github.com/entropy1337/infernal-twin) | |
 inguma | pentest framework | :heavy_multiplication_x: | | |
 inkscape | vector imager | :heavy_check_mark: | | |
-innotop | *MySQL* InnoDB monitor | :heavy_check_mark: | [innotop](https://github.com/innotop/innotop) | and in CentOS repo |
+innotop | *MySQL* InnoDB monitor | :heavy_multiplication_x: | [innotop](https://github.com/innotop/innotop) | exists in CentOS repo |
 inotify | monitor filesystem events | :heavy_check_mark: | | good for Samba folders |
 instarecon | auto digital reconnaissance | :heavy_multiplication_x: | [instarecon](https://github.com/vergl4s/instarecon) | high level reconn |
 inxi | system info | :heavy_multiplication_x: | | in CentOS repo |
