@@ -782,6 +782,7 @@ sshfs | mount remote filesystem | :heavy_check_mark: | | GNOME already does this
 sshpass | send password to SCP etc from script | :heavy_check_mark: | | |
 sshtalk | SSH chat server | :heavy_multiplication_x: | | |
 sshuttle | VPN | :heavy_check_mark: | [sshuttle](https://github.com/apenwarr/sshuttle) | |
+stacer | GUI system optimiser | :heavy_multiplication_x: | [Stacer](https://github.com/oguzhaninan/Stacer) | |
 standardnotes | notes app | :heavy_multiplication_x: | [standardnotes](https://github.com/standardnotes) | |
 statsprocessor | word generator | :heavy_multiplication_x: | | |
 strace | system call tracer | :heavy_check_mark: | | |
