@@ -34,7 +34,7 @@ ansifilter | remove control codes | :heavy_multiplication_x: | [Ansifilter](http
 antimony | CAD modeller | :heavy_multiplication_x: | [Antimony](http://www.mattkeeter.com/projects/antimony/) | |
 antiword | Word files converted to text/PS/PDF | :heavy_check_mark: | | |
 anydesk | TeamViewer-like remote desktop | :heavy_multiplication_x: | [AnyDesk](https://anydesk.com/remote-desktop) | |
-apachetop | *top* for Apache | :heavy_check_mark: | | use `apt` |
+apachetop | `top` for Apache | :heavy_check_mark: | | use `apt` |
 apktool | read binary XML | :heavy_multiplication_x: | | |
 aqemu | *Qemu* + KVM GUI | :heavy_check_mark: | | |
 ardour | audio editor | :heavy_check_mark: | | |
@@ -106,7 +106,7 @@ checkbashisms | | :heavy_check_mark: | | in *devscripts* |
 checkinstall | installation tracker | :heavy_check_mark: | | source > package > install with package manager |
 checksecurity | basic security check | :heavy_check_mark: | | |
 chaosreader | trace network sessions, export to HTML | :heavy_check_mark: | | |
-cherrytree | notes organiser with 7zip encryption | :heavy_check_mark: | [CentOS version](http://rpm.pbone.net/index.php3/stat/4/idpl/26487133/dir/redhat_el_6/com/cherrytree) | |
+cherrytree | notes organiser with *7-Zip* encryption | :heavy_check_mark: | [CentOS version](http://rpm.pbone.net/index.php3/stat/4/idpl/26487133/dir/redhat_el_6/com/cherrytree) | |
 chkrootkit | rootkit detector | :heavy_check_mark: | | |
 chntpw | change Windows SAM password | :heavy_check_mark: | | |
 cinelerra | non-linear video editor | :heavy_check_mark: | | |
