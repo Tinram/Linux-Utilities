@@ -321,6 +321,7 @@ gnofract | fractal generator | :heavy_multiplication_x: | | .deb SourceForge pac
 gnome-battery-bench | | :heavy_multiplication_x: | [GNOME Battery Bench](https://github.com/GNOME/gnome-battery-bench) | |
 gnome-bluetooth | GNOME Bluetooth tools | :heavy_check_mark: | | |
 gnome-builder | GNOME app builder | :heavy_multiplication_x: | [Gnome Builder](https://github.com/chergert/gnome-builder) | |
+gnome-disk-utility | manage disks/media | :heavy_check_mark: | | |
 gnome-network-admin | GUI for [whois](#whois)/ping | :heavy_check_mark: | | |
 gnome-rdp | remote desktop | :heavy_check_mark: | | |
 gnome-system-monitor | GNOME monitor | :heavy_check_mark: | | |
@@ -516,7 +517,7 @@ mypaint | painting program | :heavy_check_mark: | | |
 mysql | MySQL database | :heavy_check_mark: | | <a id="mysql"></a> |
 mysql-utilities | [MySQL](#mysql) | :heavy_check_mark: | | |
 mysql-workbench | [MySQL](#mysql) | :heavy_check_mark: | | |
-mysqltuner | mysqld settings analyser | :heavy_check_mark: | | |
+mysqltuner | mysqld settings analyser | :heavy_check_mark: | [mysqltuner](https://raw.githubusercontent.com/major/MySQLTuner-perl/master/mysqltuner.pl) | |
 mytop | [MySQL](#mysql) monitor | :heavy_check_mark: | | |
 mz | versatile packet/network traffic generator | :heavy_check_mark: | | |
 nagios-nrpe-server | Nagios component for remote server | :heavy_check_mark: | [Nagios](https://www.nagios.org/) | <a id="nagios"></a> |
@@ -751,7 +752,7 @@ skype-ghetto | open source alternative | :heavy_multiplication_x: | [ghetto-skyp
 slack | multi-server config manager | :heavy_check_mark: | | uses existing tools |
 slowhttptest | DDoS simulator | :heavy_check_mark: | | |
 slurm | bandwidth monitor | :heavy_check_mark: | | |
-smartmontools | monitor/control storage that supports SMART | :heavy_check_mark: | | |
+smartmontools | monitor/control storage that supports SMART | :heavy_check_mark: | | contains `smartctl` |
 smbclient | Samba client | :heavy_check_mark: | | |
 smbmap | SMB network mapper | :heavy_multiplication_x: | [smbmap](https://github.com/ShawnDEvans/smbmap) | |
 smemstat | memory monitoring tool | :heavy_check_mark: | | Debian |
