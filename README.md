@@ -163,6 +163,7 @@ darktable | RAW images | :heavy_check_mark: | [Darktable](http://www.darktable.o
 darling | Mac terminal Wine | :heavy_multiplication_x: | [Darling](http://darlinghq.org/) | |
 datacleaner | database scanner | :heavy_multiplication_x: | | |
 dateutils | terminal date/time utilities | :heavy_multiplication_x: | [Dateutils](http://www.fresse.org/dateutils/) | |
+davfs2 | mount WebDAV resource | :heavy_check_mark: | | |
 dban | disk destroyer | :heavy_multiplication_x: | [DBAN](https://dban.org/) | |
 dconf-tools | power management config | :heavy_check_mark: | | |
 dcraw | terminal RAW converter | :heavy_check_mark: | | |
