@@ -59,6 +59,7 @@ avahi-daemon | discover hosts | :heavy_check_mark: | | name instead of IP |
 avidemux | video editor/converter | :heavy_multiplication_x: | | for quick edits to single video clip |
 awffull | weblog analyser | :heavy_check_mark: | | localhost-based |
 axel | terminal download accelerator | :heavy_check_mark: | | |
+azpainter | image editor | :heavy_multiplication_x: | [AzPainter](https://osdn.net/projects/azpainter/releases/67130) | 16-bit colours |
 babeltrace | trace conversion | :heavy_check_mark: | | |
 babe-qt | tiny Qt music player | :heavy_multiplication_x: | [babe-qt](https://github.com/milohr/babe-qt) | |
 backerupper | tar.gz backups | :heavy_multiplication_x: | [Backerupper](https://sourceforge.net/projects/backerupper/) | allows file exclusion | |
@@ -350,7 +351,7 @@ graudit | grep rough source code audit | :heavy_multiplication_x: | [graudit](ht
 graylog | manage network of PCs logfiles in 1 place | :heavy_multiplication_x: | [Graylog](https://www.graylog.org/) | |
 grdesktop | GUI for rdesktop | :heavy_check_mark: | | |
 grive2 | GDrive syncer | :heavy_multiplication_x: | [Grive2](https://github.com/vitalif/grive2/) | |
-grsynch | GUI for rsynch | :heavy_check_mark: | | |
+grsynch | GUI for rsynch | :heavy_check_mark: | [Grsynch](https://sourceforge.net/projects/grsync/) | |
 grub-customizer | GRUB GUI editor | :heavy_multiplication_x: | [GRUB customizer](https://launchpad.net/grub-customizer) | |
 gscan2pdf | PDFs from scans | :heavy_check_mark: | | |
 gsettings | GNOME database changer | :heavy_check_mark: | | |
@@ -443,6 +444,7 @@ kolormanager | X colour calibration | :heavy_multiplication_x: | [KolorManager](
 komodoedit | code editor | :heavy_multiplication_x: | | |
 krita | image editor | :heavy_check_mark: | [Krita](krita.org) | hand-drawn focus |
 krop | PDF cropper/editor | :heavy_multiplication_x: | [Krop](http://arminstraub.com/software/krop) | |
+ksnip | snipping tool | :heavy_multiplication_x: | [ksnip](https://github.com/DamirPorobic/ksnip) | |
 lamaperia | printable maps from OpenStreetMap | :heavy_multiplication_x: | [Lamaperia](https://github.com/federicomenaquintero/lamaperia) | |
 lame | MP3 encoder | :heavy_check_mark: | | |
 lazagne | credentials recovery | :heavy_multiplication_x: | [LaZagne](https://github.com/AlessandroZ/LaZagne) | Windows version is identified as a Trojan |
