@@ -758,7 +758,8 @@ slurm | bandwidth monitor | :heavy_check_mark: | | |
 smartmontools | monitor/control storage that supports SMART | :heavy_check_mark: | | contains `smartctl` |
 smbclient | Samba client | :heavy_check_mark: | | |
 smbmap | SMB network mapper | :heavy_multiplication_x: | [smbmap](https://github.com/ShawnDEvans/smbmap) | |
-smemstat | memory monitoring tool | :heavy_check_mark: | | Debian |
+smem | memory reporting tool | :heavy_check_mark: | | |
+smemstat | memory monitoring tool | :heavy_check_mark: | | |
 smplayer | video player | :heavy_check_mark: | | GPU acceleration |
 snapper | BTRFS filesystem snapshots | :heavy_check_mark: | | |
 snort | IDS | :heavy_check_mark: | | |
