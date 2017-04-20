@@ -64,6 +64,7 @@ babeltrace | trace conversion | :heavy_check_mark: | | |
 babe-qt | tiny Qt music player | :heavy_multiplication_x: | [babe-qt](https://github.com/milohr/babe-qt) | |
 backerupper | tar.gz backups | :heavy_multiplication_x: | [Backerupper](https://sourceforge.net/projects/backerupper/) | allows file exclusion | |
 bacula | backup | :heavy_check_mark: | | |
+bandwidthd | track network usage | :heavy_check_mark: | | HTML/image output|
 bashate | Bash script linter | :heavy_check_mark: | | |
 beast | music synthesis | :heavy_check_mark: | | |
 bfbtester | exe brute-force tester | :heavy_check_mark: | | |
@@ -763,6 +764,7 @@ smemstat | memory monitoring tool | :heavy_check_mark: | | |
 smplayer | video player | :heavy_check_mark: | | GPU acceleration |
 snapper | BTRFS filesystem snapshots | :heavy_check_mark: | | |
 snort | IDS | :heavy_check_mark: | | |
+sntop | poll servers | :heavy_check_mark: | | |
 socat | relay for bidirectional data transfer | :heavy_check_mark: | | bench etc |
 softethervpn | VPN | :heavy_multiplication_x: | | |
 sox | terminal audio file manipulator | :heavy_check_mark: | | |
@@ -843,6 +845,7 @@ tor | anonymising overlay | :heavy_check_mark: | | get source, **not** repo vers
 torcs | racing car simulator | :heavy_check_mark: | [torcs](https://sourceforge.net/projects/torcs/) | |
 torsocks | use SOCKS-friendly apps with [Tor](#tor) | :heavy_check_mark: | | e.g. SSH |
 traceroute | trace packets | :heavy_check_mark: | | <a id="traceroute"></a> |
+trafshow | show network traffic | :heavy_check_mark: | | |
 transmageddon | media file converter | :heavy_check_mark: | | |
 trash-cli | terminal trash bin control | :heavy_check_mark: | | trash-empty, trash-list |
 tree | terminal directory tree lister | :heavy_check_mark: | | |
