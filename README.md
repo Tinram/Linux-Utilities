@@ -752,7 +752,7 @@ sk1 | vector graphics editor | :heavy_multiplication_x: | [sK1](http://sk1projec
 skipfish | web app reconnaissance tool | :heavy_check_mark: | | |
 skrooge | money accounting | :heavy_check_mark: | | |
 skype | | :heavy_check_mark: | | <a id="skype"></a> |
-skype-ghetto | open source alternative | :heavy_multiplication_x: | [ghetto-skype](https://github.com/stanfieldr/ghetto-skype) | |
+skype-ghetto | | :heavy_multiplication_x: | [ghetto-skype](https://github.com/stanfieldr/ghetto-skype) | Electron-wrapped web Skype |
 slack | multi-server config manager | :heavy_check_mark: | | uses existing tools |
 slowhttptest | DDoS simulator | :heavy_check_mark: | | |
 slurm | bandwidth monitor | :heavy_check_mark: | | |
