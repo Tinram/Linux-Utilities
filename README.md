@@ -644,7 +644,7 @@ privoxy | SOCKS requests to HTTP requests | :heavy_check_mark: | | block UDP lea
 procenv | show process environment | :heavy_check_mark: | [procenv](https://github.com/jamesodhunt/procenv) | |
 processing | programming language | :heavy_multiplication_x: | | |
 procinfo | reporter of /proc and /sys | :heavy_check_mark: | | also contains `lsdev` |
-profile-sync-daemon | move browser profiles to RAM | :heavy_multiplication_x: | [profile-sync-daemon](https://github.com/graysky2/profile-sync-daemon) | Systemd |
+profile-sync-daemon | move browser profiles to RAM | :heavy_multiplication_x: | [profile-sync-daemon](https://github.com/graysky2/profile-sync-daemon) | systemd |
 prometheus.io | [Nagios](#nagios) replacement for microservices | :heavy_multiplication_x: | [Prometheus ](https://github.com/prometheus) | |
 proxychains | redirect connections through proxy servers | :heavy_check_mark: | | |
 psad | port scan detector | :heavy_check_mark: | | from iptables |
@@ -812,9 +812,9 @@ sysdig | system exploration/troubleshooting | :heavy_check_mark: | | |
 sysstat | system stats/benchmarking | :heavy_check_mark: | | `sar` is binary log reader |
 system-config-lvm | LVM partitioning GUI | :heavy_check_mark: | | |
 system-config-samba | Samba GUI | :heavy_check_mark: | | |
-systemd-analyze | Systemd analyser | :heavy_check_mark: | | |
-systemd-ui | Systemd GUI | :heavy_check_mark: | | |
-systemdgenie | Systemd utility | :heavy_multiplication_x: | [systemdgenie](https://cgit.kde.org/systemdgenie.git) | |
+systemd-analyze | systemd analyser | :heavy_multiplication_x: | | |
+systemd-ui | systemd GUI | :heavy_check_mark: | | systemadm |
+systemdgenie | systemd utility | :heavy_multiplication_x: | [systemdgenie](https://cgit.kde.org/systemdgenie.git) | |
 systemtap | kernel instrumentation | :heavy_check_mark: | | <a id="systemtap"></a> |
 sysv-rc-conf | SysV runlevel config | :heavy_check_mark: | | use `apt` <a id="sysv-rc-conf"></a> |
 taskwarrior | terminal ToDo list | :heavy_multiplication_x: | [Taskwarrior](https://taskwarrior.org/) | |
