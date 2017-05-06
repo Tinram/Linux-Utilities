@@ -517,7 +517,7 @@ mtr-tiny | ping and [traceroute](#traceroute) combined | :heavy_check_mark: | | 
 mundus | home file cleaner | :heavy_multiplication_x: | | |
 mupen64plus | N64 console emulator | :heavy_check_mark: | | |
 musescore | music score editor | :heavy_check_mark: | | |
-mypaint | painting program | :heavy_check_mark: | | |
+mypaint | tablet-supporting paint program | :heavy_check_mark: | | |
 mysql | MySQL database | :heavy_check_mark: | | <a id="mysql"></a> |
 mysql-utilities | [MySQL](#mysql) | :heavy_check_mark: | | |
 mysql-workbench | [MySQL](#mysql) | :heavy_check_mark: | | |
@@ -560,7 +560,7 @@ nmon | network/CPU/disk performance | :heavy_check_mark: | | |
 notepas | code editor | :heavy_multiplication_x: | | |
 notes-up | editor supporting Markdown | :heavy_multiplication_x: | [Notes-up](https://github.com/Philip-Scott/Notes-up) | PDF export |
 npm | Node.js package manager | :heavy_check_mark: | | |
-ntfs-3g | NTFS driver | :heavy_check_mark: | | r/w |
+ntfs-3g | NTFS driver | :heavy_check_mark: | [NTFS-3G](http://www.tuxera.com/community/open-source-ntfs-3g/) | r/w |
 ntfsfix | fix NTFS | :heavy_multiplication_x: | | |
 ntfsundelete | recover NTFS files | :heavy_check_mark: | | |
 ntop | network usage in browser | :heavy_check_mark: | | |
