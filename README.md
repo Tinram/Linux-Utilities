@@ -5,7 +5,7 @@
 
 Simple alphabetical list (*Ctrl+F* everything) of 900+ Linux programs and packages - somewhat biased to my work, interests, and anticipated needs. Compiled over a number of years from Linux magazines and web searches.
 
-###### *List is less than 1/70th of the packages in the main Ubuntu repo.*
+###### *List is less than 1/85th of the packages in the main Ubuntu repo.*
 
 A tick in the repo column means the package should exist in the main Ubuntu repo. Nevertheless, some packages can be hidden away - these are marked with *'use apt'* - use `apt search <pkg>` to search and `sudo apt-get install <pkg>` to install.
 
@@ -111,7 +111,7 @@ chaosreader | trace network sessions, export to HTML | :heavy_check_mark: | | |
 cherrytree | notes organiser with [7-Zip](#7zip) encryption | :heavy_check_mark: | [CentOS version](http://rpm.pbone.net/index.php3/stat/4/idpl/26487133/dir/redhat_el_6/com/cherrytree) | |
 chkrootkit | rootkit detector | :heavy_check_mark: | | |
 chntpw | change Windows SAM password | :heavy_check_mark: | | |
-cinelerra | non-linear video editor | :heavy_check_mark: | | |
+cinelerra | non-linear video editor | :heavy_multiplication_x: | | |
 ckport | exe function/call checker | :heavy_check_mark: | | |
 claws-mail | GTK mail client | :heavy_check_mark: | | |
 clementine | music player/streamer | :heavy_check_mark: | | |
@@ -412,7 +412,7 @@ ipgrab | [tcpdump](#tcpdump)-like, detailed header info | :heavy_check_mark: | |
 iproute2 | IP tools | :heavy_check_mark: | | |
 ipsec-tools | IPsec utilities | :heavy_check_mark: | | |
 ipset | tool for kernel IP sets | :heavy_check_mark: | | |
-iptables-persistent | iptables setup on boot | :heavy_check_mark: | | `sudo service iptables-persistent start` |
+iptables-persistent | iptables set-up on boot | :heavy_check_mark: | | `sudo service iptables-persistent start` |
 iptraf | IP LAN monitor | :heavy_check_mark: | | |
 ipython | enhanced Python shell and env | :heavy_check_mark: | | |
 iridium | Chromium-based browser | :heavy_multiplication_x: | [Iridium](https://iridiumbrowser.de) | enhanced privacy over Chrome |
@@ -464,7 +464,7 @@ linux-crashdump | kernel crashdump set-up | :heavy_check_mark: | | |
 linux-firmware | drivers | :heavy_check_mark: | | apparently includes wireless drivers |
 linux-malware-detect | Linux malware detector | :heavy_multiplication_x: | [linux-malware-detect](https://github.com/rfxn/linux-malware-detect) | |
 linuxrespin | distro builder | :heavy_multiplication_x: | [Linux Respin](http://www.linuxrespin.org/) | |
-lives | video editor | :heavy_check_mark: | | good for real-time editing |
+lives | video editor | :heavy_check_mark: | | requires x264, gpac for decent output |
 lm-sensors | for `sensors` | :heavy_check_mark: | | |
 lmms | audio editor | :heavy_check_mark: | | |
 ln | vector image generator | :heavy_multiplication_x: | [ln](https://github.com/fogleman/ln) | |
@@ -570,12 +570,12 @@ obs | video recording/livestreaming | :heavy_multiplication_x: | [OBS](https://o
 ocrfeeder | OCR text scanner | :heavy_check_mark: | | |
 octave | numerical computation library and GUI | :heavy_check_mark: | | Matlab-like |
 oletoy | file format analyser | :heavy_multiplication_x: | [re-lab](https://github.com/renyxa/re-lab) | |
-omd | Nagios fork | :heavy_multiplication_x: | [OMD](http://omdistro.org/) | easier setup than [Nagios](#nagios) |
+omd | Nagios fork | :heavy_multiplication_x: | [OMD](http://omdistro.org/) | easier set-up than [Nagios](#nagios) |
 onedrive-d | OneDrive sync | :heavy_multiplication_x: | [onedrive-d](https://github.com/xybu92/onedrive-d) | |
 onetime | one-time pad | :heavy_check_mark: | | |
 oolite | Elite game | :heavy_check_mark: | [Oolite](http://oolite.org/) | |
 openarena | Quake-like FPS | :heavy_check_mark: | | |
-openshot | video editor | :heavy_check_mark: | | good all rounder |
+openshot | video editor | :heavy_check_mark: | | good all rounder, requires Frei0r-plugins |
 openssh-server | OpenSSH | :heavy_check_mark: | | |
 openvpn | VPN | :heavy_check_mark: | | |
 opera | browser | :heavy_check_mark: | | use `apt` |
@@ -960,7 +960,7 @@ zabbix | network monitoring package | :heavy_check_mark: | | |
 zap | zed attack proxy | :heavy_multiplication_x: | | web app vulnerabilities |
 zeal | documentation browser | :heavy_multiplication_x: | [Zeal](https://github.com/zealdocs/zeal) | |
 zenmap | [NMap](#nmap) GUI | :heavy_check_mark: | | |
-zentyal | server GUI setup + MS Exchange replacement | :heavy_check_mark: | | |
+zentyal | server GUI set-up + MS Exchange replacement | :heavy_check_mark: | | |
 zerotier | easy VPN | :heavy_multiplication_x: | [ZeroTier](http://zerotier.com) | |
 zim | 'desktop wiki' notepad | :heavy_check_mark: | | |
 zmap | large network scanner | :heavy_check_mark: | | no actual connects like [NMap](#nmap), open ports |
