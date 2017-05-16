@@ -624,6 +624,7 @@ pigz | multi-core GZIP | :heavy_check_mark: | | |
 pinta | Paint.NET clone | :heavy_check_mark: | | |
 piper | mouse config | :heavy_multiplication_x: | [piper](https://github.com/libratbag/piper) | |
 pitivi | video editor | :heavy_check_mark: | | suitable for: clips to combine, add audio track, filter |
+pktstat | resolve packet details / connections | :heavy_check_mark: | | |
 playonlinux | MS games through Wine | :heavy_check_mark: | | |
 playshell | terminal media player | :heavy_multiplication_x: | [playshell](https://sourceforge.net/projects/playshell/) | |
 plecast | Wordpress plugin analyser | :heavy_multiplication_x: | | |
