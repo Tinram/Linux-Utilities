@@ -472,6 +472,7 @@ lnav | logfile reader with colour | :heavy_check_mark: | [lnav](http://lnav.org/
 logkeys | keylogger | :heavy_check_mark: | | ! |
 logwatch | log analysis emailer | :heavy_check_mark: | | |
 lshw-gtk | lshw hardware GUI | :heavy_check_mark: | | |
+lsscsi | list SCSI devices | :heavy_check_mark: | | |
 lttng | program tracing | :heavy_check_mark: | | almost as powerful as [SystemTap](#systemtap) |
 luckybackup | rsync-based GUI backup | :heavy_check_mark: | | |
 lynis | security auditor | :heavy_check_mark: | | |
