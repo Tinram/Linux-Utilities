@@ -439,7 +439,7 @@ keepassx | password vault | :heavy_check_mark: | | <a id="keepassx"></a> |
 keepassxc | password vault | :heavy_multiplication_x: | [KeePassXC](https://keepassxc.org) | revised [KeePassX](#keepassx) |
 kerkythea | renderer | :heavy_multiplication_x: | [Kerkythea](http://www.kerkythea.net/cms/) | |
 kexi | database GUI ([MySQL](#mysql)/[SQLite](#sqlite3)/[PostgreSQL](#postgresql)) | :heavy_multiplication_x: | [Kexi](http://kexi-project.org/) | |
-kismet | Wireless 802.11b sniffer/monitor | :heavy_check_mark: | | |
+kismet | wireless sniffer/monitor | :heavy_check_mark: | | |
 knotter | Celtic knot app | :heavy_multiplication_x: | [Knotter](https://sourceforge.net/projects/knotter/) [info](http://knotter.mattbas.org/Knotter) | |
 kolormanager | X colour calibration | :heavy_multiplication_x: | [KolorManager](http://oyranos.org/kolormanager) | |
 komodoedit | code editor | :heavy_multiplication_x: | | |
@@ -756,7 +756,7 @@ skrooge | money accounting | :heavy_check_mark: | | |
 skype | | :heavy_check_mark: | | <a id="skype"></a> |
 skype-ghetto | | :heavy_multiplication_x: | [ghetto-skype](https://github.com/stanfieldr/ghetto-skype) | Electron-wrapped web Skype |
 slack | multi-server config manager | :heavy_check_mark: | | uses existing tools |
-slowhttptest | DDoS simulator | :heavy_check_mark: | | |
+slowhttptest | server stress tool | :heavy_check_mark: | | |
 slurm | bandwidth monitor | :heavy_check_mark: | | |
 smartmontools | monitor/control storage that supports SMART | :heavy_check_mark: | | contains `smartctl` |
 smbclient | Samba client | :heavy_check_mark: | | |
