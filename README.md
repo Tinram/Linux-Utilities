@@ -25,7 +25,7 @@ adb | Android tools | :heavy_check_mark: | | |
 afick | file integrity notifier | :heavy_multiplication_x: | [AFICK](https://sourceforge.net/projects/afick/) | |
 afl | fuzzer | :heavy_check_mark: | [AFL](http://lcamtuf.coredump.cx/afl/) | |
 aide | host-based IDS | :heavy_check_mark: | | |
-aircrack-ng | wireless WEP/WPA cracker | :heavy_check_mark: | | <a id="aircrack"></a> |
+aircrack-ng | wireless cracker | :heavy_check_mark: | [aircrack-ng](https://github.com/aircrack-ng/aircrack-ng) | <a id="aircrack"></a> |
 alacritty | GPU-accelerated terminal emulator | :heavy_multiplication_x: | [alacritty](https://github.com/jwilm/alacritty) | |
 alien | .rpm to .deb converter | :heavy_check_mark: | | |
 anjuta | C/C++ editor | :heavy_check_mark: | | |
@@ -67,6 +67,7 @@ bacula | backup | :heavy_check_mark: | | |
 bandwidthd | track network usage | :heavy_check_mark: | | HTML/image output|
 bashate | Bash script linter | :heavy_check_mark: | | |
 beast | music synthesis | :heavy_check_mark: | | |
+bed | daemon vulnerability checker | :heavy_multiplication_x: | [bed](https://github.com/crunchsec/bed/) | |
 bfbtester | exe brute-force tester | :heavy_check_mark: | | |
 billreminder | bill reminders | :heavy_multiplication_x: | [Bill Reminder](http://billreminder.gnulinuxbrasil.org) | |
 binary-analyser | analyse binaries | :heavy_multiplication_x: | [Binary Analyser](https://bitbucket.org/mihaila/bindead/wiki/Home) | |
@@ -249,7 +250,7 @@ filefrag | file defragger | :heavy_multiplication_x: | | |
 fileverifier | verify files | :heavy_multiplication_x: | | |
 filezilla | FTP/SFTP | :heavy_check_mark: | | |
 filezillasecure | Filezilla fork: multithreadubg | :heavy_multiplication_x: | [FileZillaSecure](http://www.filezillasecure.com/) | no plaintext passwords |
-findmyhash | queries multiple websites for hash | :heavy_multiplication_x: | | |
+findmyhash | queries multiple websites for hash | :heavy_multiplication_x: | [findmyhash](https://github.com/Talanor/findmyhash) | |
 firejail | sandbox apps | :heavy_check_mark: | | [firejail](https://github.com/netblue30/firejail) |
 fishsynch | sync files | :heavy_multiplication_x: | [Fish Synch](https://sourceforge.net/projects/fishsync/) | |
 fiziko | pen-and-ink drawings from code | :heavy_multiplication_x: | [fiziko](https://github.com/jemmybutton/fiziko) | |
@@ -368,7 +369,8 @@ gvfs-backends | SMB browsing | :heavy_check_mark: | | |
 haguichi | GUI for VPN app | :heavy_multiplication_x: | [Haguichi](https://www.haguichi.net/) | |
 handbrake | DVD ripper/video transcoder | :heavy_check_mark: | [HandBrake](https://handbrake.fr) | |
 hardinfo | hardware info | :heavy_check_mark: | | |
-harvester | info harvester | :heavy_multiplication_x: | | Kali tools |
+harvester | info harvester | :heavy_multiplication_x: | [theHarvester](https://github.com/laramies/theHarvester) | |
+HAI | hash algorithm identifier| :heavy_multiplication_x: | [Hash-Algorithm-Identifier](https://github.com/AnimeshShaw/Hash-Algorithm-Identifier) | |
 hash-identifier | identify hash | :heavy_multiplication_x: | [hash-identifier](http://tools.kali.org/password-attacks/hash-identifier) | |
 haveged | random number generator | :heavy_check_mark: | | |
 hdparm | tune HDD parameters | :heavy_check_mark: | | |
@@ -781,7 +783,7 @@ sqlite3 | SQLite | :heavy_check_mark: | | <a id="sqlite3"></a> |
 sqlitebrowser | [SQLite](#sqlite3) GUI | :heavy_check_mark: | | simpler than [sqliteman](#sqliteman) |
 sqliteman | [SQLite](#sqlite3) GUI | :heavy_check_mark: | | [SQLiteStudio](#sqlitestudio) is better for unicode data import <a id="sqliteman"></a> |
 sqlitestudio | [SQLite](#sqlite3) GUI | :heavy_multiplication_x: | [SQLiteStudio](https://sqlitestudio.pl/index.rvt) | <a id="sqlitestudio"><a> |
-sqlmap | SQL injection tool | :heavy_check_mark: | [SQLMap](http://sqlmap.org/) | |
+sqlmap | SQL injection tool | :heavy_check_mark: | [SQLMap](http://sqlmap.org/) [sqlmap repo](https://github.com/sqlmapproject/sqlmap) | |
 sqlninja | MS SQL Server injection | :heavy_multiplication_x: | [sqlninja](https://sourceforge.net/projects/sqlninja) | |
 sqlsus | [MySQL](#mysql) attacker | :heavy_multiplication_x: | | |
 srm | secure file deletion | :heavy_multiplication_x: | [SRM](https://sourceforge.net/projects/srm/) | slow, punishing on SSDs |
@@ -922,7 +924,7 @@ wireshark | GUI network traffic analyser | :heavy_check_mark: | | <a id="wiresha
 wkhtmltopdf | HTML to PDF | :heavy_check_mark: | | WebKit-based |
 wordgrinder | terminal wordprocessor | :heavy_multiplication_x: | [WordGrinder](http://cowlark.com/wordgrinder/) | |
 workrave | RSI timer | :heavy_check_mark: | | |
-wpscan | Wordpress scanner | :heavy_multiplication_x: | | |
+wpscan | Wordpress scanner | :heavy_multiplication_x: | [wpscan](https://github.com/wpscanteam/wpscan) | |
 wtop | Apache top | :heavy_multiplication_x: | [wtop](https://github.com/ClockworkNet/wtop) | |
 x264 | video encoder | :heavy_check_mark: | | |
 x265 | video compressor | :heavy_multiplication_x: | [x265](http://x265.org) | |
