@@ -72,7 +72,7 @@ bfbtester | exe brute-force tester | :heavy_check_mark: | | |
 billreminder | bill reminders | :heavy_multiplication_x: | [Bill Reminder](http://billreminder.gnulinuxbrasil.org) | |
 binary-analyser | analyse binaries | :heavy_multiplication_x: | [Binary Analyser](https://bitbucket.org/mihaila/bindead/wiki/Home) | |
 bing-ip2hosts | enumerate hostnames via Bing | :heavy_check_mark: | | |
-binstats | stats tool for binaries | :heavy_check_mark: | | |
+binstats | binary stats | :heavy_check_mark: | | overview of installed binaries |
 binwalk | binary file searcher | :heavy_check_mark: | [binwalk](https://github.com/devttys0/binwalk) | sub-files + code |
 birdfont | font editor | :heavy_multiplication_x: | [BirdFont](http://birdfont.org) | |
 bleachbit | file cleaner | :heavy_check_mark: | | |
@@ -102,7 +102,7 @@ cccc | C/C++ code analyser | :heavy_check_mark: | | |
 ccextractor | subtitle extractor | :heavy_multiplication_x: | [CCExtractor](https://sourceforge.net/projects/ccextractor/) | |
 celestia | celestial simulator | :heavy_check_mark: | | |
 cellwriter | handwriting recogniser | :heavy_check_mark: | | |
-cflow | C code analyser | :heavy_check_mark: | | |
+cflow | C source control flow analyser | :heavy_check_mark: | | |
 cdparanoia | CD ripper | :heavy_check_mark: | | |
 ccrypt | AES recursive file encrypter | :heavy_check_mark: | | overwrites files, passphrases allegedly unsalted |
 checkbashisms | | :heavy_check_mark: | | in [devscripts](#devscripts) |
@@ -193,7 +193,6 @@ ding | GUI dictionary | :heavy_check_mark: | | |
 discourse | phpBB | :heavy_multiplication_x: | [Discourse](http://www.discourse.org/) | |
 discover | automate pen test tasks | :heavy_multiplication_x: | [discover](https://github.com/leebaird/discover) | |
 dispcalgui | GUI for [Argyll](#argyll) colour management | :heavy_check_mark: | | <a id="dispcalgui"></a> |
-distorm | x86 disassembler | :heavy_check_mark: | | not obvious how to use |
 dmitry | server host info | :heavy_check_mark: | | |
 dnstracer | trace DNS queries to source | :heavy_check_mark: | | |
 dnswalk | DNS debugger/nameserver lookup | :heavy_check_mark: | | |
@@ -320,7 +319,6 @@ glances | `top`-like app (sophisticated) | :heavy_multiplication_x: | [Glances](
 glchess | chess | :heavy_check_mark: | | uses Crafty engine; use `apt` |
 glogg | GUI logfile view/query | :heavy_check_mark: | [glogg](http://glogg.bonnefon.org/) | |
 gmysqlcc | GUI [MySQL](#mysql) client | :heavy_check_mark: | | |
-gnect | connect4 | :heavy_check_mark: | | |
 gnofract | fractal generator | :heavy_multiplication_x: | | .deb SourceForge package; good images |
 gnome-battery-bench | | :heavy_multiplication_x: | [GNOME Battery Bench](https://github.com/GNOME/gnome-battery-bench) | |
 gnome-bluetooth | GNOME Bluetooth tools | :heavy_check_mark: | | |
@@ -350,7 +348,7 @@ gpm | mouse interface/copy-paste on terminal | :heavy_check_mark: | | <a id="gpi
 grabber | web app scanner | :heavy_multiplication_x: | | |
 graphviz | graph tools | :heavy_check_mark: | | |
 graudit | grep rough source code audit | :heavy_multiplication_x: | [graudit](https://github.com/wireghoul/graudit/) | |
-graylog | manage network of PCs logfiles in 1 place | :heavy_multiplication_x: | [Graylog](https://www.graylog.org/) | |
+graylog | manage PCs logfiles in one place | :heavy_multiplication_x: | [Graylog](https://www.graylog.org/) | |
 grdesktop | GUI for rdesktop | :heavy_check_mark: | | |
 grive2 | GDrive syncer | :heavy_multiplication_x: | [Grive2](https://github.com/vitalif/grive2/) | |
 grsynch | GUI for rsynch | :heavy_check_mark: | [Grsynch](https://sourceforge.net/projects/grsync/) | |
@@ -490,7 +488,6 @@ markdown | Markdown to HTML | :heavy_check_mark: | | |
 masterpdfeditor | PDF editor | :heavy_multiplication_x: | [MasterPDFEditor](https://code-industry.net/get-masterpdfeditor/) | powerful, limited |
 mat | metadata anonymiser tool | :heavy_check_mark: | | use `apt`; `mat -d <file>` |
 maths | maths problem solver | :heavy_multiplication_x: | [maths](https://code.launchpad.net/~nasc-team) | ppa:nasc-team/daily |
-mdpress | Markdown viewer | :heavy_check_mark: | | |
 medusa | router/network brute-forcer | :heavy_check_mark: | | |
 meld | GUI diff | :heavy_check_mark: | | |
 mermaid | diagrams with Markdown derivative | :heavy_multiplication_x: | [Mermaid](https://github.com/knsv/mermaid) | |
@@ -566,7 +563,7 @@ npm | Node.js package manager | :heavy_check_mark: | | |
 ntfs-3g | NTFS driver | :heavy_check_mark: | [NTFS-3G](http://www.tuxera.com/community/open-source-ntfs-3g/) | r/w |
 ntfsfix | fix NTFS | :heavy_multiplication_x: | | |
 ntfsundelete | recover NTFS files | :heavy_check_mark: | | |
-ntop | network usage in browser | :heavy_check_mark: | | |
+ntop | top network users | :heavy_check_mark: | | |
 nutty | network utility | :heavy_multiplication_x: | [Nutty](https://launchpad.net/nutty) | ppa:bablu-boy/nutty.0.1 |
 obnam | incremental daily backups with SFTP/GPG support | :heavy_check_mark: | | |
 obs | video recording/livestreaming | :heavy_multiplication_x: | [OBS](https://obsproject.com/) | |
@@ -582,7 +579,7 @@ openshot | video editor | :heavy_check_mark: | | good all rounder, requires Frei
 openssh-server | OpenSSH | :heavy_check_mark: | | |
 openvpn | VPN | :heavy_check_mark: | | |
 opera | browser | :heavy_check_mark: | | use `apt` |
-oprofile | in-depth profiling | :heavy_check_mark: | | |
+oprofile | system profiler | :heavy_check_mark: | | |
 optipng | optimise PNGs | :heavy_check_mark: | | |
 orca | screenreader | :heavy_check_mark: | | |
 osync | rsync simplifier | :heavy_multiplication_x: | [osync](https://github.com/deajan/osync) | |
@@ -619,7 +616,7 @@ php5-mongo | PHP [MongoDB](#mongodb) driver | :heavy_check_mark: | | use `apt` |
 php5-mysqlnd | MySQLi driver | :heavy_check_mark: | | `get->result`; use `apt` |
 php-codesniffer | phpcs in terminal | :heavy_check_mark: | | |
 phplint | PHP linter | :heavy_multiplication_x: | | |
-phpunit | PHP unit test suite | :heavy_check_mark: | | |
+phpunit | PHP unit test suite | :heavy_check_mark: | | not Mr Bergmann's PHPUnit |
 phrasendrescher | SSH dictionary attacker | :heavy_multiplication_x: | | `pd ssh -d pass.txt -t <IP> -v`) |
 pic | graphics programming language | :heavy_multiplication_x: | [piC](http://www.kohala.com/start/troff/troff.html) | |
 picard | audio file manager | :heavy_check_mark: | | |
