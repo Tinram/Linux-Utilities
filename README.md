@@ -3,7 +3,7 @@
 
 #### Sources: Ubuntu repository, GitHub, SourceForge, vendor websites.
 
-Simple alphabetical list (*Ctrl+F* everything) of 900+ Linux programs and packages - somewhat biased to my work, interests, and anticipated needs. Compiled over a number of years from Linux magazines and web searches.
+Simple alphabetical list (*Ctrl+F* everything) of 900+ Linux programs and packages - somewhat biased to my work, interests, and anticipated needs. Compiled over a number of years from web searches, repo hunting, and Linux magazines.
 
 ###### *List is less than 1/85th of the packages in the main Ubuntu repo.*
 
@@ -377,7 +377,6 @@ helm | music synthesizer | :heavy_multiplication_x: | [Helm](http://tytel.org/he
 highlight | convert code to HTML/RTF | :heavy_check_mark: | | |
 hnwatch | terminal news feed | :heavy_multiplication_x: | | |
 hostmap | enumerate (v)hosts of IP | :heavy_multiplication_x: | [Hostmap](http://g33kinfo.com/info/hostmap-0-2-2-tar) | |
-ht | terminal hex view/disassemble | :heavy_check_mark: | | use `apt`, called `hte` |
 htop | hyper `top` | :heavy_check_mark: | | |
 httperf | HTTP benchmark | :heavy_check_mark: | | |
 http-logs-analyzer | HTTP logs analyser | :heavy_multiplication_x: | [http-logs-analyzer](https://github.com/flrnull/http-logs-analyzer) | |
@@ -914,7 +913,7 @@ whycanticonnect | connection analyser | :heavy_multiplication_x: | [Why Can't I 
 wicd | wireless manager | :heavy_check_mark: | | |
 wifite | wireless auditor/attacker | :heavy_check_mark: | | |
 wig | web app info gatherer | :heavy_multiplication_x: | [wig](https://github.com/jekyc/wig) | e.g CMS version |
-winff | GUI video/audio batch converter | :heavy_check_mark: | | uses [ffmpeg](#ffmpeg) |
+winff | GUI media converter using ffmpeg/avconv | :heavy_check_mark: | | uses [ffmpeg](#ffmpeg) |
 wings3d | 3D modeller | :heavy_check_mark: | | |
 wireguard | VPN | :heavy_multiplication_x: | [WireGuard](https://www.wireguard.io/) | |
 wireshark | GUI network traffic analyser | :heavy_check_mark: | | <a id="wireshark"></a> |
