@@ -345,6 +345,7 @@ gphoto2 | terminal digital camera processor | :heavy_check_mark: | | |
 gpgit | terminal GPG file encryption switches simplified | :heavy_multiplication_x: | [GPGit](https://github.com/Tinram/GPGit) | |
 gpick | screen colour pick/palette/inverter | :heavy_check_mark: | | |
 gpm | mouse interface/copy-paste on terminal | :heavy_check_mark: | | <a id="gpick"></a> |
+gqrx | Gui radio receiver | :heavy_multiplication_x: | [Gqrx](http://gqrx.dk/) | |
 grabber | web app scanner | :heavy_multiplication_x: | | |
 graphviz | graph tools | :heavy_check_mark: | | |
 graudit | grep rough source code audit | :heavy_multiplication_x: | [graudit](https://github.com/wireghoul/graudit/) | |
