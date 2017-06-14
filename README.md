@@ -3,7 +3,7 @@
 
 #### Sources: Ubuntu repository, GitHub, SourceForge, vendor websites.
 
-Simple alphabetical list (*Ctrl+F* everything) of 900+ Linux programs and packages - somewhat biased to my work, interests, and anticipated needs. Compiled over a number of years from web searches, repo hunting, and Linux magazines.
+Alphabetical list (*Ctrl+F* everything) of 900+ Linux programs and packages - somewhat biased to my work, interests, and anticipated needs. Compiled over a number of years from web searches, repo hunting, and Linux magazines.
 
 ###### *List is less than 1/85th of the packages in the main Ubuntu repo.*
 
@@ -76,6 +76,7 @@ binstats | binary stats | :heavy_check_mark: | | overview of installed binaries 
 binwalk | binary file searcher | :heavy_check_mark: | [binwalk](https://github.com/devttys0/binwalk) | sub-files + code |
 birdfont | font editor | :heavy_multiplication_x: | [BirdFont](http://birdfont.org) | |
 bleachbit | file cleaner | :heavy_check_mark: | | |
+bless | GUI hex editor | :heavy_check_mark: | | |
 bluelog | Bluetooth scanner | :heavy_multiplication_x: | | |
 blueman | Bluetooth GUI | :heavy_check_mark: | | |
 bluemon | de/activate programs on Bluetooth link quality | :heavy_check_mark: | | |
@@ -485,7 +486,7 @@ mandelbulber | 3D Mandelbrot | :heavy_check_mark: | | |
 mariadb-server | MariaDB | :heavy_check_mark: | | |
 mariadb-client | MariaDB | :heavy_check_mark: | | |
 markdown | Markdown to HTML | :heavy_check_mark: | | |
-masterpdfeditor | PDF editor | :heavy_multiplication_x: | [MasterPDFEditor](https://code-industry.net/get-masterpdfeditor/) | powerful, limited |
+masterpdfeditor | PDF editor | :heavy_multiplication_x: | [MasterPDFEditor](https://code-industry.net/get-masterpdfeditor/) | powerful, proprietary |
 mat | metadata anonymiser tool | :heavy_check_mark: | | use `apt`; `mat -d <file>` |
 maths | maths problem solver | :heavy_multiplication_x: | [maths](https://code.launchpad.net/~nasc-team) | ppa:nasc-team/daily |
 medusa | router/network brute-forcer | :heavy_check_mark: | | |
