@@ -152,6 +152,7 @@ cryptkeeper | GUI encfs for GNOME | :heavy_check_mark: | | |
 cryptote | encrypted tabbed notes | :heavy_multiplication_x: | [Cryptote](http://panthema.net/2009/cryptote/#downloads) | |
 cscope | C interactive checker | :heavy_check_mark: | | |
 ctags | C code indexing tool | :heavy_check_mark: | | |
+cuda-z | CUDA-enabled GPU info | :heavy_multiplication_x: | [CUDA-Z](http://cuda-z.sourceforge.net/) | |
 cups-pdf | print to PDF | :heavy_check_mark: | | |
 curl | terminal transfer data | :heavy_check_mark: | | |
 cutegram | IM | :heavy_multiplication_x: | [Cutegram](http://aseman.co/en/products/cutegram/) | |
@@ -265,7 +266,7 @@ fmap | web app vulnerabilities | :heavy_multiplication_x: | | |
 focuswriter | word processor | :heavy_check_mark: | | <a id="#focuswriter"></a> |
 fog | clone rollout system | :heavy_multiplication_x: | [FOG](https://sourceforge.net/projects/freeghost/files/FOG) | |
 fontforge | font editor | :heavy_multiplication_x: | [FontForge](http://fontforge.github.io/) | |
-foremost | recover files based on headers and footers | :heavy_check_mark: | | |
+foremost | recover/extract files | :heavy_check_mark: | | |
 fotoxx | photo editor | :heavy_check_mark: | | good at editing, poor interface |
 fping | ICMP to network hosts | :heavy_check_mark: | | |
 fracplanet | fractals | :heavy_check_mark: | | |
@@ -405,6 +406,7 @@ inkscape | vector imager | :heavy_check_mark: | | |
 innotop | [MySQL](#mysql) InnoDB monitor | :heavy_multiplication_x: | [innotop](https://github.com/innotop/innotop) [.deb](https://sourceforge.net/projects/innotop/) | exists in CentOS EPEL |
 inotify | monitor filesystem events | :heavy_check_mark: | | good for Samba folders |
 instarecon | auto digital reconnaissance | :heavy_multiplication_x: | [instarecon](https://github.com/vergl4s/instarecon) | high level reconn |
+intel-gpu-tools | intel_gpu_time, intel_gpu_top | :heavy_check_mark: | | |
 inxi | system info | :heavy_multiplication_x: | | in CentOS repo |
 ioping | disk I/O benchmarker | :heavy_check_mark: | | |
 iotop | I/O monitor | :heavy_check_mark: | | |
@@ -566,6 +568,7 @@ ntfsfix | fix NTFS | :heavy_multiplication_x: | | |
 ntfsundelete | recover NTFS files | :heavy_check_mark: | | |
 ntop | top network users | :heavy_check_mark: | | |
 nutty | network utility | :heavy_multiplication_x: | [Nutty](https://launchpad.net/nutty) | ppa:bablu-boy/nutty.0.1 |
+nvidia-smi  | NVIDIA GPU management CLI | :heavy_multiplication_x: | | |
 obnam | incremental daily backups with SFTP/GPG support | :heavy_check_mark: | | |
 obs | video recording/livestreaming | :heavy_multiplication_x: | [OBS](https://obsproject.com/) | |
 ocrfeeder | OCR text scanner | :heavy_check_mark: | | |
@@ -682,7 +685,8 @@ quetoo | Quake2 remake | :heavy_multiplication_x: | [quetoo](https://github.com/
 quiterss | RSS reader | :heavy_check_mark: | | uses WebKit |
 qupzilla | lightweight Chromium-based browser | :heavy_check_mark: | | |
 rabbitvcs | SVN GUI | :heavy_check_mark: | | |
-radamsa | fuzzer | :heavy_multiplication_x: | [radamsa](https://github.com/aoh/radamsa) | a swine to compile |
+radamsa | fuzzer | :heavy_multiplication_x: | [radamsa](https://github.com/aoh/radamsa) | a pig to compile |
+radeontop | Radeon GPU top | :heavy_check_mark: | | |
 rand | random character generator | :heavy_check_mark: | | |
 rapidsvn | SVN GUI | :heavy_check_mark: | | |
 rarcrack | RAR cracker | :heavy_multiplication_x: | [rarCrack](https://sourceforge.net/projects/rarcrack/) | |
