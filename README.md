@@ -261,7 +261,7 @@ flawfinder | C/C++ code checker | :heavy_check_mark: | | simpler than [splint](#
 flif | lossless image encoder | :heavy_multiplication_x: | [FLIF](https://github.com/FLIF-hub/FLIF) | |
 flightgear | flight simulator | :heavy_check_mark: | [flightgear](http://flightgear.com) | |
 flow | diagrams | :heavy_multiplication_x: | | |
-flowblade | video editor | :heavy_multiplication_x: | | |
+flowblade | video editor | :heavy_check_mark: | | |
 fmap | web app vulnerabilities | :heavy_multiplication_x: | | |
 focuswriter | word processor | :heavy_check_mark: | | <a id="#focuswriter"></a> |
 fog | clone rollout system | :heavy_multiplication_x: | [FOG](https://sourceforge.net/projects/freeghost/files/FOG) | |
@@ -270,6 +270,7 @@ foremost | recover/extract files | :heavy_check_mark: | | |
 fotoxx | photo editor | :heavy_check_mark: | | good at editing, poor interface |
 fping | ICMP to network hosts | :heavy_check_mark: | | |
 fracplanet | fractals | :heavy_check_mark: | | |
+fractalnow | fast fractal generator | :heavy_check_mark: | | |
 fraqtive | 3D Mandelbrot/Julia | :heavy_check_mark: | | |
 freebasic | BASIC compiler | :heavy_multiplication_x: | [FreeBASIC](http://freebasic.net/) | |
 freefilesynch | GUI folder compare and sync | :heavy_check_mark: | | |
