@@ -430,6 +430,7 @@ jedit | code editor | :heavy_check_mark: | |
 jitsi | encrypted IM/VOIP | :heavy_multiplication_x: | | Java-based |
 joomscan | Joomla scanner | :heavy_multiplication_x: | | |
 johnny | GUI for John | :heavy_multiplication_x: | [johnny](https://github.com/shinnok/johnny) | |
+jp2a | jpg to ASCII art | :heavy_check_mark: | | |
 jpeginfo | JPEG info/integrity | :heavy_check_mark: | | |
 jq | terminal JSON stream editor | :heavy_check_mark: | | |
 julia | fast math-oriented language | :heavy_check_mark: | [Julia](http://julialang.org/) | |
@@ -561,6 +562,7 @@ nmap | network scanner | :heavy_check_mark: | | <a id="nmap"></a> |
 nmapsi4 | GUI for [NMap](#nmap) | :heavy_check_mark: | | |
 nmcli | CLI for NetworkManager | :heavy_check_mark: | | |
 nmon | network/CPU/disk performance | :heavy_check_mark: | | |
+notepadqq | code editor | :heavy_multiplication_x: | [Notepadqq](http://notepadqq.altervista.org/wp/download/) | |
 notepas | code editor | :heavy_multiplication_x: | | |
 notes-up | editor supporting Markdown | :heavy_multiplication_x: | [Notes-up](https://github.com/Philip-Scott/Notes-up) | PDF export |
 npm | Node.js package manager | :heavy_check_mark: | | |
