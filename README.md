@@ -455,6 +455,7 @@ lamaperia | printable maps from OpenStreetMap | :heavy_multiplication_x: | [Lama
 lame | MP3 encoder | :heavy_check_mark: | | |
 lazagne | credentials recovery | :heavy_multiplication_x: | [LaZagne](https://github.com/AlessandroZ/LaZagne) | Windows version is identified as a Trojan |
 lepton | JPEG compressor | :heavy_multiplication_x: | [lepton](https://github.com/dropbox/lepton) | |
+lftp | sophisticated terminal FTP | :heavy_check_mark: | | |
 libmarkdown-php | Markdown library | :heavy_check_mark: | | |
 libreoffice-dbg | debugger | :heavy_check_mark: | | |
 libssl-dev | OpenSSL libraries | :heavy_check_mark: | | |
