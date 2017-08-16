@@ -227,6 +227,7 @@ ent | entropy checker | :heavy_check_mark: | | |
 entr | trigger actions on file change | :heavy_check_mark: | [Entr](http://entrproject.org/) | |
 eqonmize | financial app | :heavy_multiplication_x: | [Eqonmize](https://github.com/Eqonomize/Eqonomize) | |
 espeak | audio speaker + GUIs | :heavy_check_mark: | | GUI is [gespeaker](#gespeaker) <a id="espeak"></a> |
+etcher | flash OS images to USB | :heavy_check_mark: | [etcher.io](https://etcher.io/) [etcher](https://github.com/resin-io/etcher) | |
 etckeeper | version control of /etc | :heavy_check_mark: | | |
 etherape | GUI network monitor | :heavy_check_mark: | | |
 ethtool | display/change ethernet device settings | :heavy_check_mark: | | |
@@ -766,6 +767,7 @@ skype-ghetto | | :heavy_multiplication_x: | [ghetto-skype](https://github.com/st
 slack | multi-server config manager | :heavy_check_mark: | | uses existing tools |
 slowhttptest | server stress tool | :heavy_check_mark: | | |
 slurm | bandwidth monitor | :heavy_check_mark: | | |
+smartdeblur | restore blurred images  | :heavy_multiplication_x: | [SmartDeblur](https://github.com/Y-Vladimir/SmartDeblur) | |
 smartmontools | monitor/control storage that supports SMART | :heavy_check_mark: | | contains `smartctl` |
 smbclient | Samba client | :heavy_check_mark: | | |
 smbmap | SMB network mapper | :heavy_multiplication_x: | [smbmap](https://github.com/ShawnDEvans/smbmap) | |
