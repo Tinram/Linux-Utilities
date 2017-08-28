@@ -735,6 +735,7 @@ rustc | Rust language compiler | :heavy_multiplication_x: | | cargo is project m
 samhain | IDS | :heavy_check_mark: | | |
 sane | document scan tools | :heavy_check_mark: | | |
 sbackup | simple backup | :heavy_check_mark: | | |
+scalpel | file recovery/data carver | :heavy_check_mark: | [scalpel](https://github.com/sleuthkit/scalpel) | |
 screenruler | pixel ruler | :heavy_check_mark: | | |
 screenstudio | screencast creator | :heavy_multiplication_x: | [ScreenStudio](http://screenstudio.crombz.com/) | |
 scribus | desktop publisher/PDF editor | :heavy_check_mark: | | |
