@@ -573,7 +573,7 @@ ntfsfix | fix NTFS | :heavy_multiplication_x: | | |
 ntfsundelete | recover NTFS files | :heavy_check_mark: | | |
 ntop | top network users | :heavy_check_mark: | | |
 nutty | network utility | :heavy_multiplication_x: | [Nutty](https://launchpad.net/nutty) | ppa:bablu-boy/nutty.0.1 |
-nvidia-smi  | NVIDIA GPU management CLI | :heavy_multiplication_x: | | |
+nvidia-smi | NVIDIA GPU management CLI | :heavy_multiplication_x: | | |
 obnam | incremental daily backups with SFTP/GPG support | :heavy_check_mark: | | |
 obs | video recording/livestreaming | :heavy_multiplication_x: | [OBS](https://obsproject.com/) | |
 ocrfeeder | OCR text scanner | :heavy_check_mark: | | |
@@ -655,13 +655,14 @@ procenv | show process environment | :heavy_check_mark: | [procenv](https://gith
 processing | programming language | :heavy_multiplication_x: | | |
 procinfo | reporter of /proc and /sys | :heavy_check_mark: | | also contains `lsdev` |
 profile-sync-daemon | move browser profiles to RAM | :heavy_multiplication_x: | [profile-sync-daemon](https://github.com/graysky2/profile-sync-daemon) | systemd |
-prometheus.io | [Nagios](#nagios) replacement for microservices | :heavy_multiplication_x: | [Prometheus ](https://github.com/prometheus) | |
+prometheus.io | [Nagios](#nagios) replacement for microservices | :heavy_multiplication_x: | [Prometheus](https://github.com/prometheus) | |
 proxychains | redirect connections through proxy servers | :heavy_check_mark: | | |
 psad | port scan detector | :heavy_check_mark: | | from iptables |
 psensor | sensors | :heavy_check_mark: | | |
 pst-utils | read MS Outlook PST files | :heavy_check_mark: | | .pst to .mbox |
 publican | docbook XML publisher | :heavy_check_mark: | | |
 puddletag | music file tag editor | :heavy_check_mark: | | |
+pulseeffects | equalizer for Pulseaudio apps | :heavy_multiplication_x: | [pulseeffects](https://github.com/wwmm/pulseeffects) | ppa:yunnxx/gnome3 |
 putty | PuTTY for Linux | :heavy_check_mark: | | |
 pv | pipe view meter | :heavy_check_mark: | | benchmark SSH etc |
 pwgen | password generator | :heavy_check_mark: | | |
@@ -744,7 +745,7 @@ sendemail | terminal email client | :heavy_check_mark: | | |
 sendmail | mail agent | :heavy_check_mark: | | |
 sentinel | 1980's game | :heavy_multiplication_x: | [Sentinel](https://github.com/kochsoft/free_sentinel_gl/wiki/Free-Sentinel-GL) | |
 sentry | brute-force blocker | :heavy_multiplication_x: | [sentry](https://github.com/msimerson/sentry) | |
-sfk | comprehensive file utilities | :heavy_multiplication_x: | [Swiss File Knife ](http://stahlworks.com/dev/swiss-file-knife.html) | |
+sfk | comprehensive file utilities | :heavy_multiplication_x: | [Swiss File Knife](http://stahlworks.com/dev/swiss-file-knife.html) | |
 sg3-utils | SCSI utils | :heavy_check_mark: | | |
 shellcheck | Bash lint | :heavy_check_mark: | [ShellCheck](http://www.shellcheck.net/) | |
 shellnoob | shell code generator | :heavy_multiplication_x: | | |
@@ -768,7 +769,7 @@ skype-ghetto | | :heavy_multiplication_x: | [ghetto-skype](https://github.com/st
 slack | multi-server config manager | :heavy_check_mark: | | uses existing tools |
 slowhttptest | server stress tool | :heavy_check_mark: | | |
 slurm | bandwidth monitor | :heavy_check_mark: | | |
-smartdeblur | restore blurred images  | :heavy_multiplication_x: | [SmartDeblur](https://github.com/Y-Vladimir/SmartDeblur) | |
+smartdeblur | restore blurred images | :heavy_multiplication_x: | [SmartDeblur](https://github.com/Y-Vladimir/SmartDeblur) | |
 smartmontools | monitor/control storage that supports SMART | :heavy_check_mark: | | contains `smartctl` |
 smbclient | Samba client | :heavy_check_mark: | | |
 smbmap | SMB network mapper | :heavy_multiplication_x: | [smbmap](https://github.com/ShawnDEvans/smbmap) | |
