@@ -838,6 +838,7 @@ tcpflow | TCP flow recorder | :heavy_check_mark: | | |
 tcpick | TCP stream sniffer/connection tracker | :heavy_check_mark: | | |
 tcpspy | TCP/IP connections logger | :heavy_check_mark: | | |
 tcptrace | graphical [tcpdump](#tcpdump) output | :heavy_check_mark: | | |
+tcptrack | monitor tcp network connections | :heavy_check_mark: | | |
 tcpxtract | extract files from network traffic | :heavy_check_mark: | | |
 terminator | multiple terminals | :heavy_check_mark: | | |
 terminix | terminal emulator | :heavy_multiplication_x: | [terminix](https://github.com/gnunn1/terminix) | |
