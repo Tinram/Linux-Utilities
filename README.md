@@ -213,6 +213,7 @@ dukto | LAN transfer tool | :heavy_multiplication_x: | [dukto](https://github.co
 duplicity | encrypted backup | :heavy_check_mark: | [Duplicity](http://duplicity.nongnu.org/) | built on rsync |
 dvdbackup | DVD ripper | :heavy_check_mark: | | |
 e4defrag | ext4 defragger | :heavy_multiplication_x: | | |
+earlyoom | auto kill largest memory/swap hog | :heavy_multiplication_x: | [earlyoom](https://github.com/rfjakob/earlyoom) | |
 easy-rsa | certificate generator | :heavy_check_mark: | | very useful for OpenVPN |
 eiciel | GUI ACL editor | :heavy_check_mark: | [Eiciel](http://rofi.roger-ferrer.org/eiciel/) | |
 eko | audio editor | :heavy_multiplication_x: | [Eko](http://semiletov.org/eko/) | |
