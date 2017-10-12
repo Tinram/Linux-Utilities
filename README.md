@@ -267,7 +267,7 @@ flowblade | video editor | :heavy_check_mark: | | |
 fmap | web app vulnerabilities | :heavy_multiplication_x: | | |
 focuswriter | word processor | :heavy_check_mark: | | <a id="#focuswriter"></a> |
 fog | clone rollout system | :heavy_multiplication_x: | [FOG](https://sourceforge.net/projects/freeghost/files/FOG) | |
-fontforge | font editor | :heavy_multiplication_x: | [FontForge](http://fontforge.github.io/) | |
+fontforge | font editor | :heavy_multiplication_x: | [FontForge](https://github.com/fontforge) | |
 foremost | recover/extract files | :heavy_check_mark: | | |
 fotoxx | photo editor | :heavy_check_mark: | | good at editing, poor interface |
 fping | ICMP to network hosts | :heavy_check_mark: | | |
@@ -533,6 +533,7 @@ mysqltuner | mysqld settings analyser | :heavy_check_mark: | [mysqltuner](https:
 mytop | [MySQL](#mysql) monitor | :heavy_check_mark: | | |
 mz | versatile packet/network traffic generator | :heavy_check_mark: | | |
 nagios-nrpe-server | Nagios component for remote server | :heavy_check_mark: | [Nagios](https://www.nagios.org/) | <a id="nagios"></a> |
+nanotts | speech synthesizer | :heavy_multiplication_x: | [NanoTTS](https://github.com/gmn/nanotts) | |
 nast | terminal [Wireshark](#wireshark) | :heavy_check_mark: | | |
 nbtscan | scan network for NetBIOS info (Samba) | :heavy_check_mark: | | |
 ncdu | disk usage analyser | :heavy_check_mark: | | |
