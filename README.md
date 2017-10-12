@@ -21,7 +21,8 @@ p7zip | file archiver | :heavy_check_mark: | [7-Zip](http://www.7-zip.org/) | al
 abcde | CD ripper | :heavy_check_mark: | [ABCDE](http://www.andrews-corner.org/linux/abcde/index.html) | |
 abiword | lightweight wordprocessor | :heavy_check_mark: | | |
 abricotine | Markdown editor | :heavy_multiplication_x: | [Abricotine](https://github.com/brd/Abricotine) | |
-adb | Android tools | :heavy_check_mark: | | |
+adb | Android Debug Bridge | :heavy_check_mark: | | |
+aescrypt | cross-platform file encryption | :heavy_multiplication_x: | [AESCrypt](https://github.com/paulej/AESCrypt) | |
 afick | file integrity notifier | :heavy_multiplication_x: | [AFICK](https://sourceforge.net/projects/afick/) | |
 afl | fuzzer | :heavy_check_mark: | [AFL](http://lcamtuf.coredump.cx/afl/) | |
 aide | host-based IDS | :heavy_check_mark: | | |
