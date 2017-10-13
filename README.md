@@ -536,6 +536,7 @@ mz | versatile packet/network traffic generator | :heavy_check_mark: | | |
 nagios-nrpe-server | Nagios component for remote server | :heavy_check_mark: | [Nagios](https://www.nagios.org/) | <a id="nagios"></a> |
 nanotts | speech synthesizer | :heavy_multiplication_x: | [NanoTTS](https://github.com/gmn/nanotts) | |
 nast | terminal [Wireshark](#wireshark) | :heavy_check_mark: | | |
+nasty | GPG passphrase bruteforcer | :heavy_check_mark: | | |
 nbtscan | scan network for NetBIOS info (Samba) | :heavy_check_mark: | | |
 ncdu | disk usage analyser | :heavy_check_mark: | | |
 ncrack | network cracker | :heavy_multiplication_x: | | |
