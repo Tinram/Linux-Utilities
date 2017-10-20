@@ -492,6 +492,7 @@ lynis | security auditor | :heavy_check_mark: | | |
 lyx | Latex WYSIWYG | :heavy_check_mark: | | 500MB |
 lzop | fast compression | :heavy_check_mark: | | |
 macchanger | spoof network card MAC | :heavy_check_mark: | | |
+magicrescue | file recovery by filetype/header bytes | :heavy_check_mark: | | |
 mailutils | mail utilities | :heavy_check_mark: | | |
 maltego | people-places analysis tool | :heavy_multiplication_x: | [Maltego](https://paterva.com/web7/) | Java-based |
 mandelbulber | 3D Mandelbrot | :heavy_check_mark: | | |
@@ -851,7 +852,7 @@ tcpxtract | extract files from network traffic | :heavy_check_mark: | | |
 terminator | multiple terminals | :heavy_check_mark: | | |
 terminix | terminal emulator | :heavy_multiplication_x: | [terminix](https://github.com/gnunn1/terminix) | |
 termpix | terminal image viewer | :heavy_multiplication_x: | [termpix](https://github.com/hopey-dishwasher/termpix) | |
-testdisk | disk/partition recovery tool | :heavy_check_mark: | | |
+testdisk | disk/partition recovery tool | :heavy_check_mark: | [TestDisk](https://www.cgsecurity.org/wiki/TestDisk_Download) | |
 tesseract-ocr | OCR processor | :heavy_check_mark: | | |
 tetravex | number block game | :heavy_check_mark: | | (gno) Tetravex |
 texmaker | LaTeX editor | :heavy_check_mark: | | |
