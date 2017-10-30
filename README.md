@@ -826,6 +826,7 @@ sucrack | `su` brute-forcer | :heavy_check_mark: | | |
 sunflow | raytracer | :heavy_check_mark: | | Java-based |
 suricata | IDS | :heavy_check_mark: | | |
 sux | `su` for X | :heavy_check_mark: | | |
+svar | voice activated recorder | :heavy_multiplication_x: | [svar](https://github.com/Arkq/svar) | |
 svg-edit | SVG editor | :heavy_multiplication_x: | | |
 swaks | SMTP test tool | :heavy_check_mark: | | |
 swatch | log file event notifier | :heavy_check_mark: | | |
