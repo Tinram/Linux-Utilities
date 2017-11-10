@@ -229,6 +229,7 @@ enscript | text converter PS/HTML/RTF | :heavy_check_mark: | | |
 ent | entropy checker | :heavy_check_mark: | | |
 entr | trigger actions on file change | :heavy_check_mark: | [Entr](http://entrproject.org/) | |
 eqonmize | financial app | :heavy_multiplication_x: | [Eqonmize](https://github.com/Eqonomize/Eqonomize) | |
+eric | Python IDE | :heavy_check_mark: | | |
 espeak | audio speaker + GUIs | :heavy_check_mark: | | GUI is [gespeaker](#gespeaker) <a id="espeak"></a> |
 etcher | flash OS images to USB | :heavy_check_mark: | [etcher.io](https://etcher.io/) [etcher](https://github.com/resin-io/etcher) | |
 etckeeper | version control of */etc* | :heavy_check_mark: | | |
@@ -303,7 +304,7 @@ gcc | GNU C compiler | :heavy_check_mark: | | |
 gcolor2 | GUI colour picker | :heavy_check_mark: | | prefer [GPick](#gpick) |
 gconf-editor | GConf editor | :heavy_check_mark: | | |
 gdb | GNU debugger | :heavy_check_mark: | | |
-gddrescue | `dd` drive/data recovery | :heavy_check_mark: | [ddrescue](https://launchpad.net/ddrescue-gui) | ppa:hamishmb/myppa <a id="gddrescue"></a> |
+gddrescue | `dd` drive/data recovery | :heavy_check_mark: | [ddrescue-gui](https://launchpad.net/ddrescue-gui) | ppa:hamishmb/myppa <a id="gddrescue"></a> |
 gdm | GNOME display manager | :heavy_check_mark: | | |
 gdmap | visual HDD space usage | :heavy_check_mark: | | |
 geany | lightweight editor/IDE | :heavy_check_mark: | | |
@@ -543,7 +544,7 @@ nanotts | speech synthesizer | :heavy_multiplication_x: | [NanoTTS](https://gith
 nast | terminal [Wireshark](#wireshark) | :heavy_check_mark: | | |
 nasty | GPG password cracker | :heavy_check_mark: | | |
 nbtscan | scan network for NetBIOS info (Samba) | :heavy_check_mark: | | |
-ncdu | disk usage analyser | :heavy_check_mark: | | |
+ncdu | Ncurses disk usage viewer | :heavy_check_mark: | | |
 ncrack | network cracker | :heavy_multiplication_x: | | |
 ncrypt | terminal file encrypt | :heavy_multiplication_x: | [Ncrypt](https://sourceforge.net/projects/ncrypt/) | only SHA-1 key hashing |
 ncursesfm | terminal file manager | :heavy_multiplication_x: | [ncursesFM](https://github.com/FedeDP/ncursesFM) | |
@@ -956,7 +957,7 @@ xchm | *.chm* file reader | :heavy_check_mark: | | |
 xclip | terminal to X clipboard | :heavy_check_mark: | | |
 xdebug | phpN-xdebug | :heavy_check_mark: | | where 'N' is version |
 xdg-app | app sandbox | :heavy_multiplication_x: | | ppa:alexlarsson/xdg-app |
-xdotool | simulate mouse/key input | :heavy_check_mark: | | |
+xdotool | simulate keyboard/mouse inputs | :heavy_check_mark: | | |
 xfractint | fractals | :heavy_check_mark: | | |
 xicc | set ICC colour profile for X | :heavy_check_mark: | | |
 xiphos | Bible | :heavy_check_mark: | | |
