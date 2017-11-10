@@ -229,7 +229,7 @@ enscript | text converter PS/HTML/RTF | :heavy_check_mark: | | |
 ent | entropy checker | :heavy_check_mark: | | |
 entr | trigger actions on file change | :heavy_check_mark: | [Entr](http://entrproject.org/) | |
 eqonmize | financial app | :heavy_multiplication_x: | [Eqonmize](https://github.com/Eqonomize/Eqonomize) | |
-eric | Python IDE | :heavy_check_mark: | | |
+eric | Python IDE | :heavy_check_mark: | [Eric](https://eric-ide.python-projects.org/) | |
 espeak | audio speaker + GUIs | :heavy_check_mark: | | GUI is [gespeaker](#gespeaker) <a id="espeak"></a> |
 etcher | flash OS images to USB | :heavy_check_mark: | [etcher.io](https://etcher.io/) [etcher](https://github.com/resin-io/etcher) | |
 etckeeper | version control of */etc* | :heavy_check_mark: | | |
