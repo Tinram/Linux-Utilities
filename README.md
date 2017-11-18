@@ -38,6 +38,7 @@ anydesk | TeamViewer-like remote desktop | :heavy_multiplication_x: | [AnyDesk](
 apachetop | `top` for Apache | :heavy_check_mark: | | use `apt` |
 apktool | read binary XML | :heavy_multiplication_x: | | |
 aqemu | [Qemu](#qemu) + KVM GUI | :heavy_check_mark: | | |
+arandr | GUI for xrandr (X settings) | :heavy_check_mark: | | |
 ardour | audio editor | :heavy_check_mark: | | |
 arecabackup | backup | :heavy_multiplication_x: | [Areca Backup](http://areca-backup.org) | Java-based |
 argus | IP network transaction auditor | :heavy_check_mark: | | |
@@ -128,7 +129,7 @@ cmospwd | decrypt CMOS password | :heavy_check_mark: | | |
 cmsmap | CMS vulnerability scanner | :heavy_multiplication_x: | [CMSmap](https://github.com/dionach/CMSmap) | |
 cmus | terminal music player | :heavy_check_mark: | | |
 cockpit | web interface managing multiple servers | :heavy_multiplication_x: | | ppa:cockpit-project/cockpit |
-codeblocks | C editor | :heavy_check_mark: | | |
+codeblocks | C editor/IDE | :heavy_check_mark: | | |
 codecounter | C/BASIC/web code counter | :heavy_multiplication_x: | [CodeCounter](https://github.com/Tinram/CodeCounter) | |
 codelite | C editor | :heavy_check_mark: | | PHP/JS/Python also supported |
 collectd, kcollectd | system stats harvester/monitoring daemon | :heavy_check_mark: | | |
@@ -248,7 +249,7 @@ fatsort | FAT filesystem file sorter | :heavy_check_mark: | | |
 fbcat | framebuffer grabber | :heavy_check_mark: | | outputs *.ppm* convert with [ImageMagick](#imagemagick) |
 fcrackzip | ZIP cracker | :heavy_check_mark: | | |
 fdupes | compare files in two directories | :heavy_check_mark: | | uses hashes |
-featherpad | C++ text editor | :heavy_multiplication_x: | [FeatherPad](https://github.com/tsujan/FeatherPad) | few dependencies |
+featherpad | C++ editor | :heavy_multiplication_x: | [FeatherPad](https://github.com/tsujan/FeatherPad) | few dependencies |
 fehashmac | terminal hasher | :heavy_multiplication_x: | [fehashmac](https://sourceforge.net/projects/fehashmac) | |
 fern-wifi-cracker | GUI for [aircrack](#aircrack) | :heavy_multiplication_x: | | |
 ffmpeg | media playing/conversion utility | :heavy_check_mark: | | <a id="ffmpeg"></a> |
@@ -791,6 +792,7 @@ snort | IDS | :heavy_check_mark: | | |
 sntop | poll servers | :heavy_check_mark: | | |
 socat | relay for bidirectional data transfer | :heavy_check_mark: | | bench etc |
 softethervpn | VPN | :heavy_multiplication_x: | | |
+sonic-pi | coding synth | :heavy_check_mark: | | |
 sox | terminal audio file manipulator | :heavy_check_mark: | | |
 sparta | internal network infrastructure pen tool | :heavy_multiplication_x: | [sparta](https://github.com/secforce/sparta) | |
 sparkleshare | Dropbox alternative using SSH and [Git](#git) | :heavy_check_mark: | | |
@@ -904,11 +906,11 @@ vbindiff | visual binary file compare | :heavy_check_mark: | | |
 vega | web app tester | :heavy_multiplication_x: | | Java-based |
 veracrypt | TrueCrypt replacement | :heavy_multiplication_x: | [VeraCrypt](http://veracrypt.codeplex.com/) | |
 vidalia | [Tor](#tor) GUI frontend | :heavy_check_mark: | | |
-vim | programming/text editor | :heavy_check_mark: | | |
+vim | code/text editor | :heavy_check_mark: | | |
 vinagre | GNOME remote desktop client | :heavy_check_mark: | | |
 virt-manager | virtual machine manager | :heavy_check_mark: | [virt-manager](https://virt-manager.org/) | good options range; frontend for [Qemu](#qemu) |
 virtualbox | virtual machines | :heavy_check_mark: | [Virtual Box](https://www.virtualbox.org/) | GPU acceleration |
-visual-studio-code | editor | :heavy_multiplication_x: | [Visual Studio Code](http://code.visualstudio.com/) | huge, limited |
+visual studio code | editor/IDE | :heavy_multiplication_x: | [Visual Studio Code](http://code.visualstudio.com/) | good Python support |
 vmware | virtual machines | :heavy_check_mark: | | GPU acceleration |
 tightvnc | remote desktop viewer | :heavy_check_mark: | | |
 vobcopy | CD/MP4 track copier | :heavy_check_mark: | | |
