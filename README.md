@@ -475,6 +475,7 @@ lightzone | RAW editor | :heavy_multiplication_x: | [LightZone](http://lightzone
 linkchecker | website link checker | :heavy_check_mark: | | |
 linklint | website link checker | :heavy_check_mark: | | |
 linphone | [Skype](#skype) replacement | :heavy_check_mark: | | requires SIP account |
+linssid | GUI wireless scanner | :heavy_check_mark: | | |
 linux-crashdump | kernel crashdump set-up | :heavy_check_mark: | | |
 linux-firmware | drivers | :heavy_check_mark: | | apparently includes wireless drivers |
 linux-malware-detect | Linux malware detector | :heavy_multiplication_x: | [linux-malware-detect](https://github.com/rfxn/linux-malware-detect) | |
@@ -515,6 +516,7 @@ micro | text editor | :heavy_multiplication_x: | [micro](https://github.com/zyed
 midori | lightweight browser | :heavy_check_mark: | | |
 minitube | native YouTube client | :heavy_check_mark: | | |
 minuet | music trainer | :heavy_multiplication_x: | [minuet](https://github.com/KDE/minuet) | |
+mitmproxy | MITM HTTP proxy | :heavy_check_mark: | | |
 mixxx | audio mixer/editor | :heavy_check_mark: | | |
 mlocate | for `locate` | :heavy_check_mark: | | if `locate` is missing <a id="mlocate"></a> |
 mmv | mass move/rename | :heavy_check_mark: | | |
@@ -924,6 +926,7 @@ waidps | wireless auditing + IDS | :heavy_multiplication_x: | [waidps](https://g
 wallpaperd | wallpaper rotator | :heavy_multiplication_x: | | |
 wammu | (old) phone manager, info exporter | :heavy_check_mark: | | |
 wapiti | web app vulnerability scanner | :heavy_check_mark: | | |
+wavemon | wireless network monitor | :heavy_check_mark: | | |
 wbox | HTTP testing tool and configuration-less HTTP server | :heavy_check_mark: | | |
 wdiff | word diff | :heavy_check_mark: | | extended diff |
 webcamoid | webcam tool | :heavy_multiplication_x: | [Webcamoid](http://webcamoid.github.io/) | |
@@ -985,6 +988,7 @@ yersinia | advanced, obtuse network vulnerabilities checker | :heavy_check_mark:
 zabbix | network monitoring package | :heavy_check_mark: | | |
 zap | zed attack proxy | :heavy_multiplication_x: | | web app vulnerabilities |
 zeal | documentation browser | :heavy_multiplication_x: | [Zeal](https://github.com/zealdocs/zeal) | |
+zeit | GUI for *at* and *cron* | :heavy_multiplication_x: | [zeit](https://bitbucket.org/blaze/zeit) | |
 zenmap | [NMap](#nmap) GUI | :heavy_check_mark: | | |
 zentyal | server GUI set-up + MS Exchange replacement | :heavy_check_mark: | | |
 zerotier | easy VPN | :heavy_multiplication_x: | [ZeroTier](http://zerotier.com) | |
