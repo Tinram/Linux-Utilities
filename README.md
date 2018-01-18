@@ -262,6 +262,7 @@ findmyhash | queries multiple websites for hash | :heavy_multiplication_x: | [fi
 firejail | sandbox apps | :heavy_check_mark: | | [firejail](https://github.com/netblue30/firejail) |
 fishsynch | sync files | :heavy_multiplication_x: | [Fish Synch](https://sourceforge.net/projects/fishsync/) | |
 fiziko | pen-and-ink drawings from code | :heavy_multiplication_x: | [fiziko](https://github.com/jemmybutton/fiziko) | |
+flac | FLAC tools | :heavy_check_mark: | | |
 flashlight | auto info tool for pen tests | :heavy_multiplication_x: | [flashlight](https://github.com/galkan/flashlight) | |
 flasm | dis/assembler for Flash bytecode | :heavy_check_mark: | | |
 flawfinder | C/C++ code checker | :heavy_check_mark: | | simpler than [splint](#splint) |
@@ -374,6 +375,7 @@ gtkam | GUI transfer from cameras | :heavy_check_mark: | | |
 gtkhash | GUI hash calculator | :heavy_check_mark: | | |
 gtg | GNOME ToDo organiser | :heavy_check_mark: | | |
 guake | multi-tabbed/multi-coloured terminal | :heavy_check_mark: | | |
+guetzli | JPG encoder/compressor | :heavy_multiplication_x: | [guetzli](https://github.com/google/guetzli) | |
 gufw | GUI for [ufw](#ufw) | :heavy_check_mark: | | |
 gvfs-backends | SMB browsing | :heavy_check_mark: | | |
 haguichi | GUI for VPN app | :heavy_multiplication_x: | [Haguichi](https://www.haguichi.net/) | |
@@ -704,7 +706,7 @@ quetoo | Quake2 remake | :heavy_multiplication_x: | [quetoo](https://github.com/
 quiterss | RSS reader | :heavy_check_mark: | | uses WebKit |
 qupzilla | lightweight Chromium-based browser | :heavy_check_mark: | | |
 rabbitvcs | SVN GUI | :heavy_check_mark: | | |
-radamsa | fuzzer | :heavy_multiplication_x: | [radamsa](https://github.com/aoh/radamsa) | a pig to compile |
+radamsa | fuzzer | :heavy_multiplication_x: | [radamsa](https://github.com/aoh/radamsa) | compilation fine now |
 radeontop | Radeon GPU top | :heavy_check_mark: | | |
 rand | random character generator | :heavy_check_mark: | | |
 rapidsvn | SVN GUI | :heavy_check_mark: | | |
@@ -994,7 +996,8 @@ zentyal | server GUI set-up + MS Exchange replacement | :heavy_check_mark: | | |
 zerotier | easy VPN | :heavy_multiplication_x: | [ZeroTier](http://zerotier.com) | |
 zim | 'desktop wiki' notepad | :heavy_check_mark: | | |
 zmap | large network scanner | :heavy_check_mark: | | no actual connects like [NMap](#nmap), open ports |
-zurmo | CRM | :heavy_multiplication_x: | [Zurmo](http://zurmo.org) | |
+zopfli | zlib/gzip compressor | :heavy_check_mark: | [zopfli](https://github.com/google/zopfli) | |
+zurmo | CRM | :heavy_multiplication_x: | [Zurmo](https://github.com/google/zopfli) | |
 zzuf | app fuzzer | :heavy_check_mark: | | |
 
 
