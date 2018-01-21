@@ -106,6 +106,7 @@ cccc | C/C++ code analyser | :heavy_check_mark: | | |
 ccextractor | subtitle extractor | :heavy_multiplication_x: | [CCExtractor](https://sourceforge.net/projects/ccextractor/) | |
 celestia | celestial simulator | :heavy_check_mark: | | |
 cellwriter | handwriting recogniser | :heavy_check_mark: | | |
+cfg2html | collect and display system config info | :heavy_multiplication_x: | [cfg2html](https://github.com/cfg2html/cfg2html) | |
 cflow | C source control flow analyser | :heavy_check_mark: | | |
 cdparanoia | CD ripper | :heavy_check_mark: | | |
 ccrypt | AES recursive file encrypter | :heavy_check_mark: | | overwrites files, passphrases allegedly unsalted |
@@ -693,6 +694,7 @@ python-setuptools | | :heavy_check_mark: | | needed for [python-mysqldb](#python
 qalc | terminal calculator | :heavy_check_mark: | | |
 qemu | processor emulator | :heavy_check_mark: | | `apt-get install kvm qemu-kvm qemu-kvmextras` <a id="qemu"></a> |
 qemu-kvm | multiple virtual PCs | :heavy_check_mark: | | |
+qjournalctl | GUI for systemd's `journalctl` | :heavy_multiplication_x: | [qjournalctl](https://github.com/pentix/qjournalctl) | |
 qmmp | music player | :heavy_check_mark: | | |
 qownnotes | notepad with Markdown | :heavy_multiplication_x: | [QOwnNotes](http://www.qownnotes.org/) | |
 qmplay2 | video/YouTube player | :heavy_multiplication_x: | [QMPlay2](https://github.com/zaps166/QMPlay2) | GPU acceleration |
