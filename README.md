@@ -3,9 +3,9 @@
 
 #### Sources: Ubuntu repository, GitHub, SourceForge, vendor websites.
 
-Alphabetical list (*Ctrl+F* everything) of 900+ Linux programs and packages - somewhat biased to my work, interests, and anticipated needs. Compiled over a number of years from web searches, repo hunting, and Linux magazines.
+Alphabetical list of 980+ Linux programs and packages - somewhat biased to my work, interests, and anticipated needs. Compiled over a number of years from web searches, repo hunting, and Linux magazines.
 
-###### *List is less than 1/85th of the packages in the main Ubuntu repo.*
+###### *List is 1% of the packages in the main Ubuntu repo.*
 
 A tick in the repo column means the package should exist in the main Ubuntu repo. Nevertheless, some packages can be hidden away - these are marked with *'use apt'* - use `apt search <pkg>` to search and `sudo apt-get install <pkg>` to install.
 
@@ -126,7 +126,7 @@ clonezilla | HDD backup/cloner | :heavy_check_mark: | | |
 cloudcompare | photo to 3D point map | :heavy_multiplication_x: | [CloudCompare](http://cloudcompare.org/) | |
 cmatrix | terminal Matrix | :heavy_check_mark: | | |
 cmdlauncher | commands to GUI | :heavy_multiplication_x: | [CmdLauncher](http://cmdlauncher.topbug.net/) | |
-cmospwd | decrypt CMOS password | :heavy_check_mark: | | |
+cmospwd | CMOS/BIOS password recovery | :heavy_check_mark: | | pre-UEFI |
 cmsmap | CMS vulnerability scanner | :heavy_multiplication_x: | [CMSmap](https://github.com/dionach/CMSmap) | |
 cmus | terminal music player | :heavy_check_mark: | | |
 cockpit | web interface managing multiple servers | :heavy_multiplication_x: | | ppa:cockpit-project/cockpit |
@@ -687,6 +687,7 @@ pylint | Python code static checker | :heavy_check_mark: | | |
 pylint3 | Python 3 code static checker | :heavy_check_mark: | | |
 pyrenamer | mass file renamer | :heavy_check_mark: | | |
 pyrit | GPU WPA2 wireless cracker | :heavy_check_mark: | | |
+python-evdev | generic input event interface | :heavy_check_mark: | | |
 python-mysqldb | Python [MySQL](#mysql) API | :heavy_check_mark: | | <a id="python-mysqldb"></a> |
 python-pip | Python installer | :heavy_check_mark: | | `apt-get install python3-pip` |
 python(3)-psutil | psutil | :heavy_check_mark: | | access reporting tools through Python |
