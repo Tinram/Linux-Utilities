@@ -741,6 +741,7 @@ rig | random person id generator | :heavy_check_mark: | | |
 rkhunter | rootkit hunter | :heavy_check_mark: | | |
 rmlint | duplicate file remover | :heavy_multiplication_x: | [rmlint](https://github.com/sahib/rmlint) | |
 rnd | random data generator | :heavy_multiplication_x: | [RND](https://github.com/Tinram/RND) | |
+rng-tools | daemon to use hardware TRNG | :heavy_check_mark: | | includes `rngtest` |
 rosaimagewriter | USB Flash tool | :heavy_multiplication_x: | | |
 rosegarden | music editor | :heavy_check_mark: | | |
 rsmangler | word permutations | :heavy_multiplication_x: | | |
