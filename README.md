@@ -919,6 +919,7 @@ vinagre | GNOME remote desktop client | :heavy_check_mark: | | |
 virt-manager | virtual machine manager | :heavy_check_mark: | [virt-manager](https://virt-manager.org/) | good options range; frontend for [Qemu](#qemu) |
 virtualbox | virtual machines | :heavy_check_mark: | [Virtual Box](https://www.virtualbox.org/) | GPU acceleration |
 visual studio code | editor/IDE | :heavy_multiplication_x: | [Visual Studio Code](http://code.visualstudio.com/) | good Python support |
+vivaldi | highly-customisable browser | :heavy_multiplication_x: | [Vivaldi](https://vivaldi.com/) | |
 vmware | virtual machines | :heavy_check_mark: | | GPU acceleration |
 tightvnc | remote desktop viewer | :heavy_check_mark: | | |
 vobcopy | CD/MP4 track copier | :heavy_check_mark: | | |
