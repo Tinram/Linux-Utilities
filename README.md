@@ -916,7 +916,7 @@ veracrypt | TrueCrypt replacement | :heavy_multiplication_x: | [VeraCrypt](http:
 vidalia | [Tor](#tor) GUI frontend | :heavy_check_mark: | | |
 vim | code/text editor | :heavy_check_mark: | | |
 vinagre | GNOME remote desktop client | :heavy_check_mark: | | |
-virt-manager | virtual machine manager | :heavy_check_mark: | [virt-manager](https://virt-manager.org/) | good options range; frontend for [Qemu](#qemu) |
+virt-manager | GUI VM manager | :heavy_check_mark: | [virt-manager](https://virt-manager.org/) | good options range; still 'experimental' |
 virtualbox | virtual machines | :heavy_check_mark: | [Virtual Box](https://www.virtualbox.org/) | GPU acceleration |
 visual studio code | editor/IDE | :heavy_multiplication_x: | [Visual Studio Code](http://code.visualstudio.com/) | good Python support |
 vivaldi | highly-customisable browser | :heavy_multiplication_x: | [Vivaldi](https://vivaldi.com/) | |
