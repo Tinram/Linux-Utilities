@@ -102,6 +102,7 @@ byobu | screen command manager/multiplexer | :heavy_check_mark: | | through func
 cadubi | ASCII art drawing | :heavy_check_mark: | | |
 calibre | eBook converter/library | :heavy_check_mark: | | |
 catfish | GUI file search using [mlocate](#mlocate) | :heavy_check_mark: | | |
+catimg | terminal image viewer | :heavy_multiplication_x: | [catimg](https://github.com/posva/catimg) | |
 cccc | C/C++ code analyser | :heavy_check_mark: | | |
 ccextractor | subtitle extractor | :heavy_multiplication_x: | [CCExtractor](https://sourceforge.net/projects/ccextractor/) | |
 celestia | celestial simulator | :heavy_check_mark: | | |
@@ -264,6 +265,7 @@ firejail | sandbox apps | :heavy_check_mark: | | [firejail](https://github.com/n
 fishsynch | sync files | :heavy_multiplication_x: | [Fish Synch](https://sourceforge.net/projects/fishsync/) | |
 fiziko | pen-and-ink drawings from code | :heavy_multiplication_x: | [fiziko](https://github.com/jemmybutton/fiziko) | |
 flac | FLAC tools | :heavy_check_mark: | | |
+flameshot | screenshot tool | :heavy_multiplication_x: | [flameshot](https://github.com/lupoDharkael/flameshot) | |
 flashlight | auto info tool for pen tests | :heavy_multiplication_x: | [flashlight](https://github.com/galkan/flashlight) | |
 flasm | dis/assembler for Flash bytecode | :heavy_check_mark: | | |
 flawfinder | C/C++ code checker | :heavy_check_mark: | | simpler than [splint](#splint) |
@@ -287,6 +289,7 @@ freemind | mindmap editor | :heavy_multiplication_x: | [FreeMind](https://source
 freeplane | mindmap editor | :heavy_check_mark: | | Java-based |
 frescobaldi | sheet music editor | :heavy_check_mark: | | |
 freshmemory | flashcards | :heavy_multiplication_x: | [Fresh Memory](https://sourceforge.net/projects/freshmemory/) | |
+frogr | Flickr uploader/organiser | :heavy_check_mark: | | |
 fruitywifi | wireless network auditing tool | :heavy_multiplication_x: | [FruityWifi](https://github.com/xtr4nge/FruityWifi) | |
 fsarchiver | *tar.gz* alternative | :heavy_check_mark: | [fsarchiver](http://www.fsarchiver.org/) | |
 fsearch | file search | :heavy_multiplication_x: | [FSearch](http://www.fsearch.org/) | |
@@ -407,6 +410,7 @@ hydra | GUI network brute-forcer | :heavy_check_mark: | | <a id="hydra"></a> |
 hydrogen | drum machine | :heavy_check_mark: | | |
 i7z | Core CPU reporting | :heavy_check_mark: | | |
 icinga | [Nagios](#nagios)-like network monitor | :heavy_check_mark: | [Icinga](icinga.org) | |
+idle3 | Python IDE | :heavy_check_mark: | | |
 iftop | network interface usage | :heavy_check_mark: | | |
 imagemagick | terminal image manipulator | :heavy_check_mark: | | <a id="imagemagick"></a> |
 i-nex | system hardware lister | :heavy_multiplication_x: | [i-nex](https://sourceforge.net/projects/i-nex/) | uses Gambas |
@@ -530,8 +534,9 @@ moreutils | `combine`, `errno`, `isutf8`, [`parallel`](#parallel), `zrun` | :hea
 most | read `man` pages in colour | :heavy_check_mark: | | |
 mpd | music player daemon | :heavy_check_mark: | | (works remotely) |
 mpg123 | terminal MP3 player | :heavy_check_mark: | | decoding library very good |
-mplayer | movie player | :heavy_check_mark: | | |
+mplayer | movie player (terminal) | :heavy_check_mark: | | |
 mps-youtube | YouTube music player | :heavy_check_mark: | [mps-youtube](https://github.com/mps-youtube/mps-youtube) | |
+mpv | movie player (terminal) | :heavy_check_mark: | | based on mplayer |
 mtools | multi-cast connection tester | :heavy_multiplication_x: | | |
 mtr | `ping` and [`traceroute`](#traceroute) combined | :heavy_check_mark: | | also [mtr-tiny](#mtr-tiny) |
 mtr-tiny | `ping` and [`traceroute`](#traceroute) combined | :heavy_check_mark: | | <a id="mtr-tiny"></a> |
