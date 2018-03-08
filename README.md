@@ -764,6 +764,7 @@ scalpel | file recovery/data carver | :heavy_check_mark: | [scalpel](https://git
 screenruler | pixel ruler | :heavy_check_mark: | | |
 screenstudio | screencast creator | :heavy_multiplication_x: | [ScreenStudio](http://screenstudio.crombz.com/) | |
 scribus | desktop publisher/PDF editor | :heavy_check_mark: | | |
+scrypt | encryption utility | :heavy_check_mark: | [scrypt](https://github.com/Tarsnap/scrypt) | |
 secure-delete | wipe files/swap/memory | :heavy_check_mark: | | |
 sendemail | terminal email client | :heavy_check_mark: | | |
 sendmail | mail agent | :heavy_check_mark: | | |
