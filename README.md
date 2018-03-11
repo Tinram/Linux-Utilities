@@ -578,6 +578,7 @@ ngrep | network traffic grep | :heavy_check_mark: | | |
 nightingale | music player | :heavy_multiplication_x: | [Nightingale](http://getnightingale.com/) | |
 nikto | web server security scanner | :heavy_check_mark: | | |
 nipper-ng | security analysis of switches/routers | :heavy_multiplication_x: | | |
+nitroshare | network file transfer | :heavy_multiplication_x: | [nitroshare](https://github.com/nitroshare/nitroshare-desktop) | [NitroShare](https://nitroshare.net/) |
 nixnote | Evernote client | :heavy_multiplication_x: | [NixNote](https://sourceforge.net/projects/nevernote/) | |
 nload | network load | :heavy_check_mark: | | use `apt` |
 nltk | NLP for Python | :heavy_check_mark: | | |
@@ -997,6 +998,7 @@ xsel | access X clipboard (pipe in/out) | :heavy_check_mark: | | |
 xz-utils | xz files | :heavy_check_mark: | | |
 yara | EXE malware identifier | :heavy_check_mark: | | |
 youtube-dl | YouTube downloader | :heavy_check_mark: | | |
+youtube-dl-gui | youtube-dl GUI | :heavy_multiplication_x: | [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) | |
 yersinia | advanced, obtuse network vulnerabilities checker | :heavy_check_mark: | | |
 zabbix | network monitoring package | :heavy_check_mark: | | |
 zap | zed attack proxy | :heavy_multiplication_x: | | web app vulnerabilities |
