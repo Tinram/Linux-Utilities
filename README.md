@@ -125,6 +125,7 @@ clementine | music player/streamer | :heavy_check_mark: | | |
 cloc | count lines of code | :heavy_check_mark: | [CLOC](https://sourceforge.net/projects/cloc/) | most languages |
 clonezilla | HDD backup/cloner | :heavy_check_mark: | | |
 cloudcompare | photo to 3D point map | :heavy_multiplication_x: | [CloudCompare](http://cloudcompare.org/) | |
+clusterssh | admin. simultaneous SSH shells | :heavy_check_mark: | | |
 cmatrix | terminal Matrix | :heavy_check_mark: | | |
 cmdlauncher | commands to GUI | :heavy_multiplication_x: | [CmdLauncher](http://cmdlauncher.topbug.net/) | |
 cmospwd | CMOS/BIOS password recovery | :heavy_check_mark: | | pre-UEFI |
@@ -201,6 +202,7 @@ discourse | phpBB | :heavy_multiplication_x: | [Discourse](http://www.discourse.
 discover | automate pen test tasks | :heavy_multiplication_x: | [discover](https://github.com/leebaird/discover) | |
 dispcalgui | GUI for [Argyll](#argyll) colour management | :heavy_check_mark: | | <a id="dispcalgui"></a> |
 dmitry | server host info | :heavy_check_mark: | | |
+dnsmasq-utils | manage DHCP leases | :heavy_check_mark: | | |
 dnstracer | trace DNS queries to source | :heavy_check_mark: | | |
 dnswalk | DNS debugger/nameserver lookup | :heavy_check_mark: | | |
 docker | container runtime | :heavy_check_mark: | [Docker](docker.io) | <a id="docker"></a> |
