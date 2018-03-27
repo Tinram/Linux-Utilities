@@ -117,6 +117,7 @@ checksecurity | basic security check | :heavy_check_mark: | | |
 chaosreader | trace network sessions, export to HTML | :heavy_check_mark: | | |
 cherrytree | notes organiser with [7-Zip](#7zip) encryption | :heavy_check_mark: | [CentOS version](http://rpm.pbone.net/index.php3/stat/4/idpl/26487133/dir/redhat_el_6/com/cherrytree) | |
 chkrootkit | rootkit detector | :heavy_check_mark: | | |
+chm2pdf | *.chm* to PDF converter | :heavy_check_mark: | | |
 chntpw | change Windows SAM password | :heavy_check_mark: | | |
 cinelerra | non-linear video editor | :heavy_multiplication_x: | | |
 ckport | EXE function/call checker | :heavy_check_mark: | | |
@@ -316,6 +317,7 @@ gddrescue | `dd` drive/data recovery | :heavy_check_mark: | [ddrescue-gui](https
 gdm | GNOME display manager | :heavy_check_mark: | | |
 gdmap | visual HDD space usage | :heavy_check_mark: | | |
 geany | lightweight editor/IDE | :heavy_check_mark: | | |
+genisoimage | create CD/DVD images | :heavy_check_mark: | | |
 gespeaker | GUI for [eSpeak](#espeak) | :heavy_check_mark: | | <a id="gespeaker"></a> |
 gethead | HTTP header vulnerability tool | :heavy_multiplication_x: | [gethead](https://github.com/httphacker/gethead) | |
 gfortran | GNU Fortran 95 compiler | :heavy_check_mark: | | |
