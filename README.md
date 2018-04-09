@@ -78,7 +78,7 @@ bing-ip2hosts | enumerate hostnames via Bing | :heavy_check_mark: | | |
 binstats | binary stats | :heavy_check_mark: | | overview of installed binaries |
 binwalk | binary file searcher | :heavy_check_mark: | [binwalk](https://github.com/devttys0/binwalk) | sub-files + code |
 birdfont | font editor | :heavy_multiplication_x: | [BirdFont](http://birdfont.org) | |
-bleachbit | file cleaner | :heavy_check_mark: | | |
+bleachbit | system cleaner | :heavy_check_mark: | | |
 bless | GUI hex editor | :heavy_check_mark: | | |
 bluelog | Bluetooth scanner | :heavy_multiplication_x: | | |
 blueman | GUI for Bluetooth | :heavy_check_mark: | | |
@@ -153,7 +153,7 @@ cppcheck | C code linter | :heavy_check_mark: | | |
 cpuid | x86 CPU info | :heavy_check_mark: | | |
 credcrack | credential harvester | :heavy_multiplication_x: | [CredCrack](https://github.com/gojhonny/CredCrack) | |
 crunch | password list generator | :heavy_check_mark: | | |
-cryptcat | encrypted [netcat](#netcat) | :heavy_check_mark: | | |
+cryptcat | encrypted [netcat](#netcat) | :heavy_check_mark: | | [flawed?](https://github.com/deurstijl/decryptcat) |
 cryptocat | encrypted IM | :heavy_multiplication_x: | [CryptoCat](https://crypto.cat/) | |
 cryptkeeper | GUI encfs for GNOME | :heavy_check_mark: | | |
 cryptote | encrypted tabbed notes | :heavy_multiplication_x: | [Cryptote](http://panthema.net/2009/cryptote/#downloads) | |
