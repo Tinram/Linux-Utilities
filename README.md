@@ -1006,7 +1006,7 @@ youtube-dl-gui | youtube-dl GUI | :heavy_multiplication_x: | [youtube-dl-gui](ht
 yersinia | advanced, obtuse network vulnerabilities checker | :heavy_check_mark: | | |
 zabbix | network monitoring package | :heavy_check_mark: | | |
 zap | zed attack proxy | :heavy_multiplication_x: | | web app vulnerabilities |
-zeal | documentation browser | :heavy_multiplication_x: | [Zeal](https://github.com/zealdocs/zeal) | |
+zeal | programming language docs browser | :heavy_check_mark: | [Zeal](https://github.com/zealdocs/zeal) | |
 zeit | GUI for *at* and *cron* | :heavy_multiplication_x: | [zeit](https://bitbucket.org/blaze/zeit) | |
 zenmap | [NMap](#nmap) GUI | :heavy_check_mark: | | |
 zentyal | server GUI set-up + MS Exchange replacement | :heavy_check_mark: | | |
