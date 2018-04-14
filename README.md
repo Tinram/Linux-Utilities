@@ -695,6 +695,7 @@ pwgen | password generator | :heavy_check_mark: | | |
 pychecker | Python error checker | :heavy_check_mark: | | |
 pylint | Python code static checker | :heavy_check_mark: | | |
 pylint3 | Python 3 code static checker | :heavy_check_mark: | | |
+pypy | Python JIT compiler | :heavy_check_mark: | | |
 pyrenamer | mass file renamer | :heavy_check_mark: | | |
 pyrit | GPU WPA2 wireless cracker | :heavy_check_mark: | | |
 python-evdev | generic input event interface | :heavy_check_mark: | | |
