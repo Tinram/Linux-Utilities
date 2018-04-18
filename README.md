@@ -7,7 +7,7 @@ Alphabetical list of 980+ Linux programs and packages - somewhat biased to my wo
 
 ###### *List is 1% of the packages in the main Ubuntu repo.*
 
-A tick in the repo column means the package should exist in the main Ubuntu repo. Nevertheless, some packages can be hidden away - these are marked with *'use apt'* - use `apt search <pkg>` to search and `sudo apt-get install <pkg>` to install.
+A tick in the repo column means the package should exist in the main Ubuntu repo. Nevertheless, some packages can be hidden away - these are marked with *'use apt'* - use `apt search <pkg>` to search and `sudo apt install <pkg>` to install.
 
 Some of the programs listed are included by default with Ubuntu-based distros. Nevertheless, they remain, since on some distro installs they are curiously absent.
 
@@ -883,6 +883,7 @@ texmaker | LaTeX editor | :heavy_check_mark: | | |
 tig | terminal [Git](#git) history viewer | :heavy_check_mark: | | |
 tiger | report root vulnerabilities | :heavy_check_mark: | | |
 tigerVNC | remote desktop | :heavy_check_mark: | | |
+timeshift | system restore utility | :heavy_check_mark: | | |
 tinyproxy | non-caching HTTP proxy | :heavy_check_mark: | | |
 tlp | laptop power manager | :heavy_multiplication_x: | [TLP](http://linrunner.de/en/tlp/tlp.html) | |
 tmux | terminal multiplexer | :heavy_check_mark: | | |
