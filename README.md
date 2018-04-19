@@ -3,7 +3,9 @@
 
 #### Sources: Ubuntu repository, GitHub, SourceForge, vendor websites.
 
-Alphabetical list of 980+ Linux programs and packages - somewhat biased to my work, interests, and anticipated needs. Compiled over a number of years from web searches, repo hunting, and Linux magazines.
+Alphabetical list of ~1,000 Linux programs and packages - somewhat biased to my work, interests, and needs when setting-up Linux boxes.
+
+Compiled over a number of years from web searches, repo hunting, and Linux magazines.
 
 ###### *List is 1% of the packages in the main Ubuntu repo.*
 
@@ -272,7 +274,8 @@ flameshot | screenshot tool | :heavy_multiplication_x: | [flameshot](https://git
 flashlight | auto info tool for pen tests | :heavy_multiplication_x: | [flashlight](https://github.com/galkan/flashlight) | |
 flasm | dis/assembler for Flash bytecode | :heavy_check_mark: | | |
 flawfinder | C/C++ code checker | :heavy_check_mark: | | simpler than [splint](#splint) |
-flif | lossless image encoder | :heavy_multiplication_x: | [FLIF](https://github.com/FLIF-hub/FLIF) | |
+flif | free lossless image format encoder | :heavy_multiplication_x: | [FLIF](https://github.com/FLIF-hub/FLIF) | <a id="flif"></a> |
+flifcrush | [FLIF](#flif) image optimiser | :heavy_multiplication_x: | [flifcrush](https://github.com/matthiaskrgr/flifcrush) | <a id="flif"></a> |
 flightgear | flight simulator | :heavy_check_mark: | [flightgear](http://flightgear.com) | |
 flow | diagrams | :heavy_multiplication_x: | | |
 flowblade | video editor | :heavy_check_mark: | | |
@@ -908,6 +911,7 @@ tt-rss | tiny tiny RSS | :heavy_check_mark: | | |
 ttf-mscorefonts-installer | MS TTF fonts | :heavy_check_mark: | | |
 tuxguitar | music app including scoresheet | :heavy_check_mark: | [Tuxguitar](http://tuxguitar.herac.com.ar) | |
 ubuntu-tweak | Ubuntu config tool | :heavy_check_mark: | | use `apt` |
+ugui_flif | GUI for [FLIF](#flif) | :heavy_multiplication_x: | [UGUI_FLIF](https://github.com/FLIF-hub/UGUI_FLIF) | |
 ufraw | RAW importer | :heavy_check_mark: | | |
 ufw | firewall | :heavy_check_mark: | | <a id="ufw"></a> |
 umplayer | video player | :heavy_multiplication_x: | | supposed better DVD playback than VLC |
