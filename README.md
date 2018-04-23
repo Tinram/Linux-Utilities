@@ -585,7 +585,7 @@ ngrep | network traffic grep | :heavy_check_mark: | | |
 nightingale | music player | :heavy_multiplication_x: | [Nightingale](http://getnightingale.com/) | |
 nikto | web server security scanner | :heavy_check_mark: | | |
 nipper-ng | security analysis of switches/routers | :heavy_multiplication_x: | | |
-nitroshare | network file transfer | :heavy_multiplication_x: | [nitroshare](https://github.com/nitroshare/nitroshare-desktop) | [NitroShare](https://nitroshare.net/) |
+nitroshare | cross-platform network file transfer | :heavy_multiplication_x: | [nitroshare](https://github.com/nitroshare/nitroshare-desktop) | [NitroShare](https://nitroshare.net/) |
 nixnote | Evernote client | :heavy_multiplication_x: | [NixNote](https://sourceforge.net/projects/nevernote/) | |
 nload | network load | :heavy_check_mark: | | use `apt` |
 nltk | NLP for Python | :heavy_check_mark: | | |
@@ -838,7 +838,7 @@ sslscan | SSL scanner | :heavy_check_mark: | | |
 sshfs | mount remote filesystem | :heavy_check_mark: | | GNOME already does this through gvfs |
 sshpass | send password to SCP etc from script | :heavy_check_mark: | | |
 sshtalk | SSH chat server | :heavy_multiplication_x: | | |
-sshuttle | VPN | :heavy_check_mark: | [sshuttle](https://github.com/apenwarr/sshuttle) | |
+sshuttle | VPN over SSH | :heavy_check_mark: | [sshuttle](https://github.com/apenwarr/sshuttle) | TCP, not UDP or ICMP |
 stacer | GUI system optimiser | :heavy_multiplication_x: | [Stacer](https://github.com/oguzhaninan/Stacer) | |
 standardnotes | notes app | :heavy_multiplication_x: | [standardnotes](https://github.com/standardnotes) | |
 statsprocessor | word generator | :heavy_multiplication_x: | | |
