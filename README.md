@@ -605,6 +605,7 @@ nutty | network utility | :heavy_multiplication_x: | [Nutty](https://launchpad.n
 nvidia-smi | NVIDIA GPU management CLI | :heavy_multiplication_x: | | |
 obnam | incremental daily backups with SFTP/GPG support | :heavy_check_mark: | | |
 obs | video recording/livestreaming | :heavy_multiplication_x: | [OBS](https://obsproject.com/) | |
+oclint | C/C++/ObjC static code analyser | :heavy_multiplication_x: | [oclint](https://github.com/oclint/oclint/) | [OCLint](http://oclint.org/) |
 ocrfeeder | OCR text scanner | :heavy_check_mark: | | |
 octave | numerical computation library and GUI | :heavy_check_mark: | | Matlab-like |
 oletoy | file format analyser | :heavy_multiplication_x: | [re-lab](https://github.com/renyxa/re-lab) | |
