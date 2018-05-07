@@ -192,6 +192,7 @@ devilspie2 | run script upon window interaction | :heavy_check_mark: | [Devilspi
 devede | create DVDs/DVD menus | :heavy_check_mark: | | |
 devscripts | Debian package maintenance | :heavy_multiplication_x: | | <a id="devscripts"></a> |
 devtodo | terminal ToDo list | :heavy_check_mark: | | |
+dh-autoreconf | autoreconf helper | :heavy_check_mark: | | |
 dhcpcd | DHCP server for auto-configuring networking | :heavy_check_mark: | | `sudo dhcpcd wlan0` |
 dhcpdump | parse DHCP packets from [`tcpdump`](#tcpdump) | :heavy_check_mark: | | |
 dia | diagram editor | :heavy_check_mark: | | |
@@ -1019,6 +1020,7 @@ zenmap | [NMap](#nmap) GUI | :heavy_check_mark: | | |
 zentyal | server GUI set-up + MS Exchange replacement | :heavy_check_mark: | | |
 zerotier | easy VPN | :heavy_multiplication_x: | [ZeroTier](http://zerotier.com) | |
 zim | 'desktop wiki' notepad | :heavy_check_mark: | | |
+zipcmp | zip contents comparison | :heavy_check_mark: | | |
 zmap | large network scanner | :heavy_check_mark: | | no actual connects like [NMap](#nmap), open ports |
 zopfli | zlib/gzip compressor | :heavy_check_mark: | [zopfli](https://github.com/google/zopfli) | |
 zurmo | CRM | :heavy_multiplication_x: | [Zurmo](https://github.com/google/zopfli) | |
