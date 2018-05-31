@@ -251,6 +251,7 @@ exelearning | authoring tool | :heavy_multiplication_x: | [eXeLearning](http://e
 exiftool | edit EXIF data | :heavy_check_mark: | [EXIFtool](http://sno.phy.queensu.ca/~phil/exiftool/) | |
 exmplayer | GUI for MPlayer | :heavy_check_mark: | | |
 extundelete | recover deleted files | :heavy_check_mark: | | |
+f3 | flash memory analyser | :heavy_multiplication_x: | [f3](https://github.com/AltraMayor/f3) | |
 fail2ban | set firewall rules for multiple wrong logins | :heavy_check_mark: | | <a id="fail2ban"></a> |
 fatback | recover data from disks/USBs | :heavy_check_mark: | | `fatback /dev/sdbx -o /recfiles -a` |
 fatsort | FAT filesystem file sorter | :heavy_check_mark: | | |
@@ -811,6 +812,7 @@ smbclient | Samba client | :heavy_check_mark: | | |
 smbmap | SMB network mapper | :heavy_multiplication_x: | [smbmap](https://github.com/ShawnDEvans/smbmap) | |
 smem | memory reporting tool | :heavy_check_mark: | | |
 smemstat | memory monitoring tool | :heavy_check_mark: | | |
+smilla-enlarger | image upscaler | :heavy_multiplication_x: | [smilla-enlarger](https://github.com/lupoDharkael/smilla-enlarger) | |
 smplayer | video player | :heavy_check_mark: | | GPU acceleration |
 snapper | BTRFS filesystem snapshots | :heavy_check_mark: | | |
 snort | IDS | :heavy_check_mark: | | |
