@@ -906,6 +906,7 @@ trash-cli | terminal trash bin control | :heavy_check_mark: | | `trash-empty`, `
 tree | terminal directory tree lister | :heavy_check_mark: | | |
 treeline | [TreePadLite](#treepadlite)/XML/bookmark editor | :heavy_check_mark: | [Treeline](http://treeline.bellz.org) | |
 treepadlite | notes manager | :heavy_multiplication_x: | [TreePadLite](http://www.treepad.com/linux/treepadlite/) | <a id="treepadlite"></a> |
+trelby | screenwriting program | :heavy_multiplication_x: | [Trelby](https://www.trelby.org/download/) | |
 trickle | bandwidth throttler | :heavy_check_mark: | | |
 trimage | PNG/JPG compressor | :heavy_check_mark: | | |
 trupax | encrypt files and folders | :heavy_multiplication_x: | [TruPax](https://coderslagoon.com/) | |
