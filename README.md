@@ -229,6 +229,7 @@ easy-rsa | certificate generator | :heavy_check_mark: | | very useful for OpenVP
 eiciel | GUI ACL editor | :heavy_check_mark: | [Eiciel](http://rofi.roger-ferrer.org/eiciel/) | |
 eko | audio editor | :heavy_multiplication_x: | [Eko](http://semiletov.org/eko/) | |
 elfparser | ELF analyser | :heavy_multiplication_x: | [ELF parser](http://elfparser.com/download.html) | |
+elfutils | ELF utilities | :heavy_check_mark: | | |
 emilpro | disassembler | :heavy_multiplication_x: | | |
 emma | [MySQL](#mysql) GUI editor | :heavy_check_mark: | | |
 encryptpad | text editor with encryption | :heavy_multiplication_x: | [EncryptPad](http://evpo.net/encryptpad/) | |
@@ -635,6 +636,7 @@ parted | disk partitioner | :heavy_check_mark: | | creates GPT partitions, but d
 passwordsafe | password vault | :heavy_check_mark: | [Password Safe](https://sourceforge.net/projects/passwordsafe/) | |
 patator | multi-purpose brute-forcer | :heavy_multiplication_x: | | |
 pavucontrol | PulseAudio volume control | :heavy_check_mark: | | |
+pax-utils | ELF checking utilities | :heavy_check_mark: | | *dumpelf*, *lddtree*, *pspax* etc |
 pdftotext | PDF to text | :heavy_check_mark: | | in poppler-utils |
 peazip | multi-zip GUI and converter | :heavy_multiplication_x: | [PeaZip](https://sourceforge.net/projects/peazip/) | |
 pemcracker | PEM cracker | :heavy_multiplication_x: | [pemcracker](https://github.com/bwall/pemcracker) | |
