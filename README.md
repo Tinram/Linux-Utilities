@@ -179,7 +179,7 @@ datacleaner | database scanner | :heavy_multiplication_x: | | |
 dateutils | terminal date/time utilities | :heavy_multiplication_x: | [Dateutils](http://www.fresse.org/dateutils/) | |
 davfs2 | mount WebDAV resource | :heavy_check_mark: | | |
 dban | disk destroyer | :heavy_multiplication_x: | [DBAN](https://dban.org/) | |
-dconf-editor | GUI editor for dconf database | :heavy_check_mark: | | |
+dconf-editor | GUI dconf editor | :heavy_check_mark: | | |
 dcraw | terminal RAW converter | :heavy_check_mark: | | |
 ddrescue | data recovery tool | :heavy_check_mark: | | see [gddrescue](#gddrescue) |
 deadbeef | music player | :heavy_multiplication_x: | [deadbeef](https://sourceforge.net/projects/deadbeef/) | ppa:starws-box/deadbeef-player |
@@ -381,7 +381,7 @@ grive2 | GDrive syncer | :heavy_multiplication_x: | [Grive2](https://github.com/
 grsynch | GUI for `rsync` | :heavy_check_mark: | [Grsynch](https://sourceforge.net/projects/grsync/) | |
 grub-customizer | GUI GRUB editor | :heavy_multiplication_x: | [GRUB customizer](https://launchpad.net/grub-customizer) | |
 gscan2pdf | PDFs from scans | :heavy_check_mark: | | |
-gsettings | GNOME database changer | :heavy_check_mark: | | |
+gsettings | GNOME config terminal tool | :heavy_check_mark: | | |
 gsmartcontrol | GUI for `smartctl` | :heavy_check_mark: | | |
 gstm | GNOME SSH tunnel manager | :heavy_check_mark: | | |
 gsync | GDrive syncer | :heavy_multiplication_x: | | `pip install gsync` |
