@@ -101,6 +101,7 @@ btscanner | scanner for Bluetooth devices | :heavy_check_mark: | | |
 bum | bootup manager | :heavy_check_mark: | | also [sysv-rc-conf](#sysv-rc-conf) |
 bvi | hex editor | :heavy_check_mark: | | vi-like |
 byobu | screen command manager/multiplexer | :heavy_check_mark: | | through function keys |
+byzanz | small screencast creator | :heavy_check_mark: | | |
 cadubi | ASCII art drawing | :heavy_check_mark: | | |
 calibre | eBook converter/library | :heavy_check_mark: | | |
 catfish | GUI file search using [mlocate](#mlocate) | :heavy_check_mark: | | |
