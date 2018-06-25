@@ -638,12 +638,12 @@ passwordsafe | password vault | :heavy_check_mark: | [Password Safe](https://sou
 patator | multi-purpose brute-forcer | :heavy_multiplication_x: | | |
 pavucontrol | PulseAudio volume control | :heavy_check_mark: | | |
 pax-utils | ELF checking utilities | :heavy_check_mark: | | *dumpelf*, *lddtree*, *pspax* etc |
-pdftotext | PDF to text | :heavy_check_mark: | | in poppler-utils |
+pdftotext | PDF to text | :heavy_check_mark: | | in *poppler-utils* |
 peazip | multi-zip GUI and converter | :heavy_multiplication_x: | [PeaZip](https://sourceforge.net/projects/peazip/) | |
 pemcracker | PEM cracker | :heavy_multiplication_x: | [pemcracker](https://github.com/bwall/pemcracker) | |
 pentbox | security and stability tester | :heavy_multiplication_x: | | |
 percona-toolkit | [MySQL](#mysql) toolkit | :heavy_check_mark: | | |
-perf | code performance monitor | :heavy_check_mark: | | |
+perf | performance analysis tools | :heavy_check_mark: | | in *linux-tools-common* |
 pdfbooklet | PDF printer | :heavy_multiplication_x: | [PDFbooklet](https://sourceforge.net/projects/pdfbooklet/) | |
 pdfcrack | PDF password cracker | :heavy_check_mark: | | |
 pdfedit | PDF editor | :heavy_check_mark: | | good at text, no image editing |
@@ -986,6 +986,7 @@ wtop | Apache top | :heavy_multiplication_x: | [wtop](https://github.com/Clockwo
 x264 | video encoder | :heavy_check_mark: | | |
 x265 | video compressor | :heavy_multiplication_x: | [x265](http://x265.org) | |
 x2go | remote GUI connection | :heavy_multiplication_x: | [X2Go](http://wiki.x2go.org/doku.php) | with SSH |
+x86info | CPU info | :heavy_check_mark: | | |
 xa65 | 6502 CPU cross-assembler | :heavy_check_mark: | [xa65](http://www.floodgap.com/retrotech/xa/) | |
 xaos | fractals | :heavy_check_mark: | | |
 xauth | X authentication - needed for remote X GUI | :heavy_check_mark: | | |
