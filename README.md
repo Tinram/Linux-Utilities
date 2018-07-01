@@ -338,8 +338,8 @@ gimp-ufraw | GIMP RAW importer | :heavy_check_mark: | | |
 git | source control | :heavy_check_mark: | | git, git-gui, gitk, gitg, git-doc, git-extras <a id="git"></a> |
 git-extras | [Git](#git) extensions | :heavy_check_mark: | | |
 gitg | [Git](#git) repo viewer | :heavy_check_mark: | | |
-git-gui | [Git](#git) GUI, integrates with gitk | :heavy_check_mark: | | `git gui` |
-gitk | [Git](#git) repo viewer | :heavy_check_mark: | | |
+git-gui | [Git](#git) GUI | :heavy_check_mark: | | `git gui` |
+gitk | [Git](#git) repo browser | :heavy_check_mark: | | |
 gkrellm | GUI system monitor | :heavy_check_mark: | | |
 glances | `top`-like app (sophisticated) | :heavy_multiplication_x: | [Glances](https://nicolargo.github.io/glances/) | `pip install glances` |
 glchess | chess | :heavy_check_mark: | | uses Crafty engine; use `apt` |
@@ -744,7 +744,7 @@ rcrack | cracker via rainbow tables | :heavy_multiplication_x: | | |
 rdiff-backup | remote incremental backup | :heavy_check_mark: | | |
 realvnc | remote desktop client | :heavy_check_mark: | | |
 reaver | router WPS PIN brute-forcer | :heavy_check_mark: | | |
-recoll | document text search | :heavy_check_mark: | | e.g. create text indexes of PDFs |
+recoll | desktop/network GUI search engine | :heavy_check_mark: | | |
 recsveditor | CSV editor | :heavy_multiplication_x: | [reCsvEditor](https://sourceforge.net/projects/recsveditor/) | Java-based |
 rednotebook | calendar and notebook | :heavy_check_mark: | [RedNotebook](https://sourceforge.net/projects/rednotebook/) | |
 reformat | text formatter | :heavy_check_mark: | | line length, margin |
@@ -890,7 +890,7 @@ testdisk | disk/partition recovery tool | :heavy_check_mark: | [TestDisk](https:
 tesseract-ocr | OCR processor | :heavy_check_mark: | | |
 tetravex | number block game | :heavy_check_mark: | | (gno) Tetravex |
 texmaker | LaTeX editor | :heavy_check_mark: | | |
-tig | terminal [Git](#git) history viewer | :heavy_check_mark: | | |
+tig | terminal [Git](#git) info viewer | :heavy_check_mark: | | |
 tiger | report root vulnerabilities | :heavy_check_mark: | | |
 tigerVNC | remote desktop | :heavy_check_mark: | | |
 timeshift | system restore utility | :heavy_check_mark: | | |
