@@ -46,6 +46,7 @@ arecabackup | backup | :heavy_multiplication_x: | [Areca Backup](http://areca-ba
 argus | IP network transaction auditor | :heavy_check_mark: | | |
 argyll | monitor colour callibrator | :heavy_check_mark: | | GUI is [dispcalgui](#dispcalgui) <a id="argyll"></a> |
 arista | media converter | :heavy_check_mark: | [Arista Transcoder](http://transcoder.org/) | |
+arpwatch | ethernet MAC address monitor | :heavy_check_mark: | | |
 asciinema | terminal activity recorder | :heavy_multiplication_x: | [asciinema](http://asciinema.org/) | `asciinema rec >> exit` |
 astyle | code indenter | :heavy_check_mark: | [Artistic Style](http://astyle.sourceforge.net/) | C/C++/Java; good for other langs too |
 asunder | CD ripper | :heavy_check_mark: | | |
@@ -309,6 +310,7 @@ funkload | web server benchmarker | :heavy_check_mark: | [FunkLoad](http://funkl
 fusil | fuzzer | :heavy_check_mark: | | collection of scripts |
 fuzz | fuzz EXEs with datastream input | :heavy_check_mark: | | |
 fwbuilder | firewall admin GUI | :heavy_check_mark: | | |
+fwlogwatch | firewall log analyser | :heavy_check_mark: | | |
 gadmin-samba | GUI config for Samba | :heavy_check_mark: | | |
 gadmin-rsync | GUI config for `rsync` | :heavy_check_mark: | | |
 gadmin-openvpn-client | GUI config for OpenVPN | :heavy_check_mark: | | |
@@ -587,6 +589,7 @@ newsbeuter | terminal RSS reader | :heavy_check_mark: | | |
 nginx | web/proxy server | :heavy_check_mark: | | |
 ngrep | network traffic grep | :heavy_check_mark: | | |
 nightingale | music player | :heavy_multiplication_x: | [Nightingale](http://getnightingale.com/) | |
+nikola | static website generator | :heavy_check_mark: | | |
 nikto | web server security scanner | :heavy_check_mark: | | |
 nipper-ng | security analysis of switches/routers | :heavy_multiplication_x: | | |
 nitroshare | cross-platform network file transfer | :heavy_multiplication_x: | [nitroshare](https://github.com/nitroshare/nitroshare-desktop) | [NitroShare](https://nitroshare.net/) |
