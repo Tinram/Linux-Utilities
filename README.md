@@ -653,6 +653,7 @@ pdfedit | PDF editor | :heavy_check_mark: | | good at text, no image editing |
 pdfgrep | PDF search | :heavy_check_mark: | [PDFgrep](https://pdfgrep.org/) |
 pdfmod | PDF editor | :heavy_check_mark: | | simple but good: edit meta data, remove page, extract page |
 pdnsd | proxy DNS server | :heavy_check_mark: | | |
+perf-tools-unstable | `perf` helper tools by Brendan Gregg | :heavy_check_mark: | | *iosnoop*, *iolatency*, *uprobe* |
 pgadmin3 | GUI admin for [PostgresSQL](#postgressql) | :heavy_check_mark: | | |
 pgpdump | GPG/PGP file visualiser | :heavy_check_mark: | | |
 phatch | batch image converter | :heavy_check_mark: | | |
@@ -696,7 +697,7 @@ profile-sync-daemon | move browser profiles to RAM | :heavy_multiplication_x: | 
 prometheus.io | [Nagios](#nagios) replacement for microservices | :heavy_multiplication_x: | [Prometheus](https://github.com/prometheus) | |
 proxychains | redirect connections through proxy servers | :heavy_check_mark: | | |
 psad | port scan detector | :heavy_check_mark: | | from iptables |
-psensor | sensors | :heavy_check_mark: | | |
+psensor | temperature sensors GUI | :heavy_check_mark: | | |
 pst-utils | read MS Outlook *.pst* files | :heavy_check_mark: | | *.pst* to *.mbox* |
 publican | docbook XML publisher | :heavy_check_mark: | | |
 puddletag | music file tag editor | :heavy_check_mark: | | |
@@ -855,6 +856,7 @@ statsprocessor | word generator | :heavy_multiplication_x: | | |
 strace | system call tracer | :heavy_check_mark: | | |
 stress | stress CPU/memory/disk | :heavy_check_mark: | | |
 structure-synth | 3D structure generator | :heavy_check_mark: | | |
+s-tui | terminal sensors/hardware monitor | :heavy_multiplication_x: | [s-tui](https://github.com/amanusk/s-tui) | |
 stunnel | SSL tunnel for own apps | :heavy_check_mark: | [STunnel](https://www.stunnel.org/index.html) | |
 subbrute | enumerate DNS records/subdomains | :heavy_multiplication_x: | [subbrute](https://github.com/TheRook/subbrute) | |
 subversion | SVN | :heavy_check_mark: | | |
@@ -1013,6 +1015,7 @@ xrdp | RDP server | :heavy_check_mark: | | |
 xresprobe | X resolution probe | :heavy_check_mark: | | |
 xsane | document scanner GUI | :heavy_check_mark: | | |
 xscreensaver-data-extra | extra GNOME screensavers | :heavy_check_mark: | | |
+xsensors | temperature sensors GUI | :heavy_check_mark: | | |
 xspy | keylogger | :heavy_multiplication_x: | | ! |
 xsser | XSS auditor | :heavy_multiplication_x: | | |
 xul-ext-lightning | Thunderbird calendar | :heavy_check_mark: | | |
