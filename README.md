@@ -285,6 +285,7 @@ flightgear | flight simulator | :heavy_check_mark: | [flightgear](http://flightg
 flow | diagrams | :heavy_multiplication_x: | | |
 flowblade | video editor | :heavy_check_mark: | | |
 fmap | web app vulnerabilities | :heavy_multiplication_x: | | |
+focus | task reminder | :heavy_multiplication_x: | [Focus](https://github.com/nagyation/Focus) | |
 focuswriter | word processor | :heavy_check_mark: | | <a id="#focuswriter"></a> |
 fog | clone rollout system | :heavy_multiplication_x: | [FOG](https://sourceforge.net/projects/freeghost/files/FOG) | |
 fontforge | font editor | :heavy_multiplication_x: | [FontForge](https://github.com/fontforge) | |
@@ -316,6 +317,7 @@ gadmin-rsync | GUI config for `rsync` | :heavy_check_mark: | | |
 gadmin-openvpn-client | GUI config for OpenVPN | :heavy_check_mark: | | |
 gadmin-openvpn-server | config for OpenVPN | :heavy_check_mark: | | |
 gajim | GPG Jabber client | :heavy_check_mark: | | |
+gamemode | optimise system performance on demand  | :heavy_multiplication_x: | [gamemode](https://github.com/Feralinteractive/gamemode) | |
 gatling | static page web server | :heavy_check_mark: | | |
 gcad3d | CAD | :heavy_multiplication_x: | [gCAD3D](http://gcad3d.org/) | |
 gcc | GNU C compiler | :heavy_check_mark: | | |
@@ -505,6 +507,7 @@ lm-sensors | for `sensors` | :heavy_check_mark: | | |
 lmms | audio editor | :heavy_check_mark: | | |
 ln | vector image generator | :heavy_multiplication_x: | [ln](https://github.com/fogleman/ln) | |
 lnav | logfile reader with colour | :heavy_check_mark: | [lnav](http://lnav.org/) | |
+logisim | digital circuit designer | :heavy_multiplication_x: | [Logisim](https://sourceforge.net/projects/circuit/) | |
 logkeys | keylogger | :heavy_check_mark: | | ! |
 logwatch | log analysis emailer | :heavy_check_mark: | | |
 lshw-gtk | lshw hardware GUI | :heavy_check_mark: | | |
@@ -854,7 +857,7 @@ stacer | GUI system optimiser | :heavy_multiplication_x: | [Stacer](https://gith
 standardnotes | notes app | :heavy_multiplication_x: | [standardnotes](https://github.com/standardnotes) | |
 statsprocessor | word generator | :heavy_multiplication_x: | | |
 strace | system call tracer | :heavy_check_mark: | | |
-stress | stress CPU/memory/disk | :heavy_check_mark: | | |
+stress | stress CPU/memory/disk | :heavy_check_mark: | [stress](https://people.seas.harvard.edu/~apw/stress/) | |
 structure-synth | 3D structure generator | :heavy_check_mark: | | |
 s-tui | terminal sensors/hardware monitor | :heavy_multiplication_x: | [s-tui](https://github.com/amanusk/s-tui) | |
 stunnel | SSL tunnel for own apps | :heavy_check_mark: | [STunnel](https://www.stunnel.org/index.html) | |
