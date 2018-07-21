@@ -69,6 +69,7 @@ azpainter | image editor | :heavy_multiplication_x: | [AzPainter](https://osdn.n
 babeltrace | trace conversion | :heavy_check_mark: | | |
 babe-qt | tiny Qt music player | :heavy_multiplication_x: | [babe-qt](https://github.com/milohr/babe-qt) | |
 backerupper | *tar.gz* backups | :heavy_multiplication_x: | [Backerupper](https://sourceforge.net/projects/backerupper/) | allows file exclusion | |
+backintime | backup tool | :heavy_check_mark: | [backintime](https://github.com/bit-team/backintime)  | |
 bacula | backup | :heavy_check_mark: | | |
 bandwidthd | track network usage | :heavy_check_mark: | | HTML/image output|
 bashate | Bash script linter | :heavy_check_mark: | | |
@@ -187,7 +188,7 @@ ddrescue | data recovery tool | :heavy_check_mark: | | see [gddrescue](#gddrescu
 deadbeef | music player | :heavy_multiplication_x: | [deadbeef](https://sourceforge.net/projects/deadbeef/) | ppa:starws-box/deadbeef-player |
 debreate | Debian package manager | :heavy_multiplication_x: | [Debreate](https://antumdeluge.github.io/debreate-web/) | |
 debsums | package checksum comparisons | :heavy_check_mark: | | |
-deja-dup | backup tool | :heavy_check_mark: | | |
+deja-dup | backup tool | :heavy_check_mark: | [DejaDup](https://wiki.gnome.org/Apps/DejaDup)  | |
 denyhosts | SSH protection | :heavy_check_mark: | | |
 devicesinlan | LAN scanner | :heavy_multiplication_x: | [DevicesInLAN](https://sourceforge.net/projects/devicesinlan/) | |
 devilspie2 | run script upon window interaction | :heavy_check_mark: | [Devilspie2](http://gusnan.se/devilspie2/) | |
@@ -525,7 +526,7 @@ mandelbulber | 3D Mandelbrot | :heavy_check_mark: | | |
 mariadb-server | MariaDB | :heavy_check_mark: | | |
 mariadb-client | MariaDB | :heavy_check_mark: | | |
 markdown | Markdown to HTML | :heavy_check_mark: | | |
-masterpdfeditor | PDF editor | :heavy_multiplication_x: | [MasterPDFEditor](https://code-industry.net/get-masterpdfeditor/) | powerful, proprietary |
+masterpdfeditor | PDF editor | :heavy_multiplication_x: | [MasterPDFEditor](https://code-industry.net/get-masterpdfeditor/) | powerful but proprietary |
 mat | metadata anonymiser tool | :heavy_check_mark: | | use `apt`; `mat -d <file>` |
 maths | maths problem solver | :heavy_multiplication_x: | [maths](https://code.launchpad.net/~nasc-team) | ppa:nasc-team/daily |
 medusa | router/network brute-forcer | :heavy_check_mark: | | |
