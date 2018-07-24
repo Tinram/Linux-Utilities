@@ -91,6 +91,7 @@ bluetooth | Bluetooth support | :heavy_check_mark: | | |
 bluez | Bluetooth tools | :heavy_check_mark: | | |
 bmon | bandwidth monitor | :heavy_check_mark: | | |
 bootchart | boot time analyser | :heavy_check_mark: | | |
+borgbackup | terminal backup tool | :heavy_check_mark: | | uses compression and encryption |
 boxbackup-client | Box backup | :heavy_check_mark: | [boxbackup](http://www.boxbackup.org/) | `rsync`-like and encrypted |
 boxbackup-server | Box backup | :heavy_check_mark: | [boxbackup](http://www.boxbackup.org/) | |
 brandy | BBC Micro emulator | :heavy_check_mark: | | |
@@ -188,7 +189,7 @@ ddrescue | data recovery tool | :heavy_check_mark: | | see [gddrescue](#gddrescu
 deadbeef | music player | :heavy_multiplication_x: | [deadbeef](https://sourceforge.net/projects/deadbeef/) | ppa:starws-box/deadbeef-player |
 debreate | Debian package manager | :heavy_multiplication_x: | [Debreate](https://antumdeluge.github.io/debreate-web/) | |
 debsums | package checksum comparisons | :heavy_check_mark: | | |
-deja-dup | backup tool | :heavy_check_mark: | [DejaDup](https://wiki.gnome.org/Apps/DejaDup)  | |
+deja-dup | GUI backup tool using [duplicity](#duplicity) | :heavy_check_mark: | [DejaDup](https://wiki.gnome.org/Apps/DejaDup)  | GPG encryption, no compression |
 denyhosts | SSH protection | :heavy_check_mark: | | |
 devicesinlan | LAN scanner | :heavy_multiplication_x: | [DevicesInLAN](https://sourceforge.net/projects/devicesinlan/) | |
 devilspie2 | run script upon window interaction | :heavy_check_mark: | [Devilspie2](http://gusnan.se/devilspie2/) | |
@@ -224,7 +225,7 @@ drgeo | geometric sketcher | :heavy_check_mark: | | |
 dsniff | network sniffer | :heavy_check_mark: | | |
 dstat | resource stats tool | :heavy_check_mark: | [Dstat](http://dag.wiee.rs/home-made/dstat/) | |
 dukto | LAN transfer tool | :heavy_multiplication_x: | [dukto](https://github.com/guilhem/dukto) | |
-duplicity | encrypted backup | :heavy_check_mark: | [Duplicity](http://duplicity.nongnu.org/) | built on `rsync` |
+duplicity | encrypted backup | :heavy_check_mark: | [Duplicity](http://duplicity.nongnu.org/) | built on `rsync` <a id="duplicity"></a> |
 dvdbackup | DVD ripper | :heavy_check_mark: | | |
 e4defrag | ext4 defragger | :heavy_multiplication_x: | | |
 earlyoom | auto kill largest memory/swap hog | :heavy_multiplication_x: | [earlyoom](https://github.com/rfjakob/earlyoom) | |
