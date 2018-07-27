@@ -46,8 +46,8 @@ arecabackup | backup | :heavy_multiplication_x: | [Areca Backup](http://areca-ba
 argus | IP network transaction auditor | :heavy_check_mark: | | |
 argyll | monitor colour callibrator | :heavy_check_mark: | | GUI is [dispcalgui](#dispcalgui) <a id="argyll"></a> |
 arista | media converter | :heavy_check_mark: | [Arista Transcoder](http://transcoder.org/) | |
-arpwatch | ethernet MAC address monitor | :heavy_check_mark: | | |
-asciinema | terminal activity recorder | :heavy_multiplication_x: | [asciinema](http://asciinema.org/) | `asciinema rec >> exit` |
+arpwatch | Ethernet MAC address monitor | :heavy_check_mark: | | |
+asciinema | terminal activity recorder | :heavy_multiplication_x: | [asciinema](http://asciinema.org/) [repo](https://github.com/asciinema/asciinema) | `asciinema rec >> exit` |
 astyle | code indenter | :heavy_check_mark: | [Artistic Style](http://astyle.sourceforge.net/) | C/C++/Java; good for other langs too |
 asunder | CD ripper | :heavy_check_mark: | | |
 athena-jot | data generator | :heavy_check_mark: | | |
@@ -96,7 +96,7 @@ boxbackup-client | Box backup | :heavy_check_mark: | [boxbackup](http://www.boxb
 boxbackup-server | Box backup | :heavy_check_mark: | [boxbackup](http://www.boxbackup.org/) | |
 brandy | BBC Micro emulator | :heavy_check_mark: | | |
 brasero | ISO burner | :heavy_check_mark: | | |
-bridge-utils | configure ethernet bridge | :heavy_check_mark: | | |
+bridge-utils | configure Ethernet bridge | :heavy_check_mark: | | |
 broadband-speed | | :heavy_multiplication_x: | [speedtest-cli](https://github.com/sivel/speedtest-cli) | |
 brutex | combine [WFuzz](#wfuzz)/[Hydra](#hydra) to brute-force ports | :heavy_multiplication_x: | [BruteX](https://github.com/1N3/BruteX) | |
 btproxy | MITM Bluetooth analysis | :heavy_multiplication_x: | [btproxy](https://github.com/conorpp/btproxy ) | |
@@ -248,7 +248,7 @@ espeak | audio speaker + GUIs | :heavy_check_mark: | | GUI is [gespeaker](#gespe
 etcher | flash OS images to USB | :heavy_check_mark: | [etcher.io](https://etcher.io/) [etcher](https://github.com/resin-io/etcher) | |
 etckeeper | version control of */etc* | :heavy_check_mark: | | |
 etherape | GUI network monitor | :heavy_check_mark: | | |
-ethtool | display/change ethernet device settings | :heavy_check_mark: | | |
+ethtool | display/change Ethernet device settings | :heavy_check_mark: | | |
 etcher | ISO to USB | :heavy_multiplication_x: | [Etcher](https://etcher.io/) | Chrome-bloated |
 etm | event and task manager | :heavy_multiplication_x: | [ETM](http://people.duke.edu/~dgraham/etmqt/) | |
 exa | colourful file lister | :heavy_multiplication_x: | [Exa](https://the.exa.website/) | |
