@@ -505,6 +505,7 @@ linux-firmware | drivers | :heavy_check_mark: | | apparently includes wireless d
 linux-malware-detect | Linux malware detector | :heavy_multiplication_x: | [linux-malware-detect](https://github.com/rfxn/linux-malware-detect) | |
 linuxrespin | distro builder | :heavy_multiplication_x: | [Linux Respin](http://www.linuxrespin.org/) | |
 lives | video editor | :heavy_check_mark: | | requires x264, gpac for decent output |
+lldpd | LLDP discovery daemon | :heavy_check_mark: | | discover LAN switches etc, `lldpctl`, `lldpcli` |
 lm-sensors | for `sensors` | :heavy_check_mark: | | |
 lmms | audio editor | :heavy_check_mark: | | |
 ln | vector image generator | :heavy_multiplication_x: | [ln](https://github.com/fogleman/ln) | |
