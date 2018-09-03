@@ -828,6 +828,7 @@ smemstat | memory monitoring tool | :heavy_check_mark: | | |
 smilla-enlarger | image upscaler | :heavy_multiplication_x: | [smilla-enlarger](https://github.com/lupoDharkael/smilla-enlarger) | |
 smplayer | video player | :heavy_check_mark: | | GPU acceleration |
 snapper | BTRFS filesystem snapshots | :heavy_check_mark: | | |
+sngrep | SIP messages flow viewer | :heavy_check_mark: | [Sngrep wiki](https://github.com/irontec/sngrep/wiki) | |
 snort | IDS | :heavy_check_mark: | | |
 sntop | poll servers | :heavy_check_mark: | | |
 socat | relay for bidirectional data transfer | :heavy_check_mark: | | bench etc |
