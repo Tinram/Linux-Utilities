@@ -942,7 +942,7 @@ units | terminal unit converter | :heavy_check_mark: | | |
 unoconv | MS Office *.doc* converter | :heavy_multiplication_x: | [Unoconv](http://dag.wiee.rs/home-made/unoconv/) | |
 unshield | extract *.cab* files from InstallShield | :heavy_check_mark: | | |
 unsort | jumbles lines in file | :heavy_check_mark: | | |
-usbview | GUI `lsusb` | :heavy_check_mark: | | |
+usbview | GUI `lsusb` | :heavy_check_mark: | [usbview](https://github.com/gregkh/usbview) | |
 valac | Vala compiler | :heavy_check_mark: | | |
 valentinastudio | [MySQL](#mysql)/[PostgreSQL](postgresql)/MSSQL browser| :heavy_multiplication_x: | [Valentina Studio](http://valentina-db.com/en/all-downloads/vstudio/current) | |
 valgrind | memory debugger and profiler | :heavy_check_mark: | | <a id="valgrind"></a> |
