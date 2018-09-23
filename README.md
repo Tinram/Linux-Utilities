@@ -705,6 +705,7 @@ prometheus.io | [Nagios](#nagios) replacement for microservices | :heavy_multipl
 proxychains | redirect connections through proxy servers | :heavy_check_mark: | | |
 psad | port scan detector | :heavy_check_mark: | | from iptables |
 psensor | temperature sensors GUI | :heavy_check_mark: | | |
+pspp | statistical analysis | :heavy_check_mark: | [PSPP](http://www.gnu.org/software/pspp/) | SPSS replacement |
 pst-utils | read MS Outlook *.pst* files | :heavy_check_mark: | | *.pst* to *.mbox* |
 publican | docbook XML publisher | :heavy_check_mark: | | |
 puddletag | music file tag editor | :heavy_check_mark: | | |
