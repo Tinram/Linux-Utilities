@@ -528,6 +528,7 @@ mandelbulber | 3D Mandelbrot | :heavy_check_mark: | | |
 mariadb-server | MariaDB | :heavy_check_mark: | | |
 mariadb-client | MariaDB | :heavy_check_mark: | | |
 markdown | Markdown to HTML | :heavy_check_mark: | | |
+marker | Markdown editor | :heavy_multiplication_x: | [Marker](https://github.com/fabiocolacio/Marker) | |
 masterpdfeditor | PDF editor | :heavy_multiplication_x: | [MasterPDFEditor](https://code-industry.net/get-masterpdfeditor/) | powerful but proprietary |
 mat | metadata anonymiser tool | :heavy_check_mark: | | use `apt`; `mat -d <file>` |
 maths | maths problem solver | :heavy_multiplication_x: | [maths](https://code.launchpad.net/~nasc-team) | ppa:nasc-team/daily |
@@ -740,6 +741,7 @@ quiterss | RSS reader | :heavy_check_mark: | | uses WebKit |
 qupzilla | lightweight Chromium-based browser | :heavy_check_mark: | | |
 rabbitvcs | SVN GUI | :heavy_check_mark: | | |
 radamsa | fuzzer | :heavy_multiplication_x: | [radamsa](https://github.com/aoh/radamsa) | compilation fine now |
+radeon-profile | Radeon GPU profiler | :heavy_multiplication_x: | [radeon-profile](https://github.com/marazmista/radeon-profile) | |
 radeontop | Radeon GPU top | :heavy_check_mark: | | |
 rand | random character generator | :heavy_check_mark: | | |
 rapidsvn | SVN GUI | :heavy_check_mark: | | |
