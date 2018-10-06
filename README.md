@@ -445,6 +445,7 @@ inxi | system info | :heavy_multiplication_x: | | in CentOS repo |
 ioping | disk I/O benchmarker | :heavy_check_mark: | | |
 iotop | I/O monitor | :heavy_check_mark: | | |
 iperf | network bandwidth performance | :heavy_check_mark: | | |
+iperf3 | network bandwidth performance | :heavy_check_mark: | | |
 ipgrab | [`tcpdump`](#tcpdump)-like, detailed header info | :heavy_check_mark: | | more explicit than [`tcpdump`](#tcpdump) |
 iproute2 | IP tools | :heavy_check_mark: | | |
 ipsec-tools | IPsec utilities | :heavy_check_mark: | | |
@@ -840,7 +841,7 @@ sonic-pi | coding synth | :heavy_check_mark: | | |
 sox | terminal audio file manipulator | :heavy_check_mark: | | |
 sparta | internal network infrastructure pen tool | :heavy_multiplication_x: | [sparta](https://github.com/secforce/sparta) | |
 sparkleshare | Dropbox alternative using SSH and [Git](#git) | :heavy_check_mark: | | |
-speedtest-cli | bandwidth speed tester | :heavy_check_mark: | [speedtest-cli](https://github.com/sivel/speedtest-cli) | `pip install speedtest-cli` |
+speedtest-cli | terminal Internet bandwidth speed tester | :heavy_check_mark: | [speedtest-cli](https://github.com/sivel/speedtest-cli) | `pip install speedtest-cli` |
 spek | acoustic spectrum analyser | :heavy_check_mark: | [spek](https://github.com/alexkay/spek) | |
 splint | C linter | :heavy_check_mark: | | <a id="splint"></a> |
 sqlbrute | brute-force SQL injection | :heavy_multiplication_x: | [SQLBrute](https://github.com/GDSSecurity/SQLBrute) | |
