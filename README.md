@@ -3,13 +3,11 @@
 
 #### Sources: Ubuntu repository, GitHub, SourceForge, vendor websites.
 
-Alphabetical list of ~1,000 Linux programs and packages - somewhat biased to my work, interests, and needs when setting-up Linux boxes.
+Alphabetical list of ~1,000 Linux programs and packages - somewhat biased to my work, interests, and needs when setting-up Linux boxes. Collated over a number of years from Linux magazines, web searches, and repo hunting.
 
-Compiled over a number of years from web searches, repo hunting, and Linux magazines.
+###### *List is just 1% of the packages in the main Ubuntu repo.*
 
-###### *List is 1% of the packages in the main Ubuntu repo.*
-
-A tick in the repo column means the package should exist in the main Ubuntu repo. Nevertheless, some packages can be hidden away &ndash; these are marked with *'use apt'* &ndash; use `apt search <pkg>` to search and `sudo apt install <pkg>` to install.
+A tick in the repo column means the package should exist in the main Ubuntu repo. Nevertheless, some packages can be hidden away &ndash; these are marked with *'use apt'* (`apt search <pkg>` to search and `sudo apt install <pkg>` to install).
 
 Some of the programs listed are included by default with Ubuntu-based distros. Nevertheless, they remain, since on some distro installs they are curiously absent.
 
