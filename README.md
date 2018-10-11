@@ -67,7 +67,7 @@ azpainter | image editor | :heavy_multiplication_x: | [AzPainter](https://osdn.n
 babeltrace | trace conversion | :heavy_check_mark: | | |
 babe-qt | tiny Qt music player | :heavy_multiplication_x: | [babe-qt](https://github.com/milohr/babe-qt) | |
 backerupper | *tar.gz* backups | :heavy_multiplication_x: | [Backerupper](https://sourceforge.net/projects/backerupper/) | allows file exclusion | |
-backintime | backup tool | :heavy_check_mark: | [backintime](https://github.com/bit-team/backintime)  | |
+backintime | backup tool | :heavy_check_mark: | [backintime](https://github.com/bit-team/backintime) | |
 bacula | backup | :heavy_check_mark: | | |
 bandwidthd | track network usage | :heavy_check_mark: | | HTML/image output|
 bashate | Bash script linter | :heavy_check_mark: | | |
@@ -187,7 +187,7 @@ ddrescue | data recovery tool | :heavy_check_mark: | | see [gddrescue](#gddrescu
 deadbeef | music player | :heavy_multiplication_x: | [deadbeef](https://sourceforge.net/projects/deadbeef/) | ppa:starws-box/deadbeef-player |
 debreate | Debian package manager | :heavy_multiplication_x: | [Debreate](https://antumdeluge.github.io/debreate-web/) | |
 debsums | package checksum comparisons | :heavy_check_mark: | | |
-deja-dup | GUI backup tool using [duplicity](#duplicity) | :heavy_check_mark: | [DejaDup](https://wiki.gnome.org/Apps/DejaDup)  | GPG encryption, no compression |
+deja-dup | GUI backup tool using [duplicity](#duplicity) | :heavy_check_mark: | [DejaDup](https://wiki.gnome.org/Apps/DejaDup) | GPG encryption, no compression |
 denyhosts | SSH protection | :heavy_check_mark: | | |
 devicesinlan | LAN scanner | :heavy_multiplication_x: | [DevicesInLAN](https://sourceforge.net/projects/devicesinlan/) | |
 devilspie2 | run script upon window interaction | :heavy_check_mark: | [Devilspie2](http://gusnan.se/devilspie2/) | |
@@ -317,7 +317,7 @@ gadmin-rsync | GUI config for `rsync` | :heavy_check_mark: | | |
 gadmin-openvpn-client | GUI config for OpenVPN | :heavy_check_mark: | | |
 gadmin-openvpn-server | config for OpenVPN | :heavy_check_mark: | | |
 gajim | GPG Jabber client | :heavy_check_mark: | | |
-gamemode | optimise system performance on demand  | :heavy_multiplication_x: | [gamemode](https://github.com/Feralinteractive/gamemode) | |
+gamemode | optimise system performance on demand | :heavy_multiplication_x: | [gamemode](https://github.com/Feralinteractive/gamemode) | |
 gatling | static page web server | :heavy_check_mark: | | |
 gcad3d | CAD | :heavy_multiplication_x: | [gCAD3D](http://gcad3d.org/) | |
 gcc | GNU C compiler | :heavy_check_mark: | | |
@@ -839,6 +839,7 @@ sonic-pi | coding synth | :heavy_check_mark: | | |
 sox | terminal audio file manipulator | :heavy_check_mark: | | |
 sparta | internal network infrastructure pen tool | :heavy_multiplication_x: | [sparta](https://github.com/secforce/sparta) | |
 sparkleshare | Dropbox alternative using SSH and [Git](#git) | :heavy_check_mark: | | |
+spectre-meltdown-checker | Spectre and Meltdown vulnerability/mitigation checker | :heavy_multiplication_x: | [spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker) | |
 speedtest-cli | terminal Internet bandwidth speed tester | :heavy_check_mark: | [speedtest-cli](https://github.com/sivel/speedtest-cli) | `pip install speedtest-cli` |
 spek | acoustic spectrum analyser | :heavy_check_mark: | [spek](https://github.com/alexkay/spek) | |
 splint | C linter | :heavy_check_mark: | | <a id="splint"></a> |
@@ -865,7 +866,7 @@ statsprocessor | word generator | :heavy_multiplication_x: | | |
 strace | system call tracer | :heavy_check_mark: | | |
 stress | stress CPU/memory/disk | :heavy_check_mark: | [stress](https://people.seas.harvard.edu/~apw/stress/) | |
 structure-synth | 3D structure generator | :heavy_check_mark: | | |
-s-tui | terminal sensors/hardware monitor | :heavy_multiplication_x: | [s-tui](https://github.com/amanusk/s-tui) | |
+s-tui | terminal hardware monitor | :heavy_multiplication_x: | [s-tui](https://github.com/amanusk/s-tui/releases) | |
 stunnel | SSL tunnel for own apps | :heavy_check_mark: | [STunnel](https://www.stunnel.org/index.html) | |
 subbrute | enumerate DNS records/subdomains | :heavy_multiplication_x: | [subbrute](https://github.com/TheRook/subbrute) | |
 subversion | SVN | :heavy_check_mark: | | |
