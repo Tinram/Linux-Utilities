@@ -344,6 +344,7 @@ git-extras | [Git](#git) extensions | :heavy_check_mark: | | |
 gitg | [Git](#git) repo viewer | :heavy_check_mark: | | |
 git-gui | [Git](#git) GUI | :heavy_check_mark: | | `git gui` |
 gitk | [Git](#git) repo browser | :heavy_check_mark: | | |
+gitkraken | [Git](#git) GUI | :heavy_multiplication_x: | [GitKraken](https://www.gitkraken.com/) | |
 gkrellm | GUI system monitor | :heavy_check_mark: | | |
 glances | `top`-like app (sophisticated) | :heavy_multiplication_x: | [Glances](https://nicolargo.github.io/glances/) | `pip install glances` |
 glchess | chess | :heavy_check_mark: | | uses Crafty engine; use `apt` |
@@ -531,6 +532,7 @@ marker | Markdown editor | :heavy_multiplication_x: | [Marker](https://github.co
 masterpdfeditor | PDF editor | :heavy_multiplication_x: | [MasterPDFEditor](https://code-industry.net/get-masterpdfeditor/) | powerful but proprietary |
 mat | metadata anonymiser tool | :heavy_check_mark: | | use `apt`; `mat -d <file>` |
 maths | maths problem solver | :heavy_multiplication_x: | [maths](https://code.launchpad.net/~nasc-team) | ppa:nasc-team/daily |
+mattermost | team messaging | :heavy_multiplication_x: | [Mattermost](https://www.mattermost.org/) | |
 medusa | router/network brute-forcer | :heavy_check_mark: | | |
 meld | GUI `sdiff` | :heavy_check_mark: | | |
 mermaid | diagrams with Markdown derivative | :heavy_multiplication_x: | [Mermaid](https://github.com/knsv/mermaid) | |
@@ -818,7 +820,7 @@ skipfish | web app recon tool | :heavy_check_mark: | | |
 skrooge | money accounting | :heavy_check_mark: | | |
 skype | | :heavy_check_mark: | | <a id="skype"></a> |
 skype-ghetto | | :heavy_multiplication_x: | [ghetto-skype](https://github.com/stanfieldr/ghetto-skype) | Electron-wrapped web Skype |
-slack | multi-server config manager | :heavy_check_mark: | | uses existing tools |
+slack-desktop | team messenger | :heavy_check_mark: | | proprietary |
 slowhttptest | server stress tool | :heavy_check_mark: | | |
 slurm | bandwidth monitor | :heavy_check_mark: | | |
 smartdeblur | restore blurred images | :heavy_multiplication_x: | [SmartDeblur](https://github.com/Y-Vladimir/SmartDeblur) | |
