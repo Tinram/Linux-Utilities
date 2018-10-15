@@ -580,7 +580,7 @@ ncdu | Ncurses disk usage viewer | :heavy_check_mark: | | |
 ncrack | network cracker | :heavy_multiplication_x: | | |
 ncrypt | terminal file encrypt | :heavy_multiplication_x: | [Ncrypt](https://sourceforge.net/projects/ncrypt/) | only SHA-1 key hashing |
 ncursesfm | terminal file manager | :heavy_multiplication_x: | [ncursesFM](https://github.com/FedeDP/ncursesFM) | |
-neofetch | system info | :heavy_multiplication_x: | [neofetch](https://github.com/dylanaraps/neofetch) | |
+neofetch | system info | :heavy_check_mark: | [neofetch](https://github.com/dylanaraps/neofetch) | use `apt` |
 nemo-fileroller | FileRoller for Nemo | :heavy_check_mark: | | |
 netcat | TCP/IP Swiss army knife | :heavy_check_mark: | | <a id="netcat"></a> |
 netcatgui | GUI for [netcat](#netcat) | :heavy_multiplication_x: | [netcatgui](https://github.com/shinnok/netcatgui) | |
