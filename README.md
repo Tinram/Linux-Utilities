@@ -484,6 +484,7 @@ komodoedit | code editor | :heavy_multiplication_x: | | |
 krita | image editor | :heavy_check_mark: | [Krita](krita.org) | hand-drawn focus |
 krop | PDF cropper/editor | :heavy_multiplication_x: | [Krop](http://arminstraub.com/software/krop) | |
 ksnip | snipping tool | :heavy_multiplication_x: | [ksnip](https://github.com/DamirPorobic/ksnip) | |
+kwipe | data eraser | :heavy_multiplication_x: | [KWipe](https://www.linux-apps.com/p/1127891) | partition emphasis |
 lamaperia | printable maps from OpenStreetMap | :heavy_multiplication_x: | [Lamaperia](https://github.com/federicomenaquintero/lamaperia) | |
 lame | MP3 encoder | :heavy_check_mark: | | |
 lazagne | credentials recovery | :heavy_multiplication_x: | [LaZagne](https://github.com/AlessandroZ/LaZagne) | Windows version is identified as a Trojan |
