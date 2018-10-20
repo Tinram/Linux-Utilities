@@ -271,6 +271,7 @@ fileverifier | verify files | :heavy_multiplication_x: | | |
 filezilla | FTP/SFTP | :heavy_check_mark: | | |
 filezillasecure | Filezilla fork: multithreading | :heavy_multiplication_x: | [FileZillaSecure](http://www.filezillasecure.com/) | no plaintext passwords |
 findmyhash | queries multiple websites for hash | :heavy_multiplication_x: | [findmyhash](https://github.com/Talanor/findmyhash) | |
+fio | flexible I/O tester | :heavy_check_mark: | | | <a id="fio"></a>
 firejail | sandbox apps | :heavy_check_mark: | | [firejail](https://github.com/netblue30/firejail) |
 fishsynch | sync files | :heavy_multiplication_x: | [Fish Synch](https://sourceforge.net/projects/fishsync/) | |
 fiziko | pen-and-ink drawings from code | :heavy_multiplication_x: | [fiziko](https://github.com/jemmybutton/fiziko) | |
@@ -331,6 +332,7 @@ geany | lightweight editor/IDE | :heavy_check_mark: | | |
 genisoimage | create CD/DVD images | :heavy_check_mark: | | |
 gespeaker | GUI for [eSpeak](#espeak) | :heavy_check_mark: | | <a id="gespeaker"></a> |
 gethead | HTTP header vulnerability tool | :heavy_multiplication_x: | [gethead](https://github.com/httphacker/gethead) | |
+gfio | GUI for [fio](#fio) | :heavy_check_mark: | | |
 gfortran | GNU Fortran 95 compiler | :heavy_check_mark: | | |
 ghex | GUI hex viewer | :heavy_check_mark: | | |
 ghostwriter | [FocusWriter](#focuswriter)-like text editor | :heavy_multiplication_x: | [GhostWriter](http://wereturtle.github.io/ghostwriter/) | Markdown default |
