@@ -723,10 +723,11 @@ pylint3 | Python 3 code static checker | :heavy_check_mark: | | |
 pypy | Python JIT compiler | :heavy_check_mark: | | |
 pyrenamer | mass file renamer | :heavy_check_mark: | | |
 pyrit | GPU WPA2 wireless cracker | :heavy_check_mark: | | |
+python3-enigma | Enigma machine library | :heavy_check_mark: | [Py-Enigma](https://py-enigma.readthedocs.io/en/latest/) | |
 python-evdev | generic input event interface | :heavy_check_mark: | | |
 python-mysqldb | Python [MySQL](#mysql) API | :heavy_check_mark: | | <a id="python-mysqldb"></a> |
 python-pip | Python installer | :heavy_check_mark: | | `apt-get install python3-pip` |
-python(3)-psutil | psutil | :heavy_check_mark: | | access reporting tools through Python |
+python3-psutil | psutil | :heavy_check_mark: | | access reporting tools |
 python-setuptools | | :heavy_check_mark: | | needed for [python-mysqldb](#python-mysqldb) |
 qalc | terminal calculator | :heavy_check_mark: | | |
 qemu | processor emulator | :heavy_check_mark: | | `apt-get install kvm qemu-kvm qemu-kvmextras` <a id="qemu"></a> |
