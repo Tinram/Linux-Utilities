@@ -269,8 +269,9 @@ figlet | ASCII lettering from text | :heavy_check_mark: | | |
 filefrag | file defragger | :heavy_multiplication_x: | | |
 fileverifier | verify files | :heavy_multiplication_x: | | |
 filezilla | FTP/SFTP | :heavy_check_mark: | | |
-filezillasecure | Filezilla fork: multithreading | :heavy_multiplication_x: | [FileZillaSecure](http://www.filezillasecure.com/) | no plaintext passwords |
-findmyhash | queries multiple websites for hash | :heavy_multiplication_x: | [findmyhash](https://github.com/Talanor/findmyhash) | |
+filezillasecure | Filezilla fork: multithreading | :heavy_multiplication_x: | [FileZillaSecure](http://www.filezillasecure.com/) | no plaintext passwords version |
+findimagedupes | find duplicate/similar images | :heavy_check_mark: | | |
+findmyhash | query multiple websites for hash | :heavy_multiplication_x: | [findmyhash](https://github.com/Talanor/findmyhash) | |
 fio | flexible I/O tester | :heavy_check_mark: | | | <a id="fio"></a>
 firejail | sandbox apps | :heavy_check_mark: | | [firejail](https://github.com/netblue30/firejail) |
 fishsynch | sync files | :heavy_multiplication_x: | [Fish Synch](https://sourceforge.net/projects/fishsync/) | |
@@ -699,7 +700,8 @@ postgresql | PostgreSQL | :heavy_check_mark: | | <a id="postgressql"></a> |
 potamus | music player using directories | :heavy_multiplication_x: | [Potamus](http://offog.org/code/potamus/) | |
 povray | terminal raytracer | :heavy_check_mark: | | |
 powertop | power consumption analyser | :heavy_check_mark: | | |
-printer-driver | | :heavy_check_mark: | | |
+preload | adaptive binary preloader | :heavy_check_mark: | | |
+printer-driver- | various drivers | :heavy_check_mark: | | |
 privoxy | SOCKS requests to HTTP requests | :heavy_check_mark: | | block UDP leaks in [Tor](#tor) |
 procenv | show process environment | :heavy_check_mark: | [procenv](https://github.com/jamesodhunt/procenv) | |
 processing | programming language | :heavy_multiplication_x: | | |
