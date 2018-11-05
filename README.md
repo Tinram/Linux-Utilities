@@ -432,7 +432,7 @@ icinga | [Nagios](#nagios)-like network monitor | :heavy_check_mark: | [Icinga](
 idle3 | Python IDE | :heavy_check_mark: | | |
 iftop | network interface usage | :heavy_check_mark: | | |
 imagemagick | terminal image manipulator | :heavy_check_mark: | | <a id="imagemagick"></a> |
-i-nex | system hardware lister | :heavy_multiplication_x: | [i-nex](https://sourceforge.net/projects/i-nex/) | uses Gambas |
+i-nex | GUI system hardware lister | :heavy_multiplication_x: | [i-nex](http://i-nex.linux.pl/) | similar to CPU-Z |
 incron | daemon for file system events | :heavy_check_mark: | | |
 indent | C code indenter | :heavy_check_mark: | | |
 indicator-cpufreq | change CPU frequency | :heavy_check_mark: | | |
