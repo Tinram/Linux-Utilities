@@ -557,6 +557,7 @@ monit | notify upon server log-ins | :heavy_multiplication_x: | | |
 monitorix | GUI system monitor | :heavy_multiplication_x: | [Monitorix](http://www.monitorix.org/) | |
 moreutils | `combine`, `errno`, `isutf8`, [`parallel`](#parallel), `zrun` | :heavy_check_mark: | | <a id="moreutils"></a> |
 most | read `man` pages in colour | :heavy_check_mark: | | |
+mp3diags | MP3 file analyser | :heavy_check_mark: | | |
 mpd | music player daemon | :heavy_check_mark: | | (works remotely) |
 mpg123 | terminal MP3 player | :heavy_check_mark: | | decoding library very good |
 mplayer | movie player (terminal) | :heavy_check_mark: | | |
