@@ -442,6 +442,7 @@ inguma | pentest framework | :heavy_multiplication_x: | | |
 inkscape | vector imager | :heavy_check_mark: | | |
 innotop | [MySQL](#mysql) InnoDB monitor | :heavy_multiplication_x: | [innotop](https://github.com/innotop/innotop) [.deb](https://sourceforge.net/projects/innotop/) | exists in CentOS EPEL |
 inotify | monitor filesystem events | :heavy_check_mark: | | good for Samba folders |
+input-utils | kernel input layer utilities | :heavy_check_mark: | | *lsinput*, *input-events*, *input-kbd* |
 instarecon | auto digital recon | :heavy_multiplication_x: | [instarecon](https://github.com/vergl4s/instarecon) | high level recon |
 intel-gpu-tools | `intel_gpu_time`, `intel_gpu_top` | :heavy_check_mark: | | |
 inxi | system info | :heavy_multiplication_x: | | in CentOS repo |
@@ -808,7 +809,7 @@ sendmail | mail agent | :heavy_check_mark: | | |
 sentinel | 1980's game | :heavy_multiplication_x: | [Sentinel](https://github.com/kochsoft/free_sentinel_gl/wiki/Free-Sentinel-GL) | |
 sentry | brute-force blocker | :heavy_multiplication_x: | [sentry](https://github.com/msimerson/sentry) | |
 sfk | comprehensive file utilities | :heavy_multiplication_x: | [Swiss File Knife](http://stahlworks.com/dev/swiss-file-knife.html) | |
-sg3-utils | SCSI utils | :heavy_check_mark: | | |
+sg3-utils | SCSI utilities | :heavy_check_mark: | | |
 shellcheck | Bash lint | :heavy_check_mark: | [ShellCheck](http://www.shellcheck.net/) | |
 shellnoob | shell code generator | :heavy_multiplication_x: | | |
 shellpic | preview images in SSH | :heavy_multiplication_x: | [shellpic](https://github.com/larsjsol/shellpic) | |
