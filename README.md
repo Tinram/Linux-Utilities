@@ -1016,7 +1016,7 @@ x86info | CPU info | :heavy_check_mark: | | |
 xa65 | 6502 CPU cross-assembler | :heavy_check_mark: | [xa65](http://www.floodgap.com/retrotech/xa/) | |
 xaos | fractals | :heavy_check_mark: | | |
 xauth | X authentication - needed for remote X GUI | :heavy_check_mark: | | |
-xcalib | contains screen inverter | :heavy_check_mark: | | |
+xcalib | X monitor calibration | :heavy_check_mark: | | includes screen inverter <a id="xcalib"></a> |
 xchm | *.chm* file reader | :heavy_check_mark: | | |
 xclip | terminal to X clipboard | :heavy_check_mark: | | |
 xdebug | phpN-xdebug | :heavy_check_mark: | | where 'N' is version |
@@ -1032,6 +1032,7 @@ xnretro | retro photo effects | :heavy_multiplication_x: | | |
 xowa | Wikipedia reader | :heavy_multiplication_x: | [Xowa](https://sourceforge.net/projects/xowa/) | |
 xplico | network analysis | :heavy_multiplication_x: | [Xplico](http://www.xplico.org/) | browser-based |
 xprobe | remote OS identification | :heavy_check_mark: | | [NMap](#nmap)-like, calls `xprobe2` |
+xrandr-invert-colors | X screen inverter | :heavy_multiplication_x: | [xrandr-invert-colors](https://github.com/zoltanp/xrandr-invert-colors) | [xcalib](#xcalib) alternative |
 xrdp | RDP server | :heavy_check_mark: | | |
 xresprobe | X resolution probe | :heavy_check_mark: | | |
 xsane | document scanner GUI | :heavy_check_mark: | | |
