@@ -548,6 +548,7 @@ mdadm | software RAID controller | :heavy_check_mark: | | |
 meshlab | triangular mesh creator | :heavy_check_mark: | | |
 micro | text editor | :heavy_multiplication_x: | [micro](https://github.com/zyedidia/micro) | |
 midori | lightweight browser | :heavy_check_mark: | | |
+mindforger | Markdown notebook/IDE | :heavy_multiplication_x: | [mindforger](http://mindforger.com/) | |
 minitube | native YouTube client | :heavy_check_mark: | | |
 minuet | music trainer | :heavy_multiplication_x: | [minuet](https://github.com/KDE/minuet) | |
 mitmproxy | MITM HTTP proxy | :heavy_check_mark: | | |
@@ -771,6 +772,7 @@ recoll | desktop/network GUI search engine | :heavy_check_mark: | | |
 recsveditor | CSV editor | :heavy_multiplication_x: | [reCsvEditor](https://sourceforge.net/projects/recsveditor/) | Java-based |
 rednotebook | calendar and notebook | :heavy_check_mark: | [RedNotebook](https://sourceforge.net/projects/rednotebook/) | |
 reformat | text formatter | :heavy_check_mark: | | line length, margin |
+remarkable | Markdown editor | :heavy_multiplication_x: | [Remarkable](http://remarkableapp.github.io/) | deps: *python3-markdown*, *python3-bs4*, *wkhtmltopdf* |
 remmina | remote desktop client | :heavy_check_mark: | | RDP must be enabled on Windows |
 remnux | Linux malware analyser | :heavy_multiplication_x: | [REMnux](https://sourceforge.net/projects/remnux/) | |
 retext | ReText and Markdown editor | :heavy_check_mark: | [retext](https://github.com/retext-project/retext) | |
@@ -847,6 +849,7 @@ sntop | poll servers | :heavy_check_mark: | | |
 socat | relay for bidirectional data transfer | :heavy_check_mark: | | bench etc |
 softethervpn | VPN | :heavy_multiplication_x: | | |
 sonic-pi | coding synth | :heavy_check_mark: | | |
+sol-r | ray tracer | :heavy_multiplication_x: | [Sol-R](https://github.com/cyrillefavreau/Sol-R) | |
 sox | terminal audio file manipulator | :heavy_check_mark: | | |
 sparta | internal network infrastructure pen tool | :heavy_multiplication_x: | [sparta](https://github.com/secforce/sparta) | |
 sparkleshare | Dropbox alternative using SSH and [Git](#git) | :heavy_check_mark: | | |
