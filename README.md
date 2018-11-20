@@ -593,6 +593,7 @@ nemo-fileroller | FileRoller for Nemo | :heavy_check_mark: | | |
 netcat | TCP/IP Swiss army knife | :heavy_check_mark: | | <a id="netcat"></a> |
 netcatgui | GUI for [netcat](#netcat) | :heavy_multiplication_x: | [netcatgui](https://github.com/shinnok/netcatgui) | |
 net-creds | sniffs data from interface/pcap | :heavy_multiplication_x: | [net-creds](https://github.com/DanMcInerney/net-creds) | |
+netdiag | network diagnosis tools | :heavy_check_mark: | | *trafshow*, *netwatch*, *statnet*, *tcpspray*, *tcpblast* <a id="netdiag"></a> |
 netdiscover | active/passive network address scanner using arp requests | :heavy_check_mark: | | |
 nethogs | bandwidth hog monitor | :heavy_check_mark: | | |
 netperf | network benchmark | :heavy_check_mark: | | |
@@ -688,7 +689,7 @@ pigz | multi-threading GZIP | :heavy_check_mark: | | |
 pinta | Paint.net clone | :heavy_check_mark: | | |
 piper | mouse config | :heavy_multiplication_x: | [piper](https://github.com/libratbag/piper) | |
 pitivi | video editor | :heavy_check_mark: | | suitable for: clips to combine, add audio track, filter |
-pktstat | resolve packet details / connections | :heavy_check_mark: | | |
+pktstat | resolve packet details/connections | :heavy_check_mark: | | |
 playonlinux | MS games through Wine | :heavy_check_mark: | | |
 playshell | terminal media player | :heavy_multiplication_x: | [playshell](https://sourceforge.net/projects/playshell/) | |
 plecast | Wordpress plugin analyser | :heavy_multiplication_x: | | |
@@ -932,7 +933,7 @@ tomahawk | media player | :heavy_check_mark: | | |
 tor | anonymising overlay | :heavy_check_mark: | | get source, **not** repo version <a id="tor"></a> |
 torsocks | use SOCKS-friendly apps with [Tor](#tor) | :heavy_check_mark: | | e.g. SSH |
 traceroute | trace packets | :heavy_check_mark: | | <a id="traceroute"></a> |
-trafshow | show network traffic | :heavy_check_mark: | | |
+trafshow | show network traffic | :heavy_check_mark: | | see [Netdiag](#netdiag) |
 transmageddon | media file converter | :heavy_check_mark: | | |
 trash-cli | terminal trash bin control | :heavy_check_mark: | | `trash-empty`, `trash-list` |
 tree | terminal directory tree lister | :heavy_check_mark: | | |
