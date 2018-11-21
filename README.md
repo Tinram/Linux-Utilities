@@ -44,6 +44,7 @@ arecabackup | backup | :heavy_multiplication_x: | [Areca Backup](http://areca-ba
 argus | IP network transaction auditor | :heavy_check_mark: | | |
 argyll | monitor colour callibrator | :heavy_check_mark: | | GUI is [dispcalgui](#dispcalgui) <a id="argyll"></a> |
 arista | media converter | :heavy_check_mark: | [Arista Transcoder](http://transcoder.org/) | |
+arp-scan | ARP scanner/fingerprinting | :heavy_check_mark: | | |
 arpwatch | Ethernet MAC address monitor | :heavy_check_mark: | | |
 asciinema | terminal activity recorder | :heavy_multiplication_x: | [asciinema](http://asciinema.org/) [repo](https://github.com/asciinema/asciinema) | `asciinema rec >> exit` |
 astyle | code indenter | :heavy_check_mark: | [Artistic Style](http://astyle.sourceforge.net/) | C/C++/Java; good for other langs too |
@@ -174,7 +175,7 @@ cxref | C code to LaTeX/HTML | :heavy_check_mark: | | |
 cyberfox | 64-bit browser | :heavy_multiplication_x: | | |
 cython | Python C extensions | :heavy_check_mark: | | |
 darkhttpd | tiny file server | :heavy_multiplication_x: | [Darkhttpd](https://unix4lyfe.org/darkhttpd/) | 34kB |
-darkstat | network traffic analyser | :heavy_check_mark: | | |
+darkstat | network traffic analyser | :heavy_check_mark: | [Darkstat](http://unix4lyfe.org/darkstat/) | |
 darktable | RAW images | :heavy_check_mark: | [Darktable](http://www.darktable.org/), [article](http://www.techrepublic.com/blog/diy-it-guy/diy-enhance-your-graphic-design-work-with-darktable/) | |
 darling | Mac terminal Wine | :heavy_multiplication_x: | [Darling](http://darlinghq.org/) | |
 datacleaner | database scanner | :heavy_multiplication_x: | | |
@@ -207,6 +208,7 @@ ding | GUI dictionary | :heavy_check_mark: | | |
 discourse | phpBB | :heavy_multiplication_x: | [Discourse](http://www.discourse.org/) | |
 discover | automate pen test tasks | :heavy_multiplication_x: | [discover](https://github.com/leebaird/discover) | |
 dispcalgui | GUI for [Argyll](#argyll) colour management | :heavy_check_mark: | | <a id="dispcalgui"></a> |
+dissy | GUI for `objdump` | :heavy_check_mark: | | |
 dmitry | server host info | :heavy_check_mark: | | |
 dnsmasq-utils | manage DHCP leases | :heavy_check_mark: | | |
 dnstracer | trace DNS queries to source | :heavy_check_mark: | | |
@@ -422,6 +424,7 @@ homebank | [GNU Cash](#gnucash)-like | :heavy_check_mark: | | |
 hping3 | send packets to network hosts | :heavy_check_mark: | | |
 httping | HTTP pinger | :heavy_check_mark: | | |
 httpstat | HTTP request timer | :heavy_multiplication_x: | [httpstat](https://github.com/reorx/httpstat) | |
+httptunnel | tunnels data in HTTP requests | :heavy_check_mark: | | |
 httrack | copy websites | :heavy_check_mark: | | |
 hugin | panorama stitcher + photo editor | :heavy_check_mark: | | |
 hwinfo | hardware info | :heavy_check_mark: | | deprecated |
@@ -467,7 +470,8 @@ jed | code editor | :heavy_check_mark: | | |
 jedit | code editor | :heavy_check_mark: | |
 jitsi | encrypted IM/VOIP | :heavy_multiplication_x: | | Java-based |
 joomscan | Joomla scanner | :heavy_multiplication_x: | | |
-johnny | GUI for John | :heavy_multiplication_x: | [johnny](https://github.com/shinnok/johnny) | |
+john | password cracker | :heavy_multiplication_x: | | |
+johnny | GUI for *john* | :heavy_multiplication_x: | [johnny](https://github.com/shinnok/johnny) | |
 jp2a | JPG to ASCII art | :heavy_check_mark: | | |
 jpeginfo | JPG info/integrity | :heavy_check_mark: | | |
 jq | terminal JSON stream editor | :heavy_check_mark: | | |
@@ -493,6 +497,7 @@ kwipe | data eraser | :heavy_multiplication_x: | [KWipe](https://www.linux-apps.
 lamaperia | printable maps from OpenStreetMap | :heavy_multiplication_x: | [Lamaperia](https://github.com/federicomenaquintero/lamaperia) | |
 lame | MP3 encoder | :heavy_check_mark: | | |
 lazagne | credentials recovery | :heavy_multiplication_x: | [LaZagne](https://github.com/AlessandroZ/LaZagne) | Windows version is identified as a Trojan |
+lcrack | password cracker | :heavy_check_mark: | | |
 lepton | JPG compressor | :heavy_multiplication_x: | [lepton](https://github.com/dropbox/lepton) | |
 lftp | sophisticated terminal FTP | :heavy_check_mark: | | |
 libmarkdown-php | Markdown library | :heavy_check_mark: | | |
@@ -594,12 +599,12 @@ netcat | TCP/IP Swiss army knife | :heavy_check_mark: | | <a id="netcat"></a> |
 netcatgui | GUI for [netcat](#netcat) | :heavy_multiplication_x: | [netcatgui](https://github.com/shinnok/netcatgui) | |
 net-creds | sniffs data from interface/pcap | :heavy_multiplication_x: | [net-creds](https://github.com/DanMcInerney/net-creds) | |
 netdiag | network diagnosis tools | :heavy_check_mark: | | *trafshow*, *netwatch*, *statnet*, *tcpspray*, *tcpblast* <a id="netdiag"></a> |
-netdiscover | active/passive network address scanner using arp requests | :heavy_check_mark: | | |
+netdiscover | active/passive network address ARP scanner | :heavy_check_mark: | | |
 nethogs | bandwidth hog monitor | :heavy_check_mark: | | |
 netperf | network benchmark | :heavy_check_mark: | | |
 netrw | [netcat](#netcat)-like, transport files over network | :heavy_check_mark: | | |
 netsurf | lightweight browser | :heavy_check_mark: | | |
-netwag | GUI [netwox](#netwox) | :heavy_check_mark: | | |
+netwag | GUI for [netwox](#netwox) | :heavy_check_mark: | | |
 netwox | networking utilities | :heavy_check_mark: | | <a id="netwox"></a> |
 neural-enhance | image enhancer | :heavy_multiplication_x: | [neural-enhance](https://github.com/alexjc/neural-enhance) | |
 newsbeuter | terminal RSS reader | :heavy_check_mark: | | |
@@ -621,6 +626,7 @@ notepadqq | code editor | :heavy_multiplication_x: | [Notepadqq](http://notepadq
 notepas | code editor | :heavy_multiplication_x: | | |
 notes-up | editor supporting Markdown | :heavy_multiplication_x: | [Notes-up](https://github.com/Philip-Scott/Notes-up) | PDF export |
 npm | Node.js package manager | :heavy_check_mark: | | |
+nstreams | tcpdump output analyser | :heavy_check_mark: | | |
 ntfs-3g | NTFS driver | :heavy_check_mark: | [NTFS-3G](http://www.tuxera.com/community/open-source-ntfs-3g/) | r/w |
 ntfsfix | fix NTFS | :heavy_multiplication_x: | | |
 ntfsundelete | recover NTFS files | :heavy_check_mark: | | |
@@ -648,6 +654,7 @@ orca | screenreader | :heavy_check_mark: | | |
 osync | `rsync` simplifier | :heavy_multiplication_x: | [osync](https://github.com/deajan/osync) | |
 p0f | passive OS fingerprinting tool | :heavy_check_mark: | | quieter than [NMap](#nmap) |
 pack | password analyser | :heavy_multiplication_x: | | |
+packit | network injection/capture tool	 | :heavy_check_mark: | | |
 packeth | GUI Ethernet packet generator | :heavy_check_mark: | | |
 packetsender | GUI to create and send packets | :heavy_multiplication_x: | [Packet Sender](https://packetsender.com/download ) | |
 pamix | PulseAudio mixer | :heavy_multiplication_x: | [PAmix](https://github.com/patroclos/PAmix) | |
@@ -658,6 +665,7 @@ passwordsafe | password vault | :heavy_check_mark: | [Password Safe](https://sou
 patator | multi-purpose brute-forcer | :heavy_multiplication_x: | | |
 pavucontrol | PulseAudio volume control | :heavy_check_mark: | | |
 pax-utils | ELF checking utilities | :heavy_check_mark: | | *dumpelf*, *lddtree*, *pspax* etc |
+pbnj | monitor network changes | :heavy_check_mark: | | |
 pdftotext | PDF to text | :heavy_check_mark: | | in *poppler-utils* |
 peazip | multi-zip GUI and converter | :heavy_multiplication_x: | [PeaZip](https://sourceforge.net/projects/peazip/) | |
 pemcracker | PEM cracker | :heavy_multiplication_x: | [pemcracker](https://github.com/bwall/pemcracker) | |
@@ -909,8 +917,10 @@ tasque | task manager | :heavy_check_mark: | | |
 tcpdump | terminal network traffic analyser | :heavy_check_mark: | | <a id="tcpdump"></a> |
 tcpflow | TCP flow recorder | :heavy_check_mark: | | |
 tcpick | TCP stream sniffer/connection tracker | :heavy_check_mark: | | |
+tcpreplay | replay saved [`tcpdump`](#tcpdump) files | :heavy_check_mark: | | |
+tcpslice | extract from/stitch [`tcpdump`](#tcpdump) files | :heavy_check_mark: | | |
 tcpspy | TCP/IP connections logger | :heavy_check_mark: | | |
-tcptrace | graphical [`tcpdump`](#tcpdump) output | :heavy_check_mark: | | |
+tcptrace | graphical [tcpdump](#tcpdump) output | :heavy_check_mark: | | |
 tcptrack | monitor tcp network connections | :heavy_check_mark: | | |
 tcpxtract | extract files from network traffic | :heavy_check_mark: | | |
 terminator | multiple terminals | :heavy_check_mark: | | |
@@ -949,6 +959,7 @@ tt-rss | tiny tiny RSS | :heavy_check_mark: | | |
 ttf-mscorefonts-installer | MS TTF fonts | :heavy_check_mark: | | |
 tuxguitar | music app including scoresheet | :heavy_check_mark: | [Tuxguitar](http://tuxguitar.herac.com.ar) | |
 ubuntu-tweak | Ubuntu config tool | :heavy_check_mark: | | use `apt` |
+udptunnel | tunnel UDP over TCP | :heavy_check_mark: | | |
 ugui_flif | GUI for [FLIF](#flif) | :heavy_multiplication_x: | [UGUI_FLIF](https://github.com/FLIF-hub/UGUI_FLIF) | |
 ufraw | RAW importer | :heavy_check_mark: | | |
 ufw | firewall | :heavy_check_mark: | | <a id="ufw"></a> |
@@ -971,6 +982,7 @@ veracrypt | TrueCrypt replacement | :heavy_multiplication_x: | [VeraCrypt](http:
 vidalia | [Tor](#tor) GUI frontend | :heavy_check_mark: | | |
 vim | code/text editor | :heavy_check_mark: | | |
 vinagre | GNOME remote desktop client | :heavy_check_mark: | | |
+vinetto | interrogate thumbs.db files | :heavy_check_mark: | | |
 virt-manager | GUI VM manager | :heavy_check_mark: | [virt-manager](https://virt-manager.org/) | good options range; still 'experimental' |
 virtualbox | virtual machines | :heavy_check_mark: | [Virtual Box](https://www.virtualbox.org/) | GPU acceleration |
 visual studio code | editor/IDE | :heavy_multiplication_x: | [Visual Studio Code](http://code.visualstudio.com/) | good Python support |
@@ -989,7 +1001,7 @@ wallpaperd | wallpaper rotator | :heavy_multiplication_x: | | |
 wammu | (old) phone manager, info exporter | :heavy_check_mark: | | |
 wapiti | web app vulnerability scanner | :heavy_check_mark: | | |
 wavemon | wireless network monitor | :heavy_check_mark: | | |
-wbox | HTTP testing tool and configuration-less HTTP server | :heavy_check_mark: | | |
+wbox | HTTP testing tool and config-less HTTP server | :heavy_check_mark: | | |
 wdiff | word diff | :heavy_check_mark: | | extended diff |
 webcamoid | webcam tool | :heavy_multiplication_x: | [Webcamoid](http://webcamoid.github.io/) | |
 weborf | HTTP network sharing tool | :heavy_check_mark: | [weborf](https://github.com/ltworf/weborf) | |
