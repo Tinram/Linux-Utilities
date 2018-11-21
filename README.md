@@ -321,6 +321,7 @@ gadmin-rsync | GUI config for `rsync` | :heavy_check_mark: | | |
 gadmin-openvpn-client | GUI config for OpenVPN | :heavy_check_mark: | | |
 gadmin-openvpn-server | config for OpenVPN | :heavy_check_mark: | | |
 gajim | GPG Jabber client | :heavy_check_mark: | | |
+gaupol | subtitles editor | :heavy_check_mark: | [gaupol](https://otsaloma.io/gaupol/) | |
 gamemode | optimise system performance on demand | :heavy_multiplication_x: | [gamemode](https://github.com/Feralinteractive/gamemode) | |
 gatling | static page web server | :heavy_check_mark: | | |
 gcad3d | CAD | :heavy_multiplication_x: | [gCAD3D](http://gcad3d.org/) | |
