@@ -252,7 +252,7 @@ ethtool | display/change Ethernet device settings | :heavy_check_mark: | | |
 etcher | ISO to USB | :heavy_multiplication_x: | [Etcher](https://etcher.io/) | Chrome-bloated |
 etm | event and task manager | :heavy_multiplication_x: | [ETM](http://people.duke.edu/~dgraham/etmqt/) | |
 exa | colourful file lister | :heavy_multiplication_x: | [Exa](https://the.exa.website/) | |
-exelearning | authoring tool | :heavy_multiplication_x: | [eXeLearning](http://exelearning.net/) pps:exelearning/exelearning | |
+exelearning | authoring tool | :heavy_multiplication_x: | [eXeLearning](http://exelearning.net/) | pps:exelearning/exelearning |
 exiftool | edit EXIF data | :heavy_check_mark: | [EXIFtool](http://sno.phy.queensu.ca/~phil/exiftool/) | |
 exmplayer | GUI for MPlayer | :heavy_check_mark: | | |
 extundelete | recover deleted files | :heavy_check_mark: | | |
@@ -345,7 +345,7 @@ gigolo | mount manager | :heavy_check_mark: | | |
 gimp | image editor | :heavy_check_mark: | | |
 gimp-dcraw | GIMP RAW plugin | :heavy_check_mark: | | |
 gimp-ufraw | GIMP RAW importer | :heavy_check_mark: | | |
-git | source control | :heavy_check_mark: | | git, git-gui, gitk, gitg, git-doc, git-extras <a id="git"></a> |
+git | source control | :heavy_check_mark: | | `git`, *git-gui*, `gitk`, `gitg`, *git-doc*, `git-extras` <a id="git"></a> |
 git-extras | [Git](#git) extensions | :heavy_check_mark: | | |
 gitg | [Git](#git) repo viewer | :heavy_check_mark: | | |
 git-gui | [Git](#git) GUI | :heavy_check_mark: | | `git gui` |
@@ -446,7 +446,7 @@ inguma | pentest framework | :heavy_multiplication_x: | | |
 inkscape | vector imager | :heavy_check_mark: | | |
 innotop | [MySQL](#mysql) InnoDB monitor | :heavy_multiplication_x: | [innotop](https://github.com/innotop/innotop) [.deb](https://sourceforge.net/projects/innotop/) | exists in CentOS EPEL |
 inotify | monitor filesystem events | :heavy_check_mark: | | good for Samba folders |
-input-utils | kernel input layer utilities | :heavy_check_mark: | | *lsinput*, *input-events*, *input-kbd* |
+input-utils | kernel input layer utilities | :heavy_check_mark: | | `lsinput`, `input-events`, `input-kbd` |
 instarecon | auto digital recon | :heavy_multiplication_x: | [instarecon](https://github.com/vergl4s/instarecon) | high level recon |
 intel-gpu-tools | `intel_gpu_time`, `intel_gpu_top` | :heavy_check_mark: | | |
 inxi | system info | :heavy_multiplication_x: | | in CentOS repo |
@@ -516,7 +516,7 @@ linux-crashdump | kernel crashdump set-up | :heavy_check_mark: | | |
 linux-firmware | drivers | :heavy_check_mark: | | apparently includes wireless drivers |
 linux-malware-detect | Linux malware detector | :heavy_multiplication_x: | [linux-malware-detect](https://github.com/rfxn/linux-malware-detect) | |
 linuxrespin | distro builder | :heavy_multiplication_x: | [Linux Respin](http://www.linuxrespin.org/) | |
-lives | video editor | :heavy_check_mark: | | requires x264, gpac for decent output |
+lives | video editor | :heavy_check_mark: | | requires <a href="#x264">x264</a>, *gpac* for decent output |
 lldpd | LLDP discovery daemon | :heavy_check_mark: | | discover LAN switches etc, `lldpctl`, `lldpcli` |
 lm-sensors | for `sensors` | :heavy_check_mark: | | |
 lmms | audio editor | :heavy_check_mark: | | |
@@ -569,9 +569,9 @@ most | read `man` pages in colour | :heavy_check_mark: | | |
 mp3diags | MP3 file analyser | :heavy_check_mark: | | |
 mpd | music player daemon | :heavy_check_mark: | | (works remotely) |
 mpg123 | terminal MP3 player | :heavy_check_mark: | | decoding library very good |
-mplayer | movie player (terminal) | :heavy_check_mark: | | |
+mplayer | movie player (terminal) | :heavy_check_mark: | | <a id="mplayer"></a>|
 mps-youtube | YouTube music player | :heavy_check_mark: | [mps-youtube](https://github.com/mps-youtube/mps-youtube) | |
-mpv | movie player (terminal) | :heavy_check_mark: | | based on mplayer |
+mpv | movie player (terminal) | :heavy_check_mark: | | based on <a href="#mplayer">mplayer</a> |
 mtools | multi-cast connection tester | :heavy_multiplication_x: | | |
 mtr | `ping` and [`traceroute`](#traceroute) combined | :heavy_check_mark: | | also [mtr-tiny](#mtr-tiny) |
 mtr-tiny | `ping` and [`traceroute`](#traceroute) combined | :heavy_check_mark: | | <a id="mtr-tiny"></a> |
@@ -599,7 +599,7 @@ nemo-fileroller | FileRoller for Nemo | :heavy_check_mark: | | |
 netcat | TCP/IP Swiss army knife | :heavy_check_mark: | | <a id="netcat"></a> |
 netcatgui | GUI for [netcat](#netcat) | :heavy_multiplication_x: | [netcatgui](https://github.com/shinnok/netcatgui) | |
 net-creds | sniffs data from interface/pcap | :heavy_multiplication_x: | [net-creds](https://github.com/DanMcInerney/net-creds) | |
-netdiag | network diagnosis tools | :heavy_check_mark: | | *trafshow*, *netwatch*, *statnet*, *tcpspray*, *tcpblast* <a id="netdiag"></a> |
+netdiag | network diagnosis tools | :heavy_check_mark: | | `trafshow`, `netwatch`, `statnet`, `tcpspray`, `tcpblast` <a id="netdiag"></a> |
 netdiscover | active/passive network address ARP scanner | :heavy_check_mark: | | |
 nethogs | bandwidth hog monitor | :heavy_check_mark: | | |
 netperf | network benchmark | :heavy_check_mark: | | |
@@ -665,7 +665,7 @@ parted | disk partitioner | :heavy_check_mark: | | creates GPT partitions, but d
 passwordsafe | password vault | :heavy_check_mark: | [Password Safe](https://sourceforge.net/projects/passwordsafe/) | |
 patator | multi-purpose brute-forcer | :heavy_multiplication_x: | | |
 pavucontrol | PulseAudio volume control | :heavy_check_mark: | | |
-pax-utils | ELF checking utilities | :heavy_check_mark: | | *dumpelf*, *lddtree*, *pspax* etc |
+pax-utils | ELF checking utilities | :heavy_check_mark: | | `dumpelf`, `lddtree`, `pspax` etc |
 pbnj | monitor network changes | :heavy_check_mark: | | |
 pdftotext | PDF to text | :heavy_check_mark: | | in *poppler-utils* |
 peazip | multi-zip GUI and converter | :heavy_multiplication_x: | [PeaZip](https://sourceforge.net/projects/peazip/) | |
@@ -679,7 +679,7 @@ pdfedit | PDF editor | :heavy_check_mark: | | good at text, no image editing |
 pdfgrep | PDF search | :heavy_check_mark: | [PDFgrep](https://pdfgrep.org/) |
 pdfmod | PDF editor | :heavy_check_mark: | | simple but good: edit meta data, remove page, extract page |
 pdnsd | proxy DNS server | :heavy_check_mark: | | |
-perf-tools-unstable | `perf` helper tools by Brendan Gregg | :heavy_check_mark: | | *iosnoop*, *iolatency*, *uprobe* |
+perf-tools-unstable | `perf` helper tools by Brendan Gregg | :heavy_check_mark: | | `iosnoop`, `iolatency`, `uprobe` |
 pgadmin3 | GUI admin for [PostgresSQL](#postgressql) | :heavy_check_mark: | | |
 pgpdump | GPG/PGP file visualiser | :heavy_check_mark: | | |
 phatch | batch image converter | :heavy_check_mark: | | |
@@ -762,7 +762,7 @@ quetoo | Quake2 remake | :heavy_multiplication_x: | [quetoo](https://github.com/
 quiterss | RSS reader | :heavy_check_mark: | | uses WebKit |
 qupzilla | lightweight Chromium-based browser | :heavy_check_mark: | | |
 rabbitvcs | SVN GUI | :heavy_check_mark: | | |
-radamsa | fuzzer | :heavy_multiplication_x: | [radamsa](https://github.com/aoh/radamsa) | compilation fine now |
+radamsa | fuzzer | :heavy_multiplication_x: | [radamsa](https://github.com/aoh/radamsa) | |
 radeon-profile | Radeon GPU profiler | :heavy_multiplication_x: | [radeon-profile](https://github.com/marazmista/radeon-profile) | |
 radeontop | Radeon GPU top | :heavy_check_mark: | | |
 rand | random character generator | :heavy_check_mark: | | |
@@ -783,11 +783,11 @@ recsveditor | CSV editor | :heavy_multiplication_x: | [reCsvEditor](https://sour
 rednotebook | calendar and notebook | :heavy_check_mark: | [RedNotebook](https://sourceforge.net/projects/rednotebook/) | |
 reformat | text formatter | :heavy_check_mark: | | line length, margin |
 remarkable | Markdown editor | :heavy_multiplication_x: | [Remarkable](http://remarkableapp.github.io/) | deps: *python3-markdown*, *python3-bs4*, *wkhtmltopdf* |
-remmina | remote desktop client | :heavy_check_mark: | | RDP must be enabled on Windows |
+remmina | GUI remote desktop client | :heavy_check_mark: | | Win: enable remote connections, firewall, not 'Home' versions! |
 remnux | Linux malware analyser | :heavy_multiplication_x: | [REMnux](https://sourceforge.net/projects/remnux/) | |
 retext | ReText and Markdown editor | :heavy_check_mark: | [retext](https://github.com/retext-project/retext) | |
 retroshare | encrypted IM | :heavy_multiplication_x: | [RetroShare](http://retroshare.net) | |
-rdesktop | Linux to Windows remote desktop | :heavy_check_mark: | | okay for private network, not Internet <a id="rdesktop"></a> |
+rdesktop | terminal remote desktop client | :heavy_check_mark: | | *grdesktop* for GUI <a id="rdesktop"></a> |
 recode | file charset conversion | :heavy_check_mark: | | |
 recoverjpeg | recover JPGs/MOVs | :heavy_check_mark: | | from SD card |
 regexxer | file regex view and replace | :heavy_check_mark: | | |
@@ -801,12 +801,12 @@ rosaimagewriter | USB Flash tool | :heavy_multiplication_x: | | |
 rosegarden | music editor | :heavy_check_mark: | | |
 rsmangler | word permutations | :heavy_multiplication_x: | | |
 rsnapshot | filesystem snapshot | :heavy_check_mark: | | |
-rssh | restricted shell | :heavy_check_mark: | | give user only: scp, sftp, rsync |
+rssh | restricted shell | :heavy_check_mark: | | give user only: `scp`, `sftp`, `rsync` |
 rst2pdf | ReText to PDF | :heavy_check_mark: | | |
 rsyncrypto | `rsync` encryption | :heavy_check_mark: | | |
 rtgen | rainbow table generator | :heavy_multiplication_x: | | `rtgen md5 loweralpha-numeric 1 5 0 3800 33554432 0` |
 ruby | Ruby interpreter | :heavy_check_mark: | | `irb` |
-rustc | Rust compiler | :heavy_multiplication_x: | | cargo is project manager |
+rustc | Rust compiler | :heavy_multiplication_x: | | *cargo* is project manager |
 samhain | IDS | :heavy_check_mark: | | |
 sane | document scan tools | :heavy_check_mark: | | |
 sbackup | simple backup | :heavy_check_mark: | | |
@@ -856,7 +856,7 @@ snapper | BTRFS filesystem snapshots | :heavy_check_mark: | | |
 sngrep | SIP messages flow viewer | :heavy_check_mark: | [Sngrep wiki](https://github.com/irontec/sngrep/wiki) | |
 snort | IDS | :heavy_check_mark: | | |
 sntop | poll servers | :heavy_check_mark: | | |
-socat | relay for bidirectional data transfer | :heavy_check_mark: | | bench etc |
+socat | relay for bidirectional data transfer | :heavy_check_mark: | | |
 softethervpn | VPN | :heavy_multiplication_x: | | |
 sonic-pi | coding synth | :heavy_check_mark: | | |
 sol-r | ray tracer | :heavy_multiplication_x: | [Sol-R](https://github.com/cyrillefavreau/Sol-R) | |
@@ -924,6 +924,7 @@ tcpspy | TCP/IP connections logger | :heavy_check_mark: | | |
 tcptrace | graphical [tcpdump](#tcpdump) output | :heavy_check_mark: | | |
 tcptrack | monitor tcp network connections | :heavy_check_mark: | | |
 tcpxtract | extract files from network traffic | :heavy_check_mark: | | |
+teamviewer | remote desktop/support | :heavy_multiplication_x: | [TeamViewer](https://www.teamviewer.com/en/download/linux/) | proprietary |
 terminator | multiple terminals | :heavy_check_mark: | | |
 terminix | terminal emulator | :heavy_multiplication_x: | [terminix](https://github.com/gnunn1/terminix) | |
 termpix | terminal image viewer | :heavy_multiplication_x: | [termpix](https://github.com/hopey-dishwasher/termpix) | |
@@ -1026,7 +1027,7 @@ wordgrinder | terminal wordprocessor | :heavy_multiplication_x: | [WordGrinder](
 workrave | RSI timer | :heavy_check_mark: | | |
 wpscan | WordPress scanner | :heavy_multiplication_x: | [wpscan](https://github.com/wpscanteam/wpscan) | |
 wtop | Apache top | :heavy_multiplication_x: | [wtop](https://github.com/ClockworkNet/wtop) | |
-x264 | video encoder | :heavy_check_mark: | | |
+x264 | video encoder | :heavy_check_mark: | | <a id="x264"></a> |
 x265 | video compressor | :heavy_multiplication_x: | [x265](http://x265.org) | |
 x2go | remote GUI connection | :heavy_multiplication_x: | [X2Go](http://wiki.x2go.org/doku.php) | with SSH |
 x86info | CPU info | :heavy_check_mark: | | |
