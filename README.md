@@ -1077,7 +1077,7 @@ zipcmp | zip contents comparison | :heavy_check_mark: | | |
 zmap | large network scanner | :heavy_check_mark: | | no actual connects like [NMap](#nmap), open ports |
 zopfli | zlib/gzip compressor | :heavy_check_mark: | [zopfli](https://github.com/google/zopfli) | |
 zurmo | CRM | :heavy_multiplication_x: | [Zurmo](https://github.com/google/zopfli) | |
-zzuf | app fuzzer | :heavy_check_mark: | | |
+zzuf | app fuzzer | :heavy_check_mark: | [zzuf](https://github.com/samhocevar/zzuf) | |
 
 
 ## License
