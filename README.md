@@ -102,6 +102,7 @@ btproxy | MITM Bluetooth analysis | :heavy_multiplication_x: | [btproxy](https:/
 btscanner | scanner for Bluetooth devices | :heavy_check_mark: | | |
 bum | bootup manager | :heavy_check_mark: | | also [sysv-rc-conf](#sysv-rc-conf) |
 bvi | hex editor | :heavy_check_mark: | | vi-like |
+bwm-ng | terminal bandwidth monitor | :heavy_check_mark: | | |
 byobu | screen command manager/multiplexer | :heavy_check_mark: | | through function keys |
 byzanz | small screencast creator | :heavy_check_mark: | | |
 cadubi | ASCII art drawing | :heavy_check_mark: | | |
@@ -435,6 +436,7 @@ hydrogen | drum machine | :heavy_check_mark: | | |
 i7z | Core CPU reporting | :heavy_check_mark: | | |
 icinga | [Nagios](#nagios)-like network monitor | :heavy_check_mark: | [Icinga](icinga.org) | |
 idle3 | Python IDE | :heavy_check_mark: | | |
+ifstat | interface statistics monitoring | :heavy_check_mark: | | `vmstat`-like |
 iftop | network interface usage | :heavy_check_mark: | | |
 imagemagick | terminal image manipulator | :heavy_check_mark: | | <a id="imagemagick"></a> |
 i-nex | GUI system hardware lister | :heavy_multiplication_x: | [i-nex](http://i-nex.linux.pl/) | similar to CPU-Z |
@@ -865,6 +867,7 @@ sparta | internal network infrastructure pen tool | :heavy_multiplication_x: | [
 sparkleshare | Dropbox alternative using SSH and [Git](#git) | :heavy_check_mark: | | |
 spectre-meltdown-checker | Spectre and Meltdown vulnerability/mitigation checker | :heavy_multiplication_x: | [spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker) | |
 speedtest-cli | terminal Internet bandwidth speed tester | :heavy_check_mark: | [speedtest-cli](https://github.com/sivel/speedtest-cli) | `pip install speedtest-cli` |
+speedometer | terminal network traffic monitor | :heavy_check_mark: | | |
 spek | acoustic spectrum analyser | :heavy_check_mark: | [spek](https://github.com/alexkay/spek) | |
 splint | C linter | :heavy_check_mark: | | <a id="splint"></a> |
 sqlbrute | brute-force SQL injection | :heavy_multiplication_x: | [SQLBrute](https://github.com/GDSSecurity/SQLBrute) | |
@@ -935,6 +938,7 @@ texmaker | LaTeX editor | :heavy_check_mark: | | |
 tig | terminal [Git](#git) info viewer | :heavy_check_mark: | | |
 tiger | report root vulnerabilities | :heavy_check_mark: | | |
 tigerVNC | remote desktop | :heavy_check_mark: | | |
+tightvnc | remote desktop | :heavy_check_mark: | | |
 timeshift | system restore utility | :heavy_check_mark: | | |
 tinyproxy | non-caching HTTP proxy | :heavy_check_mark: | | |
 tlp | laptop power manager | :heavy_multiplication_x: | [TLP](http://linrunner.de/en/tlp/tlp.html) | |
@@ -990,7 +994,7 @@ virtualbox | virtual machines | :heavy_check_mark: | [Virtual Box](https://www.v
 visual studio code | editor/IDE | :heavy_multiplication_x: | [Visual Studio Code](http://code.visualstudio.com/) | good Python support |
 vivaldi | highly-customisable browser | :heavy_multiplication_x: | [Vivaldi](https://vivaldi.com/) | |
 vmware | virtual machines | :heavy_check_mark: | | GPU acceleration |
-tightvnc | remote desktop viewer | :heavy_check_mark: | | |
+vnstat | terminal network traffic monitor | :heavy_check_mark: | | |
 vobcopy | CD/MP4 track copier | :heavy_check_mark: | | |
 voiphopper | VoIP security testing tool | :heavy_multiplication_x: | | |
 voipong | VoIP sniffer/call detector | :heavy_multiplication_x: | | |
