@@ -394,6 +394,7 @@ grdesktop | GUI for [rdesktop](#rdesktop) | :heavy_check_mark: | | |
 grive2 | GDrive syncer | :heavy_multiplication_x: | [Grive2](https://github.com/vitalif/grive2/) | |
 grsynch | GUI for `rsync` | :heavy_check_mark: | [Grsynch](https://sourceforge.net/projects/grsync/) | |
 grub-customizer | GUI GRUB editor | :heavy_multiplication_x: | [GRUB customizer](https://launchpad.net/grub-customizer) | |
+grv | terminal Git repo viewer | :heavy_multiplication_x: | [GRV](https://github.com/rgburke/grv) | |
 gscan2pdf | PDFs from scans | :heavy_check_mark: | | |
 gsettings | GNOME config terminal tool | :heavy_check_mark: | | |
 gsmartcontrol | GUI for `smartctl` | :heavy_check_mark: | | |
@@ -635,7 +636,8 @@ ntfsfix | fix NTFS | :heavy_multiplication_x: | | |
 ntfsundelete | recover NTFS files | :heavy_check_mark: | | |
 ntop | top network users | :heavy_check_mark: | | |
 nutty | network utility | :heavy_multiplication_x: | [Nutty](https://launchpad.net/nutty) | ppa:bablu-boy/nutty.0.1 |
-nvidia-smi | NVIDIA GPU management CLI | :heavy_multiplication_x: | | |
+nvidia-smi | NVidia GPU management CLI | :heavy_multiplication_x: | | |
+nvtop | NVidia GPU 'top' | :heavy_multiplication_x: | [nvtop](https://github.com/Syllo/nvtop) | |
 obnam | incremental daily backups with SFTP/GPG support | :heavy_check_mark: | | |
 obs | video recording/livestreaming | :heavy_multiplication_x: | [OBS](https://obsproject.com/) | |
 oclint | C/C++/ObjC static code analyser | :heavy_multiplication_x: | [oclint](https://github.com/oclint/oclint/) | [OCLint](http://oclint.org/) |
