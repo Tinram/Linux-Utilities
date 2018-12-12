@@ -578,6 +578,7 @@ mpv | movie player (terminal) | :heavy_check_mark: | | based on <a href="#mplaye
 mtools | multi-cast connection tester | :heavy_multiplication_x: | | |
 mtr | `ping` and [`traceroute`](#traceroute) combined | :heavy_check_mark: | | also [mtr-tiny](#mtr-tiny) |
 mtr-tiny | `ping` and [`traceroute`](#traceroute) combined | :heavy_check_mark: | | <a id="mtr-tiny"></a> |
+muffet | website link checker | :heavy_multiplication_x: | [muffet](https://github.com/raviqqe/muffet) | |
 mundus | home file cleaner | :heavy_multiplication_x: | | |
 mupen64plus | N64 console emulator | :heavy_check_mark: | | |
 musescore | music score editor | :heavy_check_mark: | | |
@@ -1033,6 +1034,7 @@ wordgrinder | terminal wordprocessor | :heavy_multiplication_x: | [WordGrinder](
 workrave | RSI timer | :heavy_check_mark: | | |
 wpscan | WordPress scanner | :heavy_multiplication_x: | [wpscan](https://github.com/wpscanteam/wpscan) | |
 wtop | Apache top | :heavy_multiplication_x: | [wtop](https://github.com/ClockworkNet/wtop) | |
+wuzz | terminal HTTP inspection tool | :heavy_multiplication_x: | [wuzz](https://github.com/asciimoo/wuzz) | |
 x264 | video encoder | :heavy_check_mark: | | <a id="x264"></a> |
 x265 | video compressor | :heavy_multiplication_x: | [x265](http://x265.org) | |
 x2go | remote GUI connection | :heavy_multiplication_x: | [X2Go](http://wiki.x2go.org/doku.php) | with SSH |
