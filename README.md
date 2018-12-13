@@ -1,11 +1,16 @@
 
 # Linux Utilities
 
-#### Sources: Ubuntu repository, GitHub, SourceForge, vendor websites.
+Personal reference list of Linux programs and packages &ndash; biased to my work, interests, and needs when setting-up Linux boxes.
 
-Alphabetical list of ~1,000 Linux programs and packages - somewhat biased to my work, interests, and needs when setting-up Linux boxes. Collated over a number of years from Linux magazines, web searches, and repo hunting.
+Approximately 1k programs (1% of Ubuntu repo), arranged alphabetically.
 
-###### *List is just 1% of the packages in the main Ubuntu repo.*
+#### Sources
+
+*Ubuntu* repository, *GitHub*, *SourceForge*, vendor websites.  
+Collated over a number of years from Linux magazines, web searches, and repo hunting.
+
+#### Notes
 
 A tick in the repo column means the package should exist in the main Ubuntu repo. Nevertheless, some packages can be hidden away &ndash; these are marked with *'use apt'* (`apt search <pkg>` to search and `sudo apt install <pkg>` to install).
 
