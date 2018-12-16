@@ -796,7 +796,7 @@ remarkable | Markdown editor | :heavy_multiplication_x: | [Remarkable](http://re
 remmina | GUI remote desktop client | :heavy_check_mark: | | Win: enable remote connections, firewall, not 'Home' versions! |
 remnux | Linux malware analyser | :heavy_multiplication_x: | [REMnux](https://sourceforge.net/projects/remnux/) | |
 retext | ReText and Markdown editor | :heavy_check_mark: | [retext](https://github.com/retext-project/retext) | |
-retroshare | encrypted IM | :heavy_multiplication_x: | [RetroShare](http://retroshare.net) | |
+retroshare | encrypted IM/filesharing | :heavy_multiplication_x: | [RetroShare](http://retroshare.net) | |
 rdesktop | terminal remote desktop client | :heavy_check_mark: | | *grdesktop* for GUI <a id="rdesktop"></a> |
 recode | file charset conversion | :heavy_check_mark: | | |
 recoverjpeg | recover JPGs/MOVs | :heavy_check_mark: | | from SD card |
@@ -992,6 +992,7 @@ valgrind | memory debugger and profiler | :heavy_check_mark: | | <a id="valgrind
 valkyrie | GUI for [valgrind](#valgrind) | :heavy_check_mark: | | |
 vbindiff | visual binary file compare | :heavy_check_mark: | | |
 vega | web app tester | :heavy_multiplication_x: | | Java-based |
+vegeta | HTTP load tester | :heavy_multiplication_x: | [vegeta](https://github.com/tsenart/vegeta) | |
 veracrypt | TrueCrypt replacement | :heavy_multiplication_x: | [VeraCrypt](http://veracrypt.codeplex.com/) | |
 vidalia | [Tor](#tor) GUI frontend | :heavy_check_mark: | | |
 vim | code/text editor | :heavy_check_mark: | | |
