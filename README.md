@@ -53,7 +53,7 @@ arp-scan | ARP scanner/fingerprinting | :heavy_check_mark: | | |
 arpwatch | Ethernet MAC address monitor | :heavy_check_mark: | | |
 asciinema | terminal activity recorder | :heavy_multiplication_x: | [asciinema](http://asciinema.org/) [repo](https://github.com/asciinema/asciinema) | `asciinema rec >> exit` |
 astyle | code indenter | :heavy_check_mark: | [Artistic Style](http://astyle.sourceforge.net/) | C/C++/Java; good for other langs too |
-asunder | CD ripper | :heavy_check_mark: | | |
+asunder | CD ripper | :heavy_check_mark: | [Asunder](http://littlesvr.ca/asunder/) | |
 athena-jot | data generator | :heavy_check_mark: | | |
 atril | MATE PDF viewer | :heavy_check_mark: | | |
 attr | filesystem extended attribute utils | :heavy_check_mark: | | |
@@ -426,6 +426,7 @@ helm | music synthesizer | :heavy_multiplication_x: | [Helm](http://tytel.org/he
 highlight | convert code to HTML/RTF | :heavy_check_mark: | | |
 hnwatch | terminal news feed | :heavy_multiplication_x: | | |
 hostmap | enumerate (v)hosts of IP | :heavy_multiplication_x: | [Hostmap](http://g33kinfo.com/info/hostmap-0-2-2-tar) | |
+hottoe | sound control app | :heavy_multiplication_x: | [hottoe](https://github.com/gandalfn/hottoe) | |
 htop | hyper `top` | :heavy_check_mark: | | |
 httperf | HTTP benchmark | :heavy_check_mark: | | |
 http-logs-analyzer | HTTP log analyser | :heavy_multiplication_x: | [http-logs-analyzer](https://github.com/flrnull/http-logs-analyzer) | |
@@ -808,6 +809,7 @@ rkhunter | rootkit hunter | :heavy_check_mark: | | |
 rmlint | duplicate file remover | :heavy_multiplication_x: | [rmlint](https://github.com/sahib/rmlint) | |
 rnd | random data generator | :heavy_multiplication_x: | [RND](https://github.com/Tinram/RND) | |
 rng-tools | daemon to use hardware TRNG | :heavy_check_mark: | | includes `rngtest` |
+rooster | terminal password manager | :heavy_multiplication_x: | [rooster](https://github.com/conradkdotcom/rooster) | scrypt, AES-256, HMAC-SHA256 |
 rosaimagewriter | USB Flash tool | :heavy_multiplication_x: | | |
 rosegarden | music editor | :heavy_check_mark: | | |
 rsmangler | word permutations | :heavy_multiplication_x: | | |
