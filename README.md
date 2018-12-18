@@ -323,6 +323,7 @@ fusil | fuzzer | :heavy_check_mark: | | collection of scripts |
 fuzz | fuzz EXEs with datastream input | :heavy_check_mark: | | |
 fwbuilder | firewall admin GUI | :heavy_check_mark: | | |
 fwlogwatch | firewall log analyser | :heavy_check_mark: | | |
+g213colours | key colour customiser for G213 keyboard | :heavy_multiplication_x: | [G213Colors](https://github.com/SebiTimeWaster/G213Colors) | requires [python3-usb](#python3-usb) |
 gadmin-samba | GUI config for Samba | :heavy_check_mark: | | |
 gadmin-rsync | GUI config for `rsync` | :heavy_check_mark: | | |
 gadmin-openvpn-client | GUI config for OpenVPN | :heavy_check_mark: | | |
@@ -752,10 +753,12 @@ pypy | Python JIT compiler | :heavy_check_mark: | | |
 pyrenamer | mass file renamer | :heavy_check_mark: | | |
 pyrit | GPU WPA2 wireless cracker | :heavy_check_mark: | | |
 python3-enigma | Enigma machine library | :heavy_check_mark: | [Py-Enigma](https://py-enigma.readthedocs.io/en/latest/) | |
+python3-pip | Python 3 package installer | :heavy_check_mark: | | |
+python3-psutil | psutil | :heavy_check_mark: | | access reporting tools |
+python3-usb | Python 3 USB interface | :heavy_check_mark: | | <a id="python3-usb"></a> |
 python-evdev | generic input event interface | :heavy_check_mark: | | |
 python-mysqldb | Python [MySQL](#mysql) API | :heavy_check_mark: | | <a id="python-mysqldb"></a> |
 python-pip | Python installer | :heavy_check_mark: | | `apt-get install python3-pip` |
-python3-psutil | psutil | :heavy_check_mark: | | access reporting tools |
 python-setuptools | | :heavy_check_mark: | | needed for [python-mysqldb](#python-mysqldb) |
 qalc | terminal calculator | :heavy_check_mark: | | |
 qemu | processor emulator | :heavy_check_mark: | | `apt-get install kvm qemu-kvm qemu-kvmextras` <a id="qemu"></a> |
