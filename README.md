@@ -463,6 +463,7 @@ intel-gpu-tools | `intel_gpu_time`, `intel_gpu_top` | :heavy_check_mark: | | |
 inxi | system info | :heavy_multiplication_x: | | in CentOS repo |
 ioping | disk I/O benchmarker | :heavy_check_mark: | | |
 iotop | I/O monitor | :heavy_check_mark: | | |
+ipcalc | parameter calculator for IPv4 | :heavy_check_mark: | | |
 iperf | network bandwidth performance | :heavy_check_mark: | | |
 iperf3 | network bandwidth performance | :heavy_check_mark: | | |
 ipgrab | [`tcpdump`](#tcpdump)-like, detailed header info | :heavy_check_mark: | | more explicit than [`tcpdump`](#tcpdump) |
