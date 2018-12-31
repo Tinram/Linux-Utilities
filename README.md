@@ -318,6 +318,7 @@ fsarchiver | *tar.gz* alternative | :heavy_check_mark: | [fsarchiver](http://www
 fsearch | file search | :heavy_multiplication_x: | [FSearch](http://www.fsearch.org/) | |
 fslint | problem file manager/cleaner | :heavy_check_mark: | | |
 fswebcam | webcam | :heavy_check_mark: | | `sudo fswebcam /dev/video0 x.jpg` |
+ftrace | ELF function analyser | :heavy_multiplication_x: | [ftrace](hthttps://github.com/elfmaster/ftrace) | |
 funkload | web server benchmarker | :heavy_check_mark: | [FunkLoad](http://funkload.nuxeo.org/) | includes unit testing |
 fusil | fuzzer | :heavy_check_mark: | | collection of scripts |
 fuzz | fuzz EXEs with datastream input | :heavy_check_mark: | | |
