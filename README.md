@@ -149,6 +149,7 @@ codecounter | C/BASIC/web code counter | :heavy_multiplication_x: | [CodeCounter
 codelite | C editor | :heavy_check_mark: | | PHP/JS/Python also supported |
 collectd, kcollectd | system stats harvester/monitoring daemon | :heavy_check_mark: | | |
 collectl | collect performance data | :heavy_check_mark: | [Collectl](http://collectl.sourceforge.net/) | |
+colordiff | colorise diff output | :heavy_check_mark: | | |
 colorgrab | dropper | :heavy_multiplication_x: | [colorgrab](https://github.com/Acolarh/colorgrab) | |
 colorhug | colorimeter | :heavy_check_mark: | | |
 conduit | sync tool for GNOME (files, bookmarks) | :heavy_check_mark: | | |
