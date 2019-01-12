@@ -237,6 +237,7 @@ dvdbackup | DVD ripper | :heavy_check_mark: | | |
 e4defrag | ext4 defragger | :heavy_multiplication_x: | | |
 earlyoom | auto kill largest memory/swap hog | :heavy_multiplication_x: | [earlyoom](https://github.com/rfjakob/earlyoom) | |
 easy-rsa | certificate generator | :heavy_check_mark: | | very useful for OpenVPN |
+easyssh | GUI SSH connection manager | :heavy_multiplication_x: | [easyssh](https://github.com/muriloventuroso/easyssh) | |
 eiciel | GUI ACL editor | :heavy_check_mark: | [Eiciel](http://rofi.roger-ferrer.org/eiciel/) | |
 eko | audio editor | :heavy_multiplication_x: | [Eko](http://semiletov.org/eko/) | |
 elfparser | ELF analyser | :heavy_multiplication_x: | [ELF parser](http://elfparser.com/download.html) | |
@@ -952,6 +953,7 @@ testdisk | disk/partition recovery tool | :heavy_check_mark: | [TestDisk](https:
 tesseract-ocr | OCR processor | :heavy_check_mark: | | |
 tetravex | number block game | :heavy_check_mark: | | (gno) Tetravex |
 texmaker | LaTeX editor | :heavy_check_mark: | | |
+textosaurus | text editor (Qt and Scintilla) | :heavy_multiplication_x: | [textosaurus](https://github.com/martinrotter/textosaurus) | |
 tig | terminal [Git](#git) info viewer | :heavy_check_mark: | | |
 tiger | report root vulnerabilities | :heavy_check_mark: | | |
 tigerVNC | remote desktop | :heavy_check_mark: | | |
