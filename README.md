@@ -300,7 +300,7 @@ flowblade | video editor | :heavy_check_mark: | | |
 fmap | web app vulnerabilities | :heavy_multiplication_x: | | |
 focus | task reminder | :heavy_multiplication_x: | [Focus](https://github.com/nagyation/Focus) | |
 focuswriter | word processor | :heavy_check_mark: | | <a id="#focuswriter"></a> |
-fog | clone rollout system | :heavy_multiplication_x: | [FOG](https://sourceforge.net/projects/freeghost/files/FOG) | |
+fog | network computer cloning | :heavy_multiplication_x: | [FOG](https://fogproject.org/) | |
 fontforge | font editor | :heavy_multiplication_x: | [FontForge](https://github.com/fontforge) | |
 foremost | recover/extract files | :heavy_check_mark: | | |
 fotoxx | photo editor | :heavy_check_mark: | | good at editing, poor interface |
@@ -549,8 +549,10 @@ lyx | Latex WYSIWYG | :heavy_check_mark: | | 500MB |
 lzop | fast compression | :heavy_check_mark: | | |
 macchanger | spoof network card MAC | :heavy_check_mark: | | |
 magicrescue | file recovery by filetype/header bytes | :heavy_check_mark: | | |
+magic-wormhole | secure file transfer | :heavy_multiplication_x: | [magic-wormhole](https://github.com/warner/magic-wormhole) | |
 mailutils | mail utilities | :heavy_check_mark: | | |
 maltego | people-places analysis tool | :heavy_multiplication_x: | [Maltego](https://paterva.com/web7/) | Java-based |
+maltrail | malicious traffic detector | :heavy_multiplication_x: | [maltrail](https://github.com/stamparm/maltrail) | |
 mandelbulber | 3D Mandelbrot | :heavy_check_mark: | | |
 mariadb-server | MariaDB | :heavy_check_mark: | | |
 mariadb-client | MariaDB | :heavy_check_mark: | | |
@@ -726,6 +728,7 @@ pngcrush | PNG compressor | :heavy_check_mark: | | |
 pnscan | multi-threaded port scanner | :heavy_check_mark: | | |
 pokerth | poker game | :heavy_check_mark: | | |
 polygen | random sentences from grammar definitions | :heavy_check_mark: | | |
+portainer | GUI Docker manager | :heavy_multiplication_x: | [portainer](https://www.portainer.io/) | |
 portdog | port scanner detector | :heavy_multiplication_x: | [PortDog](https://github.com/puniaze/PortDog) | |
 postgresql | PostgreSQL | :heavy_check_mark: | | <a id="postgressql"></a> |
 potamus | music player using directories | :heavy_multiplication_x: | [Potamus](http://offog.org/code/potamus/) | |
@@ -924,6 +927,7 @@ svar | voice activated recorder | :heavy_multiplication_x: | [svar](https://gith
 svg-edit | SVG editor | :heavy_multiplication_x: | | |
 swaks | SMTP test tool | :heavy_check_mark: | | |
 swatch | log file event notifier | :heavy_check_mark: | | |
+syncthing | sync cloud/network app | :heavy_multiplication_x: | [Syncthing](https://syncthing.net/) | |
 synfig | vector 2D animation | :heavy_check_mark: | | |
 sysbench | system benchmarker | :heavy_check_mark: | [info](https://www.howtoforge.com/how-to-benchmark-your-system-cpu-file-io-mysql-with-sysbench) | |
 sysdig | system exploration/troubleshooting | :heavy_check_mark: | | |
@@ -955,6 +959,7 @@ tesseract-ocr | OCR processor | :heavy_check_mark: | | |
 tetravex | number block game | :heavy_check_mark: | | (gno) Tetravex |
 texmaker | LaTeX editor | :heavy_check_mark: | | |
 textosaurus | text editor (Qt and Scintilla) | :heavy_multiplication_x: | [textosaurus](https://github.com/martinrotter/textosaurus) | |
+tkdiff | GUI for diff | :heavy_multiplication_x: | [tkdiff](https://sourceforge.net/projects/tkdiff/) | |
 tig | terminal [Git](#git) info viewer | :heavy_check_mark: | | |
 tiger | report root vulnerabilities | :heavy_check_mark: | | |
 tigerVNC | remote desktop | :heavy_check_mark: | | |
