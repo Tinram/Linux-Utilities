@@ -734,6 +734,7 @@ powertop | power consumption analyser | :heavy_check_mark: | | |
 preload | adaptive binary preloader | :heavy_check_mark: | | |
 printer-driver- | various drivers | :heavy_check_mark: | | |
 privoxy | SOCKS requests to HTTP requests | :heavy_check_mark: | | block UDP leaks in [Tor](#tor) |
+procdump | create core dumps of apps | :heavy_multiplication_x: | [ProcDump](hhttps://github.com/Microsoft/ProcDump-for-Linux) | |
 procenv | show process environment | :heavy_check_mark: | [procenv](https://github.com/jamesodhunt/procenv) | |
 processing | programming language | :heavy_multiplication_x: | | |
 procinfo | `socklist`, `lsdev`, system stats from /proc | :heavy_check_mark: | | |
