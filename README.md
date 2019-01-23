@@ -429,6 +429,7 @@ heartbeat | high-availability servers | :heavy_check_mark: | | |
 helm | music synthesizer | :heavy_multiplication_x: | [Helm](http://tytel.org/helm/) | |
 highlight | convert code to HTML/RTF | :heavy_check_mark: | | |
 hnwatch | terminal news feed | :heavy_multiplication_x: | | |
+hopper | GUI disassembler | :heavy_multiplication_x: | [Hopper](https://www.hopperapp.com/) | |
 hostmap | enumerate (v)hosts of IP | :heavy_multiplication_x: | [Hostmap](http://g33kinfo.com/info/hostmap-0-2-2-tar) | |
 hottoe | sound control app | :heavy_multiplication_x: | [hottoe](https://github.com/gandalfn/hottoe) | |
 htop | hyper `top` | :heavy_check_mark: | | |
