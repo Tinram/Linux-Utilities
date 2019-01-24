@@ -240,7 +240,7 @@ easy-rsa | certificate generator | :heavy_check_mark: | | very useful for OpenVP
 easyssh | GUI SSH connection manager | :heavy_multiplication_x: | [easyssh](https://github.com/muriloventuroso/easyssh) | |
 eiciel | GUI ACL editor | :heavy_check_mark: | [Eiciel](http://rofi.roger-ferrer.org/eiciel/) | |
 eko | audio editor | :heavy_multiplication_x: | [Eko](http://semiletov.org/eko/) | |
-elfparser | ELF analyser | :heavy_multiplication_x: | [ELF parser](http://elfparser.com/download.html) | |
+elfparser | ELF analyser | :heavy_multiplication_x: | [ELF parser](http://elfparser.com/download.html) [repo](https://github.com/jacob-baines/elfparser) | |
 elfutils | ELF utilities | :heavy_check_mark: | | |
 emilpro | disassembler | :heavy_multiplication_x: | | |
 emma | [MySQL](#mysql) GUI editor | :heavy_check_mark: | | |
@@ -383,7 +383,7 @@ gnupg2 | GPG version 2 | :heavy_check_mark: | | |
 gnuplot | graphs | :heavy_check_mark: | | core |
 gnuplot-x11 | graphics | :heavy_check_mark: | | |
 gnuplot-qt | graphics | :heavy_check_mark: | | |
-goaccess | Apache realtime logfile viewer | :heavy_check_mark: | [GoAccess](https://goaccess.io/download) | avoid repo version; `goaccess -f <f> -a` |
+goaccess | terminal realtime logfile viewer | :heavy_check_mark: | [GoAccess](https://goaccess.io/download) [repo](https://github.com/allinurl/goaccess) | avoid distro repo versions; `goaccess -f <f> -a` |
 golly | game of life | :heavy_check_mark: | | |
 googler | terminal Google search | :heavy_multiplication_x: | [googler](https://github.com/jarun/googler) | |
 gosync | GDrive sync | :heavy_multiplication_x: | [GoSync](https://github.com/hschauhan/gosync/) | |
@@ -429,7 +429,7 @@ heartbeat | high-availability servers | :heavy_check_mark: | | |
 helm | music synthesizer | :heavy_multiplication_x: | [Helm](http://tytel.org/helm/) | |
 highlight | convert code to HTML/RTF | :heavy_check_mark: | | |
 hnwatch | terminal news feed | :heavy_multiplication_x: | | |
-hopper | GUI disassembler | :heavy_multiplication_x: | [Hopper](https://www.hopperapp.com/) | |
+hopper | GUI disassembler | :heavy_multiplication_x: | [Hopper](https://www.hopperapp.com/) | proprietary, demo |
 hostmap | enumerate (v)hosts of IP | :heavy_multiplication_x: | [Hostmap](http://g33kinfo.com/info/hostmap-0-2-2-tar) | |
 hottoe | sound control app | :heavy_multiplication_x: | [hottoe](https://github.com/gandalfn/hottoe) | |
 htop | hyper `top` | :heavy_check_mark: | | |
