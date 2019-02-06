@@ -26,6 +26,7 @@ p7zip | file archiver | :heavy_check_mark: | [7-Zip](http://www.7-zip.org/) | al
 abcde | CD ripper | :heavy_check_mark: | [ABCDE](http://www.andrews-corner.org/linux/abcde/index.html) | |
 abiword | lightweight wordprocessor | :heavy_check_mark: | | |
 abricotine | Markdown editor | :heavy_multiplication_x: | [Abricotine](https://github.com/brd/Abricotine) | |
+acl | ACL utilities | :heavy_check_mark: | | |
 adb | Android Debug Bridge | :heavy_check_mark: | | |
 aescrypt | cross-platform file encryption | :heavy_multiplication_x: | [AESCrypt](https://github.com/paulej/AESCrypt) | |
 afick | file integrity notifier | :heavy_multiplication_x: | [AFICK](https://sourceforge.net/projects/afick/) | |
@@ -963,7 +964,7 @@ textosaurus | text editor (Qt and Scintilla) | :heavy_multiplication_x: | [texto
 tkdiff | GUI for diff | :heavy_multiplication_x: | [tkdiff](https://sourceforge.net/projects/tkdiff/) | |
 tig | terminal [Git](#git) info viewer | :heavy_check_mark: | | |
 tiger | report root vulnerabilities | :heavy_check_mark: | | |
-tigerVNC | remote desktop | :heavy_check_mark: | | |
+tigerVNC | remote desktop | :heavy_multiplication_x: | | |
 tightvnc | remote desktop | :heavy_check_mark: | | |
 timeshift | system restore utility | :heavy_check_mark: | | |
 tinyproxy | non-caching HTTP proxy | :heavy_check_mark: | | |
