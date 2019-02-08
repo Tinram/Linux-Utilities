@@ -655,7 +655,7 @@ ntfs-3g | NTFS driver | :heavy_check_mark: | [NTFS-3G](http://www.tuxera.com/com
 ntfsfix | fix NTFS | :heavy_multiplication_x: | | |
 ntfsundelete | recover NTFS files | :heavy_check_mark: | | |
 ntop | top network users | :heavy_check_mark: | | |
-nutty | network utility | :heavy_multiplication_x: | [Nutty](https://launchpad.net/nutty) | ppa:bablu-boy/nutty.0.1 |
+nutty | network utility | :heavy_multiplication_x: | [Nutty](https://launchpad.net/nutty) [repo](https://github.com/babluboy/nutty) | ppa:bablu-boy/nutty.0.1 |
 nvidia-smi | NVidia GPU management CLI | :heavy_multiplication_x: | | |
 nvtop | NVidia GPU 'top' | :heavy_multiplication_x: | [nvtop](https://github.com/Syllo/nvtop) | |
 obnam | incremental daily backups with SFTP/GPG support | :heavy_check_mark: | | |
