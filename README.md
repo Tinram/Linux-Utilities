@@ -52,6 +52,7 @@ argyll | monitor colour callibrator | :heavy_check_mark: | | GUI is [dispcalgui]
 arista | media converter | :heavy_check_mark: | [Arista Transcoder](http://transcoder.org/) | |
 arp-scan | ARP scanner/fingerprinting | :heavy_check_mark: | | |
 arpwatch | Ethernet MAC address monitor | :heavy_check_mark: | | |
+artha | offline thesaurus | :heavy_check_mark: | | |
 asciinema | terminal activity recorder | :heavy_multiplication_x: | [asciinema](http://asciinema.org/) [repo](https://github.com/asciinema/asciinema) | `asciinema rec >> exit` |
 astyle | code indenter | :heavy_check_mark: | [Artistic Style](http://astyle.sourceforge.net/) | C/C++/Java; good for other langs too |
 asunder | CD ripper | :heavy_check_mark: | [Asunder](http://littlesvr.ca/asunder/) | |
@@ -208,6 +209,7 @@ dhcpcd | DHCP server for auto-configuring networking | :heavy_check_mark: | | `s
 dhcpdump | parse DHCP packets from [`tcpdump`](#tcpdump) | :heavy_check_mark: | | |
 dia | diagram editor | :heavy_check_mark: | | |
 dialog | Bash dialog | :heavy_check_mark: | | |
+diction | sentence style helper (en/de) | :heavy_check_mark: | | |
 diffmerge | diff | :heavy_multiplication_x: | [DiffMerge](http://sourcegear.com/diffmerge/downloads.php) | |
 difftree | compare directories | :heavy_multiplication_x: | [difftree](https://github.com/rondilley/difftree) | |
 diffuse | file compare/merge | :heavy_check_mark: | | |
@@ -218,6 +220,7 @@ discover | automate pen test tasks | :heavy_multiplication_x: | [discover](https
 dispcalgui | GUI for [Argyll](#argyll) colour management | :heavy_check_mark: | | <a id="dispcalgui"></a> |
 dissy | GUI for `objdump` | :heavy_check_mark: | | |
 dmitry | server host info | :heavy_check_mark: | | |
+dnsdiag | DNS testing tools | :heavy_multiplication_x: | [dnsdiag](https://dnsdiag.org/) | `pip3 install dnsdiag` |
 dnsmasq-utils | manage DHCP leases | :heavy_check_mark: | | |
 dnstracer | trace DNS queries to source | :heavy_check_mark: | | |
 dnswalk | DNS debugger/nameserver lookup | :heavy_check_mark: | | |
@@ -584,7 +587,7 @@ mongodb | MongoDB | :heavy_check_mark: | | meta package; or `pecl install mongo`
 monit | notify upon server log-ins | :heavy_multiplication_x: | | |
 monitorix | GUI system monitor | :heavy_multiplication_x: | [Monitorix](http://www.monitorix.org/) | |
 moreutils | `combine`, `errno`, `isutf8`, [`parallel`](#parallel), `zrun` | :heavy_check_mark: | | <a id="moreutils"></a> |
-most | read `man` pages in colour | :heavy_check_mark: | | |
+most | advanced pager, includes colour, bin viewer | :heavy_check_mark: | | |
 mp3diags | MP3 file analyser | :heavy_check_mark: | | |
 mpd | music player daemon | :heavy_check_mark: | | (works remotely) |
 mpg123 | terminal MP3 player | :heavy_check_mark: | | decoding library very good |
@@ -912,7 +915,7 @@ sshpass | send password to SCP etc from script | :heavy_check_mark: | | |
 sshtalk | SSH chat server | :heavy_multiplication_x: | | |
 sshuttle | VPN over SSH | :heavy_check_mark: | [sshuttle](https://github.com/apenwarr/sshuttle) | TCP, not UDP or ICMP |
 stacer | GUI system optimiser | :heavy_multiplication_x: | [Stacer](https://github.com/oguzhaninan/Stacer) | |
-standardnotes | notes app | :heavy_multiplication_x: | [standardnotes](https://github.com/standardnotes) | |
+standardnotes | cross-platform encrypted notes app | :heavy_multiplication_x: | [standardnotes](https://standardnotes.org/) [repo](https://github.com/standardnotes) | |
 statsprocessor | word generator | :heavy_multiplication_x: | | |
 strace | system call tracer | :heavy_check_mark: | | |
 stress | stress CPU/memory/disk | :heavy_check_mark: | [stress](https://people.seas.harvard.edu/~apw/stress/) | |
