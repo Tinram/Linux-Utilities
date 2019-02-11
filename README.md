@@ -410,6 +410,7 @@ grsynch | GUI for `rsync` | :heavy_check_mark: | [Grsynch](https://sourceforge.n
 grub-customizer | GUI GRUB editor | :heavy_multiplication_x: | [GRUB customizer](https://launchpad.net/grub-customizer) | |
 grv | terminal Git repo viewer | :heavy_multiplication_x: | [GRV](https://github.com/rgburke/grv) | |
 gscan2pdf | PDFs from scans | :heavy_check_mark: | | |
+gsconnect | Android connector | :heavy_multiplication_x: | [gsconnect](https://github.com/andyholmes/gnome-shell-extension-gsconnect) | |
 gsettings | GNOME config terminal tool | :heavy_check_mark: | | |
 gsmartcontrol | GUI for `smartctl` | :heavy_check_mark: | | |
 gstm | GNOME SSH tunnel manager | :heavy_check_mark: | | |
@@ -1037,6 +1038,7 @@ waidps | wireless auditing + IDS | :heavy_multiplication_x: | [waidps](https://g
 wallpaperd | wallpaper rotator | :heavy_multiplication_x: | | |
 wammu | (old) phone manager, info exporter | :heavy_check_mark: | | |
 wapiti | web app vulnerability scanner | :heavy_check_mark: | | |
+watchman | directory monitor tool | :heavy_multiplication_x: | [watchman](https://github.com/facebook/watchman) | |
 wavemon | wireless network monitor | :heavy_check_mark: | | |
 wbox | HTTP testing tool and config-less HTTP server | :heavy_check_mark: | | |
 wdiff | word diff | :heavy_check_mark: | | extended diff |
