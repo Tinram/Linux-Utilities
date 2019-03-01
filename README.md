@@ -432,6 +432,7 @@ haveged | random number generator | :heavy_check_mark: | | |
 hdparm | tune HDD parameters | :heavy_check_mark: | | |
 heartbeat | high-availability servers | :heavy_check_mark: | | |
 helm | music synthesizer | :heavy_multiplication_x: | [Helm](http://tytel.org/helm/) | |
+hexyl | terminal hex editor | :heavy_multiplication_x: | [hexyl](https://github.com/sharkdp/hexyl) | |
 highlight | convert code to HTML/RTF | :heavy_check_mark: | | |
 hnwatch | terminal news feed | :heavy_multiplication_x: | | |
 hopper | GUI disassembler | :heavy_multiplication_x: | [Hopper](https://www.hopperapp.com/) | proprietary, demo |
@@ -623,6 +624,7 @@ nemo-fileroller | FileRoller for Nemo | :heavy_check_mark: | | |
 netcat | TCP/IP Swiss army knife | :heavy_check_mark: | | <a id="netcat"></a> |
 netcatgui | GUI for [netcat](#netcat) | :heavy_multiplication_x: | [netcatgui](https://github.com/shinnok/netcatgui) | |
 net-creds | sniffs data from interface/pcap | :heavy_multiplication_x: | [net-creds](https://github.com/DanMcInerney/net-creds) | |
+netdata | real-time performance monitor | :heavy_multiplication_x: | [netdata](https://github.com/netdata/netdata) | |
 netdiag | network diagnosis tools | :heavy_check_mark: | | `trafshow`, `netwatch`, `statnet`, `tcpspray`, `tcpblast` <a id="netdiag"></a> |
 netdiscover | active/passive network address ARP scanner | :heavy_check_mark: | | |
 nethogs | bandwidth hog monitor | :heavy_check_mark: | | |
@@ -1043,7 +1045,7 @@ wavemon | wireless network monitor | :heavy_check_mark: | | |
 wbox | HTTP testing tool and config-less HTTP server | :heavy_check_mark: | | |
 wdiff | word diff | :heavy_check_mark: | | extended diff |
 webcamoid | webcam tool | :heavy_multiplication_x: | [Webcamoid](http://webcamoid.github.io/) | |
-weborf | HTTP network sharing tool | :heavy_check_mark: | [weborf](https://github.com/ltworf/weborf) | |
+weborf | HTTP network file sharing | :heavy_check_mark: | [weborf](https://github.com/ltworf/weborf) | |
 webshag | web server auditor | :heavy_multiplication_x: | | |
 webslayer | web app brute-forcer | :heavy_multiplication_x: | | |
 wfuzz | web app brute-forcer | :heavy_check_mark: | [wfuzz](https://github.com/xmendez/wfuzz) | <a id="wfuzz"></a> |
