@@ -631,6 +631,7 @@ nethogs | bandwidth hog monitor | :heavy_check_mark: | | |
 netperf | network benchmark | :heavy_check_mark: | | |
 netrw | [netcat](#netcat)-like, transport files over network | :heavy_check_mark: | | |
 netsurf | lightweight browser | :heavy_check_mark: | | |
+net-tools | network tools | :heavy_check_mark: | | `ifconfig`, `route` |
 netwag | GUI for [netwox](#netwox) | :heavy_check_mark: | | |
 netwox | networking utilities | :heavy_check_mark: | | <a id="netwox"></a> |
 neural-enhance | image enhancer | :heavy_multiplication_x: | [neural-enhance](https://github.com/alexjc/neural-enhance) | |
