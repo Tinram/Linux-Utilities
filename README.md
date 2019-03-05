@@ -382,7 +382,7 @@ gnome-network-admin | GUI for [`whois`](#whois)/`ping` | :heavy_check_mark: | | 
 gnome-rdp | remote desktop | :heavy_check_mark: | | |
 gnome-system-monitor | GNOME monitor | :heavy_check_mark: | | |
 gnome-tweak-tool | GNOME 3 editor | :heavy_check_mark: | | |
-gnucash | financial accounting app | :heavy_check_mark: | | <a id="gnucash"></a> |
+gnucash | finance manager | :heavy_check_mark: | | <a id="gnucash"></a> |
 gnumeric | spreadsheet | :heavy_check_mark: | | |
 gnupg2 | GPG version 2 | :heavy_check_mark: | | |
 gnuplot | graphs | :heavy_check_mark: | | core |
@@ -442,7 +442,7 @@ hottoe | sound control app | :heavy_multiplication_x: | [hottoe](https://github.
 htop | hyper `top` | :heavy_check_mark: | | |
 httperf | HTTP benchmark | :heavy_check_mark: | | |
 http-logs-analyzer | HTTP log analyser | :heavy_multiplication_x: | [http-logs-analyzer](https://github.com/flrnull/http-logs-analyzer) | |
-homebank | [GNU Cash](#gnucash)-like | :heavy_check_mark: | | |
+homebank | [GNU Cash](#gnucash)-like finance manager | :heavy_check_mark: | | |
 hping3 | send packets to network hosts | :heavy_check_mark: | | |
 httping | HTTP pinger | :heavy_check_mark: | | |
 httpstat | HTTP request timer | :heavy_multiplication_x: | [httpstat](https://github.com/reorx/httpstat) | |
