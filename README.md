@@ -375,6 +375,7 @@ gmysqlcc | GUI [MySQL](#mysql) client | :heavy_check_mark: | | |
 gnofract | fractal generator | :heavy_multiplication_x: | | *.deb* SourceForge package; good images |
 gnome-battery-bench | | :heavy_multiplication_x: | [GNOME Battery Bench](https://github.com/GNOME/gnome-battery-bench) | |
 gnome-bluetooth | GNOME Bluetooth tools | :heavy_check_mark: | | |
+gnome-boxes | manage remote/virtual systems | :heavy_check_mark: | | |
 gnome-builder | GNOME app builder | :heavy_multiplication_x: | [Gnome Builder](https://github.com/chergert/gnome-builder) | |
 gnome-disk-utility | manage disks/media | :heavy_check_mark: | | |
 gnome-network-admin | GUI for [`whois`](#whois)/`ping` | :heavy_check_mark: | | |
@@ -668,6 +669,7 @@ oclint | C/C++/ObjC static code analyser | :heavy_multiplication_x: | [oclint](h
 ocrfeeder | OCR text scanner | :heavy_check_mark: | | |
 octave | numerical computation library and GUI | :heavy_check_mark: | | Matlab-like |
 oletoy | file format analyser | :heavy_multiplication_x: | [re-lab](https://github.com/renyxa/re-lab) | |
+olive | video editor | :heavy_multiplication_x: | [olive](https://olivevideoeditor.org) [repo](https://github.com/olive-editor/olive) | |
 omd | Nagios fork | :heavy_multiplication_x: | [OMD](http://omdistro.org/) | easier set-up than [Nagios](#nagios) |
 onedrive-d | OneDrive sync | :heavy_multiplication_x: | [onedrive-d](https://github.com/xybu92/onedrive-d) | |
 onetime | one-time pad | :heavy_check_mark: | | |
@@ -1006,7 +1008,8 @@ ufw | firewall | :heavy_check_mark: | | <a id="ufw"></a> |
 umplayer | video player | :heavy_multiplication_x: | | supposed better DVD playback than VLC |
 unetbootin | ISO to USB boot | :heavy_check_mark: | | |
 unhtml | remove HTML tags from file | :heavy_check_mark: | | |
-unison | file sync tool | :heavy_check_mark: | | Windows to Linux too |
+unison | terminal file sync tool | :heavy_check_mark: | | Windows to Linux too |
+unison-gtk | GUI for unison | :heavy_check_mark: | | |
 units | terminal unit converter | :heavy_check_mark: | | |
 unoconv | MS Office *.doc* converter | :heavy_multiplication_x: | [Unoconv](http://dag.wiee.rs/home-made/unoconv/) | |
 unshield | extract *.cab* files from InstallShield | :heavy_check_mark: | | |
