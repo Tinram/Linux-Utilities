@@ -392,6 +392,7 @@ goaccess | terminal realtime logfile viewer | :heavy_check_mark: | [GoAccess](ht
 golly | game of life | :heavy_check_mark: | | |
 googler | terminal Google search | :heavy_multiplication_x: | [googler](https://github.com/jarun/googler) | |
 gosync | GDrive sync | :heavy_multiplication_x: | [GoSync](https://github.com/hschauhan/gosync/) | |
+gource | source control visualisation tool | :heavy_check_mark: | | |
 govie | movie utility | :heavy_multiplication_x: | [Govie](https://github.com/narenaryan/Govie) | |
 gparted | view/manage partitions | :heavy_check_mark: | | |
 gpgdir | encrypt directories | :heavy_check_mark: | | |
