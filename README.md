@@ -695,7 +695,7 @@ parallel | multi-threaded Bash scripts | :heavy_check_mark: | | in [moreutils](#
 parted | disk partitioner | :heavy_check_mark: | | creates GPT partitions, but does not resize |
 passwordsafe | password vault | :heavy_check_mark: | [Password Safe](https://sourceforge.net/projects/passwordsafe/) | |
 patator | multi-purpose brute-forcer | :heavy_multiplication_x: | | |
-pavucontrol | PulseAudio volume control | :heavy_check_mark: | | |
+pavucontrol | PulseAudio volume control | :heavy_check_mark: | | independently adjust audio streams |
 pax-utils | ELF checking utilities | :heavy_check_mark: | | `dumpelf`, `scanelf`, `lddtree`, `pspax` etc |
 pbnj | monitor network changes | :heavy_check_mark: | | |
 pdftotext | PDF to text | :heavy_check_mark: | | in *poppler-utils* |
