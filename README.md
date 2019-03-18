@@ -309,6 +309,7 @@ fontforge | font editor | :heavy_multiplication_x: | [FontForge](https://github.
 foremost | recover/extract files | :heavy_check_mark: | | |
 fotoxx | photo editor | :heavy_check_mark: | | good at editing, poor interface |
 fping | ICMP to network hosts | :heavy_check_mark: | | |
+fpm | package converter | :heavy_multiplication_x: | [fpm](https://github.com/jordansissel/fpm) | |
 fracplanet | fractals | :heavy_check_mark: | | |
 fractalnow | fast fractal generator | :heavy_check_mark: | | |
 fraqtive | 3D Mandelbrot/Julia | :heavy_check_mark: | | |
@@ -391,6 +392,7 @@ gnuplot-qt | graphics | :heavy_check_mark: | | |
 goaccess | terminal realtime logfile viewer | :heavy_check_mark: | [GoAccess](https://goaccess.io/download) [repo](https://github.com/allinurl/goaccess) | avoid distro repo; compile deps: libgeoip-dev, libncursesw5-dev |
 golly | game of life | :heavy_check_mark: | | |
 googler | terminal Google search | :heavy_multiplication_x: | [googler](https://github.com/jarun/googler) | |
+go-rsync | GUI for `rsync` | :heavy_multiplication_x: | [go-rsync](https://github.com/d2r2/go-rsync) | |
 gosync | GDrive sync | :heavy_multiplication_x: | [GoSync](https://github.com/hschauhan/gosync/) | |
 gource | source control visualisation tool | :heavy_check_mark: | | |
 govie | movie utility | :heavy_multiplication_x: | [Govie](https://github.com/narenaryan/Govie) | |
