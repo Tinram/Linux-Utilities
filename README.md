@@ -671,6 +671,7 @@ obs | video recording/livestreaming | :heavy_multiplication_x: | [OBS](https://o
 oclint | C/C++/ObjC static code analyser | :heavy_multiplication_x: | [oclint](https://github.com/oclint/oclint/) | [OCLint](http://oclint.org/) |
 ocrfeeder | OCR text scanner | :heavy_check_mark: | | |
 octave | numerical computation library and GUI | :heavy_check_mark: | | Matlab-like |
+od2txt | ODT to text converter | :heavy_check_mark: | | |
 oletoy | file format analyser | :heavy_multiplication_x: | [re-lab](https://github.com/renyxa/re-lab) | |
 olive | video editor | :heavy_multiplication_x: | [olive](https://olivevideoeditor.org) [repo](https://github.com/olive-editor/olive) | |
 omd | Nagios fork | :heavy_multiplication_x: | [OMD](http://omdistro.org/) | easier set-up than [Nagios](#nagios) |
