@@ -42,6 +42,7 @@ antimony | CAD modeller | :heavy_multiplication_x: | [Antimony](http://www.mattk
 antiword | Word files converted to text/PS/PDF | :heavy_check_mark: | | |
 anydesk | TeamViewer-like remote desktop | :heavy_multiplication_x: | [AnyDesk](https://anydesk.com/remote-desktop) | |
 apachetop | `top` for Apache | :heavy_check_mark: | | use `apt` |
+apfs-fuse | FUSE driver for mounting Apple filesystem | :heavy_multiplication_x: | [apfs-fuse](https://github.com/sgan81/apfs-fuse) | |
 apktool | read binary XML | :heavy_multiplication_x: | | |
 aqemu | [Qemu](#qemu) + KVM GUI | :heavy_check_mark: | | |
 arandr | GUI for xrandr (X settings) | :heavy_check_mark: | | |
