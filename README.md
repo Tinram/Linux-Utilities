@@ -820,6 +820,7 @@ reaver | router WPS PIN brute-forcer | :heavy_check_mark: | | |
 recoll | desktop/network GUI search engine | :heavy_check_mark: | | |
 recsveditor | CSV editor | :heavy_multiplication_x: | [reCsvEditor](https://sourceforge.net/projects/recsveditor/) | Java-based |
 rednotebook | calendar and notebook | :heavy_check_mark: | [RedNotebook](https://sourceforge.net/projects/rednotebook/) | |
+redshift | diurnal screen colour temp adjuster | :heavy_check_mark: | | deps: *Geoclue-2.0* |
 reformat | text formatter | :heavy_check_mark: | | line length, margin |
 remarkable | Markdown editor | :heavy_multiplication_x: | [Remarkable](http://remarkableapp.github.io/) | deps: *python3-markdown*, *python3-bs4*, *wkhtmltopdf* |
 remmina | GUI remote desktop client | :heavy_check_mark: | | Win: enable remote connections, firewall, not 'Home' versions! |
