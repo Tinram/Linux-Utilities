@@ -634,6 +634,7 @@ netdiag | network diagnosis tools | :heavy_check_mark: | | `trafshow`, `netwatch
 netdiscover | active/passive network address ARP scanner | :heavy_check_mark: | | |
 nethogs | bandwidth hog monitor | :heavy_check_mark: | | |
 netperf | network benchmark | :heavy_check_mark: | | |
+netplan | Ubuntu network manager | :heavy_check_mark: | | |
 netrw | [netcat](#netcat)-like, transport files over network | :heavy_check_mark: | | |
 netsurf | lightweight browser | :heavy_check_mark: | | |
 net-tools | network tools | :heavy_check_mark: | | `ifconfig`, `route` |
@@ -821,6 +822,7 @@ recoll | desktop/network GUI search engine | :heavy_check_mark: | | |
 recsveditor | CSV editor | :heavy_multiplication_x: | [reCsvEditor](https://sourceforge.net/projects/recsveditor/) | Java-based |
 rednotebook | calendar and notebook | :heavy_check_mark: | [RedNotebook](https://sourceforge.net/projects/rednotebook/) | |
 redshift | diurnal screen colour temp adjuster | :heavy_check_mark: | | deps: *Geoclue-2.0* |
+redshift-gtk | GUI for redshift | :heavy_check_mark: | | |
 reformat | text formatter | :heavy_check_mark: | | line length, margin |
 remarkable | Markdown editor | :heavy_multiplication_x: | [Remarkable](http://remarkableapp.github.io/) | deps: *python3-markdown*, *python3-bs4*, *wkhtmltopdf* |
 remmina | GUI remote desktop client | :heavy_check_mark: | | Win: enable remote connections, firewall, not 'Home' versions! |
