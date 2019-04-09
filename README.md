@@ -370,7 +370,7 @@ gitk | [Git](#git) repo browser | :heavy_check_mark: | | |
 gitkraken | [Git](#git) GUI | :heavy_multiplication_x: | [GitKraken](https://www.gitkraken.com/) | |
 gkrellm | GUI system monitor | :heavy_check_mark: | | |
 glade | GTK+ GUI creator | :heavy_check_mark: | | |
-glances | `top`-like app (sophisticated) | :heavy_multiplication_x: | [Glances](https://nicolargo.github.io/glances/) | `pip install glances` |
+glances | `top`-like app (sophisticated) | :heavy_check_mark: | [Glances](https://nicolargo.github.io/glances/) | also `pip install glances` |
 glchess | chess | :heavy_check_mark: | | uses Crafty engine; use `apt` |
 glogg | GUI logfile view/query | :heavy_check_mark: | [glogg](http://glogg.bonnefon.org/) | |
 gmysqlcc | GUI [MySQL](#mysql) client | :heavy_check_mark: | | |
