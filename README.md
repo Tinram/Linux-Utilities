@@ -457,6 +457,7 @@ hwinfo | hardware info | :heavy_check_mark: | | deprecated |
 hx | terminal hex editor | :heavy_multiplication_x: | [hx](https://github.com/krpors/hx) | |
 hydra | GUI network brute-forcer | :heavy_check_mark: | | <a id="hydra"></a> |
 hydrogen | drum machine | :heavy_check_mark: | | |
+hyperfine | terminal benchmark tool | :heavy_multiplication_x: | [hyperfine](https://github.com/sharkdp/hyperfine) | |
 i7z | Core CPU reporting | :heavy_check_mark: | | |
 icinga | [Nagios](#nagios)-like network monitor | :heavy_check_mark: | [Icinga](icinga.org) | |
 idle3 | Python IDE | :heavy_check_mark: | | |
@@ -497,6 +498,7 @@ jbit | 6502 CPU simulator | :heavy_multiplication_x: | [JBit](https://sourceforg
 jed | code editor | :heavy_check_mark: | | |
 jedit | code editor | :heavy_check_mark: | |
 jitsi | encrypted IM/VOIP | :heavy_multiplication_x: | | Java-based |
+jnettop | network traffic monitor | :heavy_check_mark: | | |
 joomscan | Joomla scanner | :heavy_multiplication_x: | | |
 john | password cracker | :heavy_multiplication_x: | | |
 johnny | GUI for *john* | :heavy_multiplication_x: | [johnny](https://github.com/shinnok/johnny) | |
