@@ -196,6 +196,7 @@ dconf-editor | GUI dconf editor | :heavy_check_mark: | | |
 dcraw | terminal RAW converter | :heavy_check_mark: | | |
 ddrescue | data recovery tool | :heavy_check_mark: | | see [gddrescue](#gddrescue) |
 deadbeef | music player | :heavy_multiplication_x: | [deadbeef](https://sourceforge.net/projects/deadbeef/) | ppa:starws-box/deadbeef-player |
+deadman | terminal website status checker | :heavy_multiplication_x: | [deadman](https://github.com/upa/deadman) | uses ping |
 debreate | Debian package manager | :heavy_multiplication_x: | [Debreate](https://antumdeluge.github.io/debreate-web/) | |
 debsums | package checksum comparisons | :heavy_check_mark: | | |
 deja-dup | GUI backup tool using [duplicity](#duplicity) | :heavy_check_mark: | [DejaDup](https://wiki.gnome.org/Apps/DejaDup) | GPG encryption, no compression |
@@ -449,6 +450,7 @@ http-logs-analyzer | HTTP log analyser | :heavy_multiplication_x: | [http-logs-a
 homebank | [GNU Cash](#gnucash)-like finance manager | :heavy_check_mark: | | |
 hping3 | send packets to network hosts | :heavy_check_mark: | | |
 httping | HTTP pinger | :heavy_check_mark: | | |
+httpry | HTTP logging and info | :heavy_check_mark: | | |
 httpstat | HTTP request timer | :heavy_multiplication_x: | [httpstat](https://github.com/reorx/httpstat) | |
 httptunnel | tunnels data in HTTP requests | :heavy_check_mark: | | |
 httrack | copy websites | :heavy_check_mark: | | |
