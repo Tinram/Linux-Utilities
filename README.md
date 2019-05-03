@@ -35,6 +35,7 @@ aide | host-based IDS | :heavy_check_mark: | | |
 aircrack-ng | wireless cracker | :heavy_check_mark: | [aircrack-ng](https://github.com/aircrack-ng/aircrack-ng) | <a id="aircrack"></a> |
 alacritty | GPU-accelerated terminal emulator | :heavy_multiplication_x: | [alacritty](https://github.com/jwilm/alacritty) | |
 alien | *.rpm* to *.deb* converter | :heavy_check_mark: | | |
+ananicy | nice-ness daemon | :heavy_multiplication_x: | [Ananicy](https://github.com/Nefelim4ag/Ananicy) | |
 anjuta | C/C++ editor | :heavy_check_mark: | | |
 ansible | alternative to Puppet/Chef | :heavy_check_mark: | | only dependencies are Python/SSH; `pip install ansible` |
 ansifilter | remove control codes | :heavy_multiplication_x: | [Ansifilter](http://andre-simon.de/doku/ansifilter/en/ansifilter.php) | |
@@ -933,8 +934,9 @@ sshpass | send password to SCP etc from script | :heavy_check_mark: | | |
 sshtalk | SSH chat server | :heavy_multiplication_x: | | |
 sshuttle | VPN over SSH | :heavy_check_mark: | [sshuttle](https://github.com/apenwarr/sshuttle) | TCP, not UDP or ICMP |
 stacer | GUI system optimiser | :heavy_multiplication_x: | [Stacer](https://github.com/oguzhaninan/Stacer) | |
-standardnotes | cross-platform encrypted notes app | :heavy_multiplication_x: | [standardnotes](https://standardnotes.org/) [repo](https://github.com/standardnotes) | |
+standardnotes | cross-platform encrypted notes app | :heavy_multiplication_x: | [standardnotes](https://standardnotes.org/) [repo](https://github.com/standardnotes) | includes Android |
 statsprocessor | word generator | :heavy_multiplication_x: | | |
+statusok | website/API monitor | :heavy_multiplication_x: | [statusok](https://github.com/sanathp/statusok) | |
 strace | system call tracer | :heavy_check_mark: | | |
 stress | stress CPU/memory/disk | :heavy_check_mark: | [stress](https://people.seas.harvard.edu/~apw/stress/) | |
 structure-synth | 3D structure generator | :heavy_check_mark: | | |
