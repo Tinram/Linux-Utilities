@@ -1041,7 +1041,7 @@ vinagre | GNOME remote desktop client | :heavy_check_mark: | | |
 vinetto | interrogate thumbs.db files | :heavy_check_mark: | | |
 virt-manager | GUI VM manager | :heavy_check_mark: | [virt-manager](https://virt-manager.org/) | good options range; still 'experimental' |
 virtualbox | virtual machines | :heavy_check_mark: | [Virtual Box](https://www.virtualbox.org/) | GPU acceleration |
-visual studio code | editor/IDE | :heavy_multiplication_x: | [Visual Studio Code](http://code.visualstudio.com/) | good Python support |
+visual studio code | editor/IDE | :heavy_multiplication_x: | [Visual Studio Code](http://code.visualstudio.com/) | also [vscodium](#vscodium) and [snap](https://snapcraft.io/code) |
 vivaldi | highly-customisable browser | :heavy_multiplication_x: | [Vivaldi](https://vivaldi.com/) | |
 vmware | virtual machines | :heavy_check_mark: | | GPU acceleration |
 vnstat | terminal network traffic monitor | :heavy_check_mark: | | |
@@ -1051,6 +1051,7 @@ voipong | VoIP sniffer/call detector | :heavy_multiplication_x: | | |
 vokoscreen | screencast creator | :heavy_check_mark: | | |
 vpaint | vector paint | :heavy_multiplication_x: | [VPaint](http://vpaint.org/) | |
 vrms | virtual Stallman: list non-free packages | :heavy_check_mark: | | |
+vscodium | VS Code without telemetry | :heavy_multiplication_x: | [VSCodium](https://vscodium.com/) | <a id="vscodium"></a> |
 w3af | web app vulnerability framework | :heavy_check_mark: | | |
 waidps | wireless auditing + IDS | :heavy_multiplication_x: | [waidps](https://github.com/SYWorks/waidps) | |
 wallpaperd | wallpaper rotator | :heavy_multiplication_x: | | |
