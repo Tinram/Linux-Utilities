@@ -98,6 +98,7 @@ bluemon | de/activate programs on Bluetooth link quality | :heavy_check_mark: | 
 bluetooth | Bluetooth support | :heavy_check_mark: | | |
 bluez | Bluetooth tools | :heavy_check_mark: | | |
 bmon | bandwidth monitor | :heavy_check_mark: | | |
+bookworm | eBook reader | :heavy_multiplication_x: | [Bookworm](https://babluboy.github.io/bookworm/) | |
 bootchart | boot time analyser | :heavy_check_mark: | | |
 borgbackup | terminal backup tool | :heavy_check_mark: | | uses compression and encryption |
 boxbackup-client | Box backup | :heavy_check_mark: | [boxbackup](http://www.boxbackup.org/) | `rsync`-like and encrypted |
@@ -701,6 +702,7 @@ packeth | GUI Ethernet packet generator | :heavy_check_mark: | | |
 packetsender | GUI to create and send packets | :heavy_multiplication_x: | [Packet Sender](https://packetsender.com/download ) | |
 pamix | PulseAudio mixer | :heavy_multiplication_x: | [PAmix](https://github.com/patroclos/PAmix) | |
 pandoc | DOCX/RTF/HTML/Markdown converter | :heavy_check_mark: | [Pandoc](http://pandoc.org/) | |
+panwriter | Markdown editor | :heavy_multiplication_x: | [panwriter](https://github.com/mb21/panwriter) | tight integration with Pandoc |
 parallel | multi-threaded Bash scripts | :heavy_check_mark: | | in [moreutils](#moreutils) <a id="parallel"></a> |
 parted | disk partitioner | :heavy_check_mark: | | creates GPT partitions, but does not resize |
 passwordsafe | password vault | :heavy_check_mark: | [Password Safe](https://sourceforge.net/projects/passwordsafe/) | |
