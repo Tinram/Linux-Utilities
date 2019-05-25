@@ -154,7 +154,7 @@ codecounter | C/BASIC/web code counter | :heavy_multiplication_x: | [CodeCounter
 codelite | C editor | :heavy_check_mark: | | PHP/JS/Python also supported |
 collectd, kcollectd | system stats harvester/monitoring daemon | :heavy_check_mark: | | |
 collectl | collect performance data | :heavy_check_mark: | [Collectl](http://collectl.sourceforge.net/) | |
-colordiff | colorise diff output | :heavy_check_mark: | | |
+colordiff | colourise diff output | :heavy_check_mark: | | |
 colorgrab | dropper | :heavy_multiplication_x: | [colorgrab](https://github.com/Acolarh/colorgrab) | |
 colorhug | colorimeter | :heavy_check_mark: | | |
 conduit | sync tool for GNOME (files, bookmarks) | :heavy_check_mark: | | |
@@ -611,6 +611,7 @@ mtools | multi-cast connection tester | :heavy_multiplication_x: | | |
 mtr | `ping` and [`traceroute`](#traceroute) combined | :heavy_check_mark: | | also [mtr-tiny](#mtr-tiny) |
 mtr-tiny | `ping` and [`traceroute`](#traceroute) combined | :heavy_check_mark: | | <a id="mtr-tiny"></a> |
 muffet | website link checker | :heavy_multiplication_x: | [muffet](https://github.com/raviqqe/muffet) | |
+multitail | logfile multi-viewer/colouriser | :heavy_check_mark: | | |
 mundus | home file cleaner | :heavy_multiplication_x: | | |
 mupen64plus | N64 console emulator | :heavy_check_mark: | | |
 musescore | music score editor | :heavy_check_mark: | | |
