@@ -201,6 +201,7 @@ deadbeef | music player | :heavy_multiplication_x: | [deadbeef](https://sourcefo
 deadman | terminal website status checker | :heavy_multiplication_x: | [deadman](https://github.com/upa/deadman) | uses ping |
 debreate | Debian package manager | :heavy_multiplication_x: | [Debreate](https://antumdeluge.github.io/debreate-web/) | |
 debsums | package checksum comparisons | :heavy_check_mark: | | |
+deen | data en-/decoding | :heavy_multiplication_x: | [deen](https://github.com/takeshixx/deen) | |
 deja-dup | GUI backup tool using [duplicity](#duplicity) | :heavy_check_mark: | [DejaDup](https://wiki.gnome.org/Apps/DejaDup) | GPG encryption, no compression |
 denyhosts | SSH protection | :heavy_check_mark: | | |
 devicesinlan | LAN scanner | :heavy_multiplication_x: | [DevicesInLAN](https://sourceforge.net/projects/devicesinlan/) | |
@@ -494,6 +495,7 @@ iptables-persistent | iptables set-up on boot | :heavy_check_mark: | | `sudo ser
 iptraf | IP LAN monitor | :heavy_check_mark: | | |
 ipython | enhanced Python shell and env | :heavy_check_mark: | | |
 iridium | Chromium-based browser | :heavy_multiplication_x: | [Iridium](https://iridiumbrowser.de) | enhanced privacy over Chrome |
+iris | colour palette editor | :heavy_multiplication_x: | [Iris](https://irisapp.info/) | |
 isohybrid | DVD.iso > bootable from Flash | :heavy_check_mark: | | |
 isomaster | CD/DVD image editor | :heavy_check_mark: | | |
 java | | :heavy_check_mark: | | `apt-get install default-jre` |
