@@ -408,6 +408,7 @@ gphoto2 | terminal digital camera processor | :heavy_check_mark: | | |
 gpick | screen colour pick/palette/inverter | :heavy_check_mark: | | |
 gping | terminal visual ping host | :heavy_multiplication_x: | [gping](https://github.com/orf/gping) | |
 gpm | mouse interface/copy-paste on terminal | :heavy_check_mark: | | <a id="gpick"></a> |
+gpt fdisk | GPT disk tools | :heavy_multiplication_x: | [GPT fdisk](https://sourceforge.net/projects/gptfdisk/) | also see `gdisk` in repo |
 gqrx | GUI radio receiver | :heavy_multiplication_x: | [Gqrx](http://gqrx.dk/) | |
 grabber | web app scanner | :heavy_multiplication_x: | | |
 graphviz | graph tools | :heavy_check_mark: | | |
