@@ -280,6 +280,7 @@ fatback | recover data from disks/USBs | :heavy_check_mark: | | `fatback /dev/sd
 fatsort | FAT filesystem file sorter | :heavy_check_mark: | | |
 fbcat | framebuffer grabber | :heavy_check_mark: | | outputs *.ppm* convert with [ImageMagick](#imagemagick) |
 fcrackzip | ZIP cracker | :heavy_check_mark: | | |
+fd-find | alternative `find` | :heavy_check_mark: | [fd](https://github.com/sharkdp/fd) | |
 fdupes | compare files in two directories | :heavy_check_mark: | | uses hashes |
 featherpad | C++ editor | :heavy_multiplication_x: | [FeatherPad](https://github.com/tsujan/FeatherPad) | few dependencies |
 fehashmac | terminal hasher | :heavy_multiplication_x: | [fehashmac](https://sourceforge.net/projects/fehashmac) | |
@@ -958,6 +959,7 @@ svar | voice activated recorder | :heavy_multiplication_x: | [svar](https://gith
 svg-edit | SVG editor | :heavy_multiplication_x: | | |
 swaks | SMTP test tool | :heavy_check_mark: | | |
 swatch | log file event notifier | :heavy_check_mark: | | |
+symphytum | personal database | :heavy_multiplication_x: | [symphytum](https://github.com/giowck/symphytum) | |
 syncthing | sync cloud/network app | :heavy_multiplication_x: | [Syncthing](https://syncthing.net/) | |
 synfig | vector 2D animation | :heavy_check_mark: | | |
 sysbench | system benchmarker | :heavy_check_mark: | [info](https://www.howtoforge.com/how-to-benchmark-your-system-cpu-file-io-mysql-with-sysbench) | |
