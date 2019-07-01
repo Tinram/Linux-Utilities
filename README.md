@@ -56,7 +56,7 @@ arp-scan | ARP scanner/fingerprinting | :heavy_check_mark: | | |
 arpwatch | Ethernet MAC address monitor | :heavy_check_mark: | | |
 artha | offline thesaurus | :heavy_check_mark: | | |
 asciinema | terminal activity recorder | :heavy_multiplication_x: | [asciinema](http://asciinema.org/) [repo](https://github.com/asciinema/asciinema) | `asciinema rec >> exit` |
-astyle | code indenter | :heavy_check_mark: | [Artistic Style](http://astyle.sourceforge.net/) | C/C++/Java; good for other langs too |
+astyle | code formatter | :heavy_check_mark: | [Artistic Style](http://astyle.sourceforge.net/) | C/C++/Java; good for other langs too |
 asunder | CD ripper | :heavy_check_mark: | [Asunder](http://littlesvr.ca/asunder/) | |
 athena-jot | data generator | :heavy_check_mark: | | |
 atril | MATE PDF viewer | :heavy_check_mark: | | |
@@ -240,6 +240,7 @@ doxygen-doxywizard | config GUI for [doxygen](#doxygen) | :heavy_check_mark: | |
 drgeo | geometric sketcher | :heavy_check_mark: | | |
 dsniff | network sniffer | :heavy_check_mark: | | |
 dstat | resource stats tool | :heavy_check_mark: | [Dstat](http://dag.wiee.rs/home-made/dstat/) | |
+dtrx | archive viewer/unpacker | :heavy_check_mark: | | |
 dukto | LAN transfer tool | :heavy_multiplication_x: | [dukto](https://github.com/guilhem/dukto) | |
 duplicity | encrypted backup | :heavy_check_mark: | [Duplicity](http://duplicity.nongnu.org/) | built on `rsync` <a id="duplicity"></a> |
 dvdbackup | DVD ripper | :heavy_check_mark: | | |
@@ -473,7 +474,7 @@ iftop | network interface usage | :heavy_check_mark: | | |
 imagemagick | terminal image manipulator | :heavy_check_mark: | | <a id="imagemagick"></a> |
 i-nex | GUI system hardware lister | :heavy_multiplication_x: | [i-nex](http://i-nex.linux.pl/) | similar to CPU-Z |
 incron | daemon for file system events | :heavy_check_mark: | | |
-indent | C code indenter | :heavy_check_mark: | | |
+indent | C code formatter | :heavy_check_mark: | | |
 indicator-cpufreq | change CPU frequency | :heavy_check_mark: | | |
 infernal-twin | auto wireless hacking tool | :heavy_multiplication_x: | [infernal-twin](https://github.com/entropy1337/infernal-twin) | |
 inguma | pentest framework | :heavy_multiplication_x: | | |
@@ -1028,6 +1029,7 @@ ugui_flif | GUI for [FLIF](#flif) | :heavy_multiplication_x: | [UGUI_FLIF](https
 ufraw | RAW importer | :heavy_check_mark: | | |
 ufw | firewall | :heavy_check_mark: | | <a id="ufw"></a> |
 umplayer | video player | :heavy_multiplication_x: | | supposed better DVD playback than VLC |
+uncrustify | code formatter | :heavy_check_mark: | | |
 unetbootin | ISO to USB boot | :heavy_check_mark: | | |
 unhtml | remove HTML tags from file | :heavy_check_mark: | | |
 unison | terminal file sync tool | :heavy_check_mark: | | Windows to Linux too |
