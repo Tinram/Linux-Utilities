@@ -183,6 +183,7 @@ cutegram | IM | :heavy_multiplication_x: | [Cutegram](http://aseman.co/en/produc
 cvassistant | multiple CV manager | :heavy_multiplication_x: | [CVAssistant](https://sourceforge.net/projects/cvassistant/) | |
 curl-loader | HTTP benchmark | :heavy_multiplication_x: | [curl-loader](https://sourceforge.net/projects/curl-loader/) | |
 cutereport | report generator | :heavy_multiplication_x: | [CuteReport](https://sourceforge.net/projects/qreport/) | |
+cutter | GUI radare2 binary analyser/disassembler | :heavy_multiplication_x: | [cutter](https://github.com/radareorg/cutter) | |
 cxref | C code to LaTeX/HTML | :heavy_check_mark: | | |
 cyberfox | 64-bit browser | :heavy_multiplication_x: | | |
 cython | Python C extensions | :heavy_check_mark: | | |
@@ -312,6 +313,7 @@ fmap | web app vulnerabilities | :heavy_multiplication_x: | | |
 focus | task reminder | :heavy_multiplication_x: | [Focus](https://github.com/nagyation/Focus) | |
 focuswriter | word processor | :heavy_check_mark: | | <a id="#focuswriter"></a> |
 fog | network computer cloning | :heavy_multiplication_x: | [FOG](https://fogproject.org/) | |
+fontfinder | GUI Google font browser | :heavy_multiplication_x: | [FontForge](https://gitlab.com/mmstick/fontfinder/) | |
 fontforge | font editor | :heavy_multiplication_x: | [FontForge](https://github.com/fontforge) | |
 foremost | recover/extract files | :heavy_check_mark: | | |
 fotoxx | photo editor | :heavy_check_mark: | | good at editing, poor interface |
