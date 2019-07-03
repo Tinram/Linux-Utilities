@@ -175,6 +175,7 @@ cryptocat | encrypted IM | :heavy_multiplication_x: | [CryptoCat](https://crypto
 cryptkeeper | GUI encfs for GNOME | :heavy_check_mark: | | |
 cryptote | encrypted tabbed notes | :heavy_multiplication_x: | [Cryptote](http://panthema.net/2009/cryptote/#downloads) | |
 cscope | C interactive checker | :heavy_check_mark: | | |
+csvtool | terminal CSV file manipulator | :heavy_check_mark: | | |
 ctags | C code indexing tool | :heavy_check_mark: | | |
 cuda-z | CUDA-enabled GPU info | :heavy_multiplication_x: | [CUDA-Z](http://cuda-z.sourceforge.net/) | |
 cups-pdf | print to PDF | :heavy_check_mark: | | |
@@ -793,6 +794,7 @@ pylint3 | Python 3 code static checker | :heavy_check_mark: | | |
 pypy | Python JIT compiler | :heavy_check_mark: | | |
 pyrenamer | mass file renamer | :heavy_check_mark: | | |
 pyrit | GPU WPA2 wireless cracker | :heavy_check_mark: | | |
+python3-csvkit | CSV utilities | :heavy_check_mark: | | |
 python3-enigma | Enigma machine library | :heavy_check_mark: | [Py-Enigma](https://py-enigma.readthedocs.io/en/latest/) | |
 python3-pip | Python 3 package installer | :heavy_check_mark: | | |
 python3-psutil | psutil | :heavy_check_mark: | | access reporting tools |
@@ -976,6 +978,7 @@ systemd-ui | systemd GUI | :heavy_check_mark: | | `systemadm` |
 systemdgenie | systemd utility | :heavy_multiplication_x: | [systemdgenie](https://cgit.kde.org/systemdgenie.git) | |
 systemtap | kernel instrumentation | :heavy_check_mark: | | <a id="systemtap"></a> |
 sysv-rc-conf | SysV runlevel config | :heavy_check_mark: | | use `apt` <a id="sysv-rc-conf"></a> |
+tabview | terminal CSV viewer | :heavy_multiplication_x: | [tabview](https://github.com/TabViewer/tabview/) | `pip install tabview` |
 taskwarrior | terminal ToDo list | :heavy_multiplication_x: | [Taskwarrior](https://taskwarrior.org/) | |
 tasque | task manager | :heavy_check_mark: | | |
 tcpdump | terminal network traffic analyser | :heavy_check_mark: | | <a id="tcpdump"></a> |
