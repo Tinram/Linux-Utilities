@@ -199,7 +199,7 @@ dban | disk destroyer | :heavy_multiplication_x: | [DBAN](https://dban.org/) | |
 dconf-editor | GUI dconf editor | :heavy_check_mark: | | |
 dcraw | terminal RAW converter | :heavy_check_mark: | | |
 ddrescue | data recovery tool | :heavy_check_mark: | | see [gddrescue](#gddrescue) |
-deadbeef | music player | :heavy_multiplication_x: | [deadbeef](https://sourceforge.net/projects/deadbeef/) | ppa:starws-box/deadbeef-player |
+deadbeef | music player | :heavy_multiplication_x: | [deadbeef](http://deadbeef.sourceforge.net/) [repo](https://github.com/DeaDBeeF-Player/deadbeef) | |
 deadman | terminal website status checker | :heavy_multiplication_x: | [deadman](https://github.com/upa/deadman) | uses ping |
 debreate | Debian package manager | :heavy_multiplication_x: | [Debreate](https://antumdeluge.github.io/debreate-web/) | |
 debsums | package checksum comparisons | :heavy_check_mark: | | |
