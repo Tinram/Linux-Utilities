@@ -489,7 +489,7 @@ inotify | monitor filesystem events | :heavy_check_mark: | | good for Samba fold
 input-utils | kernel input layer utilities | :heavy_check_mark: | | `lsinput`, `input-events`, `input-kbd` |
 instarecon | auto digital recon | :heavy_multiplication_x: | [instarecon](https://github.com/vergl4s/instarecon) | high level recon |
 intel-gpu-tools | `intel_gpu_time`, `intel_gpu_top` | :heavy_check_mark: | | |
-inxi | system info | :heavy_multiplication_x: | | in CentOS repo |
+inxi | system info | :heavy_check_mark: | | |
 ioping | disk I/O benchmarker | :heavy_check_mark: | | |
 iotop | I/O monitor | :heavy_check_mark: | | |
 ipcalc | parameter calculator for IPv4 | :heavy_check_mark: | | |
@@ -1004,7 +1004,7 @@ textosaurus | text editor (Qt and Scintilla) | :heavy_multiplication_x: | [texto
 tkdiff | GUI for diff | :heavy_multiplication_x: | [tkdiff](https://sourceforge.net/projects/tkdiff/) | |
 tig | terminal [Git](#git) info viewer | :heavy_check_mark: | | |
 tiger | report root vulnerabilities | :heavy_check_mark: | | |
-tigerVNC | remote desktop | :heavy_multiplication_x: | | |
+tigervnc | remote desktop | :heavy_check_mark: | | in repo @19.04 |
 tightvnc | remote desktop | :heavy_check_mark: | | |
 timeshift | system restore utility | :heavy_check_mark: | | |
 tinyproxy | non-caching HTTP proxy | :heavy_check_mark: | | |
