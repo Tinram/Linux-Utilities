@@ -363,6 +363,7 @@ geany | lightweight editor/IDE | :heavy_check_mark: | | |
 genisoimage | create CD/DVD images | :heavy_check_mark: | | |
 gespeaker | GUI for [eSpeak](#espeak) | :heavy_check_mark: | | <a id="gespeaker"></a> |
 gethead | HTTP header vulnerability tool | :heavy_multiplication_x: | [gethead](https://github.com/httphacker/gethead) | |
+geeqie | GTK image viewer | :heavy_check_mark: | [Geeqie](http://geeqie.org/) | good for multiple image comparison, sidecar files |
 gfio | GUI for [fio](#fio) | :heavy_check_mark: | | |
 gfortran | GNU Fortran 95 compiler | :heavy_check_mark: | | |
 ghex | GUI hex viewer | :heavy_check_mark: | | |
@@ -672,6 +673,7 @@ nmap | network scanner | :heavy_check_mark: | | <a id="nmap"></a> |
 nmapsi4 | GUI for [NMap](#nmap) | :heavy_check_mark: | | |
 nmcli | CLI for NetworkManager | :heavy_check_mark: | | |
 nmon | network/CPU/disk performance | :heavy_check_mark: | | |
+nomacs | image viewer | :heavy_check_mark: | [nomacs](https://nomacs.org/) | good for image comparison via sync |
 notepadqq | code editor | :heavy_multiplication_x: | [Notepadqq](http://notepadqq.altervista.org/wp/download/) | |
 notepas | code editor | :heavy_multiplication_x: | | |
 notes-up | editor supporting Markdown | :heavy_multiplication_x: | [Notes-up](https://github.com/Philip-Scott/Notes-up) | PDF export |
