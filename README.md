@@ -78,6 +78,7 @@ babeltrace | trace conversion | :heavy_check_mark: | | |
 babe-qt | tiny Qt music player | :heavy_multiplication_x: | [babe-qt](https://github.com/milohr/babe-qt) | |
 backerupper | *tar.gz* backups | :heavy_multiplication_x: | [Backerupper](https://sourceforge.net/projects/backerupper/) | allows file exclusion | |
 backintime | backup tool | :heavy_check_mark: | [backintime](https://github.com/bit-team/backintime) | |
+bacon | BASIC to C converter | :heavy_multiplication_x: | [BaCon](http://www.basic-converter.org/) | |
 bacula | backup | :heavy_check_mark: | | |
 bandwidthd | track network usage | :heavy_check_mark: | | HTML/image output|
 bashate | Bash script linter | :heavy_check_mark: | | |
