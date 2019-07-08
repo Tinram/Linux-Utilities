@@ -316,7 +316,7 @@ fmap | web app vulnerabilities | :heavy_multiplication_x: | | |
 focus | task reminder | :heavy_multiplication_x: | [Focus](https://github.com/nagyation/Focus) | |
 focuswriter | word processor | :heavy_check_mark: | | <a id="#focuswriter"></a> |
 fog | network computer cloning | :heavy_multiplication_x: | [FOG](https://fogproject.org/) | |
-fontfinder | GUI Google font browser | :heavy_multiplication_x: | [FontForge](https://gitlab.com/mmstick/fontfinder/) | |
+fontfinder | GUI Google font browser | :heavy_multiplication_x: | [fontfinder](https://gitlab.com/mmstick/fontfinder/) | |
 fontforge | font editor | :heavy_multiplication_x: | [FontForge](https://github.com/fontforge) | |
 foremost | recover/extract files | :heavy_check_mark: | | |
 fotoxx | photo editor | :heavy_check_mark: | | good at editing, poor interface |
@@ -378,6 +378,8 @@ git | source control | :heavy_check_mark: | | `git`, *git-gui*, `gitk`, `gitg`, 
 git-extras | [Git](#git) extensions | :heavy_check_mark: | | |
 gitg | [Git](#git) repo viewer | :heavy_check_mark: | | |
 git-gui | [Git](#git) GUI | :heavy_check_mark: | | `git gui` |
+gitin | commit/branch/status explorer for [Git](#git) | :heavy_multiplication_x: | [gitin](https://github.com/isacikgoz/gitin) | |
+gitinspector | [Git](#git) repo stat tool | :heavy_check_mark: | | |
 gitk | [Git](#git) repo browser | :heavy_check_mark: | | |
 gitkraken | [Git](#git) GUI | :heavy_multiplication_x: | [GitKraken](https://www.gitkraken.com/) | |
 gkrellm | GUI system monitor | :heavy_check_mark: | | |
@@ -1001,6 +1003,7 @@ testdisk | disk/partition recovery tool | :heavy_check_mark: | [TestDisk](https:
 tesseract-ocr | OCR processor | :heavy_check_mark: | | |
 tetravex | number block game | :heavy_check_mark: | | (gno) Tetravex |
 texmaker | LaTeX editor | :heavy_check_mark: | | |
+textadept | minimalist cross-platform text editor | :heavy_multiplication_x: | [Textadept](https://foicica.com/textadept/) | |
 textosaurus | text editor (Qt and Scintilla) | :heavy_multiplication_x: | [textosaurus](https://github.com/martinrotter/textosaurus) | |
 tkdiff | GUI for diff | :heavy_multiplication_x: | [tkdiff](https://sourceforge.net/projects/tkdiff/) | |
 tig | terminal [Git](#git) info viewer | :heavy_check_mark: | | |
