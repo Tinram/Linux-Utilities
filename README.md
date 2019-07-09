@@ -66,6 +66,7 @@ audacity | sound editor | :heavy_check_mark: | | |
 aview | images to ASCII art | :heavy_check_mark: | | |
 auditd | user auditing | :heavy_check_mark: | | `auditctl`, `aureport`, `ausearch`, `autrace` |
 aura | background setter | :heavy_multiplication_x: | [Aura](https://sourceforge.net/projects/desktop-aura/) | |
+authenticator | 2FA code generator for GNOME | :heavy_multiplication_x: | [Authenticator](https://gitlab.gnome.org/World/Authenticator) | |
 autmater | webhost look-up | :heavy_multiplication_x: | | extensive look-up |
 automysqlbackup | periodic backups of [MySQL](#mysql) DBs | :heavy_check_mark: | | |
 autossh | auto restart SSH sessions | :heavy_check_mark: | | |
@@ -101,6 +102,7 @@ bluez | Bluetooth tools | :heavy_check_mark: | | |
 bmon | bandwidth monitor | :heavy_check_mark: | | |
 bookworm | eBook reader | :heavy_multiplication_x: | [Bookworm](https://babluboy.github.io/bookworm/) | |
 bootchart | boot time analyser | :heavy_check_mark: | | |
+bootiso | ISO to USB booter | :heavy_multiplication_x: | [bootiso](https://github.com/jsamr/bootiso) | |
 borgbackup | terminal backup tool | :heavy_check_mark: | | uses compression and encryption |
 boxbackup-client | Box backup | :heavy_check_mark: | [boxbackup](http://www.boxbackup.org/) | `rsync`-like and encrypted |
 boxbackup-server | Box backup | :heavy_check_mark: | [boxbackup](http://www.boxbackup.org/) | |
@@ -274,7 +276,7 @@ ethtool | display/change Ethernet device settings | :heavy_check_mark: | | |
 etcher | ISO to USB | :heavy_multiplication_x: | [Etcher](https://etcher.io/) | Chrome-bloated |
 ethr | network performance analyser | :heavy_multiplication_x: | [ethr](https://github.com/Microsoft/ethr) | |
 etm | event and task manager | :heavy_multiplication_x: | [ETM](http://people.duke.edu/~dgraham/etmqt/) | |
-exa | colourful file lister | :heavy_multiplication_x: | [Exa](https://the.exa.website/) | |
+exa | colourful `ls` replacement | :heavy_multiplication_x: | [Exa](https://the.exa.website/) [repo](https://github.com/ogham/exa) | |
 exelearning | authoring tool | :heavy_multiplication_x: | [eXeLearning](http://exelearning.net/) | pps:exelearning/exelearning |
 exiftool | edit EXIF data | :heavy_check_mark: | [EXIFtool](http://sno.phy.queensu.ca/~phil/exiftool/) | |
 exmplayer | GUI for MPlayer | :heavy_check_mark: | | |
@@ -451,6 +453,7 @@ hash-identifier | identify hash | :heavy_multiplication_x: | [hash-identifier](h
 haveged | random number generator | :heavy_check_mark: | | |
 hdparm | tune HDD parameters | :heavy_check_mark: | | |
 heartbeat | high-availability servers | :heavy_check_mark: | | |
+hegemon | TUI system monitor | :heavy_multiplication_x: | [hegemon](https://github.com/p-e-w/hegemon) | |
 helm | music synthesizer | :heavy_multiplication_x: | [Helm](http://tytel.org/helm/) | |
 hexyl | terminal hex editor | :heavy_multiplication_x: | [hexyl](https://github.com/sharkdp/hexyl) | |
 highlight | convert code to HTML/RTF | :heavy_check_mark: | | |
@@ -1035,6 +1038,7 @@ tsung | HTTP benchmark and database tester | :heavy_check_mark: | [TSung](http:/
 tt-rss | tiny tiny RSS | :heavy_check_mark: | | |
 ttf-mscorefonts-installer | MS TTF fonts | :heavy_check_mark: | | |
 tuxguitar | music app including scoresheet | :heavy_check_mark: | [Tuxguitar](http://tuxguitar.herac.com.ar) | |
+uberwriter | distraction-free Markdown editor | :heavy_multiplication_x: | [UberWriter](http://uberwriter.github.io/uberwriter/) [repo](https://github.com/UberWriter/uberwriter) | |
 ubuntu-tweak | Ubuntu config tool | :heavy_check_mark: | | use `apt` |
 udptunnel | tunnel UDP over TCP | :heavy_check_mark: | | |
 ugui_flif | GUI for [FLIF](#flif) | :heavy_multiplication_x: | [UGUI_FLIF](https://github.com/FLIF-hub/UGUI_FLIF) | |
