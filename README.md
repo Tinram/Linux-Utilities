@@ -1002,6 +1002,7 @@ teamviewer | remote desktop/support | :heavy_multiplication_x: | [TeamViewer](ht
 terminator | multiple terminals | :heavy_check_mark: | | |
 terminix | terminal emulator | :heavy_multiplication_x: | [terminix](https://github.com/gnunn1/terminix) | |
 termpix | terminal image viewer | :heavy_multiplication_x: | [termpix](https://github.com/hopey-dishwasher/termpix) | |
+termshark | TUI [Wireshark](#wireshark) | :heavy_multiplication_x: | [termshark](https://github.com/gcla/termsharkx) | |
 testdisk | disk/partition recovery tool | :heavy_check_mark: | [TestDisk](https://www.cgsecurity.org/wiki/TestDisk_Download) | |
 tesseract-ocr | OCR processor | :heavy_check_mark: | | |
 tetravex | number block game | :heavy_check_mark: | | (gno) Tetravex |
