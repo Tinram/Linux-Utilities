@@ -231,7 +231,7 @@ discover | automate pen test tasks | :heavy_multiplication_x: | [discover](https
 dispcalgui | GUI for [Argyll](#argyll) colour management | :heavy_check_mark: | | <a id="dispcalgui"></a> |
 dissy | GUI for `objdump` | :heavy_check_mark: | | |
 dmitry | server host info | :heavy_check_mark: | | |
-dnsdiag | DNS testing tools | :heavy_multiplication_x: | [dnsdiag](https://dnsdiag.org/) | `pip3 install dnsdiag` |
+dnsdiag | DNS testing tools | :heavy_multiplication_x: | [dnsdiag](https://dnsdiag.org/) | `pip3 install dnsdiag`; `dnsping`, `dnstraceroute`, `dnseval` |
 dnsmasq-utils | manage DHCP leases | :heavy_check_mark: | | |
 dnstracer | trace DNS queries to source | :heavy_check_mark: | | |
 dnswalk | DNS debugger/nameserver lookup | :heavy_check_mark: | | |
