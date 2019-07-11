@@ -66,8 +66,7 @@ audacity | sound editor | :heavy_check_mark: | | |
 aview | images to ASCII art | :heavy_check_mark: | | |
 auditd | user auditing | :heavy_check_mark: | | `auditctl`, `aureport`, `ausearch`, `autrace` |
 aura | background setter | :heavy_multiplication_x: | [Aura](https://sourceforge.net/projects/desktop-aura/) | |
-authenticator | 2FA code generator for GNOME | :heavy_multiplication_x: | [Authenticator](https://gitlab.gnome.org/World/Authenticator) | |
-autmater | webhost look-up | :heavy_multiplication_x: | | extensive look-up |
+automater | webhost look-up | :heavy_multiplication_x: | | extensive look-up |
 automysqlbackup | periodic backups of [MySQL](#mysql) DBs | :heavy_check_mark: | | |
 autossh | auto restart SSH sessions | :heavy_check_mark: | | |
 avahi-daemon | discover hosts | :heavy_check_mark: | | name instead of IP |
