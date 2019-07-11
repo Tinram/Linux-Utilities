@@ -106,6 +106,7 @@ bootiso | ISO to USB booter | :heavy_multiplication_x: | [bootiso](https://githu
 borgbackup | terminal backup tool | :heavy_check_mark: | | uses compression and encryption |
 boxbackup-client | Box backup | :heavy_check_mark: | [boxbackup](http://www.boxbackup.org/) | `rsync`-like and encrypted |
 boxbackup-server | Box backup | :heavy_check_mark: | [boxbackup](http://www.boxbackup.org/) | |
+bpfcc-tools | eBPF tools | :heavy_check_mark: | | in repo @19.04 |
 brandy | BBC Micro emulator | :heavy_check_mark: | | |
 brasero | ISO burner | :heavy_check_mark: | | |
 bridge-utils | configure Ethernet bridge | :heavy_check_mark: | | |
