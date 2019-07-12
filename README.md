@@ -320,6 +320,9 @@ focuswriter | word processor | :heavy_check_mark: | | <a id="#focuswriter"></a> 
 fog | network computer cloning | :heavy_multiplication_x: | [FOG](https://fogproject.org/) | |
 fontfinder | GUI Google font browser | :heavy_multiplication_x: | [fontfinder](https://gitlab.com/mmstick/fontfinder/) | |
 fontforge | font editor | :heavy_multiplication_x: | [FontForge](https://github.com/fontforge) | |
+fonts-croscore | fonts for improved screen readability | :heavy_check_mark: | | |
+fonts-crosextra-carlito | Calibri-compatible font | :heavy_check_mark: | | |
+fonts-crosextra-caladea | Cambria-compatible font | :heavy_check_mark: | | |
 foremost | recover/extract files | :heavy_check_mark: | | |
 fotoxx | photo editor | :heavy_check_mark: | | good at editing, poor interface |
 fping | ICMP to network hosts | :heavy_check_mark: | | |
@@ -760,7 +763,7 @@ pinta | Paint.net clone | :heavy_check_mark: | | |
 piper | mouse config | :heavy_multiplication_x: | [piper](https://github.com/libratbag/piper) | |
 pitivi | video editor | :heavy_check_mark: | | suitable for: clips to combine, add audio track, filter |
 pktstat | resolve packet details/connections | :heavy_check_mark: | | |
-playonlinux | MS games through Wine | :heavy_check_mark: | | |
+playonlinux | Microsoft games through Wine | :heavy_check_mark: | | |
 playshell | terminal media player | :heavy_multiplication_x: | [playshell](https://sourceforge.net/projects/playshell/) | |
 plecast | Wordpress plugin analyser | :heavy_multiplication_x: | | |
 plumecreator | book writing editor | :heavy_multiplication_x: | | |
@@ -789,7 +792,7 @@ proxychains | redirect connections through proxy servers | :heavy_check_mark: | 
 psad | port scan detector | :heavy_check_mark: | | from iptables |
 psensor | temperature sensors GUI | :heavy_check_mark: | | |
 pspp | statistical analysis | :heavy_check_mark: | [PSPP](http://www.gnu.org/software/pspp/) | SPSS replacement |
-pst-utils | read MS Outlook *.pst* files | :heavy_check_mark: | | *.pst* to *.mbox* |
+pst-utils | read Microsoft Outlook *.pst* files | :heavy_check_mark: | | *.pst* to *.mbox* |
 publican | docbook XML publisher | :heavy_check_mark: | | |
 puddletag | music file tag editor | :heavy_check_mark: | | |
 pulseeffects | equalizer for PulseAudio apps | :heavy_multiplication_x: | [pulseeffects](https://github.com/wwmm/pulseeffects) | ppa:yunnxx/gnome3 |
@@ -944,7 +947,7 @@ sqlitebrowser | [SQLite](#sqlite3) GUI | :heavy_check_mark: | | simpler than [sq
 sqliteman | [SQLite](#sqlite3) GUI | :heavy_check_mark: | | [SQLiteStudio](#sqlitestudio) is better for unicode data import <a id="sqliteman"></a> |
 sqlitestudio | [SQLite](#sqlite3) GUI | :heavy_multiplication_x: | [SQLiteStudio](https://sqlitestudio.pl/index.rvt) | <a id="sqlitestudio"><a> |
 sqlmap | SQL injection tool | :heavy_check_mark: | [SQLMap](http://sqlmap.org/) [sqlmap repo](https://github.com/sqlmapproject/sqlmap) | |
-sqlninja | MS SQL Server injection | :heavy_multiplication_x: | [sqlninja](https://sourceforge.net/projects/sqlninja) | |
+sqlninja | Microsoft SQL Server injection | :heavy_multiplication_x: | [sqlninja](https://sourceforge.net/projects/sqlninja) | |
 sqlsus | [MySQL](#mysql) attacker | :heavy_multiplication_x: | | |
 srm | secure file deletion | :heavy_multiplication_x: | [SRM](https://sourceforge.net/projects/srm/) | slow, punishing on SSDs |
 ssldump | SSLv3/TLS network protocol analyser | :heavy_check_mark: | | |
@@ -1037,7 +1040,7 @@ trupax | encrypt files and folders | :heavy_multiplication_x: | [TruPax](https:/
 tshark | terminal [Wireshark](#wireshark) | :heavy_check_mark: | | |
 tsung | HTTP benchmark and database tester | :heavy_check_mark: | [TSung](http://tsung.erlang-projects.org) | sophisticated |
 tt-rss | tiny tiny RSS | :heavy_check_mark: | | |
-ttf-mscorefonts-installer | MS TTF fonts | :heavy_check_mark: | | |
+ttf-mscorefonts-installer | Microsoft TTF fonts | :heavy_check_mark: | | |
 tuxguitar | music app including scoresheet | :heavy_check_mark: | [Tuxguitar](http://tuxguitar.herac.com.ar) | |
 uberwriter | distraction-free Markdown editor | :heavy_multiplication_x: | [UberWriter](http://uberwriter.github.io/uberwriter/) [repo](https://github.com/UberWriter/uberwriter) | |
 ubuntu-tweak | Ubuntu config tool | :heavy_check_mark: | | use `apt` |
@@ -1052,7 +1055,7 @@ unhtml | remove HTML tags from file | :heavy_check_mark: | | |
 unison | terminal file sync tool | :heavy_check_mark: | | Windows to Linux too |
 unison-gtk | GUI for unison | :heavy_check_mark: | | |
 units | terminal unit converter | :heavy_check_mark: | | |
-unoconv | MS Office *.doc* converter | :heavy_multiplication_x: | [Unoconv](http://dag.wiee.rs/home-made/unoconv/) | |
+unoconv | Microsoft Office *.doc* converter | :heavy_multiplication_x: | [Unoconv](http://dag.wiee.rs/home-made/unoconv/) | |
 unshield | extract *.cab* files from InstallShield | :heavy_check_mark: | | |
 unsort | jumbles lines in file | :heavy_check_mark: | | |
 usbview | GUI `lsusb` | :heavy_check_mark: | [usbview](https://github.com/gregkh/usbview) | |
@@ -1156,7 +1159,7 @@ zap | zed attack proxy | :heavy_multiplication_x: | | web app vulnerabilities |
 zeal | programming language docs browser | :heavy_check_mark: | [Zeal](https://github.com/zealdocs/zeal) | |
 zeit | GUI for *at* and *cron* | :heavy_multiplication_x: | [zeit](https://bitbucket.org/blaze/zeit) | |
 zenmap | [NMap](#nmap) GUI | :heavy_check_mark: | | |
-zentyal | server GUI set-up + MS Exchange replacement | :heavy_check_mark: | | |
+zentyal | server GUI set-up + Microsoft Exchange replacement | :heavy_check_mark: | | |
 zerotier | easy VPN | :heavy_multiplication_x: | [ZeroTier](http://zerotier.com) | |
 zim | 'desktop wiki' notepad | :heavy_check_mark: | | |
 zipcmp | zip contents comparison | :heavy_check_mark: | | |
