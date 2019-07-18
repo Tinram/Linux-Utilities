@@ -279,6 +279,7 @@ etm | event and task manager | :heavy_multiplication_x: | [ETM](http://people.du
 exa | colourful `ls` replacement | :heavy_multiplication_x: | [Exa](https://the.exa.website/) [repo](https://github.com/ogham/exa) | |
 exelearning | authoring tool | :heavy_multiplication_x: | [eXeLearning](http://exelearning.net/) | pps:exelearning/exelearning |
 exiftool | edit EXIF data | :heavy_check_mark: | [EXIFtool](http://sno.phy.queensu.ca/~phil/exiftool/) | |
+exiv2 | EXIF/metadata editor | :heavy_check_mark: | | |
 exmplayer | GUI for MPlayer | :heavy_check_mark: | | |
 extundelete | recover deleted files | :heavy_check_mark: | | |
 f3 | flash memory analyser | :heavy_multiplication_x: | [f3](https://github.com/AltraMayor/f3) | |
