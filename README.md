@@ -541,6 +541,7 @@ keepassxc | password vault | :heavy_multiplication_x: | [KeePassXC](https://keep
 kerkythea | renderer | :heavy_multiplication_x: | [Kerkythea](http://www.kerkythea.net/cms/) | |
 kexi | database GUI ([MySQL](#mysql)/[SQLite](#sqlite3)/[PostgreSQL](#postgresql)) | :heavy_multiplication_x: | [Kexi](http://kexi-project.org/) | |
 kismet | wireless sniffer/monitor | :heavy_check_mark: | | |
+knock | subdomain scanner | :heavy_multiplication_x: | [knock](https://github.com/guelfoweb/knock) | |
 knotter | Celtic knot app | :heavy_multiplication_x: | [Knotter](https://sourceforge.net/projects/knotter/) [info](http://knotter.mattbas.org/Knotter) | |
 kolormanager | X colour calibration | :heavy_multiplication_x: | [KolorManager](http://oyranos.org/kolormanager) | |
 komodoedit | code editor | :heavy_multiplication_x: | | |
