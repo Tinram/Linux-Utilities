@@ -44,7 +44,7 @@ antiword | Word files converted to text/PS/PDF | :heavy_check_mark: | | |
 anydesk | TeamViewer-like remote desktop | :heavy_multiplication_x: | [AnyDesk](https://anydesk.com/remote-desktop) | |
 apachetop | `top` for Apache | :heavy_check_mark: | | use `apt` |
 apfs-fuse | FUSE driver for mounting Apple filesystem | :heavy_multiplication_x: | [apfs-fuse](https://github.com/sgan81/apfs-fuse) | |
-apktool | read binary XML | :heavy_multiplication_x: | | |
+apktool | reverse engineer Android apk files | :heavy_check_mark: | | |
 aqemu | [Qemu](#qemu) + KVM GUI | :heavy_check_mark: | | |
 arandr | GUI for xrandr (X settings) | :heavy_check_mark: | | |
 ardour | audio editor | :heavy_check_mark: | | |
@@ -916,6 +916,7 @@ skrooge | money accounting | :heavy_check_mark: | | |
 skype | | :heavy_check_mark: | | <a id="skype"></a> |
 skype-ghetto | | :heavy_multiplication_x: | [ghetto-skype](https://github.com/stanfieldr/ghetto-skype) | Electron-wrapped web Skype |
 slack-desktop | team messenger | :heavy_check_mark: | | proprietary |
+slate | pixel art editor | :heavy_multiplication_x: | [slate](https://github.com/mitchcurtis/slate) | |
 slowhttptest | server stress tool | :heavy_check_mark: | | |
 slurm | bandwidth monitor | :heavy_check_mark: | | |
 smartdeblur | restore blurred images | :heavy_multiplication_x: | [SmartDeblur](https://github.com/Y-Vladimir/SmartDeblur) | |
