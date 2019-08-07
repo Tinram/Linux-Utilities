@@ -324,6 +324,7 @@ fontforge | font editor | :heavy_multiplication_x: | [FontForge](https://github.
 fonts-croscore | fonts for improved screen readability | :heavy_check_mark: | | |
 fonts-crosextra-carlito | Calibri-compatible font | :heavy_check_mark: | | |
 fonts-crosextra-caladea | Cambria-compatible font | :heavy_check_mark: | | |
+font-manager | GNOME font manager | :heavy_check_mark: | | |
 foremost | recover/extract files | :heavy_check_mark: | | |
 fotoxx | photo editor | :heavy_check_mark: | | good at editing, poor interface |
 fping | ICMP to network hosts | :heavy_check_mark: | | |
