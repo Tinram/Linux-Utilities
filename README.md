@@ -893,7 +893,6 @@ scrypt | encryption utility | :heavy_check_mark: | [scrypt](https://github.com/T
 secure-delete | wipe files/swap/memory | :heavy_check_mark: | | |
 sendemail | terminal email client | :heavy_check_mark: | | |
 sendmail | mail agent | :heavy_check_mark: | | |
-sentinel | 1980's game | :heavy_multiplication_x: | [Sentinel](https://github.com/kochsoft/free_sentinel_gl/wiki/Free-Sentinel-GL) | |
 sentry | brute-force blocker | :heavy_multiplication_x: | [sentry](https://github.com/msimerson/sentry) | |
 sfk | comprehensive file utilities | :heavy_multiplication_x: | [Swiss File Knife](http://stahlworks.com/dev/swiss-file-knife.html) | |
 sg3-utils | SCSI utilities | :heavy_check_mark: | | |
@@ -906,7 +905,7 @@ siege | server stress tester | :heavy_check_mark: | | |
 sigil | eBook editor | :heavy_multiplication_x: | [Sigil](https://sigil-ebook.com/) | |
 silver-searcher | source code grep | :heavy_multiplication_x: | [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) | |
 simplebackup | backup utility | :heavy_check_mark: | | |
-simplescreenrecorder | record programs/games | :heavy_multiplication_x: | [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/) | |
+simplescreenrecorder | record programs | :heavy_multiplication_x: | [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/) | |
 simon | voice recognition | :heavy_check_mark: | | |
 sipcrack | SIP log-in dumper/cracker | :heavy_check_mark: | | |
 sipvicious | audit SIP-based VoIP systems | :heavy_multiplication_x: | | |
@@ -1012,7 +1011,6 @@ termpix | terminal image viewer | :heavy_multiplication_x: | [termpix](https://g
 termshark | TUI [Wireshark](#wireshark) | :heavy_multiplication_x: | [termshark](https://github.com/gcla/termsharkx) | |
 testdisk | disk/partition recovery tool | :heavy_check_mark: | [TestDisk](https://www.cgsecurity.org/wiki/TestDisk_Download) | |
 tesseract-ocr | OCR processor | :heavy_check_mark: | | |
-tetravex | number block game | :heavy_check_mark: | | (gno) Tetravex |
 texmaker | LaTeX editor | :heavy_check_mark: | | |
 textadept | minimalist cross-platform text editor | :heavy_multiplication_x: | [Textadept](https://foicica.com/textadept/) | |
 textosaurus | text editor (Qt and Scintilla) | :heavy_multiplication_x: | [textosaurus](https://github.com/martinrotter/textosaurus) | |
@@ -1024,6 +1022,7 @@ tightvnc | remote desktop | :heavy_check_mark: | | |
 timeshift | system restore utility | :heavy_check_mark: | | |
 tinyproxy | non-caching HTTP proxy | :heavy_check_mark: | | |
 tlp | laptop power manager | :heavy_multiplication_x: | [TLP](http://linrunner.de/en/tlp/tlp.html) | |
+tmsu | file tagging app | :heavy_multiplication_x: | [TMSU](https://github.com/oniony/TMSU) | |
 tmux | terminal multiplexer | :heavy_check_mark: | | |
 todo.txt | terminal ToDo notes | :heavy_multiplication_x: | [todo.txt](http://todotxt.com/) | |
 tofromdos | EOL character converter | :heavy_check_mark: | | <a id="tofromdos"></a> |
