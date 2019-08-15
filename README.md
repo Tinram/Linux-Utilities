@@ -577,6 +577,7 @@ lm-sensors | for `sensors` | :heavy_check_mark: | | |
 lmms | audio editor | :heavy_check_mark: | | |
 ln | vector image generator | :heavy_multiplication_x: | [ln](https://github.com/fogleman/ln) | |
 lnav | logfile reader with colour | :heavy_check_mark: | [lnav](http://lnav.org/) | |
+log2ram | RAM logger | :heavy_multiplication_x: | [log2ram](https://github.com/azlux/log2ram) | |
 logisim | digital circuit designer | :heavy_multiplication_x: | [Logisim](https://sourceforge.net/projects/circuit/) | |
 logkeys | keylogger | :heavy_check_mark: | | ! |
 logwatch | log analysis emailer | :heavy_check_mark: | | |
