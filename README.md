@@ -457,6 +457,7 @@ HAI | hash algorithm identifier| :heavy_multiplication_x: | [Hash-Algorithm-Iden
 hash-identifier | identify hash | :heavy_multiplication_x: | [hash-identifier](http://tools.kali.org/password-attacks/hash-identifier) | |
 haveged | random number generator | :heavy_check_mark: | | |
 hdparm | tune HDD parameters | :heavy_check_mark: | | |
+heaptrack | heap memory profiler | :heavy_multiplication_x: | [heaptrack](https://github.com/KDE/heaptrack) | |
 heartbeat | high-availability servers | :heavy_check_mark: | | |
 hegemon | TUI system monitor | :heavy_multiplication_x: | [hegemon](https://github.com/p-e-w/hegemon) | |
 helm | music synthesizer | :heavy_multiplication_x: | [Helm](http://tytel.org/helm/) | |
@@ -672,6 +673,7 @@ netwag | GUI for [netwox](#netwox) | :heavy_check_mark: | | |
 netwox | networking utilities | :heavy_check_mark: | | <a id="netwox"></a> |
 neural-enhance | image enhancer | :heavy_multiplication_x: | [neural-enhance](https://github.com/alexjc/neural-enhance) | |
 newsbeuter | terminal RSS reader | :heavy_check_mark: | | |
+nftables | netfilter firewall editor | :heavy_check_mark: | | |
 nginx | web/proxy server | :heavy_check_mark: | | |
 ngrep | network traffic grep | :heavy_check_mark: | | |
 nightingale | music player | :heavy_multiplication_x: | [Nightingale](http://getnightingale.com/) | |
