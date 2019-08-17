@@ -604,13 +604,14 @@ masterpdfeditor | PDF editor | :heavy_multiplication_x: | [MasterPDFEditor](http
 mat | metadata anonymiser tool | :heavy_check_mark: | | use `apt`; `mat -d <file>` |
 maths | maths problem solver | :heavy_multiplication_x: | [maths](https://code.launchpad.net/~nasc-team) | ppa:nasc-team/daily |
 mattermost | team messaging | :heavy_multiplication_x: | [Mattermost](https://www.mattermost.org/) | |
-medusa | router/network brute-forcer | :heavy_check_mark: | | |
-meld | GUI `sdiff` | :heavy_check_mark: | | |
-mermaid | diagrams with Markdown derivative | :heavy_multiplication_x: | [Mermaid](https://github.com/knsv/mermaid) | |
-mesa-utils | MesaGL utilities | :heavy_check_mark: | | |
 md5deep | batch/recursive `md5sum` | :heavy_check_mark: | | |
 mdadm | software RAID controller | :heavy_check_mark: | | |
+medusa | router/network brute-forcer | :heavy_check_mark: | | |
+meld | GUI `sdiff` | :heavy_check_mark: | | |
+mermaid | Markdown diagrams | :heavy_multiplication_x: | [Mermaid](https://github.com/knsv/mermaid) | |
+mesa-utils | MesaGL utilities | :heavy_check_mark: | | |
 meshlab | triangular mesh creator | :heavy_check_mark: | | |
+meshroom | 3D photogrammetry/reconstruction | :heavy_multiplication_x: | [meshroom](https://github.com/alicevision/meshroom) | requires Nvidia GPU/CUDA |
 micro | text editor | :heavy_multiplication_x: | [micro](https://github.com/zyedidia/micro) | |
 midori | lightweight browser | :heavy_check_mark: | | |
 mindforger | Markdown notebook/IDE | :heavy_multiplication_x: | [mindforger](http://mindforger.com/) | |
