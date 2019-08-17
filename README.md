@@ -673,7 +673,7 @@ netwag | GUI for [netwox](#netwox) | :heavy_check_mark: | | |
 netwox | networking utilities | :heavy_check_mark: | | <a id="netwox"></a> |
 neural-enhance | image enhancer | :heavy_multiplication_x: | [neural-enhance](https://github.com/alexjc/neural-enhance) | |
 newsbeuter | terminal RSS reader | :heavy_check_mark: | | |
-nftables | netfilter firewall editor | :heavy_check_mark: | | |
+nftables | netfilter firewall utility | :heavy_check_mark: | | `nft` |
 nginx | web/proxy server | :heavy_check_mark: | | |
 ngrep | network traffic grep | :heavy_check_mark: | | |
 nightingale | music player | :heavy_multiplication_x: | [Nightingale](http://getnightingale.com/) | |
