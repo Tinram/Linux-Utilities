@@ -872,7 +872,7 @@ richochet | [Tor](#tor) chat | :heavy_multiplication_x: | [richochet](https://ri
 rig | random person id generator | :heavy_check_mark: | | |
 rkhunter | rootkit hunter | :heavy_check_mark: | | |
 rmlint | duplicate file remover | :heavy_multiplication_x: | [rmlint](https://github.com/sahib/rmlint) | |
-rnd | random data generator | :heavy_multiplication_x: | [RND](https://github.com/Tinram/RND) | |
+rnd64 | multi-threaded random data generator | :heavy_multiplication_x: | [RND64](https://github.com/Tinram/RND64) | |
 rng-tools | daemon to use hardware TRNG | :heavy_check_mark: | | includes `rngtest` |
 rooster | terminal password manager | :heavy_multiplication_x: | [rooster](https://github.com/conradkdotcom/rooster) | scrypt, AES-256, HMAC-SHA256 |
 rosaimagewriter | USB Flash tool | :heavy_multiplication_x: | | |
@@ -974,7 +974,7 @@ s-tui | terminal hardware monitor | :heavy_multiplication_x: | [s-tui](https://g
 stunnel | SSL tunnel for own apps | :heavy_check_mark: | [STunnel](https://www.stunnel.org/index.html) | |
 subbrute | enumerate DNS records/subdomains | :heavy_multiplication_x: | [subbrute](https://github.com/TheRook/subbrute) | |
 subversion | SVN | :heavy_check_mark: | | |
-sucrack | `su` brute-forcer | :heavy_check_mark: | | |
+sucrack | `su` multi-threaded brute-forcer | :heavy_check_mark: | | |
 sunflow | raytracer | :heavy_check_mark: | | Java-based |
 suricata | IDS | :heavy_check_mark: | | |
 sux | `su` for X | :heavy_check_mark: | | |
