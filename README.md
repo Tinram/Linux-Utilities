@@ -533,6 +533,7 @@ jpeginfo | JPG info/integrity | :heavy_check_mark: | | |
 jq | terminal JSON stream editor | :heavy_check_mark: | | |
 julia | fast math-oriented language | :heavy_check_mark: | [Julia](http://julialang.org/) | |
 kaku | music player | :heavy_multiplication_x: | [Kaku](http://kaku.rocks/) | |
+kamailio | SIP proxy | :heavy_check_mark: | [kamailio](https://www.kamailio.org/) | |
 kanboard | project manager | :heavy_multiplication_x: | [Kanboard](https://kanboard.net/) | |
 katoolin | auto install Kali Linux tools | :heavy_multiplication_x: | [katoolin](https://github.com/LionSec/katoolin) | |
 kazam | video screen recorder | :heavy_check_mark: | | |
@@ -917,8 +918,7 @@ sirikali | GUI for gocryptfs/encfs/securefs | :heavy_multiplication_x: | [SiriKa
 sk1 | vector graphics editor | :heavy_multiplication_x: | [sK1](http://sk1project.org/) | |
 skipfish | web app recon tool | :heavy_check_mark: | | |
 skrooge | money accounting | :heavy_check_mark: | | |
-skype | | :heavy_check_mark: | | <a id="skype"></a> |
-skype-ghetto | | :heavy_multiplication_x: | [ghetto-skype](https://github.com/stanfieldr/ghetto-skype) | Electron-wrapped web Skype |
+skype | | :heavy_multiplication_x: | [skype](heavy_multiplication_x) | <a id="skype"></a> |
 slack-desktop | team messenger | :heavy_check_mark: | | proprietary |
 slate | pixel art editor | :heavy_multiplication_x: | [slate](https://github.com/mitchcurtis/slate) | |
 slowhttptest | server stress tool | :heavy_check_mark: | | |
