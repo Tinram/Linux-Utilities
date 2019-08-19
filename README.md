@@ -918,7 +918,7 @@ sirikali | GUI for gocryptfs/encfs/securefs | :heavy_multiplication_x: | [SiriKa
 sk1 | vector graphics editor | :heavy_multiplication_x: | [sK1](http://sk1project.org/) | |
 skipfish | web app recon tool | :heavy_check_mark: | | |
 skrooge | money accounting | :heavy_check_mark: | | |
-skype | | :heavy_multiplication_x: | [skype](heavy_multiplication_x) | <a id="skype"></a> |
+skype | VoIP telephony | :heavy_multiplication_x: | [skype](https://www.skype.com/en/get-skype/) | <a id="skype"></a> |
 slack-desktop | team messenger | :heavy_check_mark: | | proprietary |
 slate | pixel art editor | :heavy_multiplication_x: | [slate](https://github.com/mitchcurtis/slate) | |
 slowhttptest | server stress tool | :heavy_check_mark: | | |
