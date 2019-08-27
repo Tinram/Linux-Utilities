@@ -167,7 +167,8 @@ convertall | unit converter | :heavy_check_mark: | | |
 compiz | window and compositing manager | :heavy_check_mark: | | <a id="compiz"></a> |
 compizconfig-settings-manager | [compiz](#compiz) config settings | :heavy_check_mark: | | screen inverter |
 conky | GUI system monitor | :heavy_check_mark: | | |
-cpu-g | CPU-Z like CPU analyser | :heavy_multiplication_x: | [CPU-G](https://sourceforge.net/projects/cpug/) | |
+cpu-g | GUI CPU analyser | :heavy_multiplication_x: | [CPU-G](https://sourceforge.net/projects/cpug/) | |
+cpu-x | GUI CPU/motherboard analyser | :heavy_multiplication_x: | [CPU-X](https://github.com/X0rg/CPU-X) | |
 cpupower | CPU frequency manager | :heavy_multiplication_x: | | |
 cppcheck | C code linter | :heavy_check_mark: | | |
 cpuid | x86 CPU info | :heavy_check_mark: | | |
