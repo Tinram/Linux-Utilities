@@ -378,6 +378,7 @@ gfortran | GNU Fortran 95 compiler | :heavy_check_mark: | | |
 ghex | GUI hex viewer | :heavy_check_mark: | | |
 ghostwriter | [FocusWriter](#focuswriter)-like text editor | :heavy_multiplication_x: | [GhostWriter](http://wereturtle.github.io/ghostwriter/) | Markdown default |
 giada | DJ tool | :heavy_multiplication_x: | | |
+gifcurry | video editor for GIFs | :heavy_multiplication_x: | [gifcurry](https://github.com/lettier/gifcurry) | |
 gigolo | mount manager | :heavy_check_mark: | | |
 gimp | image editor | :heavy_check_mark: | | |
 gimp-dcraw | GIMP RAW plugin | :heavy_check_mark: | | |
@@ -519,6 +520,7 @@ iridium | Chromium-based browser | :heavy_multiplication_x: | [Iridium](https://
 iris | colour palette editor | :heavy_multiplication_x: | [Iris](https://irisapp.info/) | |
 isohybrid | DVD.iso > bootable from Flash | :heavy_check_mark: | | |
 isomaster | CD/DVD image editor | :heavy_check_mark: | | |
+jade | diagram editor | :heavy_multiplication_x: | [jade](https://github.com/jaallen85/jade) | |
 java | | :heavy_check_mark: | | `apt-get install default-jre` |
 jarte | lightweight wordprocessor (with .docx support) | :heavy_check_mark: | | |
 jbit | 6502 CPU simulator | :heavy_multiplication_x: | [JBit](https://sourceforge.net/projects/jbit/) | |
