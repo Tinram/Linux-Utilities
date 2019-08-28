@@ -202,6 +202,7 @@ davfs2 | mount WebDAV resource | :heavy_check_mark: | | |
 dban | disk destroyer | :heavy_multiplication_x: | [DBAN](https://dban.org/) | |
 dconf-editor | GUI dconf editor | :heavy_check_mark: | | |
 dcraw | terminal RAW converter | :heavy_check_mark: | | |
+ddd | GUI debugger for GDB etc | :heavy_check_mark: | | includes Python, Bash |
 ddrescue | data recovery tool | :heavy_check_mark: | | see [gddrescue](#gddrescue) |
 deadbeef | music player | :heavy_multiplication_x: | [deadbeef](http://deadbeef.sourceforge.net/) [repo](https://github.com/DeaDBeeF-Player/deadbeef) | |
 deadman | terminal website status checker | :heavy_multiplication_x: | [deadman](https://github.com/upa/deadman) | uses ping |
