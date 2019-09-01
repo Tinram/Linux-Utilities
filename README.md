@@ -833,6 +833,7 @@ qjournalctl | GUI for systemd's `journalctl` | :heavy_multiplication_x: | [qjour
 qmmp | music player | :heavy_check_mark: | | |
 qownnotes | notepad with Markdown | :heavy_multiplication_x: | [QOwnNotes](http://www.qownnotes.org/) | |
 qmplay2 | video/YouTube player | :heavy_multiplication_x: | [QMPlay2](https://github.com/zaps166/QMPlay2) | GPU acceleration |
+qpdf | terminal PDF editor | :heavy_multiplication_x: | [QPDF](http://qpdf.sourceforge.net/) | |
 qrencode | QR generator | :heavy_check_mark: | | `qrencode -o f.png 'txt'` # -s height of pixel, -l H highest level of error correction|
 qtox | encrypted chat | :heavy_multiplication_x: | [qTox](https://github.com/qTox/qTox) | |
 qtpfsgui | HDR tonemapper | :heavy_check_mark: | | |
