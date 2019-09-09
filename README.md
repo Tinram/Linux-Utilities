@@ -419,6 +419,7 @@ golly | game of life | :heavy_check_mark: | | |
 googler | terminal Google search | :heavy_multiplication_x: | [googler](https://github.com/jarun/googler) | |
 go-rsync | GUI for `rsync` | :heavy_multiplication_x: | [go-rsync](https://github.com/d2r2/go-rsync) | |
 gosync | GDrive sync | :heavy_multiplication_x: | [GoSync](https://github.com/hschauhan/gosync/) | |
+gotty | terminal application projected as web app | :heavy_multiplication_x: | [GoTTY](https://github.com/yudai/gotty) | |
 gource | source control visualisation tool | :heavy_check_mark: | | |
 govie | movie utility | :heavy_multiplication_x: | [Govie](https://github.com/narenaryan/Govie) | |
 gparted | view/manage partitions | :heavy_check_mark: | | |
@@ -1038,6 +1039,7 @@ tofromdos | EOL character converter | :heavy_check_mark: | | <a id="tofromdos"><
 tomahawk | media player | :heavy_check_mark: | | |
 tor | anonymising overlay | :heavy_check_mark: | | get source, **not** repo version <a id="tor"></a> |
 torsocks | use SOCKS-friendly apps with [Tor](#tor) | :heavy_check_mark: | | e.g. SSH |
+trace-cmd | kernel function tracing analyser | :heavy_check_mark: | | |
 traceroute | trace packets | :heavy_check_mark: | | <a id="traceroute"></a> |
 trafshow | show network traffic | :heavy_check_mark: | | see [Netdiag](#netdiag) |
 transmageddon | media file converter | :heavy_check_mark: | | |
