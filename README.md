@@ -142,6 +142,7 @@ cinelerra | non-linear video editor | :heavy_multiplication_x: | | |
 ckport | EXE function/call checker | :heavy_check_mark: | | |
 claws-mail | GTK mail client | :heavy_check_mark: | | |
 clementine | music player/streamer | :heavy_check_mark: | | |
+cloaker | GUI file encryption | :heavy_multiplication_x: | [Cloaker](https://github.com/spieglt/Cloaker) | |
 cloc | count lines of code | :heavy_check_mark: | [CLOC](https://sourceforge.net/projects/cloc/) | most languages |
 clonezilla | HDD backup/cloner | :heavy_check_mark: | | |
 cloudcompare | photo to 3D point map | :heavy_multiplication_x: | [CloudCompare](http://cloudcompare.org/) | |
