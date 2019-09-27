@@ -272,11 +272,10 @@ entr | trigger actions on file change | :heavy_check_mark: | [Entr](http://entrp
 eqonmize | financial app | :heavy_multiplication_x: | [Eqonmize](https://github.com/Eqonomize/Eqonomize) | |
 eric | Python IDE | :heavy_check_mark: | [Eric](https://eric-ide.python-projects.org/) | |
 espeak | audio speaker + GUIs | :heavy_check_mark: | | GUI is [gespeaker](#gespeaker) <a id="espeak"></a> |
-etcher | flash OS images to USB | :heavy_check_mark: | [etcher.io](https://etcher.io/) [etcher](https://github.com/resin-io/etcher) | |
+etcher | ISO to USB | :heavy_multiplication_x: | [Etcher](https://etcher.io/) [repo](https://github.com/resin-io/etcher) | Chrome-bloated |
 etckeeper | version control of */etc* | :heavy_check_mark: | | |
 etherape | GUI network monitor | :heavy_check_mark: | | |
 ethtool | display/change Ethernet device settings | :heavy_check_mark: | | |
-etcher | ISO to USB | :heavy_multiplication_x: | [Etcher](https://etcher.io/) | Chrome-bloated |
 ethr | network performance analyser | :heavy_multiplication_x: | [ethr](https://github.com/Microsoft/ethr) | |
 etm | event and task manager | :heavy_multiplication_x: | [ETM](http://people.duke.edu/~dgraham/etmqt/) | |
 exa | colourful `ls` replacement | :heavy_multiplication_x: | [Exa](https://the.exa.website/) [repo](https://github.com/ogham/exa) | |
