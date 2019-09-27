@@ -356,7 +356,7 @@ g213colours | key colour customiser for G213 keyboard | :heavy_multiplication_x:
 gadmin-samba | GUI config for Samba | :heavy_check_mark: | | |
 gadmin-rsync | GUI config for `rsync` | :heavy_check_mark: | | |
 gadmin-openvpn-client | GUI config for OpenVPN | :heavy_check_mark: | | |
-gadmin-openvpn-server | config for OpenVPN | :heavy_check_mark: | | |
+gadmin-openvpn-server | GUI config for OpenVPN | :heavy_check_mark: | | |
 gajim | GPG Jabber client | :heavy_check_mark: | | |
 gaupol | subtitles editor | :heavy_check_mark: | [gaupol](https://otsaloma.io/gaupol/) | |
 gamemode | optimise system performance on demand | :heavy_multiplication_x: | [gamemode](https://github.com/Feralinteractive/gamemode) | |
@@ -763,8 +763,6 @@ phatch | batch image converter | :heavy_check_mark: | | |
 phoronix | benchmark suite | :heavy_multiplication_x: | [Phoronix](http://phoronix-test-suite.com/) | |
 photorec | file recovery tool | :heavy_multiplication_x: | [photorec](https://www.cgsecurity.org/) | |
 php-markdown | PHP Markdown renderer | :heavy_check_mark: | | |
-php5-mongo | PHP [MongoDB](#mongodb) driver | :heavy_check_mark: | | use `apt` |
-php5-mysqlnd | MySQLi driver | :heavy_check_mark: | | `get->result`; use `apt` |
 php-codesniffer | phpcs in terminal | :heavy_check_mark: | | |
 phplint | PHP linter | :heavy_multiplication_x: | | |
 phpunit | PHP unit test suite | :heavy_check_mark: | | not Mr Bergmann's PHPUnit |
@@ -997,7 +995,6 @@ sysdig | system exploration/troubleshooting | :heavy_check_mark: | | |
 sysstat | system stats/benchmarking | :heavy_check_mark: | | `sar` is binary log reader |
 system-config-lvm | LVM partitioning GUI | :heavy_check_mark: | | |
 system-config-samba | Samba GUI | :heavy_check_mark: | | |
-systemd-analyze | systemd analyser | :heavy_multiplication_x: | | |
 systemd-ui | systemd GUI | :heavy_check_mark: | | `systemadm` |
 systemdgenie | systemd utility | :heavy_multiplication_x: | [systemdgenie](https://cgit.kde.org/systemdgenie.git) | |
 systemtap | kernel instrumentation | :heavy_check_mark: | | <a id="systemtap"></a> |
