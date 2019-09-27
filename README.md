@@ -346,7 +346,7 @@ fsarchiver | *tar.gz* alternative | :heavy_check_mark: | [fsarchiver](http://www
 fsearch | file search | :heavy_multiplication_x: | [FSearch](http://www.fsearch.org/) | |
 fslint | problem file manager/cleaner | :heavy_check_mark: | | |
 fswebcam | webcam | :heavy_check_mark: | | `sudo fswebcam /dev/video0 x.jpg` |
-ftrace | ELF function analyser | :heavy_multiplication_x: | [ftrace](hthttps://github.com/elfmaster/ftrace) | |
+ftrace | ELF function analyser | :heavy_multiplication_x: | [ftrace](https://github.com/elfmaster/ftrace) | |
 funkload | web server benchmarker | :heavy_check_mark: | [FunkLoad](http://funkload.nuxeo.org/) | includes unit testing |
 fusil | fuzzer | :heavy_check_mark: | | collection of scripts |
 fuzz | fuzz EXEs with datastream input | :heavy_check_mark: | | |
@@ -1061,6 +1061,7 @@ ubuntu-tweak | Ubuntu config tool | :heavy_check_mark: | | use `apt` |
 udptunnel | tunnel UDP over TCP | :heavy_check_mark: | | |
 ugui_flif | GUI for [FLIF](#flif) | :heavy_multiplication_x: | [UGUI_FLIF](https://github.com/FLIF-hub/UGUI_FLIF) | |
 ufraw | RAW importer | :heavy_check_mark: | | |
+uftrace | C program tracer | :heavy_check_mark: | | |
 ufw | firewall | :heavy_check_mark: | | <a id="ufw"></a> |
 umplayer | video player | :heavy_multiplication_x: | | supposed better DVD playback than VLC |
 uncrustify | code formatter | :heavy_check_mark: | | |
