@@ -173,6 +173,7 @@ cpu-x | GUI CPU/motherboard analyser | :heavy_multiplication_x: | [CPU-X](https:
 cpupower | CPU frequency manager | :heavy_multiplication_x: | | |
 cppcheck | C code linter | :heavy_check_mark: | | |
 cpuid | x86 CPU info | :heavy_check_mark: | | |
+cpulimit | limit CPU usage of process | :heavy_check_mark: | | |
 credcrack | credential harvester | :heavy_multiplication_x: | [CredCrack](https://github.com/gojhonny/CredCrack) | |
 crunch | password list generator | :heavy_check_mark: | | |
 cryptcat | encrypted [netcat](#netcat) | :heavy_check_mark: | | [flawed?](https://github.com/deurstijl/decryptcat) |
