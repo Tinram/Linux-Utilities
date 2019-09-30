@@ -844,7 +844,7 @@ quetoo | Quake2 remake | :heavy_multiplication_x: | [quetoo](https://github.com/
 quiterss | RSS reader | :heavy_check_mark: | | uses WebKit |
 qupzilla | lightweight Chromium-based browser | :heavy_check_mark: | | |
 rabbitvcs | SVN GUI | :heavy_check_mark: | | |
-radamsa | fuzzer | :heavy_multiplication_x: | [radamsa](https://github.com/aoh/radamsa) | |
+radamsa | general purpose fuzzer | :heavy_multiplication_x: | [radamsa](https://gitlab.com/akihe/radamsa) | |
 radeon-profile | Radeon GPU profiler | :heavy_multiplication_x: | [radeon-profile](https://github.com/marazmista/radeon-profile) | |
 radeontop | Radeon GPU top | :heavy_check_mark: | | |
 rand | random character generator | :heavy_check_mark: | | |
