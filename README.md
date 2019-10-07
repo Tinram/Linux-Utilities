@@ -251,6 +251,7 @@ drgeo | geometric sketcher | :heavy_check_mark: | | |
 dsniff | network sniffer | :heavy_check_mark: | | |
 dstat | resource stats tool | :heavy_check_mark: | [Dstat](http://dag.wiee.rs/home-made/dstat/) | |
 dtrx | archive viewer/unpacker | :heavy_check_mark: | | |
+duc | TUI/GUI disk usage analyser | :heavy_check_mark: | [Duc](https://duc.zevv.nl/) [repo](https://github.com/zevv/duc) | use `apt` |
 dukto | LAN transfer tool | :heavy_multiplication_x: | [dukto](https://github.com/guilhem/dukto) | |
 duplicity | encrypted backup | :heavy_check_mark: | [Duplicity](http://duplicity.nongnu.org/) | built on `rsync` <a id="duplicity"></a> |
 dvdbackup | DVD ripper | :heavy_check_mark: | | |
