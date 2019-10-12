@@ -1013,7 +1013,7 @@ tcpspy | TCP/IP connections logger | :heavy_check_mark: | | |
 tcptrace | graphical [tcpdump](#tcpdump) output | :heavy_check_mark: | | |
 tcptrack | monitor tcp network connections | :heavy_check_mark: | | |
 tcpxtract | extract files from network traffic | :heavy_check_mark: | | |
-teamviewer | remote desktop/support | :heavy_multiplication_x: | [TeamViewer](https://www.teamviewer.com/en/download/linux/) | proprietary |
+teamviewer | remote desktop/support | :heavy_check_mark: | [TeamViewer](https://www.teamviewer.com/en/download/linux/) | proprietary |
 terminator | multiple terminals | :heavy_check_mark: | | |
 terminix | terminal emulator | :heavy_multiplication_x: | [terminix](https://github.com/gnunn1/terminix) | |
 termpix | terminal image viewer | :heavy_multiplication_x: | [termpix](https://github.com/hopey-dishwasher/termpix) | |
