@@ -21,7 +21,7 @@ Some of the programs listed are included by default with Ubuntu-based distros. N
 ----
 
 package | description | repo | URL | notes |
----- | ---- | ---- | ---- | ---- |
+:---- | :---- | :---- | :---- | :---- |
 p7zip | file archiver | :heavy_check_mark: | [7-Zip](http://www.7-zip.org/) | also *p7Zip-full* <a id="7zip"></a> |
 abcde | CD ripper | :heavy_check_mark: | [ABCDE](http://www.andrews-corner.org/linux/abcde/index.html) | |
 abiword | lightweight wordprocessor | :heavy_check_mark: | | |
@@ -916,7 +916,7 @@ siege | server stress tester | :heavy_check_mark: | | |
 sigil | eBook editor | :heavy_multiplication_x: | [Sigil](https://sigil-ebook.com/) | |
 silver-searcher | source code grep | :heavy_multiplication_x: | [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) | |
 simplebackup | backup utility | :heavy_check_mark: | | |
-simplescreenrecorder | record programs | :heavy_multiplication_x: | [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/) | |
+simplescreenrecorder | record programs | :heavy_multiplication_x: | [SSR](http://www.maartenbaert.be/simplescreenrecorder/) | |
 simon | voice recognition | :heavy_check_mark: | | |
 sipcrack | SIP log-in dumper/cracker | :heavy_check_mark: | | |
 sipvicious | audit SIP-based VoIP systems | :heavy_multiplication_x: | | |
@@ -959,7 +959,7 @@ sqlite3 | SQLite | :heavy_check_mark: | | <a id="sqlite3"></a> |
 sqlitebrowser | [SQLite](#sqlite3) GUI | :heavy_check_mark: | | simpler than [sqliteman](#sqliteman) |
 sqliteman | [SQLite](#sqlite3) GUI | :heavy_check_mark: | | [SQLiteStudio](#sqlitestudio) is better for unicode data import <a id="sqliteman"></a> |
 sqlitestudio | [SQLite](#sqlite3) GUI | :heavy_multiplication_x: | [SQLiteStudio](https://sqlitestudio.pl/index.rvt) | <a id="sqlitestudio"><a> |
-sqlmap | SQL injection tool | :heavy_check_mark: | [SQLMap](http://sqlmap.org/) [sqlmap repo](https://github.com/sqlmapproject/sqlmap) | |
+sqlmap | SQL injection tool | :heavy_check_mark: | [SQLMap](http://sqlmap.org/) [repo](https://github.com/sqlmapproject/sqlmap) | |
 sqlninja | Microsoft SQL Server injection | :heavy_multiplication_x: | [sqlninja](https://sourceforge.net/projects/sqlninja) | |
 sqlsus | [MySQL](#mysql) attacker | :heavy_multiplication_x: | | |
 srm | secure file deletion | :heavy_multiplication_x: | [SRM](https://sourceforge.net/projects/srm/) | slow, punishing on SSDs |
