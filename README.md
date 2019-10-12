@@ -41,7 +41,7 @@ ansible | alternative to Puppet/Chef | :heavy_check_mark: | | only dependencies 
 ansifilter | remove control codes | :heavy_multiplication_x: | [Ansifilter](http://andre-simon.de/doku/ansifilter/en/ansifilter.php) | |
 antimony | CAD modeller | :heavy_multiplication_x: | [Antimony](http://www.mattkeeter.com/projects/antimony/) | |
 antiword | Word files converted to text/PS/PDF | :heavy_check_mark: | | |
-anydesk | TeamViewer-like remote desktop | :heavy_multiplication_x: | [AnyDesk](https://anydesk.com/remote-desktop) | |
+anydesk | TeamViewer-like remote desktop | :heavy_check_mark: | [AnyDesk](https://anydesk.com/remote-desktop) | Flatpak; in repo @19.04 |
 apachetop | `top` for Apache | :heavy_check_mark: | | use `apt` |
 apfs-fuse | FUSE driver for mounting Apple filesystem | :heavy_multiplication_x: | [apfs-fuse](https://github.com/sgan81/apfs-fuse) | |
 apktool | reverse engineer Android apk files | :heavy_check_mark: | | |
