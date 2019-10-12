@@ -735,7 +735,7 @@ p0f | passive OS fingerprinting tool | :heavy_check_mark: | | quieter than [NMap
 pack | password analyser | :heavy_multiplication_x: | | |
 packit | network injection/capture tool	 | :heavy_check_mark: | | |
 packeth | GUI Ethernet packet generator | :heavy_check_mark: | | |
-packetsender | GUI to create and send packets | :heavy_multiplication_x: | [Packet Sender](https://packetsender.com/download ) | |
+packetsender | GUI packet generator | :heavy_multiplication_x: | [Packet Sender](https://packetsender.com/download ) | |
 pamix | PulseAudio mixer | :heavy_multiplication_x: | [PAmix](https://github.com/patroclos/PAmix) | |
 pandoc | DOCX/RTF/HTML/Markdown converter | :heavy_check_mark: | [Pandoc](http://pandoc.org/) | |
 panwriter | Markdown editor | :heavy_multiplication_x: | [panwriter](https://github.com/mb21/panwriter) | tight integration with Pandoc |
@@ -914,7 +914,7 @@ shotcut | video editor | :heavy_multiplication_x: | [Shotcut](https://shotcut.or
 shwr | HTML presentations | :heavy_multiplication_x: | [Shwr](https://shwr.me/) | |
 siege | server stress tester | :heavy_check_mark: | | |
 sigil | eBook editor | :heavy_multiplication_x: | [Sigil](https://sigil-ebook.com/) | |
-silver-searcher | source code grep | :heavy_multiplication_x: | [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) | |
+silver-searcher | source code grep | :heavy_multiplication_x: | [TSS](https://github.com/ggreer/the_silver_searcher) | |
 simplebackup | backup utility | :heavy_check_mark: | | |
 simplescreenrecorder | record programs | :heavy_multiplication_x: | [SSR](http://www.maartenbaert.be/simplescreenrecorder/) | |
 simon | voice recognition | :heavy_check_mark: | | |
@@ -1153,7 +1153,7 @@ xnretro | retro photo effects | :heavy_multiplication_x: | | |
 xowa | Wikipedia reader | :heavy_multiplication_x: | [Xowa](https://sourceforge.net/projects/xowa/) | |
 xplico | network analysis | :heavy_multiplication_x: | [Xplico](http://www.xplico.org/) | browser-based |
 xprobe | remote OS identification | :heavy_check_mark: | | [NMap](#nmap)-like, calls `xprobe2` |
-xrandr-invert-colors | X screen inverter | :heavy_multiplication_x: | [xrandr-invert-colors](https://github.com/zoltanp/xrandr-invert-colors) | [xcalib](#xcalib) alternative |
+xrandr-invert-colors | X screen inverter | :heavy_multiplication_x: | [xic](https://github.com/zoltanp/xrandr-invert-colors) | [xcalib](#xcalib) alternative |
 xrdp | RDP server | :heavy_check_mark: | | |
 xresprobe | X resolution probe | :heavy_check_mark: | | |
 xsane | document scanner GUI | :heavy_check_mark: | | |
