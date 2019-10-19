@@ -25,7 +25,7 @@ package | description | repo | URL | notes |
 p7zip | file archiver | :heavy_check_mark: | [7-Zip](http://www.7-zip.org/) | also *p7Zip-full* <a id="7zip"></a> |
 abcde | CD ripper | :heavy_check_mark: | [ABCDE](http://www.andrews-corner.org/linux/abcde/index.html) | |
 abiword | lightweight wordprocessor | :heavy_check_mark: | | |
-abricotine | Markdown editor | :heavy_multiplication_x: | [Abricotine](https://github.com/brd/Abricotine) | |
+abricotine | Markdown editor | :heavy_multiplication_x: | [Abricotine](https://github.com/brrd/Abricotine) | |
 acl | ACL utilities | :heavy_check_mark: | | |
 adb | Android Debug Bridge | :heavy_check_mark: | | |
 aescrypt | cross-platform file encryption | :heavy_multiplication_x: | [AESCrypt](https://github.com/paulej/AESCrypt) | |
@@ -870,7 +870,7 @@ reformat | text formatter | :heavy_check_mark: | | line length, margin |
 remarkable | Markdown editor | :heavy_multiplication_x: | [Remarkable](http://remarkableapp.github.io/) | deps: *python3-markdown*, *python3-bs4*, *wkhtmltopdf* |
 remmina | GUI remote desktop client | :heavy_check_mark: | | Win: enable remote connections, firewall, not 'Home' versions! |
 remnux | Linux malware analyser | :heavy_multiplication_x: | [REMnux](https://sourceforge.net/projects/remnux/) | |
-retext | ReText and Markdown editor | :heavy_check_mark: | [retext](https://github.com/retext-project/retext) | |
+retext | ReText and Markdown editor | :heavy_check_mark: | [Retext](https://github.com/retext-project/retext) | |
 retroshare | encrypted IM/filesharing | :heavy_multiplication_x: | [RetroShare](http://retroshare.net) | |
 rdesktop | terminal remote desktop client | :heavy_check_mark: | | *grdesktop* for GUI <a id="rdesktop"></a> |
 recode | file charset conversion | :heavy_check_mark: | | |
