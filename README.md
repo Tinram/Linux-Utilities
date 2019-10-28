@@ -298,6 +298,7 @@ featherpad | C++ editor | :heavy_multiplication_x: | [FeatherPad](https://github
 fehashmac | terminal hasher | :heavy_multiplication_x: | [fehashmac](https://sourceforge.net/projects/fehashmac) | |
 fern-wifi-cracker | GUI for [aircrack](#aircrack) | :heavy_multiplication_x: | | |
 ffmpeg | media playing/conversion utility | :heavy_check_mark: | | <a id="ffmpeg"></a> |
+ffuf | web fuzzer | :heavy_multiplication_x: | [ffuf](https://github.com/ffuf/ffuf) | |
 figlet | ASCII lettering from text | :heavy_check_mark: | | |
 filefrag | file defragger | :heavy_multiplication_x: | | |
 fileverifier | verify files | :heavy_multiplication_x: | | |
@@ -1127,7 +1128,8 @@ wireshark | GUI network traffic analyser | :heavy_check_mark: | | <a id="wiresha
 wkhtmltopdf | HTML to PDF | :heavy_check_mark: | | WebKit-based |
 wordgrinder | terminal wordprocessor | :heavy_multiplication_x: | [WordGrinder](http://cowlark.com/wordgrinder/) | |
 workrave | RSI timer | :heavy_check_mark: | | |
-wpscan | WordPress scanner | :heavy_multiplication_x: | [wpscan](https://github.com/wpscanteam/wpscan) | |
+wpscan | WordPress scanner | :heavy_multiplication_x: | [wpscan](https://wpscan.org/) [repo](https://github.com/wpscanteam/wpscan) | |
+wpseku | WordPress security scanner  | :heavy_multiplication_x: | [WPSeku](https://github.com/m4ll0k/WPSeku) | |
 wtop | Apache top | :heavy_multiplication_x: | [wtop](https://github.com/ClockworkNet/wtop) | |
 wuzz | terminal HTTP inspection tool | :heavy_multiplication_x: | [wuzz](https://github.com/asciimoo/wuzz) | |
 x264 | video encoder | :heavy_check_mark: | | <a id="x264"></a> |
