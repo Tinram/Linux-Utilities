@@ -307,7 +307,7 @@ filezillasecure | Filezilla fork: multithreading | :heavy_multiplication_x: | [F
 findimagedupes | find duplicate/similar images | :heavy_check_mark: | | |
 findmyhash | query multiple websites for hash | :heavy_multiplication_x: | [findmyhash](https://github.com/Talanor/findmyhash) | |
 fio | flexible I/O tester | :heavy_check_mark: | | | <a id="fio"></a>
-firejail | sandbox apps | :heavy_check_mark: | | [firejail](https://github.com/netblue30/firejail) |
+firejail | sandbox apps | :heavy_check_mark: | [firejail](https://github.com/netblue30/firejail) | |
 fishsynch | sync files | :heavy_multiplication_x: | [Fish Synch](https://sourceforge.net/projects/fishsync/) | |
 fiziko | pen-and-ink drawings from code | :heavy_multiplication_x: | [fiziko](https://github.com/jemmybutton/fiziko) | |
 flac | FLAC tools | :heavy_check_mark: | | |
@@ -690,7 +690,7 @@ nightingale | music player | :heavy_multiplication_x: | [Nightingale](http://get
 nikola | static website generator | :heavy_check_mark: | | |
 nikto | web server security scanner | :heavy_check_mark: | | |
 nipper-ng | security analysis of switches/routers | :heavy_multiplication_x: | | |
-nitroshare | cross-platform network file transfer | :heavy_multiplication_x: | [nitroshare](https://github.com/nitroshare/nitroshare-desktop) | [NitroShare](https://nitroshare.net/) |
+nitroshare | cross-platform network file transfer | :heavy_multiplication_x: | [NitroShare](https://nitroshare.net/) [repo](https://github.com/nitroshare/nitroshare-desktop) | |
 nixnote | Evernote client | :heavy_multiplication_x: | [NixNote](https://sourceforge.net/projects/nevernote/) | |
 nload | network load | :heavy_check_mark: | | use `apt` |
 nltk | NLP for Python | :heavy_check_mark: | | |
@@ -713,7 +713,7 @@ nvidia-smi | NVidia GPU management CLI | :heavy_multiplication_x: | | |
 nvtop | NVidia GPU 'top' | :heavy_multiplication_x: | [nvtop](https://github.com/Syllo/nvtop) | |
 obnam | incremental daily backups with SFTP/GPG support | :heavy_check_mark: | | |
 obs | video recording/livestreaming | :heavy_multiplication_x: | [OBS](https://obsproject.com/) | |
-oclint | C/C++/ObjC static code analyser | :heavy_multiplication_x: | [oclint](https://github.com/oclint/oclint/) | [OCLint](http://oclint.org/) |
+oclint | C/C++/ObjC static code analyser | :heavy_multiplication_x: | [OCLint](http://oclint.org/) [repo](https://github.com/oclint/oclint/) | |
 ocrfeeder | OCR text scanner | :heavy_check_mark: | | |
 octave | numerical computation library and GUI | :heavy_check_mark: | | Matlab-like |
 od2txt | ODT to text converter | :heavy_check_mark: | | |
@@ -1088,7 +1088,7 @@ vinagre | GNOME remote desktop client | :heavy_check_mark: | | |
 vinetto | interrogate thumbs.db files | :heavy_check_mark: | | |
 virt-manager | GUI VM manager | :heavy_check_mark: | [virt-manager](https://virt-manager.org/) | good options range; still 'experimental' |
 virtualbox | virtual machines | :heavy_check_mark: | [Virtual Box](https://www.virtualbox.org/) | GPU acceleration |
-visual studio code | editor/IDE | :heavy_multiplication_x: | [Visual Studio Code](http://code.visualstudio.com/) | also [vscodium](#vscodium) and [snap](https://snapcraft.io/code) |
+visual studio code | editor/IDE | :heavy_multiplication_x: | [Visual Studio Code](http://code.visualstudio.com/) | also [vscodium](#vscodium) and a [snap](https://snapcraft.io/code) |
 vivaldi | highly-customisable browser | :heavy_multiplication_x: | [Vivaldi](https://vivaldi.com/) | |
 vmware | virtual machines | :heavy_check_mark: | | GPU acceleration |
 vnstat | terminal network traffic monitor | :heavy_check_mark: | | |
