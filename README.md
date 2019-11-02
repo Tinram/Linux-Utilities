@@ -21,7 +21,7 @@ Some of the programs listed are included by default with Ubuntu-based distros. N
 ----
 
 package | description | repo | URL | notes |
-:---- | :---- | :---- | :---- | :---- |
+:---- | :---- | :----: | :---- | :---- |
 p7zip | file archiver | :heavy_check_mark: | [7-Zip](http://www.7-zip.org/) | also *p7Zip-full* <a id="7zip"></a> |
 abcde | CD ripper | :heavy_check_mark: | [ABCDE](http://www.andrews-corner.org/linux/abcde/index.html) | |
 abiword | lightweight wordprocessor | :heavy_check_mark: | | |
@@ -941,7 +941,7 @@ smplayer | video player | :heavy_check_mark: | | GPU acceleration |
 snapper | BTRFS filesystem snapshots | :heavy_check_mark: | | |
 sngrep | SIP messages flow viewer | :heavy_check_mark: | [Sngrep wiki](https://github.com/irontec/sngrep/wiki) | |
 snort | IDS | :heavy_check_mark: | | |
-sntop | poll servers | :heavy_check_mark: | | |
+sntop | poll servers | :heavy_check_mark: | | uses `ping` |
 socat | relay for bidirectional data transfer | :heavy_check_mark: | | |
 softethervpn | VPN | :heavy_multiplication_x: | | |
 sonic-pi | coding synth | :heavy_check_mark: | | |
