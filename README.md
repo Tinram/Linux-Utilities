@@ -208,6 +208,7 @@ ddd | GUI debugger for GDB etc | :heavy_check_mark: | | includes Python, Bash |
 ddrescue | data recovery tool | :heavy_check_mark: | | see [gddrescue](#gddrescue) |
 deadbeef | music player | :heavy_multiplication_x: | [deadbeef](http://deadbeef.sourceforge.net/) [repo](https://github.com/DeaDBeeF-Player/deadbeef) | |
 deadman | terminal website status checker | :heavy_multiplication_x: | [deadman](https://github.com/upa/deadman) | uses ping |
+debconf-utils | debconf utilities | :heavy_check_mark: | | |
 debreate | Debian package manager | :heavy_multiplication_x: | [Debreate](https://antumdeluge.github.io/debreate-web/) | |
 debsums | package checksum comparisons | :heavy_check_mark: | | |
 deen | data en-/decoding | :heavy_multiplication_x: | [deen](https://github.com/takeshixx/deen) | |
