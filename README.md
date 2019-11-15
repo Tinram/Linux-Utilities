@@ -339,6 +339,7 @@ fpm | package converter | :heavy_multiplication_x: | [fpm](https://github.com/jo
 fracplanet | fractals | :heavy_check_mark: | | |
 fractalnow | fast fractal generator | :heavy_check_mark: | | |
 fraqtive | 3D Mandelbrot/Julia | :heavy_check_mark: | | |
+freac | audio encoder/ripper | :heavy_multiplication_x: | [freac](https://freac.org/) [repo](https://github.com/enzo1982/freac) | |
 freebasic | BASIC compiler | :heavy_multiplication_x: | [FreeBASIC](http://freebasic.net/) | |
 freefilesynch | GUI folder compare and sync | :heavy_check_mark: | | |
 freemind | mindmap editor | :heavy_multiplication_x: | [FreeMind](https://sourceforge.net/projects/freemind/?source=directory) | Java-based |
@@ -565,6 +566,7 @@ kwipe | data eraser | :heavy_multiplication_x: | [KWipe](https://www.linux-apps.
 lamaperia | printable maps from OpenStreetMap | :heavy_multiplication_x: | [Lamaperia](https://github.com/federicomenaquintero/lamaperia) | |
 lame | MP3 encoder | :heavy_check_mark: | | |
 lazagne | credentials recovery | :heavy_multiplication_x: | [LaZagne](https://github.com/AlessandroZ/LaZagne) | Windows version is identified as a Trojan |
+lazpaint | image editor | :heavy_multiplication_x: | [LazPaint](https://lazpaint.github.io/) [repo](https://github.com/bgrabitmap/lazpaint) | |
 lcrack | password cracker | :heavy_check_mark: | | |
 lepton | JPG compressor | :heavy_multiplication_x: | [lepton](https://github.com/dropbox/lepton) | |
 lftp | sophisticated terminal FTP | :heavy_check_mark: | | |
@@ -704,6 +706,7 @@ nomacs | image viewer | :heavy_check_mark: | [nomacs](https://nomacs.org/) | goo
 notepadqq | code editor | :heavy_multiplication_x: | [Notepadqq](http://notepadqq.altervista.org/wp/download/) | |
 notepas | code editor | :heavy_multiplication_x: | | |
 notes-up | editor supporting Markdown | :heavy_multiplication_x: | [Notes-up](https://github.com/Philip-Scott/Notes-up) | PDF export |
+npkill | Node.js module remover | :heavy_multiplication_x: | [npkill](https://github.com/voidcosmos/npkill) | |
 npm | Node.js package manager | :heavy_check_mark: | | |
 nstreams | tcpdump output analyser | :heavy_check_mark: | | |
 ntfs-3g | NTFS driver | :heavy_check_mark: | [NTFS-3G](http://www.tuxera.com/community/open-source-ntfs-3g/) | r/w |
@@ -897,6 +900,7 @@ rtgen | rainbow table generator | :heavy_multiplication_x: | | `rtgen md5 lowera
 ruby | Ruby interpreter | :heavy_check_mark: | | `irb` |
 rustc | Rust compiler | :heavy_multiplication_x: | | *cargo* is project manager |
 samhain | IDS | :heavy_check_mark: | | |
+sampler | terminal visualisation tool | :heavy_multiplication_x: | [sampler](https://github.com/sqshq/sampler) | |
 sane | document scan tools | :heavy_check_mark: | | |
 sbackup | simple backup | :heavy_check_mark: | | |
 scalpel | file recovery/data carver | :heavy_check_mark: | [scalpel](https://github.com/sleuthkit/scalpel) | |
