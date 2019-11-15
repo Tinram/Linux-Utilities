@@ -111,8 +111,9 @@ brasero | ISO burner | :heavy_check_mark: | | |
 bridge-utils | configure Ethernet bridge | :heavy_check_mark: | | |
 broadband-speed | | :heavy_multiplication_x: | [speedtest-cli](https://github.com/sivel/speedtest-cli) | |
 brutex | combine [WFuzz](#wfuzz)/[Hydra](#hydra) to brute-force ports | :heavy_multiplication_x: | [BruteX](https://github.com/1N3/BruteX) | |
-btproxy | MITM Bluetooth analysis | :heavy_multiplication_x: | [btproxy](https://github.com/conorpp/btproxy ) | |
+btproxy | MITM Bluetooth analysis | :heavy_multiplication_x: | [btproxy](https://github.com/conorpp/btproxy) | |
 btscanner | scanner for Bluetooth devices | :heavy_check_mark: | | |
+buku | browser-independent bookmark manager | :heavy_multiplication_x: | [Buku](https://github.com/jarun/Buku) | |
 bum | bootup manager | :heavy_check_mark: | | also [sysv-rc-conf](#sysv-rc-conf) |
 bvi | hex editor | :heavy_check_mark: | | vi-like |
 bwm-ng | terminal bandwidth monitor | :heavy_check_mark: | | |
@@ -737,7 +738,7 @@ p0f | passive OS fingerprinting tool | :heavy_check_mark: | | quieter than [NMap
 pack | password analyser | :heavy_multiplication_x: | | |
 packit | network injection/capture tool	 | :heavy_check_mark: | | |
 packeth | GUI Ethernet packet generator | :heavy_check_mark: | | |
-packetsender | GUI packet generator | :heavy_multiplication_x: | [Packet Sender](https://packetsender.com/download ) | |
+packetsender | GUI packet generator | :heavy_multiplication_x: | [Packet Sender](https://packetsender.com/download) | |
 pamix | PulseAudio mixer | :heavy_multiplication_x: | [PAmix](https://github.com/patroclos/PAmix) | |
 pandoc | DOCX/RTF/HTML/Markdown converter | :heavy_check_mark: | [Pandoc](http://pandoc.org/) | |
 panwriter | Markdown editor | :heavy_multiplication_x: | [panwriter](https://github.com/mb21/panwriter) | tight integration with Pandoc |
@@ -1130,7 +1131,7 @@ wkhtmltopdf | HTML to PDF | :heavy_check_mark: | | WebKit-based |
 wordgrinder | terminal wordprocessor | :heavy_multiplication_x: | [WordGrinder](http://cowlark.com/wordgrinder/) | |
 workrave | RSI timer | :heavy_check_mark: | | |
 wpscan | WordPress scanner | :heavy_multiplication_x: | [wpscan](https://wpscan.org/) [repo](https://github.com/wpscanteam/wpscan) | |
-wpseku | WordPress security scanner  | :heavy_multiplication_x: | [WPSeku](https://github.com/m4ll0k/WPSeku) | |
+wpseku | WordPress security scanner | :heavy_multiplication_x: | [WPSeku](https://github.com/m4ll0k/WPSeku) | |
 wtop | Apache top | :heavy_multiplication_x: | [wtop](https://github.com/ClockworkNet/wtop) | |
 wuzz | terminal HTTP inspection tool | :heavy_multiplication_x: | [wuzz](https://github.com/asciimoo/wuzz) | |
 x264 | video encoder | :heavy_check_mark: | | <a id="x264"></a> |
