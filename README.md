@@ -35,6 +35,7 @@ aide | host-based IDS | :heavy_check_mark: | | |
 aircrack-ng | wireless cracker | :heavy_check_mark: | [aircrack-ng](https://github.com/aircrack-ng/aircrack-ng) | <a id="aircrack"></a> |
 alacritty | GPU-accelerated terminal emulator | :heavy_multiplication_x: | [alacritty](https://github.com/jwilm/alacritty) | |
 alien | *.rpm* to *.deb* converter | :heavy_check_mark: | | |
+amass | attack surface mapper | :heavy_multiplication_x: | [Amass](https://github.com/OWASP/Amass) | |
 ananicy | nice-ness daemon | :heavy_multiplication_x: | [Ananicy](https://github.com/Nefelim4ag/Ananicy) | |
 anjuta | C/C++ editor | :heavy_check_mark: | | |
 ansible | alternative to Puppet/Chef | :heavy_check_mark: | | only dependencies are Python/SSH; `pip install ansible` |
@@ -610,6 +611,7 @@ mailutils | mail utilities | :heavy_check_mark: | | |
 maltego | people-places analysis tool | :heavy_multiplication_x: | [Maltego](https://paterva.com/web7/) | Java-based |
 maltrail | malicious traffic detector | :heavy_multiplication_x: | [maltrail](https://github.com/stamparm/maltrail) | |
 mandelbulber | 3D Mandelbrot | :heavy_check_mark: | | |
+mangl | GUI man page viewer  | :heavy_multiplication_x: | [mangl](https://github.com/zigalenarcic/mangl) | |
 mariadb-server | MariaDB | :heavy_check_mark: | | |
 mariadb-client | MariaDB | :heavy_check_mark: | | |
 markdown | Markdown to HTML | :heavy_check_mark: | | |
