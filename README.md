@@ -37,6 +37,7 @@ alacritty | GPU-accelerated terminal emulator | :heavy_multiplication_x: | [alac
 alien | *.rpm* to *.deb* converter | :heavy_check_mark: | | |
 amass | attack surface mapper | :heavy_multiplication_x: | [Amass](https://github.com/OWASP/Amass) | |
 ananicy | nice-ness daemon | :heavy_multiplication_x: | [Ananicy](https://github.com/Nefelim4ag/Ananicy) | |
+anbox | Android runtime | :heavy_multiplication_x: | [anbox](https://github.com/anbox/anbox) | |
 anjuta | C/C++ editor | :heavy_check_mark: | | |
 ansible | alternative to Puppet/Chef | :heavy_check_mark: | | only dependencies are Python/SSH; `pip install ansible` |
 ansifilter | remove control codes | :heavy_multiplication_x: | [Ansifilter](http://andre-simon.de/doku/ansifilter/en/ansifilter.php) | |
@@ -792,6 +793,9 @@ plumecreator | book writing editor | :heavy_multiplication_x: | | |
 pmd | source code analyser | :heavy_multiplication_x: | [PMD](https://sourceforge.net/projects/pmd/) | Java-based |
 pmount | mount removable devices as normal user | :heavy_check_mark: | | |
 pngcrush | PNG compressor | :heavy_check_mark: | | |
+
+pnpm | leaner Node.js package manager | :heavy_multiplication_x: | [pnpm](https://github.com/pnpm/pnpm) | |
+
 pnscan | multi-threaded port scanner | :heavy_check_mark: | | |
 pokerth | poker game | :heavy_check_mark: | | |
 polygen | random sentences from grammar definitions | :heavy_check_mark: | | |
