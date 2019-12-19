@@ -793,9 +793,7 @@ plumecreator | book writing editor | :heavy_multiplication_x: | | |
 pmd | source code analyser | :heavy_multiplication_x: | [PMD](https://sourceforge.net/projects/pmd/) | Java-based |
 pmount | mount removable devices as normal user | :heavy_check_mark: | | |
 pngcrush | PNG compressor | :heavy_check_mark: | | |
-
 pnpm | leaner Node.js package manager | :heavy_multiplication_x: | [pnpm](https://github.com/pnpm/pnpm) | |
-
 pnscan | multi-threaded port scanner | :heavy_check_mark: | | |
 pokerth | poker game | :heavy_check_mark: | | |
 polygen | random sentences from grammar definitions | :heavy_check_mark: | | |
