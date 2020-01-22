@@ -425,7 +425,8 @@ gnuplot | graphs | :heavy_check_mark: | | core |
 gnuplot-x11 | graphics | :heavy_check_mark: | | |
 gnuplot-qt | graphics | :heavy_check_mark: | | |
 goaccess | terminal realtime logfile viewer | :heavy_check_mark: | [GoAccess](https://goaccess.io/download) [repo](https://github.com/allinurl/goaccess) | avoid distro repo; compile deps: libgeoip-dev, libncursesw5-dev |
-golly | game of life | :heavy_check_mark: | | |
+gobuster | directory, DNS, vhost buster | :heavy_multiplication_x: | [gobuster](https://github.com/OJ/gobuster) | |
+golly | game of life simulator | :heavy_check_mark: | | |
 googler | terminal Google search | :heavy_multiplication_x: | [googler](https://github.com/jarun/googler) | |
 go-rsync | GUI for `rsync` | :heavy_multiplication_x: | [go-rsync](https://github.com/d2r2/go-rsync) | |
 gosync | GDrive sync | :heavy_multiplication_x: | [GoSync](https://github.com/hschauhan/gosync/) | |
@@ -861,6 +862,7 @@ radamsa | general purpose fuzzer | :heavy_multiplication_x: | [radamsa](https://
 radeon-profile | Radeon GPU profiler | :heavy_multiplication_x: | [radeon-profile](https://github.com/marazmista/radeon-profile) | |
 radeontop | Radeon GPU top | :heavy_check_mark: | | |
 rand | random character generator | :heavy_check_mark: | | |
+rapidscan | web vulnerability Scanner | :heavy_multiplication_x: | [rapidscan](https://github.com/skavngr/rapidscan) | |
 rapidsvn | SVN GUI | :heavy_check_mark: | | |
 rarcrack | RAR cracker | :heavy_multiplication_x: | [rarCrack](https://sourceforge.net/projects/rarcrack/) | |
 raspiraw | RaspPi RAW processing | :heavy_multiplication_x: | [raspiraw](https://github.com/illes/raspiraw) | |
@@ -1132,7 +1134,7 @@ whiptail | TUI shell interface | :heavy_check_mark: | | |
 whois | WHOIS client | :heavy_check_mark: | | <a id="whois"></a> |
 whycanticonnect | connection analyser | :heavy_multiplication_x: | [Why Can't I Connect?](https://sourceforge.net/projects/wciconnect/) | |
 wicd | wireless manager | :heavy_check_mark: | | |
-wifite | wireless auditor/attacker | :heavy_check_mark: | | |
+wifite | terminal wireless auditor/attacker | :heavy_check_mark: | | |
 wig | web app info gatherer | :heavy_multiplication_x: | [wig](https://github.com/jekyc/wig) | e.g CMS version |
 winff | GUI media converter using ffmpeg/avconv | :heavy_check_mark: | | uses [ffmpeg](#ffmpeg) |
 wings3d | 3D modeller | :heavy_check_mark: | | |
