@@ -146,6 +146,7 @@ ckport | EXE function/call checker | :heavy_check_mark: | | |
 claws-mail | GTK mail client | :heavy_check_mark: | | |
 clementine | music player/streamer | :heavy_check_mark: | | |
 cloaker | GUI file encryption | :heavy_multiplication_x: | [Cloaker](https://github.com/spieglt/Cloaker) | |
+cloakify | text steganography tool | :heavy_multiplication_x: | [Cloakify](https://github.com/TryCatchHCF/Cloakify) | |
 cloc | count lines of code | :heavy_check_mark: | [CLOC](https://sourceforge.net/projects/cloc/) | most languages |
 clonezilla | HDD backup/cloner | :heavy_check_mark: | | |
 cloudcompare | photo to 3D point map | :heavy_multiplication_x: | [CloudCompare](http://cloudcompare.org/) | |
@@ -439,7 +440,7 @@ gpick | screen colour pick/palette/inverter | :heavy_check_mark: | | |
 gping | terminal visual ping host | :heavy_multiplication_x: | [gping](https://github.com/orf/gping) | |
 gpm | mouse interface/copy-paste on terminal | :heavy_check_mark: | | <a id="gpick"></a> |
 gpt fdisk | GPT disk tools | :heavy_multiplication_x: | [GPT fdisk](https://sourceforge.net/projects/gptfdisk/) | also see `gdisk` in repo |
-gqrx | GUI radio receiver | :heavy_multiplication_x: | [Gqrx](http://gqrx.dk/) | |
+gqrx | GUI radio receiver | :heavy_check_mark: | [Gqrx](http://gqrx.dk/) | |
 grabber | web app scanner | :heavy_multiplication_x: | | |
 graphviz | graph tools | :heavy_check_mark: | | |
 graudit | grep rough source code audit | :heavy_multiplication_x: | [graudit](https://github.com/wireghoul/graudit/) | |
