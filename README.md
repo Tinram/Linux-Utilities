@@ -659,6 +659,7 @@ multitail | logfile multi-viewer/colouriser | :heavy_check_mark: | | |
 mundus | home file cleaner | :heavy_multiplication_x: | | |
 mupen64plus | N64 console emulator | :heavy_check_mark: | | |
 musescore | music score editor | :heavy_check_mark: | | |
+mycli | terminal MySQL client | :heavy_check_mark: | [mycli](https://www.mycli.net/) [repo](https://github.com/dbcli/mycli) | |
 mypaint | tablet-supporting paint program | :heavy_check_mark: | | |
 mysql | MySQL database | :heavy_check_mark: | | <a id="mysql"></a> |
 mysql-utilities | [MySQL](#mysql) | :heavy_check_mark: | | |
@@ -742,6 +743,7 @@ opera | browser | :heavy_check_mark: | | use `apt` |
 oprofile | system profiler | :heavy_check_mark: | | |
 optipng | optimise PNGs | :heavy_check_mark: | | |
 orca | screenreader | :heavy_check_mark: | | |
+orchestrator | MySQL replication manager | :heavy_multiplication_x: | [orchestrator](https://github.com/github/orchestrator) | |
 osync | `rsync` simplifier | :heavy_multiplication_x: | [osync](https://github.com/deajan/osync) | |
 p0f | passive OS fingerprinting tool | :heavy_check_mark: | | quieter than [NMap](#nmap) |
 pack | password analyser | :heavy_multiplication_x: | | |
