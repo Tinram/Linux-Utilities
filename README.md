@@ -93,6 +93,7 @@ bing-ip2hosts | enumerate hostnames via Bing | :heavy_check_mark: | | |
 binstats | binary stats | :heavy_check_mark: | | overview of installed binaries |
 binwalk | binary file searcher | :heavy_check_mark: | [binwalk](https://github.com/devttys0/binwalk) | sub-files + code |
 birdfont | font editor | :heavy_multiplication_x: | [BirdFont](http://birdfont.org) | |
+blast | API load tester | :heavy_multiplication_x: | [blast](https://github.com/dave/blast) | |
 bleachbit | system cleaner | :heavy_check_mark: | | |
 bless | GUI hex editor | :heavy_check_mark: | | |
 bluelog | Bluetooth scanner | :heavy_multiplication_x: | | |
@@ -254,6 +255,7 @@ downtimed | downtime monitor | :heavy_check_mark: | | |
 doxygen | C/PHP auto-documenter | :heavy_check_mark: | | <a id="doxygen"></a> |
 doxygen-doxywizard | config GUI for [doxygen](#doxygen) | :heavy_check_mark: | | |
 drgeo | geometric sketcher | :heavy_check_mark: | | |
+drive | terminal GDrive client | :heavy_multiplication_x: | [drive](https://github.com/odeke-em/drive) | |
 dsniff | network sniffer | :heavy_check_mark: | | |
 dstat | resource stats tool | :heavy_check_mark: | [Dstat](http://dag.wiee.rs/home-made/dstat/) | |
 dtrx | archive viewer/unpacker | :heavy_check_mark: | | |
@@ -760,19 +762,20 @@ patator | multi-purpose brute-forcer | :heavy_multiplication_x: | [patator](http
 pavucontrol | PulseAudio volume control | :heavy_check_mark: | | independently adjust audio streams |
 pax-utils | ELF checking utilities | :heavy_check_mark: | | `dumpelf`, `scanelf`, `lddtree`, `pspax` etc |
 pbnj | monitor network changes | :heavy_check_mark: | | |
-pdftotext | PDF to text | :heavy_check_mark: | | in *poppler-utils* |
-peazip | multi-zip GUI and converter | :heavy_multiplication_x: | [PeaZip](https://sourceforge.net/projects/peazip/) | |
-pemcracker | PEM cracker | :heavy_multiplication_x: | [pemcracker](https://github.com/bwall/pemcracker) | |
-pentbox | security and stability tester | :heavy_multiplication_x: | | |
-percona-toolkit | [MySQL](#mysql) toolkit | :heavy_check_mark: | | |
-perf | performance analysis tools | :heavy_check_mark: | | in *linux-tools-common* |
 pdfbooklet | PDF printer | :heavy_multiplication_x: | [PDFbooklet](https://sourceforge.net/projects/pdfbooklet/) | |
 pdfcrack | PDF password cracker | :heavy_check_mark: | | |
 pdfedit | PDF editor | :heavy_check_mark: | | good at text, no image editing |
 pdfgrep | PDF search | :heavy_check_mark: | [PDFgrep](https://pdfgrep.org/) |
 pdfmod | PDF editor | :heavy_check_mark: | | simple but good: edit meta data, remove page, extract page |
 pdnsd | proxy DNS server | :heavy_check_mark: | | |
+pdftotext | PDF to text | :heavy_check_mark: | | in *poppler-utils* |
+peazip | multi-zip GUI and converter | :heavy_multiplication_x: | [PeaZip](https://sourceforge.net/projects/peazip/) | |
+pemcracker | PEM cracker | :heavy_multiplication_x: | [pemcracker](https://github.com/bwall/pemcracker) | |
+pentbox | security and stability tester | :heavy_multiplication_x: | | |
+percona-toolkit | [MySQL](#mysql) toolkit | :heavy_check_mark: | | |
+perf | performance analysis tools | :heavy_check_mark: | | in *linux-tools-common* |
 perf-tools-unstable | `perf` helper tools by Brendan Gregg | :heavy_check_mark: | | `iosnoop`, `iolatency`, `uprobe` |
+pewpew | server stress tester | :heavy_multiplication_x: | [pewpew](https://github.com/bengadbois/pewpew) | |
 pgadmin3 | GUI admin for [PostgresSQL](#postgressql) | :heavy_check_mark: | | |
 pgpdump | GPG/PGP file visualiser | :heavy_check_mark: | | |
 phatch | batch image converter | :heavy_check_mark: | | |
