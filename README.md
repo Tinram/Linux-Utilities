@@ -207,6 +207,7 @@ datacleaner | database scanner | :heavy_multiplication_x: | | |
 dateutils | terminal date/time utilities | :heavy_multiplication_x: | [Dateutils](http://www.fresse.org/dateutils/) | |
 davfs2 | mount WebDAV resource | :heavy_check_mark: | | |
 dban | disk destroyer | :heavy_multiplication_x: | [DBAN](https://dban.org/) | |
+dbbench | database benchmarking tool | :heavy_multiplication_x: | [dbbench](https://github.com/sj14/dbbench) | |
 dconf-editor | GUI dconf editor | :heavy_check_mark: | | |
 dcraw | terminal RAW converter | :heavy_check_mark: | | |
 ddd | GUI debugger for GDB etc | :heavy_check_mark: | | includes Python, Bash |
@@ -426,7 +427,8 @@ gnupg2 | GPG version 2 | :heavy_check_mark: | | |
 gnuplot | graphs | :heavy_check_mark: | | core |
 gnuplot-x11 | graphics | :heavy_check_mark: | | |
 gnuplot-qt | graphics | :heavy_check_mark: | | |
-goaccess | terminal realtime logfile viewer | :heavy_check_mark: | [GoAccess](https://goaccess.io/download) [repo](https://github.com/allinurl/goaccess) | avoid distro repo; compile deps: libgeoip-dev, libncursesw5-dev |
+goaccess | terminal realtime logfile viewer | :heavy_check_mark: | [GoAccess](https://goaccess.io/download) [repo](https://github.com/allinurl/goaccess) | avoid distro repo; compile deps: *libgeoip-dev*, *libncursesw5-dev* |
+go-fuzz | fuzzer | :heavy_multiplication_x: | [go-fuzz](https://github.com/dvyukov/go-fuzz) | |
 gobuster | directory, DNS, vhost buster | :heavy_multiplication_x: | [gobuster](https://github.com/OJ/gobuster) | |
 golly | game of life simulator | :heavy_check_mark: | | |
 googler | terminal Google search | :heavy_multiplication_x: | [googler](https://github.com/jarun/googler) | |
