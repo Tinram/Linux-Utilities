@@ -913,7 +913,8 @@ rst2pdf | ReText to PDF | :heavy_check_mark: | | |
 rsyncrypto | `rsync` encryption | :heavy_check_mark: | | |
 rtgen | rainbow table generator | :heavy_multiplication_x: | | `rtgen md5 loweralpha-numeric 1 5 0 3800 33554432 0` |
 ruby | Ruby interpreter | :heavy_check_mark: | | `irb` |
-rustc | Rust compiler | :heavy_multiplication_x: | | *cargo* is project manager |
+rustbuster | web fuzzer | :heavy_multiplication_x: | [rustbuster](https://github.com/phra/rustbuster) | |
+rustc | Rust compiler | :heavy_multiplication_x: | | |
 samhain | IDS | :heavy_check_mark: | | |
 sampler | terminal visualisation tool | :heavy_multiplication_x: | [sampler](https://github.com/sqshq/sampler) | |
 sane | document scan tools | :heavy_check_mark: | | |
