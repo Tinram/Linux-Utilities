@@ -340,6 +340,7 @@ fonts-crosextra-carlito | Calibri-compatible font | :heavy_check_mark: | | |
 fonts-crosextra-caladea | Cambria-compatible font | :heavy_check_mark: | | |
 font-manager | GNOME font manager | :heavy_check_mark: | | |
 foremost | recover/extract files | :heavy_check_mark: | | |
+forkstat | terminal process monitor | :heavy_check_mark: | | |
 fotoxx | photo editor | :heavy_check_mark: | | good at editing, poor interface |
 fping | ICMP to network hosts | :heavy_check_mark: | | |
 fpm | package converter | :heavy_multiplication_x: | [fpm](https://github.com/jordansissel/fpm) | |
@@ -476,6 +477,7 @@ HAI | hash algorithm identifier| :heavy_multiplication_x: | [Hash-Algorithm-Iden
 hash-identifier | identify hash | :heavy_multiplication_x: | [hash-identifier](http://tools.kali.org/password-attacks/hash-identifier) | |
 haveged | random number generator | :heavy_check_mark: | | |
 hdparm | tune HDD parameters | :heavy_check_mark: | | |
+health-check | process monitoring tool | :heavy_check_mark: | | |
 heaptrack | heap memory profiler | :heavy_multiplication_x: | [heaptrack](https://github.com/KDE/heaptrack) | |
 heartbeat | high-availability servers | :heavy_check_mark: | | |
 hegemon | TUI system monitor | :heavy_multiplication_x: | [hegemon](https://github.com/p-e-w/hegemon) | |
@@ -484,6 +486,7 @@ hexyl | terminal hex editor | :heavy_multiplication_x: | [hexyl](https://github.
 highlight | convert code to HTML/RTF | :heavy_check_mark: | | |
 hnwatch | terminal news feed | :heavy_multiplication_x: | | |
 hopper | GUI disassembler | :heavy_multiplication_x: | [Hopper](https://www.hopperapp.com/) | proprietary, demo |
+horst | terminal WLAN analyser | :heavy_check_mark: | | |
 hostmap | enumerate (v)hosts of IP | :heavy_multiplication_x: | [Hostmap](http://g33kinfo.com/info/hostmap-0-2-2-tar) | |
 hottoe | sound control app | :heavy_multiplication_x: | [hottoe](https://github.com/gandalfn/hottoe) | |
 htop | hyper `top` | :heavy_check_mark: | | |
@@ -998,7 +1001,8 @@ standardnotes | cross-platform encrypted notes app | :heavy_multiplication_x: | 
 statsprocessor | word generator | :heavy_multiplication_x: | | |
 statusok | website/API monitor | :heavy_multiplication_x: | [statusok](https://github.com/sanathp/statusok) | |
 strace | system call tracer | :heavy_check_mark: | | |
-stress | stress CPU/memory/disk | :heavy_check_mark: | [stress](https://people.seas.harvard.edu/~apw/stress/) | |
+stress | CPU/memory/disk stresser | :heavy_check_mark: | | |
+stress-ng | advanced system stresser | :heavy_check_mark: | | |
 structure-synth | 3D structure generator | :heavy_check_mark: | | |
 s-tui | terminal hardware monitor | :heavy_multiplication_x: | [s-tui](https://github.com/amanusk/s-tui/releases) | |
 stunnel | SSL tunnel for own apps | :heavy_check_mark: | [STunnel](https://www.stunnel.org/index.html) | |
