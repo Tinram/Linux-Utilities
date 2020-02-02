@@ -1137,6 +1137,7 @@ webshag | web server auditor | :heavy_multiplication_x: | | |
 webslayer | web app brute-forcer | :heavy_multiplication_x: | | |
 wfuzz | web app brute-forcer | :heavy_check_mark: | [wfuzz](https://github.com/xmendez/wfuzz) | <a id="wfuzz"></a> |
 wget | web file retriever | :heavy_check_mark: | | |
+whatweb | web scanner | :heavy_check_mark: | | |
 whipper | CD ripper | :heavy_multiplication_x: | [whipper](https://github.com/JoeLametta/whipper) | |
 whiptail | TUI shell interface | :heavy_check_mark: | | |
 whois | WHOIS client | :heavy_check_mark: | | <a id="whois"></a> |
