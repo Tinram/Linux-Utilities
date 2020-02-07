@@ -76,6 +76,7 @@ avidemux | video editor/converter | :heavy_multiplication_x: | | for quick edits
 awffull | weblog analyser | :heavy_check_mark: | | localhost-based |
 axel | terminal download accelerator | :heavy_check_mark: | | |
 azpainter | image editor | :heavy_multiplication_x: | [AzPainter](https://osdn.net/projects/azpainter/releases/67130) | 16-bit colours |
+b2 | BBC Micro emulator | :heavy_multiplication_x: | [b2](https://github.com/tom-seddon/b2) | |
 babeltrace | trace conversion | :heavy_check_mark: | | |
 babe-qt | tiny Qt music player | :heavy_multiplication_x: | [babe-qt](https://github.com/milohr/babe-qt) | |
 backerupper | *tar.gz* backups | :heavy_multiplication_x: | [Backerupper](https://sourceforge.net/projects/backerupper/) | allows file exclusion | |
