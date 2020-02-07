@@ -875,6 +875,7 @@ rand | random character generator | :heavy_check_mark: | | |
 rapidscan | web vulnerability Scanner | :heavy_multiplication_x: | [rapidscan](https://github.com/skavngr/rapidscan) | |
 rapidsvn | SVN GUI | :heavy_check_mark: | | |
 rarcrack | RAR cracker | :heavy_multiplication_x: | [rarCrack](https://sourceforge.net/projects/rarcrack/) | |
+rare | terminal regex parser | :heavy_multiplication_x: | [rare](https://github.com/zix99/rare) | |
 raspiraw | RaspPi RAW processing | :heavy_multiplication_x: | [raspiraw](https://github.com/illes/raspiraw) | |
 ratproxy | passive web app security assessor | :heavy_check_mark: | | |
 rats | rough auditing tool for security | :heavy_check_mark: | | |
@@ -994,6 +995,7 @@ sshguard | SSH brute-force protection | :heavy_check_mark: | [SSHGuard](http://w
 sslscan | SSL scanner | :heavy_check_mark: | | |
 sshfs | mount remote filesystem | :heavy_check_mark: | | GNOME already does this through gvfs |
 sshpass | send password to SCP etc from script | :heavy_check_mark: | | |
+sshsysmon | server monitoring via SSH | :heavy_multiplication_x: | [SshSysMon](https://sshsysmon.zdyn.net/) [repo](https://github.com/zix99/sshsysmon) | |
 sshtalk | SSH chat server | :heavy_multiplication_x: | | |
 sshuttle | VPN over SSH | :heavy_check_mark: | [sshuttle](https://github.com/apenwarr/sshuttle) | TCP, not UDP or ICMP |
 stacer | GUI system optimiser | :heavy_multiplication_x: | [Stacer](https://github.com/oguzhaninan/Stacer) | |
