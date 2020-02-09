@@ -260,6 +260,7 @@ drgeo | geometric sketcher | :heavy_check_mark: | | |
 drive | terminal GDrive client | :heavy_multiplication_x: | [drive](https://github.com/odeke-em/drive) | |
 dsniff | network sniffer | :heavy_check_mark: | | |
 dstat | resource stats tool | :heavy_check_mark: | [Dstat](http://dag.wiee.rs/home-made/dstat/) | |
+dsvpn | Dead Simple VPN | :heavy_multiplication_x: | [dsvpn](https://github.com/jedisct1/dsvpn) | |
 dtrx | archive viewer/unpacker | :heavy_check_mark: | | |
 duc | TUI/GUI disk usage analyser | :heavy_check_mark: | [Duc](https://duc.zevv.nl/) [repo](https://github.com/zevv/duc) | use `apt` |
 dukto | LAN transfer tool | :heavy_multiplication_x: | [dukto](https://github.com/guilhem/dukto) | |
@@ -631,6 +632,7 @@ masterpdfeditor | PDF editor | :heavy_multiplication_x: | [MasterPDFEditor](http
 mat | metadata anonymiser tool | :heavy_check_mark: | | use `apt`; `mat -d <file>` |
 maths | maths problem solver | :heavy_multiplication_x: | [maths](https://code.launchpad.net/~nasc-team) | ppa:nasc-team/daily |
 mattermost | team messaging | :heavy_multiplication_x: | [Mattermost](https://www.mattermost.org/) | |
+mcfly | terminal history manager | :heavy_multiplication_x: | [mcfly](https://github.com/cantino/mcfly) | |
 md5deep | batch/recursive `md5sum` | :heavy_check_mark: | | |
 mdadm | software RAID controller | :heavy_check_mark: | | |
 medusa | router/network brute-forcer | :heavy_check_mark: | | |
