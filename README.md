@@ -87,6 +87,7 @@ bandwidthd | track network usage | :heavy_check_mark: | | HTML/image output|
 bashate | Bash script linter | :heavy_check_mark: | | |
 beast | music synthesis | :heavy_check_mark: | | |
 bed | daemon vulnerability checker | :heavy_multiplication_x: | [bed](https://github.com/crunchsec/bed/) | |
+bench | terminal benchmark tool | :heavy_multiplication_x: | [bench](https://github.com/Gabriel439/bench) | |
 bfbtester | EXE brute-force tester | :heavy_check_mark: | | |
 billreminder | bill reminders | :heavy_multiplication_x: | [Bill Reminder](http://billreminder.gnulinuxbrasil.org) | |
 binary-analyser | analyse binaries | :heavy_multiplication_x: | [Binary Analyser](https://bitbucket.org/mihaila/bindead/wiki/Home) | |
@@ -319,6 +320,7 @@ findimagedupes | find duplicate/similar images | :heavy_check_mark: | | |
 findmyhash | query multiple websites for hash | :heavy_multiplication_x: | [findmyhash](https://github.com/Talanor/findmyhash) | |
 fio | flexible I/O tester | :heavy_check_mark: | | | <a id="fio"></a>
 firejail | sandbox apps | :heavy_check_mark: | [firejail](https://github.com/netblue30/firejail) | |
+firewalld | versatile firewall | :heavy_check_mark: | | |
 fishsynch | sync files | :heavy_multiplication_x: | [Fish Synch](https://sourceforge.net/projects/fishsync/) | |
 fiziko | pen-and-ink drawings from code | :heavy_multiplication_x: | [fiziko](https://github.com/jemmybutton/fiziko) | |
 flac | FLAC tools | :heavy_check_mark: | | |
