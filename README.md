@@ -404,8 +404,9 @@ gimp-dcraw | GIMP RAW plugin | :heavy_check_mark: | | |
 gimp-ufraw | GIMP RAW importer | :heavy_check_mark: | | |
 git | source control | :heavy_check_mark: | | `git`, *git-gui*, `gitk`, `gitg`, *git-doc*, `git-extras` <a id="git"></a> |
 git-extras | [Git](#git) extensions | :heavy_check_mark: | | |
-gitg | [Git](#git) repo viewer | :heavy_check_mark: | | |
 git-gui | [Git](#git) GUI | :heavy_check_mark: | | `git gui` |
+git-secrets | prevent sensitive data being committed | :heavy_multiplication_x: | [git-secrets](https://github.com/awslabs/git-secrets) | |
+gitg | [Git](#git) repo viewer | :heavy_check_mark: | | |
 gitin | commit/branch/status explorer for [Git](#git) | :heavy_multiplication_x: | [gitin](https://github.com/isacikgoz/gitin) | |
 gitinspector | [Git](#git) repo stat tool | :heavy_check_mark: | | |
 gitk | [Git](#git) repo browser | :heavy_check_mark: | | |
@@ -829,6 +830,7 @@ processing | programming language | :heavy_multiplication_x: | | |
 procinfo | `socklist`, `lsdev`, system stats from /proc | :heavy_check_mark: | | |
 profile-sync-daemon | move browser profiles to RAM | :heavy_multiplication_x: | [profile-sync-daemon](https://github.com/graysky2/profile-sync-daemon) | systemd |
 prometheus.io | [Nagios](#nagios) replacement for microservices | :heavy_multiplication_x: | [Prometheus](https://github.com/prometheus) | |
+prowler | AWS security tool | :heavy_multiplication_x: | [prowler](https://github.com/toniblyx/prowler) | |
 proxychains | redirect connections through proxy servers | :heavy_check_mark: | | |
 psad | port scan detector | :heavy_check_mark: | | from iptables |
 psensor | temperature sensors GUI | :heavy_check_mark: | | |
