@@ -71,6 +71,7 @@ aura | background setter | :heavy_multiplication_x: | [Aura](https://sourceforge
 automater | webhost look-up | :heavy_multiplication_x: | | extensive look-up |
 automysqlbackup | periodic backups of [MySQL](#mysql) DBs | :heavy_check_mark: | | |
 autossh | auto restart SSH sessions | :heavy_check_mark: | | |
+autotrash | purge trash files | :heavy_check_mark: | | |
 avahi-daemon | discover hosts | :heavy_check_mark: | | name instead of IP |
 avidemux | video editor/converter | :heavy_multiplication_x: | | for quick edits to single video clip |
 awffull | weblog analyser | :heavy_check_mark: | | localhost-based |
