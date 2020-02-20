@@ -223,6 +223,7 @@ debreate | Debian package manager | :heavy_multiplication_x: | [Debreate](https:
 debsums | package checksum comparisons | :heavy_check_mark: | | |
 deen | data en-/decoding | :heavy_multiplication_x: | [deen](https://github.com/takeshixx/deen) | |
 deja-dup | GUI backup tool using [duplicity](#duplicity) | :heavy_check_mark: | [DejaDup](https://wiki.gnome.org/Apps/DejaDup) | GPG encryption, no compression |
+delve | Go debugger | :heavy_multiplication_x: | [delve](https://github.com/go-delve/delve) | |
 denyhosts | SSH protection | :heavy_check_mark: | | |
 devicesinlan | LAN scanner | :heavy_multiplication_x: | [DevicesInLAN](https://sourceforge.net/projects/devicesinlan/) | |
 devilspie2 | run script upon window interaction | :heavy_check_mark: | [Devilspie2](http://gusnan.se/devilspie2/) | |
