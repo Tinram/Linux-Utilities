@@ -557,6 +557,7 @@ jnettop | network traffic monitor | :heavy_check_mark: | | |
 joomscan | Joomla scanner | :heavy_multiplication_x: | | |
 john | password cracker | :heavy_multiplication_x: | | |
 johnny | GUI for *john* | :heavy_multiplication_x: | [johnny](https://github.com/shinnok/johnny) | |
+joplin | notes/todo app | :heavy_multiplication_x: | [Joplin](https://joplinapp.org/) | |
 jp2a | JPG to ASCII art | :heavy_check_mark: | | |
 jpeginfo | JPG info/integrity | :heavy_check_mark: | | |
 jq | terminal JSON stream editor | :heavy_check_mark: | | |
@@ -627,7 +628,7 @@ mailutils | mail utilities | :heavy_check_mark: | | |
 maltego | people-places analysis tool | :heavy_multiplication_x: | [Maltego](https://paterva.com/web7/) | Java-based |
 maltrail | malicious traffic detector | :heavy_multiplication_x: | [maltrail](https://github.com/stamparm/maltrail) | |
 mandelbulber | 3D Mandelbrot | :heavy_check_mark: | | |
-mangl | GUI man page viewer  | :heavy_multiplication_x: | [mangl](https://github.com/zigalenarcic/mangl) | |
+mangl | GUI man page viewer | :heavy_multiplication_x: | [mangl](https://github.com/zigalenarcic/mangl) | |
 mariadb-server | MariaDB | :heavy_check_mark: | | |
 mariadb-client | MariaDB | :heavy_check_mark: | | |
 markdown | Markdown to HTML | :heavy_check_mark: | | |
