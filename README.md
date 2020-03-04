@@ -903,7 +903,8 @@ redshift | diurnal screen colour temp adjuster | :heavy_check_mark: | | deps: *G
 redshift-gtk | GUI for redshift | :heavy_check_mark: | | |
 reformat | text formatter | :heavy_check_mark: | | line length, margin |
 remarkable | Markdown editor | :heavy_multiplication_x: | [Remarkable](http://remarkableapp.github.io/) | deps: *python3-markdown*, *python3-bs4*, *wkhtmltopdf* |
-remmina | GUI remote desktop client | :heavy_check_mark: | | Win: enable remote connections, firewall, not 'Home' versions! |
+remmina | Gnome GUI remote desktop client | :heavy_check_mark: | | |
+remmina-plugin-vnc | VNC plugin for Remmina | :heavy_check_mark: | | |
 remnux | Linux malware analyser | :heavy_multiplication_x: | [REMnux](https://sourceforge.net/projects/remnux/) | |
 retext | ReText and Markdown editor | :heavy_check_mark: | [Retext](https://github.com/retext-project/retext) | |
 retroshare | encrypted IM/filesharing | :heavy_multiplication_x: | [RetroShare](http://retroshare.net) | |
