@@ -1009,7 +1009,7 @@ sshpass | send password to SCP etc from script | :heavy_check_mark: | | |
 sshsysmon | server monitoring via SSH | :heavy_multiplication_x: | [SshSysMon](https://sshsysmon.zdyn.net/) [repo](https://github.com/zix99/sshsysmon) | |
 sshtalk | SSH chat server | :heavy_multiplication_x: | | |
 sshuttle | VPN over SSH | :heavy_check_mark: | [sshuttle](https://github.com/apenwarr/sshuttle) | TCP, not UDP or ICMP |
-stacer | GUI system optimiser | :heavy_multiplication_x: | [Stacer](https://github.com/oguzhaninan/Stacer) | |
+stacer | GUI system monitor/manager/optimiser | :heavy_multiplication_x: | [Stacer](https://github.com/oguzhaninan/Stacer) | |
 standardnotes | cross-platform encrypted notes app | :heavy_multiplication_x: | [standardnotes](https://standardnotes.org/) [repo](https://github.com/standardnotes) | includes Android |
 statsprocessor | word generator | :heavy_multiplication_x: | | |
 statusok | website/API monitor | :heavy_multiplication_x: | [statusok](https://github.com/sanathp/statusok) | |
