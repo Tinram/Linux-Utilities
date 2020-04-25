@@ -795,9 +795,10 @@ pgpdump | GPG/PGP file visualiser | :heavy_check_mark: | | |
 phatch | batch image converter | :heavy_check_mark: | | |
 phoronix | benchmark suite | :heavy_multiplication_x: | [Phoronix](http://phoronix-test-suite.com/) | |
 photorec | file recovery tool | :heavy_multiplication_x: | [photorec](https://www.cgsecurity.org/) | |
+php7cc | PHP 7 incompatible code detector | :heavy_check_mark: | | |
 php-markdown | PHP Markdown renderer | :heavy_check_mark: | | |
 php-codesniffer | phpcs in terminal | :heavy_check_mark: | | |
-phplint | PHP linter | :heavy_multiplication_x: | | |
+phplint | PHP linter | :heavy_multiplication_x: | [phplint](https://github.com/overtrue/phplint) | |
 phpunit | PHP unit test suite | :heavy_check_mark: | | not Mr Bergmann's PHPUnit |
 phrasendrescher | SSH dictionary attacker | :heavy_multiplication_x: | | `pd ssh -d pass.txt -t <IP> -v`) |
 pic | graphics programming language | :heavy_multiplication_x: | [piC](http://www.kohala.com/start/troff/troff.html) | |
