@@ -1181,6 +1181,7 @@ x265 | video compressor | :heavy_multiplication_x: | [x265](http://x265.org) | |
 x2go | remote GUI connection | :heavy_multiplication_x: | [X2Go](http://wiki.x2go.org/doku.php) | with SSH |
 x86info | CPU info | :heavy_check_mark: | | |
 xa65 | 6502 CPU cross-assembler | :heavy_check_mark: | [xa65](http://www.floodgap.com/retrotech/xa/) | |
+xanmod | kernel performance patch | :heavy_multiplication_x: | [XanMod](https://xanmod.org/) | |
 xaos | fractals | :heavy_check_mark: | | |
 xauth | X authentication - needed for remote X GUI | :heavy_check_mark: | | |
 xcalib | X monitor calibration | :heavy_check_mark: | | includes screen inverter <a id="xcalib"></a> |
