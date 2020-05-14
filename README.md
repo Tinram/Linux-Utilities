@@ -21,7 +21,7 @@ Some of the programs listed are included by default with Ubuntu-based distros. N
 ----
 
 package | description | repo | URL | notes |
-:---- | :---- | :----: | :---- | :---- |
+:--- | :--- | :---: | :--- | :--- |
 p7zip | file archiver | :heavy_check_mark: | [7-Zip](http://www.7-zip.org/) | also *p7Zip-full* <a id="7zip"></a> |
 abcde | CD ripper | :heavy_check_mark: | [ABCDE](http://www.andrews-corner.org/linux/abcde/index.html) | |
 abiword | lightweight wordprocessor | :heavy_check_mark: | | |
