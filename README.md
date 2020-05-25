@@ -222,7 +222,7 @@ deborphan | unused packages finder | :heavy_check_mark: | | |
 debreate | Debian package manager | :heavy_multiplication_x: | [Debreate](https://antumdeluge.github.io/debreate-web/) | |
 debsums | package checksum comparisons | :heavy_check_mark: | | |
 deen | data en-/decoding | :heavy_multiplication_x: | [deen](https://github.com/takeshixx/deen) | |
-deja-dup | GUI backup tool using [duplicity](#duplicity) | :heavy_check_mark: | [DejaDup](https://wiki.gnome.org/Apps/DejaDup) | GPG encryption, no compression |
+deja-dup | GUI backup tool using [duplicity](#duplicity) | :heavy_check_mark: | [DejaDup](https://wiki.gnome.org/Apps/DejaDup) | [GnuPG](#gpg) encryption, no compression |
 delve | Go debugger | :heavy_multiplication_x: | [delve](https://github.com/go-delve/delve) | |
 denyhosts | SSH protection | :heavy_check_mark: | | |
 devicesinlan | LAN scanner | :heavy_multiplication_x: | [DevicesInLAN](https://sourceforge.net/projects/devicesinlan/) | |
@@ -431,7 +431,7 @@ gnome-system-monitor | GNOME monitor | :heavy_check_mark: | | |
 gnome-tweak-tool | GNOME 3 editor | :heavy_check_mark: | | |
 gnucash | finance manager | :heavy_check_mark: | | <a id="gnucash"></a> |
 gnumeric | spreadsheet | :heavy_check_mark: | | |
-gnupg2 | GPG version 2 | :heavy_check_mark: | | |
+gnupg2 | GnuPG version 2 | :heavy_check_mark: | | <a id="gpg"></a> |
 gnuplot | graphs | :heavy_check_mark: | | core |
 gnuplot-x11 | graphics | :heavy_check_mark: | | |
 gnuplot-qt | graphics | :heavy_check_mark: | | |
@@ -445,9 +445,10 @@ gosync | GDrive sync | :heavy_multiplication_x: | [GoSync](https://github.com/hs
 gotty | terminal application projected as web app | :heavy_multiplication_x: | [GoTTY](https://github.com/yudai/gotty) | |
 gource | source control visualisation tool | :heavy_check_mark: | | |
 govie | movie utility | :heavy_multiplication_x: | [Govie](https://github.com/narenaryan/Govie) | |
+gpa | GUI for [GnuPG](#gpg) | :heavy_check_mark: | | |
 gparted | view/manage partitions | :heavy_check_mark: | | |
 gpgdir | encrypt directories | :heavy_check_mark: | | |
-gpgit | terminal GPG file encryption switches simplified | :heavy_multiplication_x: | [GPGit](https://github.com/Tinram/GPGit) | |
+gpgit | terminal [GnuPG](#gpg) file encryption simplified | :heavy_multiplication_x: | [GPGit](https://github.com/Tinram/GPGit) | |
 gphoto2 | terminal digital camera processor | :heavy_check_mark: | | |
 gpick | screen colour pick/palette/inverter | :heavy_check_mark: | | |
 gping | terminal visual ping host | :heavy_multiplication_x: | [gping](https://github.com/orf/gping) | |
@@ -686,7 +687,7 @@ mz | versatile packet/network traffic generator | :heavy_check_mark: | | |
 nagios-nrpe-server | Nagios component for remote server | :heavy_check_mark: | [Nagios](https://www.nagios.org/) | <a id="nagios"></a> |
 nanotts | speech synthesizer | :heavy_multiplication_x: | [NanoTTS](https://github.com/gmn/nanotts) | |
 nast | terminal [Wireshark](#wireshark) | :heavy_check_mark: | | |
-nasty | GPG password cracker | :heavy_check_mark: | | |
+nasty | [GnuPG](#gpg) password cracker | :heavy_check_mark: | | |
 nbtscan | scan network for NetBIOS info (Samba) | :heavy_check_mark: | | |
 ncdu | Ncurses disk usage viewer | :heavy_check_mark: | | |
 ncrack | network cracker | :heavy_multiplication_x: | | |
@@ -739,7 +740,7 @@ ntop | top network users | :heavy_check_mark: | | |
 nutty | network utility | :heavy_multiplication_x: | [Nutty](https://launchpad.net/nutty) [repo](https://github.com/babluboy/nutty) | ppa:bablu-boy/nutty.0.1 |
 nvidia-smi | NVidia GPU management CLI | :heavy_multiplication_x: | | |
 nvtop | NVidia GPU 'top' | :heavy_multiplication_x: | [nvtop](https://github.com/Syllo/nvtop) | |
-obnam | incremental daily backups with SFTP/GPG support | :heavy_check_mark: | | |
+obnam | incremental daily backups with SFTP/[GnuPG](#gpg) support | :heavy_check_mark: | | |
 obs | video recording/livestreaming | :heavy_multiplication_x: | [OBS](https://obsproject.com/) | |
 oclint | C/C++/ObjC static code analyser | :heavy_multiplication_x: | [OCLint](http://oclint.org/) [repo](https://github.com/oclint/oclint/) | |
 ocrfeeder | OCR text scanner | :heavy_check_mark: | | |
@@ -791,7 +792,7 @@ perf | performance analysis tools | :heavy_check_mark: | | in *linux-tools-commo
 perf-tools-unstable | `perf` helper tools by Brendan Gregg | :heavy_check_mark: | | `iosnoop`, `iolatency`, `uprobe` |
 pewpew | server stress tester | :heavy_multiplication_x: | [pewpew](https://github.com/bengadbois/pewpew) | |
 pgadmin3 | GUI admin for [PostgresSQL](#postgressql) | :heavy_check_mark: | | |
-pgpdump | GPG/PGP file visualiser | :heavy_check_mark: | | |
+pgpdump | [GnuPG](#gpg)/PGP file visualiser | :heavy_check_mark: | | |
 phatch | batch image converter | :heavy_check_mark: | | |
 phoronix | benchmark suite | :heavy_multiplication_x: | [Phoronix](http://phoronix-test-suite.com/) | |
 photorec | file recovery tool | :heavy_multiplication_x: | [photorec](https://www.cgsecurity.org/) | |
