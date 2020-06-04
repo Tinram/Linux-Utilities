@@ -63,12 +63,13 @@ asunder | CD ripper | :heavy_check_mark: | [Asunder](http://littlesvr.ca/asunder
 athena-jot | data generator | :heavy_check_mark: | | |
 atril | MATE PDF viewer | :heavy_check_mark: | | |
 attr | filesystem extended attribute utils | :heavy_check_mark: | | |
-audacious | music player | :heavy_check_mark: | | |
+audacious | music player | :heavy_check_mark: | [Audacious](http://audacious-media-player.org/) | |
 audacity | sound editor | :heavy_check_mark: | | |
 aview | images to ASCII art | :heavy_check_mark: | | |
 auditd | user auditing | :heavy_check_mark: | | `auditctl`, `aureport`, `ausearch`, `autrace` |
 aura | background setter | :heavy_multiplication_x: | [Aura](https://sourceforge.net/projects/desktop-aura/) | |
 automater | webhost look-up | :heavy_multiplication_x: | | extensive look-up |
+auto-cpufreq | laptop power manager | :heavy_multiplication_x: | [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) | |
 automysqlbackup | periodic backups of [MySQL](#mysql) DBs | :heavy_check_mark: | | |
 autossh | auto restart SSH sessions | :heavy_check_mark: | | |
 autotrash | purge trash files | :heavy_check_mark: | | |
@@ -493,15 +494,16 @@ helm | music synthesizer | :heavy_multiplication_x: | [Helm](http://tytel.org/he
 hexyl | terminal hex editor | :heavy_multiplication_x: | [hexyl](https://github.com/sharkdp/hexyl) | |
 highlight | convert code to HTML/RTF | :heavy_check_mark: | | |
 hnwatch | terminal news feed | :heavy_multiplication_x: | | |
+homebank | [GNU Cash](#gnucash)-like finance manager | :heavy_check_mark: | | |
 hopper | GUI disassembler | :heavy_multiplication_x: | [Hopper](https://www.hopperapp.com/) | proprietary, demo |
 horst | terminal WLAN analyser | :heavy_check_mark: | | |
 hostmap | enumerate (v)hosts of IP | :heavy_multiplication_x: | [Hostmap](http://g33kinfo.com/info/hostmap-0-2-2-tar) | |
 hottoe | sound control app | :heavy_multiplication_x: | [hottoe](https://github.com/gandalfn/hottoe) | |
-htop | hyper `top` | :heavy_check_mark: | | |
-httperf | HTTP benchmark | :heavy_check_mark: | | |
-http-logs-analyzer | HTTP log analyser | :heavy_multiplication_x: | [http-logs-analyzer](https://github.com/flrnull/http-logs-analyzer) | |
-homebank | [GNU Cash](#gnucash)-like finance manager | :heavy_check_mark: | | |
 hping3 | send packets to network hosts | :heavy_check_mark: | | |
+htop | hyper `top` | :heavy_check_mark: | | |
+http-logs-analyzer | HTTP log analyser | :heavy_multiplication_x: | [http-logs-analyzer](https://github.com/flrnull/http-logs-analyzer) | |
+httpdirfs | HTTP directory mounter | :heavy_multiplication_x: | [httpdirfs](https://github.com/fangfufu/httpdirfs) | |
+httperf | HTTP benchmark | :heavy_check_mark: | | |
 httping | HTTP pinger | :heavy_check_mark: | | |
 httpry | HTTP logging and info | :heavy_check_mark: | | |
 httpstat | HTTP request timer | :heavy_multiplication_x: | [httpstat](https://github.com/reorx/httpstat) | |
