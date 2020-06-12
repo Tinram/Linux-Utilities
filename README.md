@@ -441,6 +441,7 @@ go-fuzz | fuzzer | :heavy_multiplication_x: | [go-fuzz](https://github.com/dvyuk
 gobuster | directory, DNS, vhost buster | :heavy_multiplication_x: | [gobuster](https://github.com/OJ/gobuster) | |
 golly | game of life simulator | :heavy_check_mark: | | |
 googler | terminal Google search | :heavy_multiplication_x: | [googler](https://github.com/jarun/googler) | |
+go-mysql | MySQL toolset | :heavy_multiplication_x: | [go-mysql](https://github.com/siddontang/go-mysql) | |
 go-rsync | GUI for `rsync` | :heavy_multiplication_x: | [go-rsync](https://github.com/d2r2/go-rsync) | |
 gosync | GDrive sync | :heavy_multiplication_x: | [GoSync](https://github.com/hschauhan/gosync/) | |
 gotty | terminal application projected as web app | :heavy_multiplication_x: | [GoTTY](https://github.com/yudai/gotty) | |
@@ -843,6 +844,7 @@ psad | port scan detector | :heavy_check_mark: | | from iptables |
 psensor | temperature sensors GUI | :heavy_check_mark: | | |
 pspp | statistical analysis | :heavy_check_mark: | [PSPP](http://www.gnu.org/software/pspp/) | SPSS replacement |
 pst-utils | read Microsoft Outlook *.pst* files | :heavy_check_mark: | | *.pst* to *.mbox* |
+pstop | MySQL top from perf schema | :heavy_multiplication_x: | [ps-top](https://github.com/sjmudd/ps-top) | |
 publican | docbook XML publisher | :heavy_check_mark: | | |
 puddletag | music file tag editor | :heavy_check_mark: | | |
 pulseeffects | equalizer for PulseAudio apps | :heavy_multiplication_x: | [pulseeffects](https://github.com/wwmm/pulseeffects) | ppa:yunnxx/gnome3 |
