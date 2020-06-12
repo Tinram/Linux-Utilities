@@ -638,7 +638,7 @@ mariadb-client | MariaDB | :heavy_check_mark: | | |
 markdown | Markdown to HTML | :heavy_check_mark: | | |
 marker | Markdown editor | :heavy_multiplication_x: | [Marker](https://github.com/fabiocolacio/Marker) | |
 masterpdfeditor | PDF editor | :heavy_multiplication_x: | [MasterPDFEditor](https://code-industry.net/get-masterpdfeditor/) | powerful but proprietary |
-mat | metadata anonymiser tool | :heavy_check_mark: | | use `apt`; `mat -d <file>` |
+mat2 | metadata anonymiser tool | :heavy_check_mark: | | use `apt`; `mat -d <file>` |
 maths | maths problem solver | :heavy_multiplication_x: | [maths](https://code.launchpad.net/~nasc-team) | ppa:nasc-team/daily |
 mattermost | team messaging | :heavy_multiplication_x: | [Mattermost](https://www.mattermost.org/) | |
 mcfly | terminal history manager | :heavy_multiplication_x: | [mcfly](https://github.com/cantino/mcfly) | |
