@@ -1153,6 +1153,7 @@ waidps | wireless auditing + IDS | :heavy_multiplication_x: | [waidps](https://g
 wallpaperd | wallpaper rotator | :heavy_multiplication_x: | | |
 wammu | (old) phone manager, info exporter | :heavy_check_mark: | | |
 wapiti | web app vulnerability scanner | :heavy_check_mark: | | |
+warpinator | LAN file transfer | :heavy_check_mark: | [warpinator](https://github.com/linuxmint/warpinator) | |
 watchman | directory monitor tool | :heavy_multiplication_x: | [watchman](https://github.com/facebook/watchman) | |
 wavemon | wireless network monitor | :heavy_check_mark: | | |
 wbox | HTTP testing tool and config-less HTTP server | :heavy_check_mark: | | |
