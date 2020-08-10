@@ -686,6 +686,7 @@ mysql | MySQL database | :heavy_check_mark: | | <a id="mysql"></a> |
 mysql-utilities | [MySQL](#mysql) | :heavy_check_mark: | | |
 mysql-workbench | [MySQL](#mysql) | :heavy_check_mark: | | |
 mysqltuner | mysqld settings analyser | :heavy_check_mark: | [mysqltuner](https://raw.githubusercontent.com/major/MySQLTuner-perl/master/mysqltuner.pl) | |
+mystatusgo | MySQL monitoring tool | :heavy_multiplication_x: | [myStatusgo](https://github.com/kenken0807/myStatusgo) | |
 mytop | [MySQL](#mysql) monitor | :heavy_check_mark: | | |
 mz | versatile packet/network traffic generator | :heavy_check_mark: | | |
 nagios-nrpe-server | Nagios component for remote server | :heavy_check_mark: | [Nagios](https://www.nagios.org/) | <a id="nagios"></a> |
