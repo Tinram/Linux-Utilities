@@ -70,7 +70,7 @@ auditd | user auditing | :heavy_check_mark: | | `auditctl`, `aureport`, `ausearc
 aura | background setter | :heavy_multiplication_x: | [Aura](https://sourceforge.net/projects/desktop-aura/) | |
 automater | webhost look-up | :heavy_multiplication_x: | | extensive look-up |
 auto-cpufreq | laptop power manager | :heavy_multiplication_x: | [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) | |
-automysqlbackup | periodic backups of [MySQL](#mysql) DBs | :heavy_check_mark: | | |
+automysqlbackup | periodic backups of MySQL DBs | :heavy_check_mark: | | |
 autossh | auto restart SSH sessions | :heavy_check_mark: | | |
 autotrash | purge trash files | :heavy_check_mark: | | |
 avahi-daemon | discover hosts | :heavy_check_mark: | | name instead of IP |
@@ -279,7 +279,7 @@ eko | audio editor | :heavy_multiplication_x: | [Eko](http://semiletov.org/eko/)
 elfparser | ELF analyser | :heavy_multiplication_x: | [ELF parser](http://elfparser.com/download.html) [repo](https://github.com/jacob-baines/elfparser) | |
 elfutils | ELF utilities | :heavy_check_mark: | | |
 emilpro | disassembler | :heavy_multiplication_x: | | |
-emma | [MySQL](#mysql) GUI editor | :heavy_check_mark: | | |
+emma | MySQL GUI editor | :heavy_check_mark: | | |
 encryptpad | text editor with encryption | :heavy_multiplication_x: | [EncryptPad](http://evpo.net/encryptpad/) | |
 encryptr | SpiderOak note storage | :heavy_multiplication_x: | [Encryptr](https://spideroak.com/) | |
 engauge-digitizer | graph digitizer: extract nums | :heavy_check_mark: | | |
@@ -419,7 +419,7 @@ glade | GTK+ GUI creator | :heavy_check_mark: | | |
 glances | `top`-like app (sophisticated) | :heavy_check_mark: | [Glances](https://nicolargo.github.io/glances/) | also `pip install glances` |
 glchess | chess | :heavy_check_mark: | | uses Crafty engine; use `apt` |
 glogg | GUI logfile view/query | :heavy_check_mark: | [glogg](http://glogg.bonnefon.org/) | |
-gmysqlcc | GUI [MySQL](#mysql) client | :heavy_check_mark: | | |
+gmysqlcc | GUI MySQL client | :heavy_check_mark: | | |
 gnofract | fractal generator | :heavy_multiplication_x: | | *.deb* SourceForge package; good images |
 gnome-battery-bench | | :heavy_multiplication_x: | [GNOME Battery Bench](https://github.com/GNOME/gnome-battery-bench) | |
 gnome-bluetooth | GNOME Bluetooth tools | :heavy_check_mark: | | |
@@ -529,7 +529,7 @@ indicator-cpufreq | change CPU frequency | :heavy_check_mark: | | |
 infernal-twin | auto wireless hacking tool | :heavy_multiplication_x: | [infernal-twin](https://github.com/entropy1337/infernal-twin) | |
 inguma | pentest framework | :heavy_multiplication_x: | | |
 inkscape | vector imager | :heavy_check_mark: | | |
-innotop | [MySQL](#mysql) InnoDB monitor | :heavy_multiplication_x: | [innotop](https://github.com/innotop/innotop) [.deb](https://sourceforge.net/projects/innotop/) | exists in CentOS EPEL |
+innotop | MySQL InnoDB monitor | :heavy_multiplication_x: | [innotop](https://github.com/innotop/innotop) [.deb](https://sourceforge.net/projects/innotop/) | exists in CentOS EPEL |
 inotify | monitor filesystem events | :heavy_check_mark: | | good for Samba folders |
 input-utils | kernel input layer utilities | :heavy_check_mark: | | `lsinput`, `input-events`, `input-kbd` |
 instarecon | auto digital recon | :heavy_multiplication_x: | [instarecon](https://github.com/vergl4s/instarecon) | high level recon |
@@ -577,7 +577,7 @@ kdenlive | video editor | :heavy_check_mark: | | KDE |
 keepassx | password vault | :heavy_check_mark: | | <a id="keepassx"></a> |
 keepassxc | password vault | :heavy_multiplication_x: | [KeePassXC](https://keepassxc.org) | revised [KeePassX](#keepassx) |
 kerkythea | renderer | :heavy_multiplication_x: | [Kerkythea](http://www.kerkythea.net/cms/) | |
-kexi | database GUI ([MySQL](#mysql)/[SQLite](#sqlite3)/[PostgreSQL](#postgresql)) | :heavy_multiplication_x: | [Kexi](http://kexi-project.org/) | |
+kexi | database GUI (MySQL/[SQLite](#sqlite3)/[PostgreSQL](#postgresql)) | :heavy_multiplication_x: | [Kexi](http://kexi-project.org/) | |
 kismet | wireless sniffer/monitor | :heavy_check_mark: | | |
 knock | subdomain scanner | :heavy_multiplication_x: | [knock](https://github.com/guelfoweb/knock) | |
 knotter | Celtic knot app | :heavy_multiplication_x: | [Knotter](https://sourceforge.net/projects/knotter/) [info](http://knotter.mattbas.org/Knotter) | |
@@ -683,11 +683,12 @@ musescore | music score editor | :heavy_check_mark: | | |
 mycli | terminal MySQL client | :heavy_check_mark: | [mycli](https://www.mycli.net/) [repo](https://github.com/dbcli/mycli) | |
 mypaint | tablet-supporting paint program | :heavy_check_mark: | | |
 mysql | MySQL database | :heavy_check_mark: | | <a id="mysql"></a> |
-mysql-utilities | [MySQL](#mysql) | :heavy_check_mark: | | |
-mysql-workbench | [MySQL](#mysql) | :heavy_check_mark: | | |
+mysql-utilities | MySQL | :heavy_check_mark: | | |
+mysql-workbench | MySQL | :heavy_check_mark: | | |
+mysqldiffchecker | MySQL instances diff | :heavy_multiplication_x: | [mysqlDiffChecker](https://github.com/kenken0807/mysqlDiffChecker) | |
 mysqltuner | mysqld settings analyser | :heavy_check_mark: | [mysqltuner](https://raw.githubusercontent.com/major/MySQLTuner-perl/master/mysqltuner.pl) | |
 mystatusgo | MySQL monitoring tool | :heavy_multiplication_x: | [myStatusgo](https://github.com/kenken0807/myStatusgo) | |
-mytop | [MySQL](#mysql) monitor | :heavy_check_mark: | | |
+mytop | MySQL monitor | :heavy_check_mark: | | |
 mz | versatile packet/network traffic generator | :heavy_check_mark: | | |
 nagios-nrpe-server | Nagios component for remote server | :heavy_check_mark: | [Nagios](https://www.nagios.org/) | <a id="nagios"></a> |
 nanotts | speech synthesizer | :heavy_multiplication_x: | [NanoTTS](https://github.com/gmn/nanotts) | |
@@ -792,7 +793,7 @@ pdftotext | PDF to text | :heavy_check_mark: | | in *poppler-utils* |
 peazip | multi-zip GUI and converter | :heavy_multiplication_x: | [PeaZip](https://sourceforge.net/projects/peazip/) | |
 pemcracker | PEM cracker | :heavy_multiplication_x: | [pemcracker](https://github.com/bwall/pemcracker) | |
 pentbox | security and stability tester | :heavy_multiplication_x: | | |
-percona-toolkit | [MySQL](#mysql) toolkit | :heavy_check_mark: | | |
+percona-toolkit | MySQL toolkit | :heavy_check_mark: | | |
 perf | performance analysis tools | :heavy_check_mark: | | in *linux-tools-common* |
 perf-tools-unstable | `perf` helper tools by Brendan Gregg | :heavy_check_mark: | | `iosnoop`, `iolatency`, `uprobe` |
 pewpew | server stress tester | :heavy_multiplication_x: | [pewpew](https://github.com/bengadbois/pewpew) | |
@@ -865,7 +866,7 @@ python3-pip | Python 3 package installer | :heavy_check_mark: | | |
 python3-psutil | psutil | :heavy_check_mark: | | access reporting tools |
 python3-usb | Python 3 USB interface | :heavy_check_mark: | | <a id="python3-usb"></a> |
 python-evdev | generic input event interface | :heavy_check_mark: | | |
-python-mysqldb | Python [MySQL](#mysql) API | :heavy_check_mark: | | <a id="python-mysqldb"></a> |
+python-mysqldb | Python MySQL API | :heavy_check_mark: | | <a id="python-mysqldb"></a> |
 python-pip | Python installer | :heavy_check_mark: | | `apt-get install python3-pip` |
 python-setuptools | | :heavy_check_mark: | | needed for [python-mysqldb](#python-mysqldb) |
 qalc | terminal calculator | :heavy_check_mark: | | |
@@ -1007,7 +1008,7 @@ sqliteman | [SQLite](#sqlite3) GUI | :heavy_check_mark: | | [SQLiteStudio](#sqli
 sqlitestudio | [SQLite](#sqlite3) GUI | :heavy_multiplication_x: | [SQLiteStudio](https://sqlitestudio.pl/index.rvt) | <a id="sqlitestudio"><a> |
 sqlmap | SQL injection tool | :heavy_check_mark: | [SQLMap](http://sqlmap.org/) [repo](https://github.com/sqlmapproject/sqlmap) | |
 sqlninja | Microsoft SQL Server injection | :heavy_multiplication_x: | [sqlninja](https://sourceforge.net/projects/sqlninja) | |
-sqlsus | [MySQL](#mysql) attacker | :heavy_multiplication_x: | | |
+sqlsus | MySQL attacker | :heavy_multiplication_x: | | |
 srm | secure file deletion | :heavy_multiplication_x: | [SRM](https://sourceforge.net/projects/srm/) | slow, punishing on SSDs |
 ssldump | SSLv3/TLS network protocol analyser | :heavy_check_mark: | | |
 sshguard | SSH brute-force protection | :heavy_check_mark: | [SSHGuard](http://www.sshguard.net/) | more intelligent than [fail2ban](#fail2ban) |
@@ -1124,7 +1125,7 @@ urlwatch | webpage update monitor | :heavy_check_mark: | | |
 usbview | GUI `lsusb` | :heavy_check_mark: | [usbview](https://github.com/gregkh/usbview) | |
 usermanager | GUI user/group manager | :heavy_multiplication_x: | [UserManager](hhttps://github.com/xvass/UserManager) | |
 valac | Vala compiler | :heavy_check_mark: | | |
-valentinastudio | [MySQL](#mysql)/[PostgreSQL](postgresql)/MSSQL browser| :heavy_multiplication_x: | [Valentina Studio](http://valentina-db.com/en/all-downloads/vstudio/current) | |
+valentinastudio | MySQL/[PostgreSQL](postgresql)/MSSQL browser| :heavy_multiplication_x: | [Valentina Studio](http://valentina-db.com/en/all-downloads/vstudio/current) | |
 valgrind | memory debugger and profiler | :heavy_check_mark: | | <a id="valgrind"></a> |
 valkyrie | GUI for [valgrind](#valgrind) | :heavy_check_mark: | | |
 vbindiff | visual binary file compare | :heavy_check_mark: | | |
