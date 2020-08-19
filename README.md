@@ -47,6 +47,7 @@ anydesk | TeamViewer-like remote desktop | :heavy_check_mark: | [AnyDesk](https:
 apachetop | `top` for Apache | :heavy_check_mark: | | use `apt` |
 apfs-fuse | FUSE driver for mounting Apple filesystem | :heavy_multiplication_x: | [apfs-fuse](https://github.com/sgan81/apfs-fuse) | |
 apktool | reverse engineer Android apk files | :heavy_check_mark: | | |
+apostrophe | Markdown editor | :heavy_multiplication_x: | [Apostrophe](https://gitlab.gnome.org/somas/apostrophe) | |
 aqemu | [Qemu](#qemu) + KVM GUI | :heavy_check_mark: | | |
 arandr | GUI for xrandr (X settings) | :heavy_check_mark: | | |
 ardour | audio editor | :heavy_check_mark: | | |
@@ -608,7 +609,7 @@ linssid | GUI wireless scanner | :heavy_check_mark: | | |
 linux-crashdump | kernel crashdump set-up | :heavy_check_mark: | | |
 linux-firmware | drivers | :heavy_check_mark: | | apparently includes wireless drivers |
 linux-malware-detect | Linux malware detector | :heavy_multiplication_x: | [linux-malware-detect](https://github.com/rfxn/linux-malware-detect) | |
-linux-wifi-hotspot | wireless hotspot GUI tool | :heavy_multiplication_x: | [linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) | |
+linux-wifi-hotspot | GUI wireless hotspot tool | :heavy_multiplication_x: | [linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) | |
 linuxrespin | distro builder | :heavy_multiplication_x: | [Linux Respin](http://www.linuxrespin.org/) | |
 lives | video editor | :heavy_check_mark: | | requires <a href="#x264">x264</a>, *gpac* for decent output |
 lldpd | LLDP discovery daemon | :heavy_check_mark: | | discover LAN switches etc, `lldpctl`, `lldpcli` |
