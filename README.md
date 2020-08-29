@@ -367,6 +367,7 @@ fruitywifi | wireless network auditing tool | :heavy_multiplication_x: | [Fruity
 fsarchiver | *tar.gz* alternative | :heavy_check_mark: | [fsarchiver](http://www.fsarchiver.org/) | |
 fsearch | file search | :heavy_multiplication_x: | [FSearch](http://www.fsearch.org/) | |
 fslint | problem file manager/cleaner | :heavy_check_mark: | | |
+fsmon | file system monitor | :heavy_multiplication_x: | [fsmon](https://github.com/nowsecure/fsmon) | |
 fswebcam | webcam | :heavy_check_mark: | | `sudo fswebcam /dev/video0 x.jpg` |
 ftrace | ELF function analyser | :heavy_multiplication_x: | [ftrace](https://github.com/elfmaster/ftrace) | |
 funkload | web server benchmarker | :heavy_check_mark: | [FunkLoad](http://funkload.nuxeo.org/) | includes unit testing |
