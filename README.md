@@ -43,7 +43,7 @@ ansible | alternative to Puppet/Chef | :heavy_check_mark: | | only dependencies 
 ansifilter | remove control codes | :heavy_multiplication_x: | [Ansifilter](http://andre-simon.de/doku/ansifilter/en/ansifilter.php) | |
 antimony | CAD modeller | :heavy_multiplication_x: | [Antimony](http://www.mattkeeter.com/projects/antimony/) | |
 antiword | Word files converted to text/PS/PDF | :heavy_check_mark: | | |
-anydesk | TeamViewer-like remote desktop | :heavy_check_mark: | [AnyDesk](https://anydesk.com/remote-desktop) | Flatpak; in repo @19.04 |
+anydesk | TeamViewer-like remote desktop | :heavy_check_mark: | [AnyDesk](https://anydesk.com/remote-desktop) | Flatpak |
 apachetop | `top` for Apache | :heavy_check_mark: | | use `apt` |
 apfs-fuse | FUSE driver for mounting Apple filesystem | :heavy_multiplication_x: | [apfs-fuse](https://github.com/sgan81/apfs-fuse) | |
 apktool | reverse engineer Android apk files | :heavy_check_mark: | | |
@@ -58,7 +58,7 @@ arista | media converter | :heavy_check_mark: | [Arista Transcoder](http://trans
 arp-scan | ARP scanner/fingerprinting | :heavy_check_mark: | | |
 arpwatch | Ethernet MAC address monitor | :heavy_check_mark: | | |
 artha | offline thesaurus | :heavy_check_mark: | | |
-asciinema | terminal activity recorder | :heavy_multiplication_x: | [asciinema](http://asciinema.org/) [repo](https://github.com/asciinema/asciinema) | `asciinema rec >> exit` |
+asciinema | terminal activity recorder | :heavy_check_mark: | [asciinema](http://asciinema.org/) [repo](https://github.com/asciinema/asciinema) | `asciinema rec >> exit` |
 astyle | code formatter | :heavy_check_mark: | [Artistic Style](http://astyle.sourceforge.net/) | C/C++/Java; good for other langs too |
 asunder | CD ripper | :heavy_check_mark: | [Asunder](http://littlesvr.ca/asunder/) | |
 athena-jot | data generator | :heavy_check_mark: | | |
@@ -113,7 +113,7 @@ bootiso | ISO to USB booter | :heavy_multiplication_x: | [bootiso](https://githu
 borgbackup | terminal backup tool | :heavy_check_mark: | | uses compression and encryption |
 boxbackup-client | Box backup | :heavy_check_mark: | [boxbackup](http://www.boxbackup.org/) | `rsync`-like and encrypted |
 boxbackup-server | Box backup | :heavy_check_mark: | [boxbackup](http://www.boxbackup.org/) | |
-bpfcc-tools | eBPF tools | :heavy_check_mark: | | in repo @19.04 |
+bpfcc-tools | eBPF tools | :heavy_check_mark: | | |
 brandy | BBC Micro emulator | :heavy_check_mark: | | |
 brasero | ISO burner | :heavy_check_mark: | | |
 bridge-utils | configure Ethernet bridge | :heavy_check_mark: | | |
@@ -1076,7 +1076,7 @@ textosaurus | text editor (Qt and Scintilla) | :heavy_multiplication_x: | [texto
 tkdiff | GUI for diff | :heavy_multiplication_x: | [tkdiff](https://sourceforge.net/projects/tkdiff/) | |
 tig | terminal [Git](#git) info viewer | :heavy_check_mark: | | |
 tiger | report root vulnerabilities | :heavy_check_mark: | | |
-tigervnc | remote desktop | :heavy_check_mark: | | in repo @19.04 |
+tigervnc | remote desktop | :heavy_check_mark: | | |
 tightvnc | remote desktop | :heavy_check_mark: | | |
 timeshift | system restore utility | :heavy_check_mark: | | |
 tinyproxy | non-caching HTTP proxy | :heavy_check_mark: | | |
