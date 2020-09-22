@@ -835,9 +835,10 @@ potamus | music player using directories | :heavy_multiplication_x: | [Potamus](
 povray | terminal raytracer | :heavy_check_mark: | | |
 powertop | power consumption analyser | :heavy_check_mark: | | |
 preload | adaptive binary preloader | :heavy_check_mark: | | |
-printer-driver- | various drivers | :heavy_check_mark: | | |
+prelockd | memory/OOM tool | :heavy_multiplication_x: | [prelockd](https://github.com/hakavlad/prelockd) | |
+printer-driver | various drivers | :heavy_check_mark: | | |
 privoxy | SOCKS requests to HTTP requests | :heavy_check_mark: | | block UDP leaks in [Tor](#tor) |
-procdump | create core dumps of apps | :heavy_multiplication_x: | [ProcDump](hhttps://github.com/Microsoft/ProcDump-for-Linux) | |
+procdump | create core dumps of apps | :heavy_multiplication_x: | [ProcDump](https://github.com/Microsoft/ProcDump-for-Linux) | |
 procenv | show process environment | :heavy_check_mark: | [procenv](https://github.com/jamesodhunt/procenv) | |
 processing | programming language | :heavy_multiplication_x: | | |
 procinfo | `socklist`, `lsdev`, system stats from /proc | :heavy_check_mark: | | |
@@ -1125,7 +1126,7 @@ unshield | extract *.cab* files from InstallShield | :heavy_check_mark: | | |
 unsort | jumbles lines in file | :heavy_check_mark: | | |
 urlwatch | webpage update monitor | :heavy_check_mark: | | |
 usbview | GUI `lsusb` | :heavy_check_mark: | [usbview](https://github.com/gregkh/usbview) | |
-usermanager | GUI user/group manager | :heavy_multiplication_x: | [UserManager](hhttps://github.com/xvass/UserManager) | |
+usermanager | GUI user/group manager | :heavy_multiplication_x: | [UserManager](https://github.com/xvass/UserManager) | |
 valac | Vala compiler | :heavy_check_mark: | | |
 valentinastudio | MySQL/[PostgreSQL](postgresql)/MSSQL browser| :heavy_multiplication_x: | [Valentina Studio](http://valentina-db.com/en/all-downloads/vstudio/current) | |
 valgrind | memory debugger and profiler | :heavy_check_mark: | | <a id="valgrind"></a> |
