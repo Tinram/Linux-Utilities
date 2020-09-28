@@ -491,6 +491,7 @@ HAI | hash algorithm identifier| :heavy_multiplication_x: | [Hash-Algorithm-Iden
 hash-identifier | identify hash | :heavy_multiplication_x: | [hash-identifier](http://tools.kali.org/password-attacks/hash-identifier) | |
 haveged | random number generator | :heavy_check_mark: | | |
 hdparm | tune HDD parameters | :heavy_check_mark: | | |
+hdck | HDD/media diagnostics | :heavy_multiplication_x: | [hdck](https://github.com/tomato42/hdck) | |
 health-check | process monitoring tool | :heavy_check_mark: | | |
 heaptrack | heap memory profiler | :heavy_multiplication_x: | [heaptrack](https://github.com/KDE/heaptrack) | |
 heartbeat | high-availability servers | :heavy_check_mark: | | |
