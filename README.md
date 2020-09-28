@@ -88,6 +88,7 @@ bacon | BASIC to C converter | :heavy_multiplication_x: | [BaCon](http://www.bas
 bacula | backup | :heavy_check_mark: | | |
 bandwidthd | track network usage | :heavy_check_mark: | | HTML/image output|
 bashate | Bash script linter | :heavy_check_mark: | | |
+bashtop | resource monitor | :heavy_multiplication_x: | [bashtop](https://github.com/aristocratos/bashtop) | see [bpytop](#bpytop) |
 beast | music synthesis | :heavy_check_mark: | | |
 bed | daemon vulnerability checker | :heavy_multiplication_x: | [bed](https://github.com/crunchsec/bed/) | |
 bench | terminal benchmark tool | :heavy_multiplication_x: | [bench](https://github.com/Gabriel439/bench) | |
@@ -114,6 +115,7 @@ borgbackup | terminal backup tool | :heavy_check_mark: | | uses compression and 
 boxbackup-client | Box backup | :heavy_check_mark: | [boxbackup](http://www.boxbackup.org/) | `rsync`-like and encrypted |
 boxbackup-server | Box backup | :heavy_check_mark: | [boxbackup](http://www.boxbackup.org/) | |
 bpfcc-tools | eBPF tools | :heavy_check_mark: | | |
+bpytop | resource monitor | :heavy_multiplication_x: | [bpytop](https://github.com/aristocratos/bpytop) | <a id="bpytop"></a> |
 brandy | BBC Micro emulator | :heavy_check_mark: | | |
 brasero | ISO burner | :heavy_check_mark: | | |
 bridge-utils | configure Ethernet bridge | :heavy_check_mark: | | |
