@@ -773,6 +773,7 @@ optipng | optimise PNGs | :heavy_check_mark: | | |
 orca | screenreader | :heavy_check_mark: | | |
 orchestrator | MySQL replication manager | :heavy_multiplication_x: | [orchestrator](https://github.com/github/orchestrator) | |
 osync | `rsync` simplifier | :heavy_multiplication_x: | [osync](https://github.com/deajan/osync) | |
+outrun | delegate tasks to remote machines | :heavy_multiplication_x: | [outrun](https://pypi.org/project/outrun/) | |
 p0f | passive OS fingerprinting tool | :heavy_check_mark: | | quieter than [NMap](#nmap) |
 pack | password analyser | :heavy_multiplication_x: | | |
 packit | network injection/capture tool	 | :heavy_check_mark: | | |
