@@ -540,7 +540,7 @@ input-utils | kernel input layer utilities | :heavy_check_mark: | | `lsinput`, `
 instarecon | auto digital recon | :heavy_multiplication_x: | [instarecon](https://github.com/vergl4s/instarecon) | high level recon |
 intel-gpu-tools | `intel_gpu_time`, `intel_gpu_top` | :heavy_check_mark: | | |
 inxi | system info | :heavy_check_mark: | | |
-ioping | disk I/O benchmarker | :heavy_check_mark: | | |
+ioping | disk I/O latency tool | :heavy_check_mark: | | |
 iotop | I/O monitor | :heavy_check_mark: | | |
 ipcalc | parameter calculator for IPv4 | :heavy_check_mark: | | |
 iperf | network bandwidth performance | :heavy_check_mark: | | |
@@ -785,7 +785,7 @@ panwriter | Markdown editor | :heavy_multiplication_x: | [panwriter](https://git
 parallel | multi-threaded Bash scripts | :heavy_check_mark: | | in [moreutils](#moreutils) <a id="parallel"></a> |
 parted | disk partitioner | :heavy_check_mark: | | creates GPT partitions, but does not resize |
 passwordsafe | password vault | :heavy_check_mark: | [Password Safe](https://sourceforge.net/projects/passwordsafe/) | |
-patator | multi-purpose brute-forcer | :heavy_multiplication_x: | [patator](https://github.com/lanjelot/patator) | |
+patator | multi brute-forcer | :heavy_check_mark: | [patator](https://github.com/lanjelot/patator) | |
 pavucontrol | PulseAudio volume control | :heavy_check_mark: | | independently adjust audio streams |
 pax-utils | ELF checking utilities | :heavy_check_mark: | | `dumpelf`, `scanelf`, `lddtree`, `pspax` etc |
 pbnj | monitor network changes | :heavy_check_mark: | | |
