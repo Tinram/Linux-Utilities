@@ -241,6 +241,7 @@ dia | diagram editor | :heavy_check_mark: | | |
 dialog | Bash dialog | :heavy_check_mark: | | |
 diction | sentence style helper (en/de) | :heavy_check_mark: | | |
 diffmerge | diff | :heavy_multiplication_x: | [DiffMerge](http://sourcegear.com/diffmerge/downloads.php) | |
+diffoscope | file/dir diff | :heavy_check_mark: | [diffoscope](https://diffoscope.org/) | |
 diffpdf | PDF diff | :heavy_multiplication_x: | [diffpdf](https://gitlab.com/pianoslum/diffpdf) | |
 difftree | compare directories | :heavy_multiplication_x: | [difftree](https://github.com/rondilley/difftree) | |
 diffuse | file compare/merge | :heavy_check_mark: | | |
