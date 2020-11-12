@@ -749,6 +749,7 @@ ntfs-3g | NTFS driver | :heavy_check_mark: | [NTFS-3G](http://www.tuxera.com/com
 ntfsfix | fix NTFS | :heavy_multiplication_x: | | |
 ntfsundelete | recover NTFS files | :heavy_check_mark: | | |
 ntop | top network users | :heavy_check_mark: | | |
+nuttcp | network performance measurement | :heavy_check_mark: | | |
 nutty | network utility | :heavy_multiplication_x: | [Nutty](https://launchpad.net/nutty) [repo](https://github.com/babluboy/nutty) | ppa:bablu-boy/nutty.0.1 |
 nvidia-smi | NVidia GPU management CLI | :heavy_multiplication_x: | | |
 nvtop | NVidia GPU 'top' | :heavy_multiplication_x: | [nvtop](https://github.com/Syllo/nvtop) | |
@@ -1191,7 +1192,7 @@ wordgrinder | terminal wordprocessor | :heavy_multiplication_x: | [WordGrinder](
 workrave | RSI timer | :heavy_check_mark: | | |
 wpscan | WordPress scanner | :heavy_multiplication_x: | [wpscan](https://wpscan.org/) [repo](https://github.com/wpscanteam/wpscan) | |
 wpseku | WordPress security scanner | :heavy_multiplication_x: | [WPSeku](https://github.com/m4ll0k/WPSeku) | |
-wrk2 | HTTP benchmarking | :heavy_multiplication_x: | [wrk2](https://github.com/giltene/wrk2) | |
+wrk2 | HTTP benchmarker | :heavy_multiplication_x: | [wrk2](https://github.com/giltene/wrk2) | |
 wtop | Apache top | :heavy_multiplication_x: | [wtop](https://github.com/ClockworkNet/wtop) | |
 wuzz | terminal HTTP inspection tool | :heavy_multiplication_x: | [wuzz](https://github.com/asciimoo/wuzz) | |
 x264 | video encoder | :heavy_check_mark: | | <a id="x264"></a> |
