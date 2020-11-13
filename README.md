@@ -411,8 +411,11 @@ gimp | image editor | :heavy_check_mark: | | |
 gimp-dcraw | GIMP RAW plugin | :heavy_check_mark: | | |
 gimp-ufraw | GIMP RAW importer | :heavy_check_mark: | | |
 git | source control | :heavy_check_mark: | | `git`, *git-gui*, `gitk`, `gitg`, *git-doc*, `git-extras` <a id="git"></a> |
+git-big-picture | [Git](#git) branch visualisation | :heavy_check_mark: | | |
+git-crypt | [Git](#git) file encryption | :heavy_check_mark: | | |
 git-extras | [Git](#git) extensions | :heavy_check_mark: | | |
 git-gui | [Git](#git) GUI | :heavy_check_mark: | | `git gui` |
+git-repair | [Git](#git) repo repair | :heavy_check_mark: | | use with `git fsck` and `git gc` |
 git-secrets | prevent sensitive data being committed | :heavy_multiplication_x: | [git-secrets](https://github.com/awslabs/git-secrets) | |
 gitg | [Git](#git) repo viewer | :heavy_check_mark: | | |
 gitin | commit/branch/status explorer for [Git](#git) | :heavy_multiplication_x: | [gitin](https://github.com/isacikgoz/gitin) | |
