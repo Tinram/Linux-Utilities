@@ -1112,6 +1112,7 @@ tshark | terminal [Wireshark](#wireshark) | :heavy_check_mark: | | |
 tsung | HTTP benchmark and database tester | :heavy_check_mark: | [TSung](http://tsung.erlang-projects.org) | sophisticated |
 tt-rss | tiny tiny RSS | :heavy_check_mark: | | |
 ttf-mscorefonts-installer | Microsoft TTF fonts | :heavy_check_mark: | | |
+tuptime | historical (total) uptime | :heavy_check_mark: | | |
 tuxguitar | music app including scoresheet | :heavy_check_mark: | [Tuxguitar](http://tuxguitar.herac.com.ar) | |
 uberwriter | distraction-free Markdown editor | :heavy_multiplication_x: | [UberWriter](http://uberwriter.github.io/uberwriter/) [repo](https://github.com/UberWriter/uberwriter) | |
 ubuntu-tweak | Ubuntu config tool | :heavy_check_mark: | | use `apt` |
