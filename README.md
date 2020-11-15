@@ -164,7 +164,7 @@ cmdlauncher | commands to GUI | :heavy_multiplication_x: | [CmdLauncher](http://
 cmospwd | CMOS/BIOS password recovery | :heavy_check_mark: | | pre-UEFI |
 cmsmap | CMS vulnerability scanner | :heavy_multiplication_x: | [CMSmap](https://github.com/dionach/CMSmap) | |
 cmus | terminal music player | :heavy_check_mark: | | |
-cockpit | server manager using web interface | :heavy_check_mark: | | |
+cockpit | server manager web interface | :heavy_check_mark: | [Cockpit](https://cockpit-project.org/) | |
 codeblocks | C editor/IDE | :heavy_check_mark: | | |
 codecounter | C/BASIC/web code counter | :heavy_multiplication_x: | [CodeCounter](https://github.com/Tinram/CodeCounter) | |
 codelite | C editor | :heavy_check_mark: | | PHP/JS/Python also supported |
@@ -188,7 +188,7 @@ cpuid | x86 CPU info | :heavy_check_mark: | | |
 cpulimit | limit CPU usage of process | :heavy_check_mark: | | |
 credcrack | credential harvester | :heavy_multiplication_x: | [CredCrack](https://github.com/gojhonny/CredCrack) | |
 crunch | password list generator | :heavy_check_mark: | | |
-cryptcat | encrypted [netcat](#netcat) | :heavy_check_mark: | | [flawed?](https://github.com/deurstijl/decryptcat) |
+cryptcat | encrypted [netcat](#netcat) | :heavy_check_mark: | | [flaws?](https://github.com/deurstijl/decryptcat) |
 cryptocat | encrypted IM | :heavy_multiplication_x: | [CryptoCat](https://crypto.cat/) | |
 cryptkeeper | GUI encfs for GNOME | :heavy_check_mark: | | |
 cryptote | encrypted tabbed notes | :heavy_multiplication_x: | [Cryptote](http://panthema.net/2009/cryptote/#downloads) | |
