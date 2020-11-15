@@ -164,7 +164,7 @@ cmdlauncher | commands to GUI | :heavy_multiplication_x: | [CmdLauncher](http://
 cmospwd | CMOS/BIOS password recovery | :heavy_check_mark: | | pre-UEFI |
 cmsmap | CMS vulnerability scanner | :heavy_multiplication_x: | [CMSmap](https://github.com/dionach/CMSmap) | |
 cmus | terminal music player | :heavy_check_mark: | | |
-cockpit | web interface managing multiple servers | :heavy_multiplication_x: | | ppa:cockpit-project/cockpit |
+cockpit | server manager using web interface | :heavy_check_mark: | | |
 codeblocks | C editor/IDE | :heavy_check_mark: | | |
 codecounter | C/BASIC/web code counter | :heavy_multiplication_x: | [CodeCounter](https://github.com/Tinram/CodeCounter) | |
 codelite | C editor | :heavy_check_mark: | | PHP/JS/Python also supported |
