@@ -956,6 +956,7 @@ sampler | terminal visualisation tool | :heavy_multiplication_x: | [sampler](htt
 sane | document scan tools | :heavy_check_mark: | | |
 sbackup | simple backup | :heavy_check_mark: | | |
 scalpel | file recovery/data carver | :heavy_check_mark: | [scalpel](https://github.com/sleuthkit/scalpel) | |
+scamper | network measurement tool | :heavy_check_mark: | | |
 screenruler | pixel ruler | :heavy_check_mark: | | |
 screenstudio | screencast creator | :heavy_multiplication_x: | [ScreenStudio](http://screenstudio.crombz.com/) | |
 scribus | desktop publisher/PDF editor | :heavy_check_mark: | | |
@@ -1222,6 +1223,7 @@ xnee | X user-action recorder | :heavy_check_mark: | | |
 xnretro | retro photo effects | :heavy_multiplication_x: | | |
 xowa | Wikipedia reader | :heavy_multiplication_x: | [Xowa](https://sourceforge.net/projects/xowa/) | |
 xplico | network analysis | :heavy_multiplication_x: | [Xplico](http://www.xplico.org/) | browser-based |
+xplot | simple data plotter | :heavy_check_mark: | | |
 xprobe | remote OS identification | :heavy_check_mark: | | [NMap](#nmap)-like, calls `xprobe2` |
 xrandr-invert-colors | X screen inverter | :heavy_multiplication_x: | [xic](https://github.com/zoltanp/xrandr-invert-colors) | [xcalib](#xcalib) alternative |
 xrdp | RDP server | :heavy_check_mark: | | |
