@@ -186,6 +186,7 @@ cpupower | CPU frequency manager | :heavy_multiplication_x: | | |
 cppcheck | C code linter | :heavy_check_mark: | | |
 cpuid | x86 CPU info | :heavy_check_mark: | | |
 cpulimit | limit CPU usage of process | :heavy_check_mark: | | |
+crazydiskmark | GUI disk benchmarker | :heavy_multiplication_x: | [crazydiskmark](https://github.com/fredcox/crazydiskmark) | ppa:fredcox-p/crazydiskmark |
 credcrack | credential harvester | :heavy_multiplication_x: | [CredCrack](https://github.com/gojhonny/CredCrack) | |
 crunch | password list generator | :heavy_check_mark: | | |
 cryptcat | encrypted [netcat](#netcat) | :heavy_check_mark: | | [flaws?](https://github.com/deurstijl/decryptcat) |
@@ -954,6 +955,7 @@ rustc | Rust compiler | :heavy_multiplication_x: | | |
 samhain | IDS | :heavy_check_mark: | | |
 sampler | terminal visualisation tool | :heavy_multiplication_x: | [sampler](https://github.com/sqshq/sampler) | |
 sane | document scan tools | :heavy_check_mark: | | |
+sane-airscan | SANE network scanner | :heavy_multiplication_x: | [sane-airscan](https://github.com/alexpevzner/sane-airscan) | |
 sbackup | simple backup | :heavy_check_mark: | | |
 scalpel | file recovery/data carver | :heavy_check_mark: | [scalpel](https://github.com/sleuthkit/scalpel) | |
 scamper | network measurement tool | :heavy_check_mark: | | |
