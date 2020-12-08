@@ -340,7 +340,7 @@ flif | free lossless image format encoder | :heavy_multiplication_x: | [FLIF](ht
 flifcrush | [FLIF](#flif) image optimiser | :heavy_multiplication_x: | [flifcrush](https://github.com/matthiaskrgr/flifcrush) | <a id="flif"></a> |
 flightgear | flight simulator | :heavy_check_mark: | [flightgear](http://flightgear.com) | |
 flow | diagrams | :heavy_multiplication_x: | | |
-flowblade | video editor | :heavy_check_mark: | | |
+flowblade | video editor | :heavy_check_mark: | [flowblade](https://github.com/jliljebl/flowblade) | |
 fmap | web app vulnerabilities | :heavy_multiplication_x: | | |
 focus | task reminder | :heavy_multiplication_x: | [Focus](https://github.com/nagyation/Focus) | |
 focuswriter | word processor | :heavy_check_mark: | | <a id="#focuswriter"></a> |
