@@ -275,6 +275,7 @@ dtrx | archive viewer/unpacker | :heavy_check_mark: | | |
 duc | TUI/GUI disk usage analyser | :heavy_check_mark: | [Duc](https://duc.zevv.nl/) [repo](https://github.com/zevv/duc) | use `apt` |
 duf | disk usage monitor | :heavy_multiplication_x: | [duf](https://github.com/muesli/duf) | |
 dukto | LAN transfer tool | :heavy_multiplication_x: | [dukto](https://github.com/guilhem/dukto) | |
+dupeguru | duplicate file finder | :heavy_multiplication_x: | [dupeguru](https://github.com/arsenetar/dupeguru) | |
 duplicity | encrypted backup | :heavy_check_mark: | [Duplicity](http://duplicity.nongnu.org/) | built on `rsync` <a id="duplicity"></a> |
 dvdbackup | DVD ripper | :heavy_check_mark: | | |
 e4defrag | ext4 defragger | :heavy_multiplication_x: | | |
@@ -326,7 +327,7 @@ filefrag | file defragger | :heavy_multiplication_x: | | |
 fileverifier | verify files | :heavy_multiplication_x: | | |
 filezilla | FTP/SFTP | :heavy_check_mark: | | |
 filezillasecure | Filezilla fork: multithreading | :heavy_multiplication_x: | [FileZillaSecure](http://www.filezillasecure.com/) | no plaintext passwords version |
-findimagedupes | find duplicate/similar images | :heavy_check_mark: | | |
+findimagedupes | duplicate image finder | :heavy_check_mark: | | |
 findmyhash | query multiple websites for hash | :heavy_multiplication_x: | [findmyhash](https://github.com/Talanor/findmyhash) | |
 fio | flexible I/O tester | :heavy_check_mark: | | | <a id="fio"></a>
 firejail | sandbox apps | :heavy_check_mark: | [firejail](https://github.com/netblue30/firejail) | |
@@ -586,6 +587,7 @@ katoolin | auto install Kali Linux tools | :heavy_multiplication_x: | [katoolin]
 kazam | video screen recorder | :heavy_check_mark: | | |
 kdecachegrind | PHP cache analyser | :heavy_multiplication_x: | | |
 kdenlive | video editor | :heavy_check_mark: | | KDE |
+kdiskmark | GUI disk benchmarker | :heavy_multiplication_x: | [KDiskMark](https://github.com/JonMagon/KDiskMark) | |
 keepassx | password vault | :heavy_check_mark: | | <a id="keepassx"></a> |
 keepassxc | password vault | :heavy_multiplication_x: | [KeePassXC](https://keepassxc.org) | revised [KeePassX](#keepassx) |
 kerkythea | renderer | :heavy_multiplication_x: | [Kerkythea](http://www.kerkythea.net/cms/) | |
