@@ -273,11 +273,12 @@ dstat | resource stats tool | :heavy_check_mark: | [Dstat](http://dag.wiee.rs/ho
 dsvpn | Dead Simple VPN | :heavy_multiplication_x: | [dsvpn](https://github.com/jedisct1/dsvpn) | |
 dtrx | archive viewer/unpacker | :heavy_check_mark: | | |
 duc | TUI/GUI disk usage analyser | :heavy_check_mark: | [Duc](https://duc.zevv.nl/) [repo](https://github.com/zevv/duc) | use `apt` |
+duf | disk usage monitor | :heavy_multiplication_x: | [duf](https://github.com/muesli/duf) | |
 dukto | LAN transfer tool | :heavy_multiplication_x: | [dukto](https://github.com/guilhem/dukto) | |
 duplicity | encrypted backup | :heavy_check_mark: | [Duplicity](http://duplicity.nongnu.org/) | built on `rsync` <a id="duplicity"></a> |
 dvdbackup | DVD ripper | :heavy_check_mark: | | |
 e4defrag | ext4 defragger | :heavy_multiplication_x: | | |
-earlyoom | auto kill largest memory/swap hog | :heavy_multiplication_x: | [earlyoom](https://github.com/rfjakob/earlyoom) | |
+earlyoom | faster OOM | :heavy_check_mark: | [earlyoom](https://github.com/rfjakob/earlyoom) | |
 easy-rsa | certificate generator | :heavy_check_mark: | [repo](https://github.com/OpenVPN/easy-rsa) [doc](https://easy-rsa.readthedocs.io/en/latest/) [AW](https://wiki.archlinux.org/index.php/Easy-RSA) | OpenVPN etc |
 easyssh | GUI SSH connection manager | :heavy_multiplication_x: | [easyssh](https://github.com/muriloventuroso/easyssh) | |
 eiciel | GUI ACL editor | :heavy_check_mark: | [Eiciel](http://rofi.roger-ferrer.org/eiciel/) | |
@@ -743,6 +744,7 @@ nmap | network scanner | :heavy_check_mark: | | <a id="nmap"></a> |
 nmapsi4 | GUI for [NMap](#nmap) | :heavy_check_mark: | | |
 nmcli | CLI for NetworkManager | :heavy_check_mark: | | |
 nmon | network/CPU/disk performance | :heavy_check_mark: | | |
+nohang | low memory handler | :heavy_multiplication_x: | [nohang](https://github.com/hakavlad/nohang) | |
 nomacs | image viewer | :heavy_check_mark: | [nomacs](https://nomacs.org/) | good for image comparison via sync |
 notepadqq | code editor | :heavy_multiplication_x: | [Notepadqq](http://notepadqq.altervista.org/wp/download/) | |
 notepas | code editor | :heavy_multiplication_x: | | |
