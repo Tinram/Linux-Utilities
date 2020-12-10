@@ -99,6 +99,7 @@ bing-ip2hosts | enumerate hostnames via Bing | :heavy_check_mark: | | |
 binstats | binary stats | :heavy_check_mark: | | overview of installed binaries |
 binwalk | binary file searcher | :heavy_check_mark: | [binwalk](https://github.com/devttys0/binwalk) | sub-files + code |
 birdfont | font editor | :heavy_multiplication_x: | [BirdFont](http://birdfont.org) | |
+bit | [Git](#git) CLI client | :heavy_multiplication_x: | [bit](https://github.com/chriswalz/bit) | |
 blast | API load tester | :heavy_multiplication_x: | [blast](https://github.com/dave/blast) | |
 bleachbit | system cleaner | :heavy_check_mark: | | |
 bless | GUI hex editor | :heavy_check_mark: | | |
