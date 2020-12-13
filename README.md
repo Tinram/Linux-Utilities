@@ -718,7 +718,7 @@ nemo-fileroller | FileRoller for Nemo | :heavy_check_mark: | | |
 netcat | TCP/IP Swiss army knife | :heavy_check_mark: | | <a id="netcat"></a> |
 netcatgui | GUI for [netcat](#netcat) | :heavy_multiplication_x: | [netcatgui](https://github.com/shinnok/netcatgui) | |
 net-creds | sniffs data from interface/pcap | :heavy_multiplication_x: | [net-creds](https://github.com/DanMcInerney/net-creds) | |
-netdata | real-time performance monitor | :heavy_check_mark: | [netdata](https://github.com/netdata/netdata) | *localhost:19999* |
+netdata | real-time performance monitor | :heavy_check_mark: | [netdata](https://www.netdata.cloud/) [repo](https://github.com/netdata/netdata) | *<IP>:19999* |
 netdiag | network diagnosis tools | :heavy_check_mark: | | `trafshow`, `netwatch`, `statnet`, `tcpspray`, `tcpblast` <a id="netdiag"></a> |
 netdiscover | active/passive network address ARP scanner | :heavy_check_mark: | | |
 nethogs | bandwidth hog monitor | :heavy_check_mark: | | |
