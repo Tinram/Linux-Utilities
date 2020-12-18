@@ -217,6 +217,7 @@ dateutils | terminal date/time utilities | :heavy_multiplication_x: | [Dateutils
 davfs2 | mount WebDAV resource | :heavy_check_mark: | | |
 dban | disk destroyer | :heavy_multiplication_x: | [DBAN](https://dban.org/) | |
 dbbench | database benchmarking tool | :heavy_multiplication_x: | [dbbench](https://github.com/sj14/dbbench) | |
+dbdeployer | MySQL database deployer | :heavy_multiplication_x: | [dbdeployer](https://github.com/datacharmer/dbdeployer) | |
 dconf-editor | GUI dconf editor | :heavy_check_mark: | | |
 dcraw | terminal RAW converter | :heavy_check_mark: | | |
 ddd | GUI debugger for GDB etc | :heavy_check_mark: | | includes Python, Bash |
