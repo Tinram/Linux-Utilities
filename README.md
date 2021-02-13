@@ -248,6 +248,7 @@ diffoscope | file/dir diff | :heavy_check_mark: | [diffoscope](https://diffoscop
 diffpdf | PDF diff | :heavy_multiplication_x: | [diffpdf](https://gitlab.com/pianoslum/diffpdf) | |
 difftree | compare directories | :heavy_multiplication_x: | [difftree](https://github.com/rondilley/difftree) | |
 diffuse | file compare/merge | :heavy_check_mark: | | |
+dify | image diff | :heavy_multiplication_x: | [dify](https://github.com/jihchi/dify) | |
 digikam | photo manager | :heavy_check_mark: | | KDE-based |
 ding | GUI dictionary | :heavy_check_mark: | | |
 discourse | phpBB | :heavy_multiplication_x: | [Discourse](http://www.discourse.org/) | |
@@ -1253,6 +1254,7 @@ zabbix | network monitoring package | :heavy_check_mark: | | |
 zap | zed attack proxy | :heavy_multiplication_x: | | web app vulnerabilities |
 zeal | programming language docs browser | :heavy_check_mark: | [Zeal](https://github.com/zealdocs/zeal) | |
 zeit | GUI for *at* and *cron* | :heavy_multiplication_x: | [zeit](https://bitbucket.org/blaze/zeit) | |
+zenith | TUI system monitor | :heavy_multiplication_x: | [zenith](https://github.com/bvaisvil/zenith) | |
 zenmap | [NMap](#nmap) GUI | :heavy_check_mark: | | |
 zentyal | server GUI set-up + Microsoft Exchange replacement | :heavy_check_mark: | | |
 zerotier | easy VPN | :heavy_multiplication_x: | [ZeroTier](http://zerotier.com) | |
