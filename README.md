@@ -633,9 +633,10 @@ lmms | audio editor | :heavy_check_mark: | | |
 ln | vector image generator | :heavy_multiplication_x: | [ln](https://github.com/fogleman/ln) | |
 lnav | logfile reader with colour | :heavy_check_mark: | [lnav](http://lnav.org/) | |
 log2ram | RAM logger | :heavy_multiplication_x: | [log2ram](https://github.com/azlux/log2ram) | |
+logcheck | logfile alerter | :heavy_check_mark: | | |
 logisim | digital circuit designer | :heavy_multiplication_x: | [Logisim](https://sourceforge.net/projects/circuit/) | |
 logkeys | keylogger | :heavy_check_mark: | | ! |
-logwatch | log analysis emailer | :heavy_check_mark: | | |
+logwatch | logfile analyser | :heavy_check_mark: | | |
 lshw-gtk | lshw hardware GUI | :heavy_check_mark: | | |
 lsscsi | list SCSI devices | :heavy_check_mark: | | |
 lttng | program tracing | :heavy_check_mark: | | almost as powerful as [SystemTap](#systemtap) |
@@ -692,7 +693,7 @@ mtools | multi-cast connection tester | :heavy_multiplication_x: | | |
 mtr | `ping` and [`traceroute`](#traceroute) combined | :heavy_check_mark: | | also [mtr-tiny](#mtr-tiny) |
 mtr-tiny | `ping` and [`traceroute`](#traceroute) combined | :heavy_check_mark: | | <a id="mtr-tiny"></a> |
 muffet | website link checker | :heavy_multiplication_x: | [muffet](https://github.com/raviqqe/muffet) | |
-multitail | logfile multi-viewer/colouriser | :heavy_check_mark: | | |
+multitail | splitscreen logfile viewer | :heavy_check_mark: | | |
 mundus | home file cleaner | :heavy_multiplication_x: | | |
 mupen64plus | N64 console emulator | :heavy_check_mark: | | |
 musescore | music score editor | :heavy_check_mark: | | |
@@ -843,10 +844,10 @@ pmount | mount removable devices as normal user | :heavy_check_mark: | | |
 pngcrush | PNG compressor | :heavy_check_mark: | | |
 pnpm | leaner Node.js package manager | :heavy_multiplication_x: | [pnpm](https://github.com/pnpm/pnpm) | |
 pnscan | multi-threaded port scanner | :heavy_check_mark: | | |
-pokerth | poker game | :heavy_check_mark: | | |
 polygen | random sentences from grammar definitions | :heavy_check_mark: | | |
 portainer | GUI Docker manager | :heavy_multiplication_x: | [portainer](https://www.portainer.io/) | |
-portdog | port scanner detector | :heavy_multiplication_x: | [PortDog](https://github.com/puniaze/PortDog) | |
+portdog | port scan detector | :heavy_multiplication_x: | [PortDog](https://github.com/puniaze/PortDog) | |
+portsentry | port scan detector | :heavy_check_mark: | | |
 postgresql | PostgreSQL | :heavy_check_mark: | | <a id="postgressql"></a> |
 potamus | music player using directories | :heavy_multiplication_x: | [Potamus](http://offog.org/code/potamus/) | |
 povray | terminal raytracer | :heavy_check_mark: | | |
@@ -1061,6 +1062,7 @@ svar | voice activated recorder | :heavy_multiplication_x: | [svar](https://gith
 svg-edit | SVG editor | :heavy_multiplication_x: | | |
 swaks | SMTP test tool | :heavy_check_mark: | | |
 swatch | log file event notifier | :heavy_check_mark: | | |
+sxid | SUID/SGID/dir checker | :heavy_check_mark: | | |
 symphytum | personal database | :heavy_multiplication_x: | [symphytum](https://github.com/giowck/symphytum) | |
 syncthing | sync cloud/network app | :heavy_multiplication_x: | [Syncthing](https://syncthing.net/) | |
 synfig | vector 2D animation | :heavy_check_mark: | | |
@@ -1172,7 +1174,8 @@ voiphopper | VoIP security testing tool | :heavy_multiplication_x: | | |
 voipong | VoIP sniffer/call detector | :heavy_multiplication_x: | | |
 vokoscreen | screencast creator | :heavy_check_mark: | | |
 vpaint | vector paint | :heavy_multiplication_x: | [VPaint](http://vpaint.org/) | |
-vrms | virtual Stallman: list non-free packages | :heavy_check_mark: | | |
+vrfy | verify email addresses | :heavy_check_mark: | | |
+vrms | virtual Richard Stallman: list non-free packages | :heavy_check_mark: | | |
 vscodium | VS Code without telemetry | :heavy_multiplication_x: | [VSCodium](https://vscodium.com/) | <a id="vscodium"></a> |
 w3af | web app vulnerability framework | :heavy_check_mark: | | |
 waidps | wireless auditing + IDS | :heavy_multiplication_x: | [waidps](https://github.com/SYWorks/waidps) | |
@@ -1194,6 +1197,7 @@ whatweb | web scanner | :heavy_check_mark: | | |
 whipper | CD ripper | :heavy_multiplication_x: | [whipper](https://github.com/JoeLametta/whipper) | |
 whiptail | TUI shell interface | :heavy_check_mark: | | |
 whois | WHOIS client | :heavy_check_mark: | | <a id="whois"></a> |
+whowatch | user login monitoring | :heavy_check_mark: | | |
 whycanticonnect | connection analyser | :heavy_multiplication_x: | [Why Can't I Connect?](https://sourceforge.net/projects/wciconnect/) | |
 wicd | wireless manager | :heavy_check_mark: | | |
 wifite | terminal wireless auditor/attacker | :heavy_check_mark: | | |
