@@ -197,6 +197,7 @@ cryptote | encrypted tabbed notes | :heavy_multiplication_x: | [Cryptote](http:/
 cscope | C interactive checker | :heavy_check_mark: | | |
 csvtool | terminal CSV file manipulator | :heavy_check_mark: | | |
 ctags | C code indexing tool | :heavy_check_mark: | | |
+ctop | TUI Docker container metrics | :heavy_multiplication_x: | [ctop](https://github.com/bcicen/ctop) | *docker-ctop* |
 cuda-z | CUDA-enabled GPU info | :heavy_multiplication_x: | [CUDA-Z](http://cuda-z.sourceforge.net/) | |
 cups-pdf | print to PDF | :heavy_check_mark: | | |
 curl | terminal transfer data | :heavy_check_mark: | | |
@@ -255,12 +256,13 @@ discourse | phpBB | :heavy_multiplication_x: | [Discourse](http://www.discourse.
 discover | automate pen test tasks | :heavy_multiplication_x: | [discover](https://github.com/leebaird/discover) | |
 dispcalgui | GUI for [Argyll](#argyll) colour management | :heavy_check_mark: | | <a id="dispcalgui"></a> |
 dissy | GUI for `objdump` | :heavy_check_mark: | | |
+dive | Docker image explorer | :heavy_multiplication_x: | [dive](https://github.com/wagoodman/dive) | |
 dmitry | server host info | :heavy_check_mark: | | |
 dnsdiag | DNS testing tools | :heavy_multiplication_x: | [dnsdiag](https://dnsdiag.org/) | `pip3 install dnsdiag`; `dnsping`, `dnstraceroute`, `dnseval` |
 dnsmasq-utils | manage DHCP leases | :heavy_check_mark: | | |
 dnstracer | trace DNS queries to source | :heavy_check_mark: | | |
 dnswalk | DNS debugger/nameserver lookup | :heavy_check_mark: | | |
-docker | container runtime | :heavy_check_mark: | [Docker](docker.io) | <a id="docker"></a> |
+docker | container runtime | :heavy_check_mark: | [Docker](https://www.docker.com/) | <a id="docker"></a> |
 docker-doc | [Docker](#docker) documentation | :heavy_check_mark: | | |
 docker-registry | | :heavy_check_mark: | | |
 doona | daemon vulnerability | :heavy_multiplication_x: | | |
@@ -313,6 +315,7 @@ exmplayer | GUI for MPlayer | :heavy_check_mark: | | |
 extundelete | recover deleted files | :heavy_check_mark: | | |
 f3 | flash memory analyser | :heavy_multiplication_x: | [f3](https://github.com/AltraMayor/f3) | |
 fail2ban | set firewall rules for multiple wrong logins | :heavy_check_mark: | | <a id="fail2ban"></a> |
+falco | security tool | :heavy_multiplication_x: | [falco](https://github.com/falcosecurity/falco) | |
 fatback | recover data from disks/USBs | :heavy_check_mark: | | `fatback /dev/sdbx -o /recfiles -a` |
 fatsort | FAT filesystem file sorter | :heavy_check_mark: | | |
 fbcat | framebuffer grabber | :heavy_check_mark: | | outputs *.ppm* convert with [ImageMagick](#imagemagick) |
