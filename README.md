@@ -265,6 +265,7 @@ dnswalk | DNS debugger/nameserver lookup | :heavy_check_mark: | | |
 docker | container runtime | :heavy_check_mark: | [Docker](https://www.docker.com/) | <a id="docker"></a> |
 docker-doc | [Docker](#docker) documentation | :heavy_check_mark: | | |
 docker-registry | | :heavy_check_mark: | | |
+dog | DNS tool | :heavy_check_mark: | [dog](https://dns.lookup.dog/) | |
 doona | daemon vulnerability | :heavy_multiplication_x: | | |
 dos2unix | convert EOL chars | :heavy_check_mark: | | [tofromdos](#tofromdos) may be better |
 downtimed | downtime monitor | :heavy_check_mark: | | |
@@ -1250,6 +1251,7 @@ xscreensaver-data-extra | extra GNOME screensavers | :heavy_check_mark: | | |
 xsensors | temperature sensors GUI | :heavy_check_mark: | | |
 xspy | keylogger | :heavy_multiplication_x: | | ! |
 xsser | XSS auditor | :heavy_multiplication_x: | | |
+xsuspender | suspend inactive X11 apps | :heavy_multiplication_x: | [xsuspender](https://github.com/kernc/xsuspender) | |
 xul-ext-lightning | Thunderbird calendar | :heavy_check_mark: | | |
 xsel | access X clipboard (pipe in/out) | :heavy_check_mark: | | |
 xz-utils | xz files | :heavy_check_mark: | | |
