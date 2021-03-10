@@ -336,7 +336,7 @@ filezillasecure | Filezilla fork: multithreading | :heavy_multiplication_x: | [F
 findimagedupes | duplicate image finder | :heavy_check_mark: | | |
 findmyhash | query multiple websites for hash | :heavy_multiplication_x: | [findmyhash](https://github.com/Talanor/findmyhash) | |
 fio | flexible I/O tester | :heavy_check_mark: | | | <a id="fio"></a>
-firejail | sandbox apps | :heavy_check_mark: | [firejail](https://github.com/netblue30/firejail) | |
+firejail | sandbox untrusted apps | :heavy_check_mark: | [firejail](https://github.com/netblue30/firejail) | |
 firewalld | versatile firewall | :heavy_check_mark: | | |
 fishsynch | sync files | :heavy_multiplication_x: | [Fish Synch](https://sourceforge.net/projects/fishsync/) | |
 fiziko | pen-and-ink drawings from code | :heavy_multiplication_x: | [fiziko](https://github.com/jemmybutton/fiziko) | |
@@ -645,7 +645,7 @@ lshw-gtk | lshw hardware GUI | :heavy_check_mark: | | |
 lsscsi | list SCSI devices | :heavy_check_mark: | | |
 lttng | program tracing | :heavy_check_mark: | | almost as powerful as [SystemTap](#systemtap) |
 luckybackup | `rsync`-based GUI backup | :heavy_check_mark: | | |
-lynis | security auditor | :heavy_check_mark: | | |
+lynis | security auditor | :heavy_check_mark: | [Lynis](https://cisofy.com/lynis/) | |
 lyx | Latex WYSIWYG | :heavy_check_mark: | | 500MB |
 lzop | fast compression | :heavy_check_mark: | | |
 macchanger | spoof network card MAC | :heavy_check_mark: | | |
