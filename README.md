@@ -773,6 +773,7 @@ obnam | incremental daily backups with SFTP/[GnuPG](#gpg) support | :heavy_check
 obs | video recording/livestreaming | :heavy_multiplication_x: | [OBS](https://obsproject.com/) | |
 oclint | C/C++/ObjC static code analyser | :heavy_multiplication_x: | [OCLint](http://oclint.org/) [repo](https://github.com/oclint/oclint/) | |
 ocrfeeder | OCR text scanner | :heavy_check_mark: | | |
+ocrmypdf | OCR PDF files | :heavy_check_mark: | | |
 octave | numerical computation library and GUI | :heavy_check_mark: | | Matlab-like |
 od2txt | ODT to text converter | :heavy_check_mark: | | |
 oletoy | file format analyser | :heavy_multiplication_x: | [re-lab](https://github.com/renyxa/re-lab) | |
@@ -813,6 +814,7 @@ pdfedit | PDF editor | :heavy_check_mark: | | good at text, no image editing |
 pdfgrep | PDF search | :heavy_check_mark: | [PDFgrep](https://pdfgrep.org/) |
 pdfmod | PDF editor | :heavy_check_mark: | | simple but good: edit meta data, remove page, extract page |
 pdnsd | proxy DNS server | :heavy_check_mark: | | |
+pdftk | PDF tool | :heavy_check_mark: | | |
 pdftotext | PDF to text | :heavy_check_mark: | | in *poppler-utils* |
 peazip | multi-zip GUI and converter | :heavy_multiplication_x: | [PeaZip](https://sourceforge.net/projects/peazip/) | |
 pemcracker | PEM cracker | :heavy_multiplication_x: | [pemcracker](https://github.com/bwall/pemcracker) | |
