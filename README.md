@@ -186,7 +186,7 @@ cpu-x | GUI CPU/motherboard analyser | :heavy_multiplication_x: | [CPU-X](https:
 cpupower | CPU frequency manager | :heavy_multiplication_x: | | |
 cppcheck | C code linter | :heavy_check_mark: | | |
 cpuid | x86 CPU info | :heavy_check_mark: | | |
-cpulimit | limit CPU usage of process | :heavy_check_mark: | | |
+cpulimit | limit process CPU usage | :heavy_check_mark: | | |
 crazydiskmark | GUI disk benchmarker | :heavy_multiplication_x: | [crazydiskmark](https://github.com/fredcox/crazydiskmark) | ppa:fredcox-p/crazydiskmark |
 credcrack | credential harvester | :heavy_multiplication_x: | [CredCrack](https://github.com/gojhonny/CredCrack) | |
 crunch | password list generator | :heavy_check_mark: | | |
@@ -837,6 +837,7 @@ phrasendrescher | SSH dictionary attacker | :heavy_multiplication_x: | | `pd ssh
 pic | graphics programming language | :heavy_multiplication_x: | [piC](http://www.kohala.com/start/troff/troff.html) | |
 picard | audio file manager | :heavy_check_mark: | | |
 pigz | multi-threading GZIP | :heavy_check_mark: | | |
+pingnoo | ping analyser | :heavy_multiplication_x: | [pingnoo](https://github.com/nedrysoft/pingnoo) | |
 pinta | Paint.net clone | :heavy_check_mark: | | |
 piper | mouse config | :heavy_multiplication_x: | [piper](https://github.com/libratbag/piper) | |
 pitivi | video editor | :heavy_check_mark: | | suitable for: clips to combine, add audio track, filter |
@@ -847,6 +848,7 @@ plecast | Wordpress plugin analyser | :heavy_multiplication_x: | | |
 plumecreator | book writing editor | :heavy_multiplication_x: | | |
 pmd | source code analyser | :heavy_multiplication_x: | [PMD](https://sourceforge.net/projects/pmd/) | Java-based |
 pmount | mount removable devices as normal user | :heavy_check_mark: | | |
+png2svg | PNG to SVG | :heavy_multiplication_x: | [png2svg](https://github.com/xyproto/png2svg) | |
 pngcrush | PNG compressor | :heavy_check_mark: | | |
 pnpm | leaner Node.js package manager | :heavy_multiplication_x: | [pnpm](https://github.com/pnpm/pnpm) | |
 pnscan | multi-threaded port scanner | :heavy_check_mark: | | |
