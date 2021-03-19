@@ -470,9 +470,9 @@ gparted | view/manage partitions | :heavy_check_mark: | | |
 gpgdir | encrypt directories | :heavy_check_mark: | | |
 gpgit | terminal [GnuPG](#gpg) file encryption simplified | :heavy_multiplication_x: | [GPGit](https://github.com/Tinram/GPGit) | |
 gphoto2 | terminal digital camera processor | :heavy_check_mark: | | |
-gpick | screen colour pick/palette/inverter | :heavy_check_mark: | | |
+gpick | screen colour pick/palette/inverter | :heavy_check_mark: | | <a id="gpick"></a> |
 gping | terminal visual ping host | :heavy_multiplication_x: | [gping](https://github.com/orf/gping) | |
-gpm | mouse interface/copy-paste on terminal | :heavy_check_mark: | | <a id="gpick"></a> |
+gpm | mouse interface/copy-paste on terminal | :heavy_check_mark: | | |
 gpt fdisk | GPT disk tools | :heavy_multiplication_x: | [GPT fdisk](https://sourceforge.net/projects/gptfdisk/) | also see `gdisk` in repo |
 gqrx | GUI radio receiver | :heavy_check_mark: | [Gqrx](http://gqrx.dk/) | |
 grabber | web app scanner | :heavy_multiplication_x: | | |
@@ -1138,6 +1138,7 @@ tt-rss | tiny tiny RSS | :heavy_check_mark: | | |
 ttf-mscorefonts-installer | Microsoft TTF fonts | :heavy_check_mark: | | |
 tuptime | historical (total) uptime | :heavy_check_mark: | | |
 tuxguitar | music app including scoresheet | :heavy_check_mark: | [Tuxguitar](http://tuxguitar.herac.com.ar) | |
+typora | Markdown/Mermaid editor | :heavy_check_mark: | [Typora](https://typora.io/) | |
 uberwriter | distraction-free Markdown editor | :heavy_multiplication_x: | [UberWriter](http://uberwriter.github.io/uberwriter/) [repo](https://github.com/UberWriter/uberwriter) | |
 ubuntu-tweak | Ubuntu config tool | :heavy_check_mark: | | use `apt` |
 udptunnel | tunnel UDP over TCP | :heavy_check_mark: | | |
