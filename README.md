@@ -199,6 +199,7 @@ csvtool | terminal CSV file manipulator | :heavy_check_mark: | | |
 ctags | C code indexing tool | :heavy_check_mark: | | |
 ctop | TUI Docker container metrics | :heavy_multiplication_x: | [ctop](https://github.com/bcicen/ctop) | *docker-ctop* |
 cuda-z | CUDA-enabled GPU info | :heavy_multiplication_x: | [CUDA-Z](http://cuda-z.sourceforge.net/) | |
+cudatext | code editor | :heavy_multiplication_x: | [CudaText](http://www.uvviewsoft.com/cudatext/) | |
 cups-pdf | print to PDF | :heavy_check_mark: | | |
 curl | terminal transfer data | :heavy_check_mark: | | |
 cutegram | IM | :heavy_multiplication_x: | [Cutegram](http://aseman.co/en/products/cutegram/) | |
@@ -292,7 +293,7 @@ eko | audio editor | :heavy_multiplication_x: | [Eko](http://semiletov.org/eko/)
 elfparser | ELF analyser | :heavy_multiplication_x: | [ELF parser](http://elfparser.com/download.html) [repo](https://github.com/jacob-baines/elfparser) | |
 elfutils | ELF utilities | :heavy_check_mark: | | |
 emilpro | disassembler | :heavy_multiplication_x: | | |
-emma | MySQL GUI editor | :heavy_check_mark: | | |
+emma | MySQL GUI client | :heavy_check_mark: | | |
 encryptpad | text editor with encryption | :heavy_multiplication_x: | [EncryptPad](http://evpo.net/encryptpad/) | |
 encryptr | SpiderOak note storage | :heavy_multiplication_x: | [Encryptr](https://spideroak.com/) | |
 engauge-digitizer | graph digitizer: extract nums | :heavy_check_mark: | | |
@@ -405,7 +406,7 @@ gdb | GNU debugger | :heavy_check_mark: | | |
 gddrescue | `dd` drive/data recovery | :heavy_check_mark: | [ddrescue-gui](https://launchpad.net/ddrescue-gui) | ppa:hamishmb/myppa <a id="gddrescue"></a> |
 gdm | GNOME display manager | :heavy_check_mark: | | |
 gdmap | visual HDD space usage | :heavy_check_mark: | | |
-geany | lightweight editor/IDE | :heavy_check_mark: | | |
+geany | code editor/IDE | :heavy_check_mark: | | |
 genisoimage | create CD/DVD images | :heavy_check_mark: | | |
 gespeaker | GUI for [eSpeak](#espeak) | :heavy_check_mark: | | <a id="gespeaker"></a> |
 gethead | HTTP header vulnerability tool | :heavy_multiplication_x: | [gethead](https://github.com/httphacker/gethead) | |
@@ -584,7 +585,7 @@ johnny | GUI for *john* | :heavy_multiplication_x: | [johnny](https://github.com
 joplin | notes/todo app | :heavy_multiplication_x: | [Joplin](https://joplinapp.org/) | |
 jp2a | JPG to ASCII art | :heavy_check_mark: | | |
 jpeginfo | JPG info/integrity | :heavy_check_mark: | | |
-jq | terminal JSON stream editor | :heavy_check_mark: | | |
+jq | terminal JSON stream processor | :heavy_check_mark: | | |
 julia | fast math-oriented language | :heavy_check_mark: | [Julia](http://julialang.org/) | |
 kaku | music player | :heavy_multiplication_x: | [Kaku](http://kaku.rocks/) | |
 kamailio | SIP proxy | :heavy_check_mark: | [kamailio](https://www.kamailio.org/) | |
@@ -945,7 +946,7 @@ remarkable | Markdown editor | :heavy_multiplication_x: | [Remarkable](http://re
 remmina | Gnome GUI remote desktop client | :heavy_check_mark: | | |
 remmina-plugin-vnc | VNC plugin for Remmina | :heavy_check_mark: | | |
 remnux | Linux malware analyser | :heavy_multiplication_x: | [REMnux](https://sourceforge.net/projects/remnux/) | |
-retext | ReText and Markdown editor | :heavy_check_mark: | [Retext](https://github.com/retext-project/retext) | |
+retext | ReText/Markdown editor | :heavy_check_mark: | [Retext](https://github.com/retext-project/retext) | |
 retroshare | encrypted IM/filesharing | :heavy_multiplication_x: | [RetroShare](http://retroshare.net) | |
 rdesktop | terminal remote desktop client | :heavy_check_mark: | | *grdesktop* for GUI <a id="rdesktop"></a> |
 recode | file charset conversion | :heavy_check_mark: | | |
@@ -1104,7 +1105,8 @@ testdisk | disk/partition recovery tool | :heavy_check_mark: | [TestDisk](https:
 tesseract-ocr | OCR processor | :heavy_check_mark: | | |
 texmaker | LaTeX editor | :heavy_check_mark: | | |
 textadept | minimalist cross-platform text editor | :heavy_multiplication_x: | [Textadept](https://foicica.com/textadept/) | |
-textosaurus | text editor (Qt and Scintilla) | :heavy_multiplication_x: | [textosaurus](https://github.com/martinrotter/textosaurus) | |
+textosaurus | text editor (Qt/Scintilla) | :heavy_multiplication_x: | [textosaurus](https://github.com/martinrotter/textosaurus) | |
+thonny | Python editor/IDE | :heavy_check_mark: | [Thonny](https://thonny.org/) | |
 tkdiff | GUI for diff | :heavy_multiplication_x: | [tkdiff](https://sourceforge.net/projects/tkdiff/) | |
 tig | terminal [Git](#git) info viewer | :heavy_check_mark: | | |
 tiger | report root vulnerabilities | :heavy_check_mark: | | |
@@ -1139,7 +1141,7 @@ ttf-mscorefonts-installer | Microsoft TTF fonts | :heavy_check_mark: | | |
 tuptime | historical (total) uptime | :heavy_check_mark: | | |
 tuxguitar | music app including scoresheet | :heavy_check_mark: | [Tuxguitar](http://tuxguitar.herac.com.ar) | |
 typora | Markdown/Mermaid editor | :heavy_check_mark: | [Typora](https://typora.io/) | |
-uberwriter | distraction-free Markdown editor | :heavy_multiplication_x: | [UberWriter](http://uberwriter.github.io/uberwriter/) [repo](https://github.com/UberWriter/uberwriter) | |
+uberwriter | Markdown editor | :heavy_multiplication_x: | [UberWriter](http://uberwriter.github.io/uberwriter/) [repo](https://github.com/UberWriter/uberwriter) | |
 ubuntu-tweak | Ubuntu config tool | :heavy_check_mark: | | use `apt` |
 udptunnel | tunnel UDP over TCP | :heavy_check_mark: | | |
 ugui_flif | GUI for [FLIF](#flif) | :heavy_multiplication_x: | [UGUI_FLIF](https://github.com/FLIF-hub/UGUI_FLIF) | |
@@ -1174,7 +1176,7 @@ vinagre | GNOME remote desktop client | :heavy_check_mark: | | |
 vinetto | interrogate thumbs.db files | :heavy_check_mark: | | |
 virt-manager | GUI VM manager | :heavy_check_mark: | [virt-manager](https://virt-manager.org/) | good options range; still 'experimental' |
 virtualbox | virtual machines | :heavy_check_mark: | [Virtual Box](https://www.virtualbox.org/) | GPU acceleration |
-visual studio code | editor/IDE | :heavy_multiplication_x: | [Visual Studio Code](http://code.visualstudio.com/) | also [vscodium](#vscodium) and a [snap](https://snapcraft.io/code) |
+visual studio code | code editor/IDE | :heavy_multiplication_x: | [Visual Studio Code](http://code.visualstudio.com/) | also [vscodium](#vscodium) and a [snap](https://snapcraft.io/code) |
 vivaldi | highly-customisable browser | :heavy_multiplication_x: | [Vivaldi](https://vivaldi.com/) | |
 vmware | virtual machines | :heavy_check_mark: | | GPU acceleration |
 vnstat | terminal network traffic monitor | :heavy_check_mark: | | |
