@@ -3,7 +3,7 @@
 
 Personal reference list of Linux programs and packages &ndash; biased to my work, interests, and needs when setting-up Linux boxes.
 
-Approximately 1k programs (1% of Ubuntu repo), arranged alphabetically.
+Approximately 1.3k programs (1% of Ubuntu repo), arranged alphabetically.
 
 #### Sources
 
@@ -608,7 +608,7 @@ komodoedit | code editor | :heavy_multiplication_x: | | |
 krita | image editor | :heavy_check_mark: | [Krita](krita.org) | hand-drawn focus |
 krop | PDF cropper/editor | :heavy_multiplication_x: | [Krop](http://arminstraub.com/software/krop) | |
 ksnip | snipping tool | :heavy_multiplication_x: | [ksnip](https://github.com/DamirPorobic/ksnip) | |
-kwipe | data eraser | :heavy_multiplication_x: | [KWipe](https://www.linux-apps.com/p/1127891) | partition emphasis |
+kwipe | data eraser | :heavy_multiplication_x: | [KWipe](https://www.linux-apps.com/p/1127891) [repo](https://github.com/PyCoder/KWipe) | partition emphasis |
 lamaperia | printable maps from OpenStreetMap | :heavy_multiplication_x: | [Lamaperia](https://github.com/federicomenaquintero/lamaperia) | |
 lame | MP3 encoder | :heavy_check_mark: | | |
 lazagne | credentials recovery | :heavy_multiplication_x: | [LaZagne](https://github.com/AlessandroZ/LaZagne) | Windows version is identified as a Trojan |
@@ -760,6 +760,7 @@ nomacs | image viewer | :heavy_check_mark: | [nomacs](https://nomacs.org/) | goo
 notepadqq | code editor | :heavy_multiplication_x: | [Notepadqq](http://notepadqq.altervista.org/wp/download/) | |
 notepas | code editor | :heavy_multiplication_x: | | |
 notes-up | editor supporting Markdown | :heavy_multiplication_x: | [Notes-up](https://github.com/Philip-Scott/Notes-up) | PDF export |
+novelwriter | text editor | :heavy_multiplication_x: | [novelWriter](https://novelwriter.io/) [repo](https://github.com/vkbo/novelWriter) | |
 npkill | Node.js module remover | :heavy_multiplication_x: | [npkill](https://github.com/voidcosmos/npkill) | |
 npm | Node.js package manager | :heavy_check_mark: | | |
 nstreams | tcpdump output analyser | :heavy_check_mark: | | |
@@ -829,6 +830,7 @@ pgadmin3 | GUI admin for [PostgresSQL](#postgressql) | :heavy_check_mark: | | |
 pgpdump | [GnuPG](#gpg)/PGP file visualiser | :heavy_check_mark: | | |
 phatch | batch image converter | :heavy_check_mark: | | |
 phoronix | benchmark suite | :heavy_multiplication_x: | [Phoronix](http://phoronix-test-suite.com/) | |
+photoflare | image editor | :heavy_multiplication_x: | [PhotoFlare](https://github.com/PhotoFlare/photoflare) | |
 photorec | file recovery tool | :heavy_multiplication_x: | [photorec](https://www.cgsecurity.org/) | |
 php7cc | PHP 7 incompatible code detector | :heavy_check_mark: | | |
 php-markdown | PHP Markdown renderer | :heavy_check_mark: | | |
