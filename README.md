@@ -498,6 +498,7 @@ gtg | GNOME ToDo organiser | :heavy_check_mark: | | |
 guake | multi-tabbed/multi-coloured CLI | :heavy_check_mark: | | |
 guetzli | JPG encoder/compressor | :heavy_multiplication_x: | [guetzli](https://github.com/google/guetzli) | |
 gufw | GUI for [ufw](#ufw) | :heavy_check_mark: | | |
+guitar | GUI Git client | :heavy_multiplication_x: | [Guitar](https://github.com/soramimi/Guitar) | |
 gvfs-backends | SMB browsing | :heavy_check_mark: | | |
 haguichi | GUI for VPN app | :heavy_multiplication_x: | [Haguichi](https://www.haguichi.net/) | |
 handbrake | DVD ripper/video transcoder | :heavy_check_mark: | [HandBrake](https://handbrake.fr) | |
