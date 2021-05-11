@@ -273,6 +273,7 @@ dos2unix | convert EOL chars | :heavy_check_mark: | | [tofromdos](#tofromdos) ma
 downtimed | downtime monitor | :heavy_check_mark: | | |
 doxygen | C/PHP auto-documenter | :heavy_check_mark: | | <a id="doxygen"></a> |
 doxygen-doxywizard | config GUI for [doxygen](#doxygen) | :heavy_check_mark: | | |
+dragit | GUI file transfer tool | :heavy_multiplication_x: | [dragit](https://github.com/sireliah/dragit) | |
 drgeo | geometric sketcher | :heavy_check_mark: | | |
 drive | CLI GDrive client | :heavy_multiplication_x: | [drive](https://github.com/odeke-em/drive) | |
 dsniff | network sniffer | :heavy_check_mark: | | |
@@ -846,6 +847,7 @@ pingnoo | ping analyser | :heavy_multiplication_x: | [pingnoo](https://github.co
 pinta | Paint.net clone | :heavy_check_mark: | | |
 piper | mouse config | :heavy_multiplication_x: | [piper](https://github.com/libratbag/piper) | |
 pitivi | video editor | :heavy_check_mark: | | suitable for: clips to combine, add audio track, filter |
+pixelorama | sprite editor | :heavy_multiplication_x: | [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) | |
 pktstat | resolve packet details/connections | :heavy_check_mark: | | |
 playonlinux | Microsoft games through Wine | :heavy_check_mark: | | |
 playshell | CLI media player | :heavy_multiplication_x: | [playshell](https://sourceforge.net/projects/playshell/) | |
