@@ -553,6 +553,7 @@ infernal-twin | auto wireless hacking tool | :heavy_multiplication_x: | [inferna
 inguma | pentest framework | :heavy_multiplication_x: | | |
 inkscape | vector imager | :heavy_check_mark: | | |
 innotop | MySQL InnoDB monitor | :heavy_multiplication_x: | [innotop](https://github.com/innotop/innotop) [.deb](https://sourceforge.net/projects/innotop/) | exists in CentOS EPEL |
+innotopgo | MySQL InnoDB monitor | :heavy_multiplication_x: | [innotopgo](https://github.com/lefred/innotopgo) | |
 inotify | monitor filesystem events | :heavy_check_mark: | | good for Samba folders |
 input-utils | kernel input layer utilities | :heavy_check_mark: | | `lsinput`, `input-events`, `input-kbd` |
 instarecon | auto digital recon | :heavy_multiplication_x: | [instarecon](https://github.com/vergl4s/instarecon) | high level recon |
@@ -711,6 +712,7 @@ mysql | MySQL database | :heavy_check_mark: | | <a id="mysql"></a> |
 mysql-utilities | MySQL | :heavy_check_mark: | | |
 mysql-workbench | MySQL | :heavy_check_mark: | | |
 mysqldiffchecker | MySQL instances diff | :heavy_multiplication_x: | [mysqlDiffChecker](https://github.com/kenken0807/mysqlDiffChecker) | |
+mysqlshell-plugins | MySQL Shell Plugins | :heavy_multiplication_x: | [mysqlshell-plugins](https://github.com/lefred/mysqlshell-plugins/) | |
 mysqltuner | mysqld settings analyser | :heavy_check_mark: | [mysqltuner](https://raw.githubusercontent.com/major/MySQLTuner-perl/master/mysqltuner.pl) | |
 mystatusgo | MySQL monitoring tool | :heavy_multiplication_x: | [myStatusgo](https://github.com/kenken0807/myStatusgo) | |
 mytop | MySQL monitor | :heavy_check_mark: | | |
