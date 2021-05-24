@@ -58,7 +58,7 @@ arista | media converter | :heavy_check_mark: | [Arista Transcoder](http://trans
 arp-scan | ARP scanner/fingerprinting | :heavy_check_mark: | | |
 arpwatch | Ethernet MAC address monitor | :heavy_check_mark: | | |
 artha | offline thesaurus | :heavy_check_mark: | | |
-asciinema | terminal activity recorder | :heavy_check_mark: | [asciinema](http://asciinema.org/) [repo](https://github.com/asciinema/asciinema) | `asciinema rec >> exit` |
+asciinema | CLI activity recorder | :heavy_check_mark: | [asciinema](http://asciinema.org/) [repo](https://github.com/asciinema/asciinema) | `asciinema rec >> exit` |
 astyle | code formatter | :heavy_check_mark: | [Artistic Style](http://astyle.sourceforge.net/) | C/C++/Java; good for other langs too |
 asunder | CD ripper | :heavy_check_mark: | [Asunder](http://littlesvr.ca/asunder/) | |
 athena-jot | data generator | :heavy_check_mark: | | |
@@ -581,8 +581,8 @@ jarte | lightweight wordprocessor (with .docx support) | :heavy_check_mark: | | 
 jbit | 6502 CPU simulator | :heavy_multiplication_x: | [JBit](https://sourceforge.net/projects/jbit/) | |
 jed | code editor | :heavy_check_mark: | | |
 jedit | code editor | :heavy_check_mark: | |
-jitsi | encrypted IM/VOIP | :heavy_multiplication_x: | | Java-based |
 jnettop | network traffic monitor | :heavy_check_mark: | | |
+jo | CLI JSON creator | :heavy_check_mark: | | |
 joomscan | Joomla scanner | :heavy_multiplication_x: | | |
 john | password cracker | :heavy_multiplication_x: | | |
 johnny | GUI for *john* | :heavy_multiplication_x: | [johnny](https://github.com/shinnok/johnny) | |
@@ -618,7 +618,7 @@ lazagne | credentials recovery | :heavy_multiplication_x: | [LaZagne](https://gi
 lazpaint | image editor | :heavy_multiplication_x: | [LazPaint](https://lazpaint.github.io/) [repo](https://github.com/bgrabitmap/lazpaint) | |
 lcrack | password cracker | :heavy_check_mark: | | |
 lepton | JPG compressor | :heavy_multiplication_x: | [lepton](https://github.com/dropbox/lepton) | |
-lftp | sophisticated CLI FTP | :heavy_check_mark: | | |
+lftp | CLI FTP | :heavy_check_mark: | | |
 libmarkdown-php | Markdown library | :heavy_check_mark: | | |
 libreoffice-dbg | debugger | :heavy_check_mark: | | |
 libssl-dev | OpenSSL libraries | :heavy_check_mark: | | |
@@ -695,9 +695,9 @@ most | advanced pager, includes colour, bin viewer | :heavy_check_mark: | | |
 mp3diags | MP3 file analyser | :heavy_check_mark: | | |
 mpd | music player daemon | :heavy_check_mark: | | (works remotely) |
 mpg123 | CLI MP3 player | :heavy_check_mark: | | decoding library very good |
-mplayer | movie player (terminal) | :heavy_check_mark: | | <a id="mplayer"></a>|
+mplayer | CLI movie player | :heavy_check_mark: | | <a id="mplayer"></a>|
 mps-youtube | YouTube music player | :heavy_check_mark: | [mps-youtube](https://github.com/mps-youtube/mps-youtube) | |
-mpv | movie player (terminal) | :heavy_check_mark: | | based on <a href="#mplayer">mplayer</a> |
+mpv | CLI movie player | :heavy_check_mark: | | based on <a href="#mplayer">mplayer</a> |
 mtools | multi-cast connection tester | :heavy_multiplication_x: | | |
 mtr | `ping` and [`traceroute`](#traceroute) combined | :heavy_check_mark: | | also [mtr-tiny](#mtr-tiny) |
 mtr-tiny | `ping` and [`traceroute`](#traceroute) combined | :heavy_check_mark: | | <a id="mtr-tiny"></a> |
