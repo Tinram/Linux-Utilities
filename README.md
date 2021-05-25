@@ -1279,6 +1279,7 @@ zap | zed attack proxy | :heavy_multiplication_x: | | web app vulnerabilities |
 zeal | programming language docs browser | :heavy_check_mark: | [Zeal](https://github.com/zealdocs/zeal) | |
 zeit | GUI for *at* and *cron* | :heavy_multiplication_x: | [zeit](https://bitbucket.org/blaze/zeit) | |
 zenith | TUI system monitor | :heavy_multiplication_x: | [zenith](https://github.com/bvaisvil/zenith) | |
+zenity | shell dialog boxes | :heavy_check_mark: | | |
 zenmap | [NMap](#nmap) GUI | :heavy_check_mark: | | |
 zentyal | server GUI set-up + Microsoft Exchange replacement | :heavy_check_mark: | | |
 zerotier | easy VPN | :heavy_multiplication_x: | [ZeroTier](http://zerotier.com) | |
