@@ -39,6 +39,7 @@ amass | attack surface mapper | :heavy_multiplication_x: | [Amass](https://githu
 ananicy | nice-ness daemon | :heavy_multiplication_x: | [Ananicy](https://github.com/Nefelim4ag/Ananicy) | |
 anbox | Android runtime | :heavy_multiplication_x: | [anbox](https://github.com/anbox/anbox) | |
 anjuta | C/C++ editor | :heavy_check_mark: | | |
+anki | flashcards | :heavy_multiplication_x: | [Anki](https://apps.ankiweb.net/) | |
 ansible | alternative to Puppet/Chef | :heavy_check_mark: | | only dependencies are Python/SSH; `pip install ansible` |
 ansifilter | remove control codes | :heavy_multiplication_x: | [Ansifilter](http://andre-simon.de/doku/ansifilter/en/ansifilter.php) | |
 antimony | CAD modeller | :heavy_multiplication_x: | [Antimony](http://www.mattkeeter.com/projects/antimony/) | |
@@ -778,6 +779,7 @@ nvidia-smi | NVidia GPU management CLI | :heavy_multiplication_x: | | |
 nvtop | NVidia GPU 'top' | :heavy_multiplication_x: | [nvtop](https://github.com/Syllo/nvtop) | |
 obnam | incremental daily backups with SFTP/[GnuPG](#gpg) support | :heavy_check_mark: | | |
 obs | video recording/livestreaming | :heavy_multiplication_x: | [OBS](https://obsproject.com/) | |
+obsidian | Markdown mindmap tool | :heavy_multiplication_x: | [obsidian](https://obsidian.md/) | |
 oclint | C/C++/ObjC static code analyser | :heavy_multiplication_x: | [OCLint](http://oclint.org/) [repo](https://github.com/oclint/oclint/) | |
 ocrfeeder | OCR text scanner | :heavy_check_mark: | | |
 ocrmypdf | OCR PDF files | :heavy_check_mark: | | |
@@ -1281,9 +1283,10 @@ zeit | GUI for *at* and *cron* | :heavy_multiplication_x: | [zeit](https://bitbu
 zenith | TUI system monitor | :heavy_multiplication_x: | [zenith](https://github.com/bvaisvil/zenith) | |
 zenity | shell dialog boxes | :heavy_check_mark: | | |
 zenmap | [NMap](#nmap) GUI | :heavy_check_mark: | | |
-zentyal | server GUI set-up + Microsoft Exchange replacement | :heavy_check_mark: | | |
+zentyal | server GUI set-up + MS Exchange replacement | :heavy_check_mark: | | |
 zerotier | easy VPN | :heavy_multiplication_x: | [ZeroTier](http://zerotier.com) | |
 zim | 'desktop wiki' notepad | :heavy_check_mark: | | |
+zint | barcode generator | :heavy_multiplication_x: | [zint](https://github.com/zint/zint) | |
 zipcmp | zip contents comparison | :heavy_check_mark: | | |
 zmap | large network scanner | :heavy_check_mark: | | no actual connects like [NMap](#nmap), open ports |
 zopfli | zlib/gzip compressor | :heavy_check_mark: | [zopfli](https://github.com/google/zopfli) | |
