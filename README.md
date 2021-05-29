@@ -167,6 +167,7 @@ cmospwd | CMOS/BIOS password recovery | :heavy_check_mark: | | pre-UEFI |
 cmsmap | CMS vulnerability scanner | :heavy_multiplication_x: | [CMSmap](https://github.com/dionach/CMSmap) | |
 cmus | CLI music player | :heavy_check_mark: | | |
 cockpit | server manager web interface | :heavy_check_mark: | [Cockpit](https://cockpit-project.org/) | |
+cockpit-docker | Cockpit docker manager | :heavy_multiplication_x: | [cockpit-docker](https://github.com/Xantios/cockpit-docker) | |
 codeblocks | C editor/IDE | :heavy_check_mark: | | |
 codecounter | C/BASIC/web code counter | :heavy_multiplication_x: | [CodeCounter](https://github.com/Tinram/CodeCounter) | |
 codelite | C editor | :heavy_check_mark: | | PHP/JS/Python also supported |
