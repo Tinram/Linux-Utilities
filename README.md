@@ -1009,6 +1009,7 @@ silver-searcher | source code grep | :heavy_multiplication_x: | [TSS](https://gi
 simplebackup | backup utility | :heavy_check_mark: | | |
 simplescreenrecorder | record programs | :heavy_multiplication_x: | [SSR](http://www.maartenbaert.be/simplescreenrecorder/) | |
 simon | voice recognition | :heavy_check_mark: | | |
+singlefilez | webpage archiver | :heavy_multiplication_x: | [SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) | |
 sipcrack | SIP log-in dumper/cracker | :heavy_check_mark: | | |
 sipvicious | audit SIP-based VoIP systems | :heavy_multiplication_x: | | |
 sirikali | GUI for gocryptfs/encfs/securefs | :heavy_multiplication_x: | [SiriKali](https://mhogomchungu.github.io/sirikali/) | |
