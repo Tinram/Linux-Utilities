@@ -270,6 +270,7 @@ docker | container runtime | :heavy_check_mark: | [Docker](https://www.docker.co
 docker-doc | [Docker](#docker) documentation | :heavy_check_mark: | | |
 docker-registry | | :heavy_check_mark: | | |
 dog | DNS tool | :heavy_check_mark: | [dog](https://dns.lookup.dog/) | |
+doggo | DNS tool | :heavy_multiplication_x: | [doggo](https://github.com/mr-karan/doggo) | |
 doona | daemon vulnerability | :heavy_multiplication_x: | | |
 dos2unix | convert EOL chars | :heavy_check_mark: | | [tofromdos](#tofromdos) may be better |
 downtimed | downtime monitor | :heavy_check_mark: | | |
