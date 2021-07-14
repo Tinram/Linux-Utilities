@@ -39,7 +39,7 @@ amass | attack surface mapper | :heavy_multiplication_x: | [Amass](https://githu
 ananicy | nice-ness daemon | :heavy_multiplication_x: | [Ananicy](https://github.com/Nefelim4ag/Ananicy) | |
 anbox | Android runtime | :heavy_multiplication_x: | [anbox](https://github.com/anbox/anbox) | |
 anjuta | C/C++ editor | :heavy_check_mark: | | |
-anki | flashcards | :heavy_multiplication_x: | [Anki](https://apps.ankiweb.net/) | |
+anki | flashcards | :heavy_multiplication_x: | [Anki](https://apps.ankiweb.net/) [repo](https://github.com/ankitects/anki) | |
 ansible | alternative to Puppet/Chef | :heavy_check_mark: | | only dependencies are Python/SSH; `pip install ansible` |
 ansifilter | remove control codes | :heavy_multiplication_x: | [Ansifilter](http://andre-simon.de/doku/ansifilter/en/ansifilter.php) | |
 antimony | CAD modeller | :heavy_multiplication_x: | [Antimony](http://www.mattkeeter.com/projects/antimony/) | |
@@ -110,6 +110,7 @@ bluemon | de/activate programs on Bluetooth link quality | :heavy_check_mark: | 
 bluetooth | Bluetooth support | :heavy_check_mark: | | |
 bluez | Bluetooth tools | :heavy_check_mark: | | |
 bmon | bandwidth monitor | :heavy_check_mark: | | |
+bonzomatic | shader coding tool | :heavy_multiplication_x: | [Bonzomatic](https://github.com/Gargaj/Bonzomatic) | |
 bookworm | eBook reader | :heavy_multiplication_x: | [Bookworm](https://babluboy.github.io/bookworm/) | |
 bootchart | boot time analyser | :heavy_check_mark: | | |
 bootiso | ISO to USB booter | :heavy_multiplication_x: | [bootiso](https://github.com/jsamr/bootiso) | |
@@ -681,7 +682,7 @@ mermaid | Markdown diagrams | :heavy_multiplication_x: | [Mermaid](https://githu
 mesa-utils | MesaGL utilities | :heavy_check_mark: | | |
 meshlab | triangular mesh creator | :heavy_check_mark: | | |
 meshroom | 3D photogrammetry/reconstruction | :heavy_multiplication_x: | [meshroom](https://github.com/alicevision/meshroom) | requires Nvidia GPU/CUDA |
-micro | text editor | :heavy_multiplication_x: | [micro](https://github.com/zyedidia/micro) | |
+micro | CLI editor | :heavy_multiplication_x: | [micro](https://micro-editor.github.io/) [repo](https://github.com/zyedidia/micro) | |
 midori | lightweight browser | :heavy_check_mark: | | |
 mindforger | Markdown notebook/IDE | :heavy_multiplication_x: | [mindforger](http://mindforger.com/) | |
 minitube | native YouTube client | :heavy_check_mark: | | |
@@ -792,6 +793,7 @@ olive | video editor | :heavy_multiplication_x: | [olive](https://olivevideoedit
 omd | Nagios fork | :heavy_multiplication_x: | [OMD](http://omdistro.org/) | easier set-up than [Nagios](#nagios) |
 onedrive-d | OneDrive sync | :heavy_multiplication_x: | [onedrive-d](https://github.com/xybu92/onedrive-d) | |
 onetime | one-time pad | :heavy_check_mark: | | |
+onionshare | secure communications | :heavy_multiplication_x: | [onionshare](https://onionshare.org/) | |
 oolite | Elite game | :heavy_check_mark: | [Oolite](http://oolite.org/) | |
 openarena | Quake-like FPS | :heavy_check_mark: | | |
 openshot | video editor | :heavy_check_mark: | | good all rounder, requires Frei0r-plugins |
@@ -833,6 +835,7 @@ pentbox | security and stability tester | :heavy_multiplication_x: | | |
 percona-toolkit | MySQL toolkit | :heavy_check_mark: | | |
 perf | performance analysis tools | :heavy_check_mark: | | in *linux-tools-common* |
 perf-tools-unstable | `perf` helper tools by Brendan Gregg | :heavy_check_mark: | | `iosnoop`, `iolatency`, `uprobe` |
+perforator | *perf* extender | :heavy_multiplication_x: | [perforator](https://github.com/zyedidia/perforator) | |
 pewpew | server stress tester | :heavy_multiplication_x: | [pewpew](https://github.com/bengadbois/pewpew) | |
 pgadmin3 | GUI admin for [PostgresSQL](#postgressql) | :heavy_check_mark: | | |
 pgpdump | [GnuPG](#gpg)/PGP file visualiser | :heavy_check_mark: | | |
