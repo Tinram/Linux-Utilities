@@ -186,9 +186,10 @@ compizconfig-settings-manager | [compiz](#compiz) config settings | :heavy_check
 conky | GUI system monitor | :heavy_check_mark: | | |
 cpu-g | GUI CPU analyser | :heavy_multiplication_x: | [CPU-G](https://sourceforge.net/projects/cpug/) | |
 cpu-x | GUI CPU/motherboard analyser | :heavy_multiplication_x: | [CPU-X](https://github.com/X0rg/CPU-X) | |
+cpufetch | CLI CPU analyser | :heavy_multiplication_x: | [cpufetch](https://github.com/Dr-Noob/cpufetch) | |
 cpupower | CPU frequency manager | :heavy_multiplication_x: | | |
 cppcheck | C code linter | :heavy_check_mark: | | |
-cpuid | x86 CPU info | :heavy_check_mark: | | |
+cpuid | CPU info | :heavy_check_mark: | | |
 cpulimit | limit process CPU usage | :heavy_check_mark: | | |
 crazydiskmark | GUI disk benchmarker | :heavy_multiplication_x: | [crazydiskmark](https://github.com/fredcox/crazydiskmark) | ppa:fredcox-p/crazydiskmark |
 credcrack | credential harvester | :heavy_multiplication_x: | [CredCrack](https://github.com/gojhonny/CredCrack) | |
