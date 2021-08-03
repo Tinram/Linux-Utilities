@@ -1018,6 +1018,7 @@ singlefilez | webpage archiver | :heavy_multiplication_x: | [SingleFileZ](https:
 sipcrack | SIP log-in dumper/cracker | :heavy_check_mark: | | |
 sipvicious | audit SIP-based VoIP systems | :heavy_multiplication_x: | | |
 sirikali | GUI for gocryptfs/encfs/securefs | :heavy_multiplication_x: | [SiriKali](https://mhogomchungu.github.io/sirikali/) | |
+skeema | CLI MySQL schema management | :heavy_multiplication_x: | [skeema](https://github.com/skeema/skeema) | |
 sk1 | vector graphics editor | :heavy_multiplication_x: | [sK1](http://sk1project.org/) | |
 skipfish | web app recon tool | :heavy_check_mark: | | |
 skrooge | money accounting | :heavy_check_mark: | | |
