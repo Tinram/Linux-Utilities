@@ -619,7 +619,8 @@ ksnip | snipping tool | :heavy_multiplication_x: | [ksnip](https://github.com/Da
 kwipe | data eraser | :heavy_multiplication_x: | [KWipe](https://www.linux-apps.com/p/1127891) [repo](https://github.com/PyCoder/KWipe) | partition emphasis |
 lamaperia | printable maps from OpenStreetMap | :heavy_multiplication_x: | [Lamaperia](https://github.com/federicomenaquintero/lamaperia) | |
 lame | MP3 encoder | :heavy_check_mark: | | |
-lazagne | credentials recovery | :heavy_multiplication_x: | [LaZagne](https://github.com/AlessandroZ/LaZagne) | Windows version is identified as a Trojan |
+landrop | LAN file transfer | :heavy_multiplication_x: | [LANDrop](https://landrop.app/) [repo](https://github.com/LANDrop/LANDrop) | |
+lazagne | credentials recovery | :heavy_multiplication_x: | [LaZagne](https://github.com/AlessandroZ/LaZagne) | |
 lazpaint | image editor | :heavy_multiplication_x: | [LazPaint](https://lazpaint.github.io/) [repo](https://github.com/bgrabitmap/lazpaint) | |
 lcrack | password cracker | :heavy_check_mark: | | |
 lepton | JPG compressor | :heavy_multiplication_x: | [lepton](https://github.com/dropbox/lepton) | |
@@ -922,7 +923,7 @@ qemu-kvm | multiple virtual PCs | :heavy_check_mark: | | |
 qjournalctl | GUI for systemd's `journalctl` | :heavy_multiplication_x: | [qjournalctl](https://github.com/pentix/qjournalctl) | |
 qmmp | music player | :heavy_check_mark: | | |
 qownnotes | notepad with Markdown | :heavy_multiplication_x: | [QOwnNotes](http://www.qownnotes.org/) | |
-qmplay2 | video/YouTube player | :heavy_multiplication_x: | [QMPlay2](https://github.com/zaps166/QMPlay2) | GPU acceleration |
+qmplay2 | video/YouTube player | :heavy_multiplication_x: | [QMPlay2](https://github.com/zaps166/QMPlay2) | GPU acceleration; good options |
 qpdf | CLI PDF editor | :heavy_multiplication_x: | [QPDF](http://qpdf.sourceforge.net/) | |
 qrencode | QR generator | :heavy_check_mark: | | `qrencode -o f.png 'txt'` # -s height of pixel, -l H highest level of error correction|
 qtox | encrypted chat | :heavy_multiplication_x: | [qTox](https://github.com/qTox/qTox) | |
