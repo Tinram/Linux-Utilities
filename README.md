@@ -798,6 +798,7 @@ onetime | one-time pad | :heavy_check_mark: | | |
 onionshare | secure communications | :heavy_multiplication_x: | [onionshare](https://onionshare.org/) | |
 oolite | Elite game | :heavy_check_mark: | [Oolite](http://oolite.org/) | |
 openarena | Quake-like FPS | :heavy_check_mark: | | |
+openrgb | hardware RGB lighting manager | :heavy_multiplication_x: | [OpenRGB](https://gitlab.com/CalcProgrammer1/OpenRGB) | |
 openshot | video editor | :heavy_check_mark: | | good all rounder, requires Frei0r-plugins |
 openssh-server | OpenSSH | :heavy_check_mark: | | |
 openvpn | VPN | :heavy_check_mark: | | |
