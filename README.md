@@ -749,7 +749,7 @@ net-tools | network tools | :heavy_check_mark: | | `ifconfig`, `route` |
 netwag | GUI for [netwox](#netwox) | :heavy_check_mark: | | |
 netwox | networking utilities | :heavy_check_mark: | | <a id="netwox"></a> |
 neural-enhance | image enhancer | :heavy_multiplication_x: | [neural-enhance](https://github.com/alexjc/neural-enhance) | |
-newsbeuter | CLI RSS reader | :heavy_check_mark: | | |
+newsboat | CLI RSS reader | :heavy_check_mark: | | also newsbeuter |
 nftables | netfilter firewall utility | :heavy_check_mark: | | `nft` |
 nginx | web/proxy server | :heavy_check_mark: | | |
 ngrep | network traffic grep | :heavy_check_mark: | | |
@@ -800,6 +800,7 @@ oolite | Elite game | :heavy_check_mark: | [Oolite](http://oolite.org/) | |
 openarena | Quake-like FPS | :heavy_check_mark: | | |
 openrgb | hardware RGB lighting manager | :heavy_multiplication_x: | [OpenRGB](https://gitlab.com/CalcProgrammer1/OpenRGB) | |
 openshot | video editor | :heavy_check_mark: | | good all rounder, requires Frei0r-plugins |
+opensnitch | outgoing network connections manager | :heavy_multiplication_x: | [opensnitch](https://github.com/evilsocket/opensnitch) | |
 openssh-server | OpenSSH | :heavy_check_mark: | | |
 openvpn | VPN | :heavy_check_mark: | | |
 opera | browser | :heavy_check_mark: | | use `apt` |
