@@ -1007,7 +1007,7 @@ sentry | brute-force blocker | :heavy_multiplication_x: | [sentry](https://githu
 sfk | comprehensive file utilities | :heavy_multiplication_x: | [Swiss File Knife](http://stahlworks.com/dev/swiss-file-knife.html) | |
 sg3-utils | SCSI utilities | :heavy_check_mark: | | |
 shellcheck | Bash lint | :heavy_check_mark: | [ShellCheck](http://www.shellcheck.net/) | |
-shellnoob | shell code generator | :heavy_multiplication_x: | | |
+shellnoob | shell code generator | :heavy_multiplication_x: | [shellnoob](https://gitlab.com/kalilinux/packages/shellnoob) | |
 shellpic | preview images in SSH | :heavy_multiplication_x: | [shellpic](https://github.com/larsjsol/shellpic) | |
 shotcut | video editor | :heavy_multiplication_x: | [Shotcut](https://shotcut.org/) | |
 shwr | HTML presentations | :heavy_multiplication_x: | [Shwr](https://shwr.me/) | |
