@@ -281,6 +281,7 @@ doxygen-doxywizard | config GUI for [doxygen](#doxygen) | :heavy_check_mark: | |
 dragit | GUI file transfer tool | :heavy_multiplication_x: | [dragit](https://github.com/sireliah/dragit) | |
 drgeo | geometric sketcher | :heavy_check_mark: | | |
 drive | CLI GDrive client | :heavy_multiplication_x: | [drive](https://github.com/odeke-em/drive) | |
+droidcam | turn phone into PC webcam | :heavy_multiplication_x: | [droidcam](https://github.com/dev47apps/droidcam) | |
 dsniff | network sniffer | :heavy_check_mark: | | |
 dstat | resource stats tool | :heavy_check_mark: | [Dstat](http://dag.wiee.rs/home-made/dstat/) | |
 dsvpn | Dead Simple VPN | :heavy_multiplication_x: | [dsvpn](https://github.com/jedisct1/dsvpn) | |
@@ -293,6 +294,7 @@ duplicity | encrypted backup | :heavy_check_mark: | [Duplicity](http://duplicity
 dvdbackup | DVD ripper | :heavy_check_mark: | | |
 e4defrag | ext4 defragger | :heavy_multiplication_x: | | |
 earlyoom | faster OOM | :heavy_check_mark: | [earlyoom](https://github.com/rfjakob/earlyoom) | |
+easyeffects | equalizer| :heavy_check_mark: | [easyeffects](https://github.com/wwmm/easyeffects) | revamped *PulseEffects* |
 easy-rsa | certificate generator | :heavy_check_mark: | [repo](https://github.com/OpenVPN/easy-rsa) [doc](https://easy-rsa.readthedocs.io/en/latest/) [AW](https://wiki.archlinux.org/index.php/Easy-RSA) | OpenVPN etc |
 easyssh | GUI SSH connection manager | :heavy_multiplication_x: | [easyssh](https://github.com/muriloventuroso/easyssh) | |
 eiciel | GUI ACL editor | :heavy_check_mark: | [Eiciel](http://rofi.roger-ferrer.org/eiciel/) | |
@@ -831,6 +833,7 @@ pdfedit | PDF editor | :heavy_check_mark: | | good at text, no image editing |
 pdfgrep | PDF search | :heavy_check_mark: | [PDFgrep](https://pdfgrep.org/) |
 pdfmod | PDF editor | :heavy_check_mark: | | simple but good: edit meta data, remove page, extract page |
 pdnsd | proxy DNS server | :heavy_check_mark: | | |
+pdfmixtool | PDF editor | :heavy_multiplication_x: | [pdfmixtool](https://gitlab.com/scarpetta/pdfmixtool) | |
 pdftk | PDF tool | :heavy_check_mark: | | |
 pdftotext | PDF to text | :heavy_check_mark: | | in *poppler-utils* |
 peazip | multi-zip GUI and converter | :heavy_multiplication_x: | [PeaZip](https://sourceforge.net/projects/peazip/) | |
