@@ -999,6 +999,7 @@ sane-airscan | SANE network scanner | :heavy_multiplication_x: | [sane-airscan](
 sbackup | simple backup | :heavy_check_mark: | | |
 scalpel | file recovery/data carver | :heavy_check_mark: | [scalpel](https://github.com/sleuthkit/scalpel) | |
 scamper | network measurement tool | :heavy_check_mark: | | |
+scrcpy | Android screen connector | :heavy_check_mark: | [scrcpy](https://github.com/Genymobile/scrcpy) | |
 screenruler | pixel ruler | :heavy_check_mark: | | |
 screenstudio | screencast creator | :heavy_multiplication_x: | [ScreenStudio](http://screenstudio.crombz.com/) | |
 scribus | desktop publisher/PDF editor | :heavy_check_mark: | | |
