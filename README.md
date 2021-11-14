@@ -472,6 +472,7 @@ googler | CLI Google search | :heavy_multiplication_x: | [googler](https://githu
 go-mysql | MySQL toolset | :heavy_multiplication_x: | [go-mysql](https://github.com/siddontang/go-mysql) | |
 go-rsync | GUI for `rsync` | :heavy_multiplication_x: | [go-rsync](https://github.com/d2r2/go-rsync) | |
 gosync | GDrive sync | :heavy_multiplication_x: | [GoSync](https://github.com/hschauhan/gosync/) | |
+gotop | TUI system monitor  | :heavy_multiplication_x: | [gotop](https://github.com/xxxserxxx/gotop) | |
 gotty | CLI application projected as web app | :heavy_multiplication_x: | [GoTTY](https://github.com/yudai/gotty) | |
 gource | source control visualisation tool | :heavy_check_mark: | | |
 govie | movie utility | :heavy_multiplication_x: | [Govie](https://github.com/narenaryan/Govie) | |
@@ -530,7 +531,8 @@ hopper | GUI disassembler | :heavy_multiplication_x: | [Hopper](https://www.hopp
 horst | CLI WLAN analyser | :heavy_check_mark: | | |
 hostmap | enumerate (v)hosts of IP | :heavy_multiplication_x: | [Hostmap](http://g33kinfo.com/info/hostmap-0-2-2-tar) | |
 hottoe | sound control app | :heavy_multiplication_x: | [hottoe](https://github.com/gandalfn/hottoe) | |
-hping3 | send packets to network hosts | :heavy_check_mark: | | |
+hping3 | TCP/IP packet generator | :heavy_check_mark: | | |
+htmlq | CLI HTML stream processor | :heavy_multiplication_x: | [htmlq](https://github.com/mgdm/htmlq) | jq for HTML |
 htop | hyper `top` | :heavy_check_mark: | | |
 http-logs-analyzer | HTTP log analyser | :heavy_multiplication_x: | [http-logs-analyzer](https://github.com/flrnull/http-logs-analyzer) | |
 httpdirfs | HTTP directory mounter | :heavy_multiplication_x: | [httpdirfs](https://github.com/fangfufu/httpdirfs) | |
