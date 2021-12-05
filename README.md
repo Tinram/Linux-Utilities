@@ -568,7 +568,7 @@ input-utils | kernel input layer utilities | :heavy_check_mark: | | `lsinput`, `
 instarecon | auto digital recon | :heavy_multiplication_x: | [instarecon](https://github.com/vergl4s/instarecon) | high level recon |
 intel-gpu-tools | `intel_gpu_time`, `intel_gpu_top` | :heavy_check_mark: | | |
 inxi | system info | :heavy_check_mark: | | |
-ioping | disk I/O latency tool | :heavy_check_mark: | | |
+ioping | disk I/O latency tool | :heavy_check_mark: | [ioping](https://github.com/koct9i/ioping) | |
 iotop | I/O monitor | :heavy_check_mark: | | |
 ipcalc | parameter calculator for IPv4 | :heavy_check_mark: | | |
 iperf | network bandwidth performance | :heavy_check_mark: | | |
