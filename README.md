@@ -885,6 +885,7 @@ postgresql | PostgreSQL | :heavy_check_mark: | | <a id="postgressql"></a> |
 potamus | music player using directories | :heavy_multiplication_x: | [Potamus](http://offog.org/code/potamus/) | |
 povray | CLI raytracer | :heavy_check_mark: | | |
 powertop | power consumption analyser | :heavy_check_mark: | | |
+ppa-purge | disable a PPA | :heavy_check_mark: | | |
 preload | adaptive binary preloader | :heavy_check_mark: | | |
 prelockd | memory/OOM tool | :heavy_multiplication_x: | [prelockd](https://github.com/hakavlad/prelockd) | |
 prettyeq | PulseAudio equaliser | :heavy_multiplication_x: | [prettyeq](https://github.com/keur/prettyeq) | |
