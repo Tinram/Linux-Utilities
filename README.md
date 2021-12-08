@@ -676,7 +676,7 @@ mariadb-client | MariaDB | :heavy_check_mark: | | |
 markdown | Markdown to HTML | :heavy_check_mark: | | |
 marker | Markdown editor | :heavy_multiplication_x: | [Marker](https://github.com/fabiocolacio/Marker) | |
 masterpdfeditor | PDF editor | :heavy_multiplication_x: | [MasterPDFEditor](https://code-industry.net/get-masterpdfeditor/) | powerful but proprietary |
-mat2 | metadata anonymiser tool | :heavy_check_mark: | | use `apt`; `mat -d <file>` |
+mat2 | metadata anonymiser | :heavy_check_mark: | | use `apt`; `mat -d <file>` |
 maths | maths problem solver | :heavy_multiplication_x: | [maths](https://code.launchpad.net/~nasc-team) | ppa:nasc-team/daily |
 mattermost | team messaging | :heavy_multiplication_x: | [Mattermost](https://www.mattermost.org/) | |
 mcfly | CLI history manager | :heavy_multiplication_x: | [mcfly](https://github.com/cantino/mcfly) | |
@@ -688,6 +688,7 @@ mermaid | Markdown diagrams | :heavy_multiplication_x: | [Mermaid](https://githu
 mesa-utils | MesaGL utilities | :heavy_check_mark: | | |
 meshlab | triangular mesh creator | :heavy_check_mark: | | |
 meshroom | 3D photogrammetry/reconstruction | :heavy_multiplication_x: | [meshroom](https://github.com/alicevision/meshroom) | requires Nvidia GPU/CUDA |
+metadata cleaner | metadata wiper | :heavy_multiplication_x: | [Metadata Cleaner](https://gitlab.com/rmnvgr/metadata-cleaner) | uses mat2 |
 micro | CLI editor | :heavy_multiplication_x: | [micro](https://micro-editor.github.io/) [repo](https://github.com/zyedidia/micro) | |
 midori | lightweight browser | :heavy_check_mark: | | |
 mindforger | Markdown notebook/IDE | :heavy_multiplication_x: | [mindforger](http://mindforger.com/) | |
