@@ -504,6 +504,7 @@ gsync | GDrive syncer | :heavy_multiplication_x: | | `pip install gsync` |
 gtkam | GUI transfer from cameras | :heavy_check_mark: | | |
 gtkhash | GUI hash calculator | :heavy_check_mark: | | |
 gtg | GNOME ToDo organiser | :heavy_check_mark: | | |
+gtkstresstesting | benchmarker | :heavy_multiplication_x: | [GtkStressTesting](https://gitlab.com/leinardi/gst) | |
 guake | multi-tabbed/multi-coloured CLI | :heavy_check_mark: | | |
 guetzli | JPG encoder/compressor | :heavy_multiplication_x: | [guetzli](https://github.com/google/guetzli) | |
 gufw | GUI for [ufw](#ufw) | :heavy_check_mark: | | |
@@ -1188,6 +1189,7 @@ unoconv | Microsoft Office *.doc* converter | :heavy_multiplication_x: | [Unocon
 unshield | extract *.cab* files from InstallShield | :heavy_check_mark: | | |
 unsort | jumbles lines in file | :heavy_check_mark: | | |
 urlwatch | webpage update monitor | :heavy_check_mark: | | |
+usbimager | USB image writer | :heavy_multiplication_x: | [usbimager](https://gitlab.com/bztsrc/usbimager) | |
 usbview | GUI `lsusb` | :heavy_check_mark: | [usbview](https://github.com/gregkh/usbview) | |
 usermanager | GUI user/group manager | :heavy_multiplication_x: | [UserManager](https://github.com/xvass/UserManager) | |
 valac | Vala compiler | :heavy_check_mark: | | |
