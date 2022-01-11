@@ -215,6 +215,7 @@ cutter | GUI radare2 binary analyser/disassembler | :heavy_multiplication_x: | [
 cxref | C code to LaTeX/HTML | :heavy_check_mark: | | |
 cyberfox | 64-bit browser | :heavy_multiplication_x: | | |
 cython | Python C extensions | :heavy_check_mark: | | |
+dangerzone | document sanitiser | :heavy_multiplication_x: | [dangerzone](https://github.com/firstlookmedia/dangerzone) | |
 darkhttpd | tiny file server | :heavy_multiplication_x: | [Darkhttpd](https://unix4lyfe.org/darkhttpd/) | 34kB |
 darkstat | network traffic analyser | :heavy_check_mark: | [Darkstat](http://unix4lyfe.org/darkstat/) | |
 darktable | RAW images | :heavy_check_mark: | [Darktable](http://www.darktable.org/), [article](http://www.techrepublic.com/blog/diy-it-guy/diy-enhance-your-graphic-design-work-with-darktable/) | |
