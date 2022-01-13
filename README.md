@@ -837,6 +837,7 @@ pdfcrack | PDF password cracker | :heavy_check_mark: | | |
 pdfedit | PDF editor | :heavy_check_mark: | | good at text, no image editing |
 pdfgrep | PDF search | :heavy_check_mark: | [PDFgrep](https://pdfgrep.org/) |
 pdfmod | PDF editor | :heavy_check_mark: | | simple but good: edit meta data, remove page, extract page |
+pdfresurrect | PDF analyser | :heavy_multiplication_x: | [pdfresurrect](https://github.com/enferex/pdfresurrect) | |
 pdnsd | proxy DNS server | :heavy_check_mark: | | |
 pdfmixtool | PDF editor | :heavy_multiplication_x: | [pdfmixtool](https://gitlab.com/scarpetta/pdfmixtool) | |
 pdftk | PDF tool | :heavy_check_mark: | | |
