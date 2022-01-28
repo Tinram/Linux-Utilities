@@ -49,6 +49,8 @@ apachetop | `top` for Apache | :heavy_check_mark: | | use `apt` |
 apfs-fuse | FUSE driver for mounting Apple filesystem | :heavy_multiplication_x: | [apfs-fuse](https://github.com/sgan81/apfs-fuse) | |
 apktool | reverse engineer Android apk files | :heavy_check_mark: | | |
 apostrophe | Markdown editor | :heavy_multiplication_x: | [Apostrophe](https://gitlab.gnome.org/somas/apostrophe) | |
+appimagecraft | AppImage builder | :heavy_multiplication_x: | [appimagecraft](https://github.com/TheAssassin/appimagecraft) | |
+appimagelint | AppImage checker | :heavy_multiplication_x: | [appimagelint](https://github.com/TheAssassin/appimagelint) | |
 aqemu | [Qemu](#qemu) + KVM GUI | :heavy_check_mark: | | |
 arandr | GUI for xrandr (X settings) | :heavy_check_mark: | | |
 ardour | audio editor | :heavy_check_mark: | | |
@@ -1111,6 +1113,7 @@ syncthing | sync cloud/network app | :heavy_multiplication_x: | [Syncthing](http
 synfig | vector 2D animation | :heavy_check_mark: | | |
 sysbench | system benchmarker | :heavy_check_mark: | [info](https://www.howtoforge.com/how-to-benchmark-your-system-cpu-file-io-mysql-with-sysbench) | |
 sysdig | system exploration/troubleshooting | :heavy_check_mark: | | |
+sysmontask | system monitor, Windows-style | :heavy_multiplication_x: | [SysMonTask](https://github.com/KrispyCamel4u/SysMonTask) | |
 sysstat | system stats/benchmarking | :heavy_check_mark: | | `sar` is binary log reader |
 system-config-lvm | LVM partitioning GUI | :heavy_check_mark: | | |
 system-config-samba | Samba GUI | :heavy_check_mark: | | |
