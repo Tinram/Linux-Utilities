@@ -632,6 +632,8 @@ lame | MP3 encoder | :heavy_check_mark: | | |
 landrop | LAN file transfer | :heavy_multiplication_x: | [LANDrop](https://landrop.app/) [repo](https://github.com/LANDrop/LANDrop) | |
 lazagne | credentials recovery | :heavy_multiplication_x: | [LaZagne](https://github.com/AlessandroZ/LaZagne) | |
 lazpaint | image editor | :heavy_multiplication_x: | [LazPaint](https://lazpaint.github.io/) [repo](https://github.com/bgrabitmap/lazpaint) | |
+lazydocker | TUI Docker manager | :heavy_multiplication_x: | [lazydocker](https://github.com/jesseduffield/lazydocker) | |
+lazygit | TUI Git client | :heavy_multiplication_x: | [lazygit](https://github.com/jesseduffield/lazygit) | |
 lcrack | password cracker | :heavy_check_mark: | | |
 lepton | JPG compressor | :heavy_multiplication_x: | [lepton](https://github.com/dropbox/lepton) | |
 lftp | CLI FTP | :heavy_check_mark: | | |
