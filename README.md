@@ -928,6 +928,7 @@ pyrenamer | mass file renamer | :heavy_check_mark: | | |
 pyrit | GPU WPA2 wireless cracker | :heavy_check_mark: | | |
 python3-csvkit | CSV utilities | :heavy_check_mark: | | |
 python3-enigma | Enigma machine library | :heavy_check_mark: | [Py-Enigma](https://py-enigma.readthedocs.io/en/latest/) | |
+python3-matplotlib | plotting system | :heavy_check_mark: | | |
 python3-pip | Python 3 package installer | :heavy_check_mark: | | |
 python3-psutil | psutil | :heavy_check_mark: | | access reporting tools |
 python3-usb | Python 3 USB interface | :heavy_check_mark: | | <a id="python3-usb"></a> |
