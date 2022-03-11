@@ -92,6 +92,7 @@ bacula | backup | :heavy_check_mark: | | |
 bandwidthd | track network usage | :heavy_check_mark: | | HTML/image output|
 bashate | Bash script linter | :heavy_check_mark: | | |
 bashtop | resource monitor | :heavy_multiplication_x: | [bashtop](https://github.com/aristocratos/bashtop) | see [bpytop](#bpytop) |
+bat | `cat` on steroids | :heavy_multiplication_x: | [bat](https://github.com/sharkdp/bat) |  |
 beast | music synthesis | :heavy_check_mark: | | |
 bed | daemon vulnerability checker | :heavy_multiplication_x: | [bed](https://github.com/crunchsec/bed/) | |
 bench | CLI benchmark tool | :heavy_multiplication_x: | [bench](https://github.com/Gabriel439/bench) | |
