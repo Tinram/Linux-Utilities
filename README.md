@@ -396,6 +396,7 @@ fsarchiver | *tar.gz* alternative | :heavy_check_mark: | [fsarchiver](http://www
 fsearch | file search | :heavy_multiplication_x: | [FSearch](http://www.fsearch.org/) | |
 fslint | problem file manager/cleaner | :heavy_check_mark: | | |
 fsmon | file system monitor | :heavy_multiplication_x: | [fsmon](https://github.com/nowsecure/fsmon) | |
+fswatch | file change monitor | :heavy_multiplication_x: | [fswatch](https://github.com/emcrisostomo/fswatch) | |
 fswebcam | webcam | :heavy_check_mark: | | `sudo fswebcam /dev/video0 x.jpg` |
 ftrace | ELF function analyser | :heavy_multiplication_x: | [ftrace](https://github.com/elfmaster/ftrace) | |
 funkload | web server benchmarker | :heavy_check_mark: | [FunkLoad](http://funkload.nuxeo.org/) | includes unit testing |
@@ -469,13 +470,14 @@ gnupg2 | GnuPG version 2 | :heavy_check_mark: | | <a id="gpg"></a> |
 gnuplot | graphs | :heavy_check_mark: | | core |
 gnuplot-x11 | graphics | :heavy_check_mark: | | |
 gnuplot-qt | graphics | :heavy_check_mark: | | |
-goaccess | CLI realtime logfile viewer | :heavy_check_mark: | [GoAccess](https://goaccess.io/download) [repo](https://github.com/allinurl/goaccess) | avoid distro repo; compile deps: `libgeoip-dev`, `libncursesw5-dev` |
 go-fuzz | fuzzer | :heavy_multiplication_x: | [go-fuzz](https://github.com/dvyukov/go-fuzz) | |
-gobuster | directory, DNS, vhost buster | :heavy_multiplication_x: | [gobuster](https://github.com/OJ/gobuster) | |
-golly | game of life simulator | :heavy_check_mark: | | |
-googler | CLI Google search | :heavy_multiplication_x: | [googler](https://github.com/jarun/googler) | |
 go-mysql | MySQL toolset | :heavy_multiplication_x: | [go-mysql](https://github.com/siddontang/go-mysql) | |
 go-rsync | GUI for `rsync` | :heavy_multiplication_x: | [go-rsync](https://github.com/d2r2/go-rsync) | |
+goaccess | CLI realtime logfile viewer | :heavy_check_mark: | [GoAccess](https://goaccess.io/download) [repo](https://github.com/allinurl/goaccess) | avoid distro repo; compile deps: `libgeoip-dev`, `libncursesw5-dev` |
+gobuster | directory, DNS, vhost buster | :heavy_multiplication_x: | [gobuster](https://github.com/OJ/gobuster) | |
+gocryptfs | encrypted overlay filesystem | :heavy_multiplication_x: | [gocryptfs](https://github.com/rfjakob/gocryptfs) | |
+golly | game of life simulator | :heavy_check_mark: | | |
+googler | CLI Google search | :heavy_multiplication_x: | [googler](https://github.com/jarun/googler) | |
 gosync | GDrive sync | :heavy_multiplication_x: | [GoSync](https://github.com/hschauhan/gosync/) | |
 gotop | TUI system monitor  | :heavy_multiplication_x: | [gotop](https://github.com/xxxserxxx/gotop) | |
 gotty | CLI application projected as web app | :heavy_multiplication_x: | [GoTTY](https://github.com/yudai/gotty) | |
