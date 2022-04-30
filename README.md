@@ -302,6 +302,7 @@ easyeffects | equalizer| :heavy_check_mark: | [easyeffects](https://github.com/w
 easy-rsa | certificate generator | :heavy_check_mark: | [repo](https://github.com/OpenVPN/easy-rsa) [doc](https://easy-rsa.readthedocs.io/en/latest/) [AW](https://wiki.archlinux.org/index.php/Easy-RSA) | OpenVPN etc |
 easyssh | GUI SSH connection manager | :heavy_multiplication_x: | [easyssh](https://github.com/muriloventuroso/easyssh) | |
 edotool | input device activity simulator | :heavy_multiplication_x: | [edotool](https://github.com/evuraan/edotool) | |
+efiboots | boot manager | :heavy_multiplication_x: | [efiboots](https://github.com/Elinvention/efiboots) | |
 eiciel | GUI ACL editor | :heavy_check_mark: | [Eiciel](http://rofi.roger-ferrer.org/eiciel/) | |
 eko | audio editor | :heavy_multiplication_x: | [Eko](http://semiletov.org/eko/) | |
 elfparser | ELF analyser | :heavy_multiplication_x: | [ELF parser](http://elfparser.com/download.html) [repo](https://github.com/jacob-baines/elfparser) | |
@@ -405,6 +406,7 @@ fusil | fuzzer | :heavy_check_mark: | | collection of scripts |
 fuzz | fuzz EXEs with datastream input | :heavy_check_mark: | | |
 fwbuilder | firewall admin GUI | :heavy_check_mark: | | |
 fwlogwatch | firewall log analyser | :heavy_check_mark: | | |
+fzf | TUI fuzzy finder | :heavy_check_mark: | [repo](https://github.com/junegunn/fzf) | |
 g213colours | key colour customiser for G213 keyboard | :heavy_multiplication_x: | [G213Colors](https://github.com/SebiTimeWaster/G213Colors) | requires [python3-usb](#python3-usb) |
 gadmin-samba | GUI config for Samba | :heavy_check_mark: | | |
 gadmin-rsync | GUI config for `rsync` | :heavy_check_mark: | | |
