@@ -332,6 +332,7 @@ extundelete | recover deleted files | :heavy_check_mark: | | |
 f3 | flash memory analyser | :heavy_multiplication_x: | [f3](https://github.com/AltraMayor/f3) | |
 fail2ban | set firewall rules for multiple wrong logins | :heavy_check_mark: | | <a id="fail2ban"></a> |
 falco | security tool | :heavy_multiplication_x: | [falco](https://github.com/falcosecurity/falco) | |
+fancontrol-gui | fan controller | :heavy_multiplication_x: | [fancontrol-gui](https://github.com/Maldela/fancontrol-gui) | |
 fatback | recover data from disks/USBs | :heavy_check_mark: | | `fatback /dev/sdbx -o /recfiles -a` |
 fatsort | FAT filesystem file sorter | :heavy_check_mark: | | |
 fbcat | framebuffer grabber | :heavy_check_mark: | | outputs *.ppm* convert with [ImageMagick](#imagemagick) |
@@ -644,6 +645,7 @@ libmarkdown-php | Markdown library | :heavy_check_mark: | | |
 libreoffice-dbg | debugger | :heavy_check_mark: | | |
 libssl-dev | OpenSSL libraries | :heavy_check_mark: | | |
 libtomcrypt | crypto toolkit | :heavy_check_mark: | | |
+libtree | `ldd` tree | :heavy_multiplication_x: | [libtree](https://github.com/haampie/libtree) | |
 liferea | GUI RSS | :heavy_check_mark: | | |
 lightworks | video editor | :heavy_multiplication_x: | [LightWorks](https://www.lwks.com/) | 720p only |
 lightzone | RAW editor | :heavy_multiplication_x: | [LightZone](http://lightzoneproject.org/) | |
@@ -793,6 +795,7 @@ nstreams | tcpdump output analyser | :heavy_check_mark: | | |
 ntfs-3g | NTFS driver | :heavy_check_mark: | [NTFS-3G](http://www.tuxera.com/community/open-source-ntfs-3g/) | r/w |
 ntfsfix | fix NTFS | :heavy_multiplication_x: | | |
 ntfsundelete | recover NTFS files | :heavy_check_mark: | | |
+ntfy | push notifier | :heavy_multiplication_x: | [ntfy](https://github.com/binwiederhier/ntfy) | |
 ntop | top network users | :heavy_check_mark: | | |
 nuttcp | network performance measurement | :heavy_check_mark: | | |
 nutty | network utility | :heavy_multiplication_x: | [Nutty](https://launchpad.net/nutty) [repo](https://github.com/babluboy/nutty) | ppa:bablu-boy/nutty.0.1 |
@@ -1009,6 +1012,7 @@ rtgen | rainbow table generator | :heavy_multiplication_x: | | `rtgen md5 lowera
 ruby | Ruby interpreter | :heavy_check_mark: | | `irb` |
 rustbuster | web fuzzer | :heavy_multiplication_x: | [rustbuster](https://github.com/phra/rustbuster) | |
 rustc | Rust compiler | :heavy_multiplication_x: | | |
+s-tui | CLI hardware monitor | :heavy_multiplication_x: | [s-tui](https://github.com/amanusk/s-tui/releases) | |
 samhain | IDS | :heavy_check_mark: | | |
 sampler | CLI visualisation tool | :heavy_multiplication_x: | [sampler](https://github.com/sqshq/sampler) | |
 sane | document scan tools | :heavy_check_mark: | | |
@@ -1055,6 +1059,7 @@ smartdeblur | restore blurred images | :heavy_multiplication_x: | [SmartDeblur](
 smartmontools | monitor/control storage that supports SMART | :heavy_check_mark: | | contains `smartctl` |
 smbclient | Samba client | :heavy_check_mark: | | |
 smbmap | SMB network mapper | :heavy_multiplication_x: | [smbmap](https://github.com/ShawnDEvans/smbmap) | |
+smc | GUI system monitor | :heavy_multiplication_x: | [smc](https://github.com/hakandundar34coding/system-monitoring-center) | |
 smem | memory reporting tool | :heavy_check_mark: | | |
 smemstat | memory monitoring tool | :heavy_check_mark: | | |
 smilla-enlarger | image upscaler | :heavy_multiplication_x: | [smilla-enlarger](https://github.com/lupoDharkael/smilla-enlarger) | |
@@ -1101,7 +1106,6 @@ strace | system call tracer | :heavy_check_mark: | | |
 stress | CPU/memory/disk stresser | :heavy_check_mark: | | |
 stress-ng | advanced system stresser | :heavy_check_mark: | | |
 structure-synth | 3D structure generator | :heavy_check_mark: | | |
-s-tui | CLI hardware monitor | :heavy_multiplication_x: | [s-tui](https://github.com/amanusk/s-tui/releases) | |
 stunnel | SSL tunnel for own apps | :heavy_check_mark: | [STunnel](https://www.stunnel.org/index.html) | |
 subbrute | enumerate DNS records/subdomains | :heavy_multiplication_x: | [subbrute](https://github.com/TheRook/subbrute) | |
 subversion | SVN | :heavy_check_mark: | | |
@@ -1119,7 +1123,7 @@ syncthing | sync cloud/network app | :heavy_multiplication_x: | [Syncthing](http
 synfig | vector 2D animation | :heavy_check_mark: | | |
 sysbench | system benchmarker | :heavy_check_mark: | [info](https://www.howtoforge.com/how-to-benchmark-your-system-cpu-file-io-mysql-with-sysbench) | |
 sysdig | system exploration/troubleshooting | :heavy_check_mark: | | |
-sysmontask | system monitor, Windows-style | :heavy_multiplication_x: | [SysMonTask](https://github.com/KrispyCamel4u/SysMonTask) | |
+sysmontask | GUI system monitor, Windows-style | :heavy_multiplication_x: | [SysMonTask](https://github.com/KrispyCamel4u/SysMonTask) | |
 sysstat | system stats/benchmarking | :heavy_check_mark: | | `sar` is binary log reader |
 system-config-lvm | LVM partitioning GUI | :heavy_check_mark: | | |
 system-config-samba | Samba GUI | :heavy_check_mark: | | |
@@ -1140,6 +1144,7 @@ tcptrace | graphical [tcpdump](#tcpdump) output | :heavy_check_mark: | | |
 tcptrack | monitor tcp network connections | :heavy_check_mark: | | |
 tcpxtract | extract files from network traffic | :heavy_check_mark: | | |
 teamviewer | remote desktop/support | :heavy_check_mark: | [TeamViewer](https://www.teamviewer.com/en/download/linux/) | proprietary |
+terminalizer | record terminal actions | :heavy_multiplication_x: | [terminalizer](https://github.com/faressoft/terminalizer) | |
 terminator | multiple terminals | :heavy_check_mark: | | |
 terminix | CLI emulator | :heavy_multiplication_x: | [terminix](https://github.com/gnunn1/terminix) | |
 termpix | CLI image viewer | :heavy_multiplication_x: | [termpix](https://github.com/hopey-dishwasher/termpix) | |
@@ -1215,6 +1220,7 @@ vegeta | HTTP load tester | :heavy_multiplication_x: | [vegeta](https://github.c
 veracrypt | TrueCrypt replacement | :heavy_multiplication_x: | [VeraCrypt](http://veracrypt.codeplex.com/) | |
 veusz | GUI scientific plotter | :heavy_check_mark: | [Veusz](https://veusz.github.io/) | |
 vidalia | [Tor](#tor) GUI frontend | :heavy_check_mark: | | |
+video-trimmer | video editor | :heavy_multiplication_x: | [video-trimmer](https://gitlab.gnome.org/YaLTeR/video-trimmer) | |
 vim | code/text editor | :heavy_check_mark: | | |
 vinagre | GNOME remote desktop client | :heavy_check_mark: | | |
 vinetto | interrogate thumbs.db files | :heavy_check_mark: | | |
@@ -1309,7 +1315,7 @@ xz-utils | xz files | :heavy_check_mark: | | |
 yara | EXE malware identifier | :heavy_check_mark: | | |
 youtube-dl | YouTube downloader | :heavy_check_mark: | | |
 youtube-dl-gui | youtube-dl GUI | :heavy_multiplication_x: | [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) | |
-yersinia | advanced, obtuse network vulnerabilities checker | :heavy_check_mark: | | |
+yersinia | network vulnerability checker | :heavy_check_mark: | | |
 zabbix | network monitoring package | :heavy_check_mark: | | |
 zap | zed attack proxy | :heavy_multiplication_x: | | web app vulnerabilities |
 zeal | programming language docs browser | :heavy_check_mark: | [Zeal](https://github.com/zealdocs/zeal) | |
