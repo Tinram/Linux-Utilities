@@ -1201,6 +1201,7 @@ ufw | firewall | :heavy_check_mark: | | <a id="ufw"></a> |
 umplayer | video player | :heavy_multiplication_x: | | supposed better DVD playback than VLC |
 uncrustify | code formatter | :heavy_check_mark: | | |
 unetbootin | ISO to USB boot | :heavy_check_mark: | | |
+unhide | find hidden processes | :heavy_check_mark: | | |
 unhtml | remove HTML tags from file | :heavy_check_mark: | | |
 unison | CLI file sync tool | :heavy_check_mark: | | Windows to Linux too |
 unison-gtk | GUI for unison | :heavy_check_mark: | | |
