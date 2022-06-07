@@ -431,6 +431,7 @@ gethead | HTTP header vulnerability tool | :heavy_multiplication_x: | [gethead](
 geeqie | GTK image viewer | :heavy_check_mark: | [Geeqie](http://geeqie.org/) | good for multiple image comparison, sidecar files |
 gfio | GUI for [fio](#fio) | :heavy_check_mark: | | |
 gfortran | GNU Fortran 95 compiler | :heavy_check_mark: | | |
+gh-ost | MySQL trigger-less schema migrator | :heavy_multiplication_x: | [gh-ost](https://github.com/github/gh-ost) | |
 ghex | GUI hex viewer | :heavy_check_mark: | | |
 ghostwriter | [FocusWriter](#focuswriter)-like text editor | :heavy_multiplication_x: | [GhostWriter](http://wereturtle.github.io/ghostwriter/) | Markdown default |
 giada | DJ tool | :heavy_multiplication_x: | | |
@@ -537,7 +538,7 @@ helm | music synthesizer | :heavy_multiplication_x: | [Helm](http://tytel.org/he
 hexyl | CLI hex editor | :heavy_multiplication_x: | [hexyl](https://github.com/sharkdp/hexyl) | |
 highlight | convert code to HTML/RTF | :heavy_check_mark: | | |
 hnwatch | CLI news feed | :heavy_multiplication_x: | | |
-homebank | [GNU Cash](#gnucash)-like finance manager | :heavy_check_mark: | | |
+homebank | finance manager | :heavy_check_mark: | | |
 hopper | GUI disassembler | :heavy_multiplication_x: | [Hopper](https://www.hopperapp.com/) | proprietary, demo |
 horst | CLI WLAN analyser | :heavy_check_mark: | | |
 hostmap | enumerate (v)hosts of IP | :heavy_multiplication_x: | [Hostmap](http://g33kinfo.com/info/hostmap-0-2-2-tar) | |
