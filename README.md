@@ -1037,6 +1037,7 @@ sg3-utils | SCSI utilities | :heavy_check_mark: | | |
 shellcheck | Bash lint | :heavy_check_mark: | [ShellCheck](http://www.shellcheck.net/) | |
 shellnoob | shell code generator | :heavy_multiplication_x: | [shellnoob](https://gitlab.com/kalilinux/packages/shellnoob) | |
 shellpic | preview images in SSH | :heavy_multiplication_x: | [shellpic](https://github.com/larsjsol/shellpic) | |
+sherlock | OSINT tool | :heavy_multiplication_x: | [sherlock](https://github.com/sherlock-project/sherlock) | |
 shotcut | video editor | :heavy_multiplication_x: | [Shotcut](https://shotcut.org/) | |
 shwr | HTML presentations | :heavy_multiplication_x: | [Shwr](https://shwr.me/) | |
 siege | server stress tester | :heavy_check_mark: | | |
@@ -1199,6 +1200,7 @@ ugui_flif | GUI for [FLIF](#flif) | :heavy_multiplication_x: | [UGUI_FLIF](https
 ufraw | RAW importer | :heavy_check_mark: | | |
 uftrace | C program tracer | :heavy_check_mark: | | |
 ufw | firewall | :heavy_check_mark: | | <a id="ufw"></a> |
+ugrep | advanced `grep` | :heavy_check_mark: | [ugrep](https://github.com/Genivia/ugrep) | |
 umplayer | video player | :heavy_multiplication_x: | | supposed better DVD playback than VLC |
 uncrustify | code formatter | :heavy_check_mark: | | |
 unetbootin | ISO to USB boot | :heavy_check_mark: | | |
@@ -1303,6 +1305,7 @@ xnretro | retro photo effects | :heavy_multiplication_x: | | |
 xowa | Wikipedia reader | :heavy_multiplication_x: | [Xowa](https://sourceforge.net/projects/xowa/) | |
 xplico | network analysis | :heavy_multiplication_x: | [Xplico](http://www.xplico.org/) | browser-based |
 xplot | simple data plotter | :heavy_check_mark: | | |
+xpra | attach/detach X programs | :heavy_check_mark: | | |
 xprobe | remote OS identification | :heavy_check_mark: | | [NMap](#nmap)-like, calls `xprobe2` |
 xrandr-invert-colors | X screen inverter | :heavy_multiplication_x: | [xic](https://github.com/zoltanp/xrandr-invert-colors) | [xcalib](#xcalib) alternative |
 xrdp | RDP server | :heavy_check_mark: | | |
