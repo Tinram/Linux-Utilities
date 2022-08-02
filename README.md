@@ -1211,6 +1211,7 @@ unison-gtk | GUI for unison | :heavy_check_mark: | | |
 units | CLI unit converter | :heavy_check_mark: | | |
 unoconv | Microsoft Office *.doc* converter | :heavy_multiplication_x: | [Unoconv](http://dag.wiee.rs/home-made/unoconv/) | |
 unshield | extract *.cab* files from InstallShield | :heavy_check_mark: | | |
+unsnap | migrate Snap to Flatpak | :heavy_multiplication_x: | [unsnap](https://github.com/popey/unsnap) | |
 unsort | jumbles lines in file | :heavy_check_mark: | | |
 urlwatch | webpage update monitor | :heavy_check_mark: | | |
 usbimager | leightweight USB image writer | :heavy_multiplication_x: | [usbimager](https://gitlab.com/bztsrc/usbimager) | |
