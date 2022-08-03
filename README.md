@@ -51,6 +51,7 @@ apktool | reverse engineer Android apk files | :heavy_check_mark: | | |
 apostrophe | Markdown editor | :heavy_multiplication_x: | [Apostrophe](https://gitlab.gnome.org/somas/apostrophe) | |
 appimagecraft | AppImage builder | :heavy_multiplication_x: | [appimagecraft](https://github.com/TheAssassin/appimagecraft) | |
 appimagelint | AppImage checker | :heavy_multiplication_x: | [appimagelint](https://github.com/TheAssassin/appimagelint) | |
+appimagepool | AppImageHub Client | :heavy_multiplication_x: | [AppImagePool](https://github.com/prateekmedia/appimagepool) | |
 aqemu | [Qemu](#qemu) + KVM GUI | :heavy_check_mark: | | |
 arandr | GUI for xrandr (X settings) | :heavy_check_mark: | | |
 ardour | audio editor | :heavy_check_mark: | | |
