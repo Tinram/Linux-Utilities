@@ -1225,6 +1225,7 @@ valkyrie | GUI for [valgrind](#valgrind) | :heavy_check_mark: | | |
 vbindiff | visual binary file compare | :heavy_check_mark: | | |
 vega | web app tester | :heavy_multiplication_x: | | Java-based |
 vegeta | HTTP load tester | :heavy_multiplication_x: | [vegeta](https://github.com/tsenart/vegeta) | |
+ventoy | create bootable USB drives | :heavy_multiplication_x: | [Ventoy](https://github.com/ventoy/Ventoy) | |
 veracrypt | TrueCrypt replacement | :heavy_multiplication_x: | [VeraCrypt](http://veracrypt.codeplex.com/) | |
 veusz | GUI scientific plotter | :heavy_check_mark: | [Veusz](https://veusz.github.io/) | |
 vidalia | [Tor](#tor) GUI frontend | :heavy_check_mark: | | |
