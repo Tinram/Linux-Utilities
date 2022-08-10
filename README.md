@@ -188,6 +188,7 @@ convertall | unit converter | :heavy_check_mark: | | |
 compiz | window and compositing manager | :heavy_check_mark: | | <a id="compiz"></a> |
 compizconfig-settings-manager | [compiz](#compiz) config settings | :heavy_check_mark: | | screen inverter |
 conky | GUI system monitor | :heavy_check_mark: | | |
+corectrl | hardware profile manager | :heavy_multiplication_x: | [CoreCtrl](https://gitlab.com/corectrl/corectrl) | |
 cpu-g | GUI CPU analyser | :heavy_multiplication_x: | [CPU-G](https://sourceforge.net/projects/cpug/) | |
 cpu-x | GUI CPU/motherboard analyser | :heavy_multiplication_x: | [CPU-X](https://github.com/X0rg/CPU-X) | |
 cpufetch | CLI CPU analyser | :heavy_multiplication_x: | [cpufetch](https://github.com/Dr-Noob/cpufetch) | |
