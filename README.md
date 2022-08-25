@@ -183,7 +183,7 @@ colorgrab | dropper | :heavy_multiplication_x: | [colorgrab](https://github.com/
 colorhug | colorimeter | :heavy_check_mark: | | |
 conduit | sync tool for GNOME (files, bookmarks) | :heavy_check_mark: | | |
 contextfree | image generator | :heavy_check_mark: | | |
-converseen | batch image converter/resizer | :heavy_check_mark: | [Converseen](https://sourceforge.net/projects/converseen/) | GUI for [ImageMagick](#imagemagick) |
+converseen | batch image manipulator | :heavy_check_mark: | [Converseen](https://sourceforge.net/projects/converseen/) | GUI for [ImageMagick](#imagemagick) |
 convertall | unit converter | :heavy_check_mark: | | |
 compiz | window and compositing manager | :heavy_check_mark: | | <a id="compiz"></a> |
 compizconfig-settings-manager | [compiz](#compiz) config settings | :heavy_check_mark: | | screen inverter |
@@ -363,6 +363,7 @@ flac | FLAC tools | :heavy_check_mark: | | |
 flameshot | screenshot tool | :heavy_multiplication_x: | [flameshot](https://github.com/lupoDharkael/flameshot) | |
 flashlight | auto info tool for pen tests | :heavy_multiplication_x: | [flashlight](https://github.com/galkan/flashlight) | |
 flasm | dis/assembler for Flash bytecode | :heavy_check_mark: | | |
+flatseal | GUI Flatpak permissions manager | :heavy_multiplication_x: | [Flatseal](https://github.com/tchx84/flatseal) | |
 flawfinder | C/C++ code checker | :heavy_check_mark: | | simpler than [splint](#splint) |
 flif | free lossless image format encoder | :heavy_multiplication_x: | [FLIF](https://github.com/FLIF-hub/FLIF) | <a id="flif"></a> |
 flifcrush | [FLIF](#flif) image optimiser | :heavy_multiplication_x: | [flifcrush](https://github.com/matthiaskrgr/flifcrush) | <a id="flif"></a> |
@@ -635,6 +636,7 @@ komodoedit | code editor | :heavy_multiplication_x: | | |
 krita | image editor | :heavy_check_mark: | [Krita](krita.org) | hand-drawn focus |
 krop | PDF cropper/editor | :heavy_multiplication_x: | [Krop](http://arminstraub.com/software/krop) | |
 ksnip | snipping tool | :heavy_multiplication_x: | [ksnip](https://github.com/DamirPorobic/ksnip) | |
+kst | data plotting tool | :heavy_check_mark: | [Kst](https://kst-plot.kde.org/) | `kst2` |
 kwipe | data eraser | :heavy_multiplication_x: | [KWipe](https://www.linux-apps.com/p/1127891) [repo](https://github.com/PyCoder/KWipe) | partition emphasis |
 lamaperia | printable maps from OpenStreetMap | :heavy_multiplication_x: | [Lamaperia](https://github.com/federicomenaquintero/lamaperia) | |
 lame | MP3 encoder | :heavy_check_mark: | | |
