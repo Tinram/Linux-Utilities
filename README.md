@@ -62,7 +62,7 @@ arista | media converter | :heavy_check_mark: | [Arista Transcoder](http://trans
 arp-scan | ARP scanner/fingerprinting | :heavy_check_mark: | | |
 arpwatch | Ethernet MAC address monitor | :heavy_check_mark: | | |
 artha | offline thesaurus | :heavy_check_mark: | | |
-asciinema | CLI activity recorder | :heavy_check_mark: | [asciinema](http://asciinema.org/) [repo](https://github.com/asciinema/asciinema) | `asciinema rec >> exit` |
+asciinema | terminal activity recorder | :heavy_check_mark: | [asciinema](https://asciinema.org/) [repo](https://github.com/asciinema/asciinema) | `asciinema rec >> exit` |
 astyle | code formatter | :heavy_check_mark: | [Artistic Style](http://astyle.sourceforge.net/) | C/C++/Java; good for other langs too |
 asunder | CD ripper | :heavy_check_mark: | [Asunder](http://littlesvr.ca/asunder/) | |
 athena-jot | data generator | :heavy_check_mark: | | |
@@ -328,7 +328,7 @@ ethr | network performance analyser | :heavy_multiplication_x: | [ethr](https://
 etm | event and task manager | :heavy_multiplication_x: | [ETM](http://people.duke.edu/~dgraham/etmqt/) | |
 exa | colourful `ls` replacement | :heavy_multiplication_x: | [Exa](https://the.exa.website/) [repo](https://github.com/ogham/exa) | |
 exelearning | authoring tool | :heavy_multiplication_x: | [eXeLearning](http://exelearning.net/) | pps:exelearning/exelearning |
-exiftool | edit EXIF data | :heavy_check_mark: | [EXIFtool](http://sno.phy.queensu.ca/~phil/exiftool/) | |
+exiftool | edit EXIF data | :heavy_check_mark: | [EXIFtool](https://exiftool.org/) | |
 exiv2 | EXIF/metadata editor | :heavy_check_mark: | | |
 exmplayer | GUI for MPlayer | :heavy_check_mark: | | |
 extundelete | recover deleted files | :heavy_check_mark: | | |
