@@ -62,7 +62,7 @@ arista | media converter | :heavy_check_mark: | [Arista Transcoder](http://trans
 arp-scan | ARP scanner/fingerprinting | :heavy_check_mark: | | |
 arpwatch | Ethernet MAC address monitor | :heavy_check_mark: | | |
 artha | offline thesaurus | :heavy_check_mark: | | |
-asciinema | terminal activity recorder | :heavy_check_mark: | [asciinema](https://asciinema.org/) [repo](https://github.com/asciinema/asciinema) | `asciinema rec >> exit` |
+asciinema | terminal recorder | :heavy_check_mark: | [asciinema](https://asciinema.org/) [repo](https://github.com/asciinema/asciinema) | `asciinema rec >> exit` |
 astyle | code formatter | :heavy_check_mark: | [Artistic Style](http://astyle.sourceforge.net/) | C/C++/Java; good for other langs too |
 asunder | CD ripper | :heavy_check_mark: | [Asunder](http://littlesvr.ca/asunder/) | |
 athena-jot | data generator | :heavy_check_mark: | | |
@@ -1194,6 +1194,7 @@ tshark | CLI [Wireshark](#wireshark) | :heavy_check_mark: | | |
 tsung | HTTP benchmark and database tester | :heavy_check_mark: | [TSung](http://tsung.erlang-projects.org) | sophisticated |
 tt-rss | tiny tiny RSS | :heavy_check_mark: | | |
 ttf-mscorefonts-installer | Microsoft TTF fonts | :heavy_check_mark: | | |
+tuc | improved `cut` | :heavy_multiplication_x: | [tuc](https://github.com/riquito/tuc) | |
 tuptime | historical (total) uptime | :heavy_check_mark: | | |
 tuxguitar | music app including scoresheet | :heavy_check_mark: | [Tuxguitar](http://tuxguitar.herac.com.ar) | |
 typora | Markdown/Mermaid editor | :heavy_check_mark: | [Typora](https://typora.io/) | |
