@@ -711,6 +711,7 @@ meshroom | 3D photogrammetry/reconstruction | :heavy_multiplication_x: | [meshro
 metadata cleaner | metadata wiper | :heavy_multiplication_x: | [Metadata Cleaner](https://gitlab.com/rmnvgr/metadata-cleaner) | uses `mat2` |
 micro | CLI editor | :heavy_multiplication_x: | [micro](https://micro-editor.github.io/) [repo](https://github.com/zyedidia/micro) | |
 midori | lightweight browser | :heavy_check_mark: | | |
+miller | terminal CSV viewer/processor | :heavy_multiplication_x: | [miller](https://github.com/johnkerl/miller) | |
 mindforger | Markdown notebook/IDE | :heavy_multiplication_x: | [mindforger](http://mindforger.com/) | |
 minitube | native YouTube client | :heavy_check_mark: | | |
 minuet | music trainer | :heavy_multiplication_x: | [minuet](https://github.com/KDE/minuet) | |
