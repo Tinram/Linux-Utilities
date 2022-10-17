@@ -629,6 +629,7 @@ keepassxc | password vault | :heavy_multiplication_x: | [KeePassXC](https://keep
 kerkythea | renderer | :heavy_multiplication_x: | [Kerkythea](http://www.kerkythea.net/cms/) | |
 kexi | database GUI (MySQL/[SQLite](#sqlite3)/[PostgreSQL](#postgresql)) | :heavy_multiplication_x: | [Kexi](http://kexi-project.org/) | |
 kismet | wireless sniffer/monitor | :heavy_check_mark: | | |
+kmon | TUI kernel module manager | :heavy_multiplication_x: | [kmon](https://github.com/orhun/kmon) | |
 knock | subdomain scanner | :heavy_multiplication_x: | [knock](https://github.com/guelfoweb/knock) | |
 knotter | Celtic knot app | :heavy_multiplication_x: | [Knotter](https://sourceforge.net/projects/knotter/) [info](http://knotter.mattbas.org/Knotter) | |
 kolormanager | X colour calibration | :heavy_multiplication_x: | [KolorManager](http://oyranos.org/kolormanager) | |
@@ -1203,7 +1204,7 @@ uberwriter | Markdown editor | :heavy_multiplication_x: | [UberWriter](http://ub
 ubuntu-tweak | Ubuntu config tool | :heavy_check_mark: | | use `apt` |
 udptunnel | tunnel UDP over TCP | :heavy_check_mark: | | |
 ugui_flif | GUI for [FLIF](#flif) | :heavy_multiplication_x: | [UGUI_FLIF](https://github.com/FLIF-hub/UGUI_FLIF) | |
-ufraw | RAW importer | :heavy_check_mark: | | |
+ufraw | RAW processor | :heavy_check_mark: | [UFRaw](https://ufraw.sourceforge.net/) | |
 uftrace | C program tracer | :heavy_check_mark: | | |
 ufw | firewall | :heavy_check_mark: | | <a id="ufw"></a> |
 ugrep | advanced `grep` | :heavy_check_mark: | [ugrep](https://github.com/Genivia/ugrep) | |
@@ -1240,6 +1241,7 @@ vinagre | GNOME remote desktop client | :heavy_check_mark: | | |
 vinetto | interrogate thumbs.db files | :heavy_check_mark: | | |
 virt-manager | GUI VM manager | :heavy_check_mark: | [virt-manager](https://virt-manager.org/) | good options range; still 'experimental' |
 virtualbox | virtual machines | :heavy_check_mark: | [Virtual Box](https://www.virtualbox.org/) | GPU acceleration |
+vizex | disk usage visualiser | :heavy_multiplication_x: | [vizex](https://github.com/bexxmodd/vizex) | |
 visual studio code | code editor/IDE | :heavy_multiplication_x: | [Visual Studio Code](http://code.visualstudio.com/) | also [vscodium](#vscodium) and a [snap](https://snapcraft.io/code) |
 vivaldi | highly-customisable browser | :heavy_multiplication_x: | [Vivaldi](https://vivaldi.com/) | |
 vmware | virtual machines | :heavy_check_mark: | | GPU acceleration |
