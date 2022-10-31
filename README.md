@@ -90,6 +90,7 @@ backerupper | *tar.gz* backups | :heavy_multiplication_x: | [Backerupper](https:
 backintime | backup tool | :heavy_check_mark: | [backintime](https://github.com/bit-team/backintime) | |
 bacon | BASIC to C converter | :heavy_multiplication_x: | [BaCon](http://www.basic-converter.org/) | |
 bacula | backup | :heavy_check_mark: | | |
+bandwhich | TUI bandwidth utilisation | :heavy_multiplication_x: | [bandwhich](https://github.com/imsnif/bandwhich) | |
 bandwidthd | track network usage | :heavy_check_mark: | | HTML/image output|
 bashate | Bash script linter | :heavy_check_mark: | | |
 bashtop | resource monitor | :heavy_multiplication_x: | [bashtop](https://github.com/aristocratos/bashtop) | see [bpytop](#bpytop) |
@@ -295,7 +296,7 @@ dtrx | archive viewer/unpacker | :heavy_check_mark: | | |
 duc | TUI/GUI disk usage analyser | :heavy_check_mark: | [Duc](https://duc.zevv.nl/) [repo](https://github.com/zevv/duc) | use `apt` |
 duf | disk usage monitor | :heavy_multiplication_x: | [duf](https://github.com/muesli/duf) | |
 dukto | LAN transfer tool | :heavy_multiplication_x: | [dukto](https://github.com/guilhem/dukto) | |
-dupeguru | duplicate file finder | :heavy_multiplication_x: | [dupeguru](https://github.com/arsenetar/dupeguru) | |
+dupeguru | duplicate file finder | :heavy_multiplication_x: | [dupeGuru](https://dupeguru.voltaicideas.net/) [repo](https://github.com/arsenetar/dupeguru) | |
 duplicity | encrypted backup | :heavy_check_mark: | [Duplicity](http://duplicity.nongnu.org/) | built on `rsync` <a id="duplicity"></a> |
 dvdbackup | DVD ripper | :heavy_check_mark: | | |
 e4defrag | ext4 defragger | :heavy_multiplication_x: | | |
@@ -1021,6 +1022,7 @@ rtgen | rainbow table generator | :heavy_multiplication_x: | | `rtgen md5 lowera
 ruby | Ruby interpreter | :heavy_check_mark: | | `irb` |
 rustbuster | web fuzzer | :heavy_multiplication_x: | [rustbuster](https://github.com/phra/rustbuster) | |
 rustc | Rust compiler | :heavy_multiplication_x: | | |
+rymdport | encrypted file sharing | :heavy_multiplication_x: | [rymdport](https://github.com/Jacalz/rymdport) | |
 s-tui | CLI hardware monitor | :heavy_multiplication_x: | [s-tui](https://github.com/amanusk/s-tui/releases) | |
 samhain | IDS | :heavy_check_mark: | | |
 sampler | CLI visualisation tool | :heavy_multiplication_x: | [sampler](https://github.com/sqshq/sampler) | |
