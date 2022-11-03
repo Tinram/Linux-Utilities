@@ -495,6 +495,7 @@ gpa | GUI for [GnuPG](#gpg) | :heavy_check_mark: | | |
 gparted | view/manage partitions | :heavy_check_mark: | | |
 gpgdir | encrypt directories | :heavy_check_mark: | | |
 gpgit | CLI [GnuPG](#gpg) file encryption simplified | :heavy_multiplication_x: | [GPGit](https://github.com/Tinram/GPGit) | |
+gpg-tui | TUI [GnuPG](#gpg) manager | :heavy_multiplication_x: | [gpg-tui](https://blog.orhun.dev/introducing-gpg-tui/) [repo](https://github.com/orhun/gpg-tui) | |
 gphoto2 | CLI digital camera processor | :heavy_check_mark: | | |
 gpick | screen colour pick/palette/inverter | :heavy_check_mark: | | <a id="gpick"></a> |
 gping | CLI visual ping host | :heavy_multiplication_x: | [gping](https://github.com/orf/gping) | |
