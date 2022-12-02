@@ -1235,7 +1235,7 @@ valkyrie | GUI for [valgrind](#valgrind) | :heavy_check_mark: | | |
 vbindiff | visual binary file compare | :heavy_check_mark: | | |
 vega | web app tester | :heavy_multiplication_x: | | Java-based |
 vegeta | HTTP load tester | :heavy_multiplication_x: | [vegeta](https://github.com/tsenart/vegeta) | |
-ventoy | create bootable USB drives | :heavy_multiplication_x: | [Ventoy](https://github.com/ventoy/Ventoy) | |
+ventoy | create bootable USB drives | :heavy_multiplication_x: | [Ventoy](https://ventoy.net) [repo](https://github.com/ventoy/Ventoy) | |
 veracrypt | TrueCrypt replacement | :heavy_multiplication_x: | [VeraCrypt](http://veracrypt.codeplex.com/) | |
 veusz | GUI scientific plotter | :heavy_check_mark: | [Veusz](https://veusz.github.io/) | |
 vidalia | [Tor](#tor) GUI frontend | :heavy_check_mark: | | |
@@ -1339,6 +1339,7 @@ youtube-dl-gui | youtube-dl GUI | :heavy_multiplication_x: | [youtube-dl-gui](ht
 yersinia | network vulnerability checker | :heavy_check_mark: | | |
 zabbix | network monitoring package | :heavy_check_mark: | | |
 zap | zed attack proxy | :heavy_multiplication_x: | | web app vulnerabilities |
+zbar-tools | QR and barcode utilities | :heavy_check_mark: | | `zbarimg` |
 zeal | programming language docs browser | :heavy_check_mark: | [Zeal](https://github.com/zealdocs/zeal) | |
 zeit | GUI for *at* and *cron* | :heavy_multiplication_x: | [zeit](https://bitbucket.org/blaze/zeit) | |
 zenith | TUI system monitor | :heavy_multiplication_x: | [zenith](https://github.com/bvaisvil/zenith) | |
