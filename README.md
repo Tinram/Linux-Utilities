@@ -688,6 +688,7 @@ lynis | security auditor | :heavy_check_mark: | [Lynis](https://cisofy.com/lynis
 lyx | Latex WYSIWYG | :heavy_check_mark: | | 500MB |
 lzop | fast compression | :heavy_check_mark: | | |
 macchanger | spoof network card MAC | :heavy_check_mark: | | |
+macchina | system info | :heavy_multiplication_x: | [Macchina](https://github.com/Macchina-CLI/macchina) | |
 magicrescue | file recovery by filetype/header bytes | :heavy_check_mark: | | |
 magic-wormhole | secure file transfer | :heavy_multiplication_x: | [magic-wormhole](https://github.com/warner/magic-wormhole) | |
 mailutils | mail utilities | :heavy_check_mark: | | |
