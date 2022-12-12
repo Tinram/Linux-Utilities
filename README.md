@@ -749,6 +749,7 @@ mysql | MySQL database | :heavy_check_mark: | | <a id="mysql"></a> |
 mysql-utilities | MySQL | :heavy_check_mark: | | |
 mysql-workbench | MySQL | :heavy_check_mark: | | |
 mysqldiffchecker | MySQL instances diff | :heavy_multiplication_x: | [mysqlDiffChecker](https://github.com/kenken0807/mysqlDiffChecker) | |
+mysql-shell | mysqlsh | :heavy_check_mark: | | |
 mysqlshell-plugins | MySQL Shell Plugins | :heavy_multiplication_x: | [mysqlshell-plugins](https://github.com/lefred/mysqlshell-plugins/) | |
 mysqltuner | mysqld settings analyser | :heavy_check_mark: | [mysqltuner](https://raw.githubusercontent.com/major/MySQLTuner-perl/master/mysqltuner.pl) | |
 mystatusgo | MySQL monitoring tool | :heavy_multiplication_x: | [myStatusgo](https://github.com/kenken0807/myStatusgo) | |
@@ -1271,6 +1272,7 @@ wbox | HTTP testing tool and config-less HTTP server | :heavy_check_mark: | | |
 wdiff | word diff | :heavy_check_mark: | | extended diff |
 webcamoid | webcam tool | :heavy_multiplication_x: | [Webcamoid](http://webcamoid.github.io/) | |
 weborf | HTTP network file sharing | :heavy_check_mark: | [weborf](https://github.com/ltworf/weborf) | |
+webp | webp-pixbuf-loader | :heavy_check_mark: | | |
 webshag | web server auditor | :heavy_multiplication_x: | | |
 webslayer | web app brute-forcer | :heavy_multiplication_x: | | |
 wfuzz | web app brute-forcer | :heavy_check_mark: | [wfuzz](https://github.com/xmendez/wfuzz) | <a id="wfuzz"></a> |
