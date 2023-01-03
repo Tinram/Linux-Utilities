@@ -110,6 +110,7 @@ bit | [Git](#git) CLI client | :heavy_multiplication_x: | [bit](https://github.c
 blast | API load tester | :heavy_multiplication_x: | [blast](https://github.com/dave/blast) | |
 bleachbit | system cleaner | :heavy_check_mark: | | |
 bless | GUI hex editor | :heavy_check_mark: | | |
+blip | MySQL monitor | :heavy_multiplication_x: | [blip](https://cashapp.github.io/blip/) [repo](https://github.com/cashapp/blip) | |
 bluelog | Bluetooth scanner | :heavy_multiplication_x: | | |
 blueman | GUI for Bluetooth | :heavy_check_mark: | | |
 bluemon | de/activate programs on Bluetooth link quality | :heavy_check_mark: | | |
