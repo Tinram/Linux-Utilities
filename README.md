@@ -322,7 +322,7 @@ ent | entropy checker | :heavy_check_mark: | | |
 entr | trigger actions on file change | :heavy_check_mark: | [Entr](http://entrproject.org/) | |
 eqonmize | financial app | :heavy_multiplication_x: | [Eqonmize](https://github.com/Eqonomize/Eqonomize) | |
 eric | Python IDE | :heavy_check_mark: | [Eric](https://eric-ide.python-projects.org/) | |
-espeak | audio speaker + GUIs | :heavy_check_mark: | | GUI is [gespeaker](#gespeaker) <a id="espeak"></a> |
+espeak | text speaker + GUIs | :heavy_check_mark: | | GUI is [gespeaker](#gespeaker) <a id="espeak"></a> |
 etcher | ISO to USB | :heavy_multiplication_x: | [Etcher](https://etcher.io/) [repo](https://github.com/resin-io/etcher) | Chrome-bloated |
 etckeeper | version control of */etc* | :heavy_check_mark: | | |
 etherape | GUI network monitor | :heavy_check_mark: | | |
@@ -815,7 +815,7 @@ ntop | top network users | :heavy_check_mark: | | |
 nuttcp | network performance measurement | :heavy_check_mark: | | |
 nutty | network utility | :heavy_multiplication_x: | [Nutty](https://launchpad.net/nutty) [repo](https://github.com/babluboy/nutty) | ppa:bablu-boy/nutty.0.1 |
 nvidia-smi | NVidia GPU management CLI | :heavy_multiplication_x: | | |
-nvtop | NVidia GPU 'top' | :heavy_multiplication_x: | [nvtop](https://github.com/Syllo/nvtop) | |
+nvtop | GPU monitor | :heavy_multiplication_x: | [nvtop](https://github.com/Syllo/nvtop) | |
 obnam | incremental daily backups with SFTP/[GnuPG](#gpg) support | :heavy_check_mark: | | |
 obs | video recording/livestreaming | :heavy_multiplication_x: | [OBS](https://obsproject.com/) | |
 obsidian | Markdown mindmap tool | :heavy_multiplication_x: | [obsidian](https://obsidian.md/) | |
@@ -1171,7 +1171,9 @@ tesseract-ocr | OCR processor | :heavy_check_mark: | | |
 texmaker | LaTeX editor | :heavy_check_mark: | | |
 textadept | minimalist cross-platform text editor | :heavy_multiplication_x: | [Textadept](https://foicica.com/textadept/) | |
 textosaurus | text editor (Qt/Scintilla) | :heavy_multiplication_x: | [textosaurus](https://github.com/martinrotter/textosaurus) | |
+texttospeech | text speaker | :heavy_multiplication_x: | [texttospeech](https://gitlab.com/posktomten/texttospeech/) | |
 thonny | Python editor/IDE | :heavy_check_mark: | [Thonny](https://thonny.org/) | |
+thorium | lighter faster *Chromium* | :heavy_multiplication_x: | [thorium](https://thorium.rocks/) | |
 tkdiff | GUI for diff | :heavy_multiplication_x: | [tkdiff](https://sourceforge.net/projects/tkdiff/) | |
 tig | CLI [Git](#git) info viewer | :heavy_check_mark: | | |
 tiger | report root vulnerabilities | :heavy_check_mark: | | |
