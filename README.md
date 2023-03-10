@@ -303,7 +303,7 @@ duplicity | encrypted backup | :heavy_check_mark: | [Duplicity](http://duplicity
 dvdbackup | DVD ripper | :heavy_check_mark: | | |
 e4defrag | ext4 defragger | :heavy_multiplication_x: | | |
 earlyoom | faster OOM | :heavy_check_mark: | [earlyoom](https://github.com/rfjakob/earlyoom) | |
-easyeffects | equalizer| :heavy_check_mark: | [easyeffects](https://github.com/wwmm/easyeffects) | revamped *PulseEffects* |
+easyeffects | equalizer | :heavy_check_mark: | [easyeffects](https://github.com/wwmm/easyeffects) | revamped *PulseEffects* |
 easy-rsa | certificate generator | :heavy_check_mark: | [repo](https://github.com/OpenVPN/easy-rsa) [doc](https://easy-rsa.readthedocs.io/en/latest/) [AW](https://wiki.archlinux.org/index.php/Easy-RSA) | OpenVPN etc |
 easyssh | GUI SSH connection manager | :heavy_multiplication_x: | [easyssh](https://github.com/muriloventuroso/easyssh) | |
 edotool | input device activity simulator | :heavy_multiplication_x: | [edotool](https://github.com/evuraan/edotool) | |
@@ -1229,6 +1229,7 @@ unoconv | Microsoft Office *.doc* converter | :heavy_multiplication_x: | [Unocon
 unshield | extract *.cab* files from InstallShield | :heavy_check_mark: | | |
 unsnap | migrate Snap to Flatpak | :heavy_multiplication_x: | [unsnap](https://github.com/popey/unsnap) | |
 unsort | jumbles lines in file | :heavy_check_mark: | | |
+upscayl | image upscaler | :heavy_multiplication_x: | [upscayl](https://upscayl.github.io/) | |
 urlwatch | webpage update monitor | :heavy_check_mark: | | |
 usbimager | leightweight USB image writer | :heavy_multiplication_x: | [usbimager](https://gitlab.com/bztsrc/usbimager) | |
 usbview | GUI `lsusb` | :heavy_check_mark: | [usbview](https://github.com/gregkh/usbview) | |
