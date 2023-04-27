@@ -308,7 +308,7 @@ easy-rsa | certificate generator | :heavy_check_mark: | [repo](https://github.co
 easyssh | GUI SSH connection manager | :heavy_multiplication_x: | [easyssh](https://github.com/muriloventuroso/easyssh) | |
 edotool | input device activity simulator | :heavy_multiplication_x: | [edotool](https://github.com/evuraan/edotool) | |
 efiboots | boot manager | :heavy_multiplication_x: | [efiboots](https://github.com/Elinvention/efiboots) | |
-eiciel | GUI ACL editor | :heavy_check_mark: | [Eiciel](http://rofi.roger-ferrer.org/eiciel/) | |
+eiciel | GUI ACL editor | :heavy_check_mark: | [Eiciel](http://rofi.roger-ferrer.org/eiciel/) [repo](https://github.com/rofirrim/eiciel) | |
 eko | audio editor | :heavy_multiplication_x: | [Eko](http://semiletov.org/eko/) | |
 elfparser | ELF analyser | :heavy_multiplication_x: | [ELF parser](http://elfparser.com/download.html) [repo](https://github.com/jacob-baines/elfparser) | |
 elfutils | ELF utilities | :heavy_check_mark: | | |
