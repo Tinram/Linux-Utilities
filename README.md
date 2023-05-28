@@ -248,6 +248,7 @@ deen | data en-/decoding | :heavy_multiplication_x: | [deen](https://github.com/
 deja-dup | GUI backup tool using [duplicity](#duplicity) | :heavy_check_mark: | [DejaDup](https://wiki.gnome.org/Apps/DejaDup) | [GnuPG](#gpg) encryption, no compression |
 delve | Go debugger | :heavy_multiplication_x: | [delve](https://github.com/go-delve/delve) | |
 denyhosts | SSH protection | :heavy_check_mark: | | |
+desktop-files-creator | .desktop file creator | :heavy_multiplication_x: | [desktop-files-creator](https://github.com/alexkdeveloper/desktop-files-creator) | |
 devicesinlan | LAN scanner | :heavy_multiplication_x: | [DevicesInLAN](https://sourceforge.net/projects/devicesinlan/) | |
 devilspie2 | run script upon window interaction | :heavy_check_mark: | [Devilspie2](http://gusnan.se/devilspie2/) | |
 devede | create DVDs/DVD menus | :heavy_check_mark: | | |
@@ -514,7 +515,7 @@ grsynch | GUI for `rsync` | :heavy_check_mark: | [Grsynch](https://sourceforge.n
 grub-customizer | GUI GRUB editor | :heavy_multiplication_x: | [GRUB customizer](https://launchpad.net/grub-customizer) | |
 grv | CLI Git repo viewer | :heavy_multiplication_x: | [GRV](https://github.com/rgburke/grv) | |
 gscan2pdf | PDFs from scans | :heavy_check_mark: | | |
-gsconnect | Android connector | :heavy_multiplication_x: | [gsconnect](https://github.com/andyholmes/gnome-shell-extension-gsconnect) | |
+gsconnect | Android connector | :heavy_multiplication_x: | [GSConnect](https://github.com/GSConnect) | |
 gsettings | GNOME config CLI tool | :heavy_check_mark: | | |
 gsmartcontrol | GUI for `smartctl` | :heavy_check_mark: | | |
 gstm | GNOME SSH tunnel manager | :heavy_check_mark: | | |
@@ -1033,6 +1034,7 @@ samhain | IDS | :heavy_check_mark: | | |
 sampler | CLI visualisation tool | :heavy_multiplication_x: | [sampler](https://github.com/sqshq/sampler) | |
 sane | document scan tools | :heavy_check_mark: | | |
 sane-airscan | SANE network scanner | :heavy_multiplication_x: | [sane-airscan](https://github.com/alexpevzner/sane-airscan) | |
+savedesktop | desktop config save | :heavy_multiplication_x: | [SaveDesktop](https://github.com/vikdevelop/SaveDesktop) | |
 sbackup | simple backup | :heavy_check_mark: | | |
 scalpel | file recovery/data carver | :heavy_check_mark: | [scalpel](https://github.com/sleuthkit/scalpel) | |
 scamper | network measurement tool | :heavy_check_mark: | | |
