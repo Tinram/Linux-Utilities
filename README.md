@@ -119,6 +119,7 @@ bluez | Bluetooth tools | :heavy_check_mark: | | |
 bmon | bandwidth monitor | :heavy_check_mark: | | |
 bonzomatic | shader coding tool | :heavy_multiplication_x: | [Bonzomatic](https://github.com/Gargaj/Bonzomatic) | |
 bookworm | eBook reader | :heavy_multiplication_x: | [Bookworm](https://babluboy.github.io/bookworm/) | |
+boostchanger | CPU controller | :heavy_multiplication_x: | [boostchanger](https://github.com/nbebaw/boostchanger) | |
 bootchart | boot time analyser | :heavy_check_mark: | | |
 bootiso | ISO to USB booter | :heavy_multiplication_x: | [bootiso](https://github.com/jsamr/bootiso) | |
 borgbackup | CLI backup tool | :heavy_check_mark: | | uses compression and encryption |
@@ -356,6 +357,7 @@ filefrag | file defragger | :heavy_multiplication_x: | | |
 fileverifier | verify files | :heavy_multiplication_x: | | |
 filezilla | FTP/SFTP | :heavy_check_mark: | | |
 filezillasecure | Filezilla fork: multithreading | :heavy_multiplication_x: | [FileZillaSecure](http://www.filezillasecure.com/) | no plaintext passwords version |
+finch | MySQL benchmarker | :heavy_multiplication_x: | [finch](https://github.com/square/finch) | |
 findimagedupes | duplicate image finder | :heavy_check_mark: | | |
 findmyhash | query multiple websites for hash | :heavy_multiplication_x: | [findmyhash](https://github.com/Talanor/findmyhash) | |
 fio | flexible I/O tester | :heavy_check_mark: | | | <a id="fio"></a>
@@ -867,7 +869,7 @@ pdfgrep | PDF search | :heavy_check_mark: | [PDFgrep](https://pdfgrep.org/) |
 pdfmod | PDF editor | :heavy_check_mark: | | simple but good: edit meta data, remove page, extract page |
 pdfresurrect | PDF analyser | :heavy_multiplication_x: | [pdfresurrect](https://github.com/enferex/pdfresurrect) | |
 pdnsd | proxy DNS server | :heavy_check_mark: | | |
-pdfmixtool | PDF editor | :heavy_multiplication_x: | [pdfmixtool](https://gitlab.com/scarpetta/pdfmixtool) | |
+pdfmixtool | PDF editor | :heavy_multiplication_x: | [pdfmixtool](https://scarpetta.eu/pdfmixtool/) [repo](https://gitlab.com/scarpetta/pdfmixtool) | |
 pdftk | PDF tool | :heavy_check_mark: | | |
 pdftotext | PDF to text | :heavy_check_mark: | | in *poppler-utils* |
 peazip | multi-zip GUI and converter | :heavy_multiplication_x: | [PeaZip](https://sourceforge.net/projects/peazip/) | |
@@ -1013,7 +1015,7 @@ regexxer | file regex view and replace | :heavy_check_mark: | | |
 richochet | [Tor](#tor) chat | :heavy_multiplication_x: | [richochet](https://ricochet.im/) | |
 rig | random person id generator | :heavy_check_mark: | | |
 rkhunter | rootkit hunter | :heavy_check_mark: | | |
-rmlint | duplicate file remover | :heavy_multiplication_x: | [rmlint](https://github.com/sahib/rmlint) | |
+rmlint | dups and cruft remover | :heavy_multiplication_x: | [rmlint](https://rmlint.readthedocs.io/en/master/) [repo](https://github.com/sahib/rmlint) | |
 rnd64 | multi-threaded random data generator | :heavy_multiplication_x: | [RND64](https://github.com/Tinram/RND64) | |
 rng-tools | daemon to use hardware TRNG | :heavy_check_mark: | | includes `rngtest` |
 rooster | CLI password manager | :heavy_multiplication_x: | [rooster](https://github.com/conradkdotcom/rooster) | `scrypt`, AES-256, HMAC-SHA256 |
