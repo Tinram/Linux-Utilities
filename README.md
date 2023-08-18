@@ -284,6 +284,7 @@ docker-doc | [Docker](#docker) documentation | :heavy_check_mark: | | |
 docker-registry | | :heavy_check_mark: | | |
 dog | DNS tool | :heavy_check_mark: | [dog](https://dns.lookup.dog/) | |
 doggo | DNS tool | :heavy_multiplication_x: | [doggo](https://github.com/mr-karan/doggo) | |
+dolphie | MySQL monitor | :heavy_multiplication_x: | [dolphie](https://pypi.org/project/dolphie/) [repo](https://github.com/charles-001/dolphie) | |
 doona | daemon vulnerability | :heavy_multiplication_x: | | |
 dos2unix | convert EOL chars | :heavy_check_mark: | | [tofromdos](#tofromdos) may be better |
 downtimed | downtime monitor | :heavy_check_mark: | | |
@@ -679,6 +680,7 @@ lm-sensors | for `sensors` | :heavy_check_mark: | | |
 lmms | audio editor | :heavy_check_mark: | | |
 ln | vector image generator | :heavy_multiplication_x: | [ln](https://github.com/fogleman/ln) | |
 lnav | logfile reader with colour | :heavy_check_mark: | [lnav](http://lnav.org/) | |
+localsend | file transfer | :heavy_multiplication_x: | [LocalSend](https://localsend.org/) | |
 log2ram | RAM logger | :heavy_multiplication_x: | [log2ram](https://github.com/azlux/log2ram) | |
 logcheck | logfile alerter | :heavy_check_mark: | | |
 logisim | digital circuit designer | :heavy_multiplication_x: | [Logisim](https://sourceforge.net/projects/circuit/) | |
@@ -1114,6 +1116,7 @@ srm | secure file deletion | :heavy_multiplication_x: | [SRM](https://sourceforg
 ssldump | SSLv3/TLS network protocol analyser | :heavy_check_mark: | | |
 sshguard | SSH brute-force protection | :heavy_check_mark: | [SSHGuard](http://www.sshguard.net/) | more intelligent than [fail2ban](#fail2ban) |
 sslscan | SSL scanner | :heavy_check_mark: | | |
+ssh-audit | SSH config analyser | :heavy_multiplication_x: | [ssh-audit](https://github.com/jtesta/ssh-audit) | |
 sshfs | mount remote filesystem | :heavy_check_mark: | | GNOME already does this through gvfs |
 sshpass | send password to SCP etc from script | :heavy_check_mark: | | |
 sshsysmon | server monitoring via SSH | :heavy_multiplication_x: | [SshSysMon](https://sshsysmon.zdyn.net/) [repo](https://github.com/zix99/sshsysmon) | |
@@ -1226,7 +1229,7 @@ uncrustify | code formatter | :heavy_check_mark: | | |
 unetbootin | ISO to USB boot | :heavy_check_mark: | | |
 unhide | find hidden processes | :heavy_check_mark: | | |
 unhtml | remove HTML tags from file | :heavy_check_mark: | | |
-unison | CLI file sync tool | :heavy_check_mark: | | Windows to Linux too |
+unison | CLI file sync tool | :heavy_check_mark: | [unison](https://github.com/bcpierce00/unison) | |
 unison-gtk | GUI for unison | :heavy_check_mark: | | |
 units | CLI unit converter | :heavy_check_mark: | | |
 unoconv | Microsoft Office *.doc* converter | :heavy_multiplication_x: | [Unoconv](http://dag.wiee.rs/home-made/unoconv/) | |
