@@ -435,6 +435,7 @@ gddrescue | `dd` drive/data recovery | :heavy_check_mark: | [ddrescue-gui](https
 gdm | GNOME display manager | :heavy_check_mark: | | |
 gdmap | visual HDD space usage | :heavy_check_mark: | | |
 geany | code editor/IDE | :heavy_check_mark: | | |
+gearlever | AppImage manager | :heavy_multiplication_x: | [gearlever](https://github.com/mijorus/gearlever) | |
 genisoimage | create CD/DVD images | :heavy_check_mark: | | |
 gespeaker | GUI for [eSpeak](#espeak) | :heavy_check_mark: | | <a id="gespeaker"></a> |
 gethead | HTTP header vulnerability tool | :heavy_multiplication_x: | [gethead](https://github.com/httphacker/gethead) | |
@@ -677,6 +678,7 @@ linuxrespin | distro builder | :heavy_multiplication_x: | [Linux Respin](http://
 lives | video editor | :heavy_check_mark: | | requires <a href="#x264">x264</a>, *gpac* for decent output |
 lldpd | LLDP discovery daemon | :heavy_check_mark: | | discover LAN switches etc, `lldpctl`, `lldpcli` |
 lm-sensors | for `sensors` | :heavy_check_mark: | | |
+lms | login manager settings | :heavy_multiplication_x: | [lms](https://gdm-settings.github.io/) | |
 lmms | audio editor | :heavy_check_mark: | | |
 ln | vector image generator | :heavy_multiplication_x: | [ln](https://github.com/fogleman/ln) | |
 lnav | logfile reader with colour | :heavy_check_mark: | [lnav](http://lnav.org/) | |
