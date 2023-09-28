@@ -659,6 +659,7 @@ lcrack | password cracker | :heavy_check_mark: | | |
 lepton | JPG compressor | :heavy_multiplication_x: | [lepton](https://github.com/dropbox/lepton) | |
 lftp | CLI FTP | :heavy_check_mark: | | |
 libmarkdown-php | Markdown library | :heavy_check_mark: | | |
+libre-menu-editor | desktop menu editor | :heavy_multiplication_x: | [libre-menu-editor](https://codeberg.org/libre-menu-editor/libre-menu-editor) | |
 libreoffice-dbg | debugger | :heavy_check_mark: | | |
 libssl-dev | OpenSSL libraries | :heavy_check_mark: | | |
 libtomcrypt | crypto toolkit | :heavy_check_mark: | | |
@@ -859,6 +860,7 @@ packetsender | GUI packet generator | :heavy_multiplication_x: | [Packet Sender]
 pamix | PulseAudio mixer | :heavy_multiplication_x: | [PAmix](https://github.com/patroclos/PAmix) | |
 pandoc | DOCX/RTF/HTML/Markdown converter | :heavy_check_mark: | [Pandoc](http://pandoc.org/) | |
 panwriter | Markdown editor | :heavy_multiplication_x: | [panwriter](https://github.com/mb21/panwriter) | tight integration with `pandoc` |
+paper-clip | PDF metadata editor | :heavy_multiplication_x: | [paper-clip](https://github.com/Diego-Ivan/Paper-Clip) | |
 parallel | multi-threaded Bash scripts | :heavy_check_mark: | | in [moreutils](#moreutils) <a id="parallel"></a> |
 parted | disk partitioner | :heavy_check_mark: | | creates GPT partitions, but does not resize |
 passwordsafe | password vault | :heavy_check_mark: | [Password Safe](https://sourceforge.net/projects/passwordsafe/) | |
