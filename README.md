@@ -1112,7 +1112,7 @@ sqlcipher | [SQLite](#sqlite3) encryption | :heavy_check_mark: | | |
 sqlite3 | SQLite | :heavy_check_mark: | | <a id="sqlite3"></a> |
 sqlitebrowser | [SQLite](#sqlite3) GUI | :heavy_check_mark: | | simpler than [sqliteman](#sqliteman) |
 sqliteman | [SQLite](#sqlite3) GUI | :heavy_check_mark: | | [SQLiteStudio](#sqlitestudio) is better for unicode data import <a id="sqliteman"></a> |
-sqlitestudio | [SQLite](#sqlite3) GUI | :heavy_multiplication_x: | [SQLiteStudio](https://sqlitestudio.pl/index.rvt) | <a id="sqlitestudio"><a> |
+sqlitestudio | [SQLite](#sqlite3) GUI | :heavy_multiplication_x: | [SQLiteStudio](https://sqlitestudio.pl) [repo](https://github.com/pawelsalawa/sqlitestudio) | <a id="sqlitestudio"><a> |
 sqlmap | SQL injection tool | :heavy_check_mark: | [SQLMap](http://sqlmap.org/) [repo](https://github.com/sqlmapproject/sqlmap) | |
 sqlninja | Microsoft SQL Server injection | :heavy_multiplication_x: | [sqlninja](https://sourceforge.net/projects/sqlninja) | |
 sqlsus | MySQL attacker | :heavy_multiplication_x: | | |
