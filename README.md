@@ -552,6 +552,7 @@ highlight | convert code to HTML/RTF | :heavy_check_mark: | | |
 hnwatch | CLI news feed | :heavy_multiplication_x: | | |
 homebank | finance manager | :heavy_check_mark: | | |
 hopper | GUI disassembler | :heavy_multiplication_x: | [Hopper](https://www.hopperapp.com/) | proprietary, demo |
+hoptodesk | remote desktop | :heavy_multiplication_x: | [HopToDesk](https://www.hoptodesk.com/) | |
 horst | CLI WLAN analyser | :heavy_check_mark: | | |
 hostmap | enumerate (v)hosts of IP | :heavy_multiplication_x: | [Hostmap](http://g33kinfo.com/info/hostmap-0-2-2-tar) | |
 hottoe | sound control app | :heavy_multiplication_x: | [hottoe](https://github.com/gandalfn/hottoe) | |
@@ -729,6 +730,7 @@ miller | terminal CSV viewer/processor | :heavy_multiplication_x: | [miller](htt
 mindforger | Markdown notebook/IDE | :heavy_multiplication_x: | [mindforger](http://mindforger.com/) | |
 minitube | native YouTube client | :heavy_check_mark: | | |
 minuet | music trainer | :heavy_multiplication_x: | [minuet](https://github.com/KDE/minuet) | |
+missioncenter | system monitor | :heavy_multiplication_x: | [Mission Center](https://missioncenter.io/) | |
 mitmproxy | MITM HTTP proxy | :heavy_check_mark: | | |
 mixxx | audio mixer/editor | :heavy_check_mark: | | |
 mlocate | for `locate` | :heavy_check_mark: | | if `locate` is missing <a id="mlocate"></a> |
