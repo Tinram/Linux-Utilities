@@ -1108,6 +1108,7 @@ spectre-meltdown-checker | Spectre and Meltdown vulnerability/mitigation checker
 speedtest-cli | CLI Internet bandwidth speed tester | :heavy_check_mark: | [speedtest-cli](https://github.com/sivel/speedtest-cli) | `pip install speedtest-cli` |
 speedometer | CLI network traffic monitor | :heavy_check_mark: | | |
 spek | acoustic spectrum analyser | :heavy_check_mark: | [spek](https://github.com/alexkay/spek) | |
+spirit | MySQL online schema changer | :heavy_multiplication_x: | [spirit](https://github.com/cashapp/spirit) | |
 splint | C linter | :heavy_check_mark: | | <a id="splint"></a> |
 sqlbrute | brute-force SQL injection | :heavy_multiplication_x: | [SQLBrute](https://github.com/GDSSecurity/SQLBrute) | |
 sqlcipher | [SQLite](#sqlite3) encryption | :heavy_check_mark: | | |
