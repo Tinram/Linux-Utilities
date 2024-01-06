@@ -579,6 +579,7 @@ idle3 | Python IDE | :heavy_check_mark: | | |
 ifstat | interface statistics monitoring | :heavy_check_mark: | | `vmstat`-like |
 iftop | network interface usage | :heavy_check_mark: | | |
 imagemagick | CLI image manipulator | :heavy_check_mark: | | <a id="imagemagick"></a> |
+imgp | image converter | :heavy_check_mark: | [imgp](https://github.com/jarun/imgp) | |
 i-nex | GUI system hardware lister | :heavy_multiplication_x: | [i-nex](http://i-nex.linux.pl/) | similar to *CPU-Z* |
 incron | daemon for file system events | :heavy_check_mark: | | |
 indent | C code formatter | :heavy_check_mark: | | |
@@ -1183,7 +1184,7 @@ termshark | TUI [Wireshark](#wireshark) | :heavy_multiplication_x: | [termshark]
 testdisk | disk/partition recovery tool | :heavy_check_mark: | [TestDisk](https://www.cgsecurity.org/wiki/TestDisk_Download) | |
 tesseract-ocr | OCR processor | :heavy_check_mark: | | |
 texmaker | LaTeX editor | :heavy_check_mark: | | |
-textadept | minimalist cross-platform text editor | :heavy_multiplication_x: | [Textadept](https://foicica.com/textadept/) | |
+textadept | minimalist cross-platform text editor | :heavy_multiplication_x: | [textadept](https://orbitalquark.github.io/textadept/) [repo](https://github.com/orbitalquark/textadept/) | |
 textosaurus | text editor (Qt/Scintilla) | :heavy_multiplication_x: | [textosaurus](https://github.com/martinrotter/textosaurus) | |
 texttospeech | text speaker | :heavy_multiplication_x: | [texttospeech](https://gitlab.com/posktomten/texttospeech/) | |
 thonny | Python editor/IDE | :heavy_check_mark: | [Thonny](https://thonny.org/) | |
@@ -1283,6 +1284,7 @@ waidps | wireless auditing + IDS | :heavy_multiplication_x: | [waidps](https://g
 wallpaperd | wallpaper rotator | :heavy_multiplication_x: | | |
 wammu | (old) phone manager, info exporter | :heavy_check_mark: | | |
 wapiti | web app vulnerability scanner | :heavy_check_mark: | | |
+warehouse | flatpak manager | :heavy_multiplication_x: | [warehouse](https://github.com/flattool/warehouse) | |
 warpinator | LAN file transfer | :heavy_check_mark: | [warpinator](https://github.com/linuxmint/warpinator) | |
 watchman | directory monitor tool | :heavy_multiplication_x: | [watchman](https://github.com/facebook/watchman) | |
 wavemon | wireless network monitor | :heavy_check_mark: | | |
