@@ -45,7 +45,6 @@ ansible | alternative to Puppet/Chef | :heavy_check_mark: | | only dependencies 
 ansifilter | remove control codes | :heavy_multiplication_x: | [Ansifilter](http://andre-simon.de/doku/ansifilter/en/ansifilter.php) | |
 antimony | CAD modeller | :heavy_multiplication_x: | [Antimony](http://www.mattkeeter.com/projects/antimony/) | |
 antiword | Word files converted to text/PS/PDF | :heavy_check_mark: | | |
-anydesk | TeamViewer-like remote desktop | :heavy_check_mark: | [AnyDesk](https://anydesk.com/remote-desktop) | flatpak |
 apachetop | `top` for Apache | :heavy_check_mark: | | use `apt` |
 apfs-fuse | FUSE driver for mounting Apple filesystem | :heavy_multiplication_x: | [apfs-fuse](https://github.com/sgan81/apfs-fuse) | |
 apktool | reverse engineer Android apk files | :heavy_check_mark: | | |
@@ -132,6 +131,7 @@ brasero | ISO burner | :heavy_check_mark: | | |
 bridge-utils | configure Ethernet bridge | :heavy_check_mark: | | |
 broadband-speed | | :heavy_multiplication_x: | [speedtest-cli](https://github.com/sivel/speedtest-cli) | |
 brutex | combine [WFuzz](#wfuzz)/[Hydra](#hydra) to brute-force ports | :heavy_multiplication_x: | [BruteX](https://github.com/1N3/BruteX) | |
+btop | resource monitor | :heavy_check_mark: | [btop](https://github.com/aristocratos/btop) | |
 btproxy | MITM Bluetooth analysis | :heavy_multiplication_x: | [btproxy](https://github.com/conorpp/btproxy) | |
 btscanner | scanner for Bluetooth devices | :heavy_check_mark: | | |
 buku | browser-independent bookmark manager | :heavy_multiplication_x: | [Buku](https://github.com/jarun/Buku) | |
@@ -742,7 +742,7 @@ monitorix | GUI system monitor | :heavy_multiplication_x: | [Monitorix](http://w
 moreutils | `combine`, `errno`, `isutf8`, [`parallel`](#parallel), `zrun` | :heavy_check_mark: | | <a id="moreutils"></a> |
 most | advanced pager, includes colour, bin viewer | :heavy_check_mark: | | |
 mp3diags | MP3 file analyser | :heavy_check_mark: | | |
-mpd | music player daemon | :heavy_check_mark: | | (works remotely) |
+mpd | music player daemon | :heavy_check_mark: | | |
 mpg123 | CLI MP3 player | :heavy_check_mark: | | decoding library very good |
 mplayer | CLI movie player | :heavy_check_mark: | | <a id="mplayer"></a>|
 mps-youtube | YouTube music player | :heavy_check_mark: | [mps-youtube](https://github.com/mps-youtube/mps-youtube) | |
@@ -1039,6 +1039,7 @@ rtgen | rainbow table generator | :heavy_multiplication_x: | | `rtgen md5 lowera
 ruby | Ruby interpreter | :heavy_check_mark: | | `irb` |
 rustbuster | web fuzzer | :heavy_multiplication_x: | [rustbuster](https://github.com/phra/rustbuster) | |
 rustc | Rust compiler | :heavy_multiplication_x: | | |
+rustdesk | remote desktop | :heavy_multiplication_x: | [rustdesk](https://rustdesk.com) [repo](https://github.com/rustdesk/rustdesk) | |
 rymdport | encrypted file sharing | :heavy_multiplication_x: | [rymdport](https://github.com/Jacalz/rymdport) | |
 s-tui | CLI hardware monitor | :heavy_multiplication_x: | [s-tui](https://github.com/amanusk/s-tui/releases) | |
 samhain | IDS | :heavy_check_mark: | | |
@@ -1175,7 +1176,6 @@ tcpspy | TCP/IP connections logger | :heavy_check_mark: | | |
 tcptrace | graphical [tcpdump](#tcpdump) output | :heavy_check_mark: | | |
 tcptrack | monitor tcp network connections | :heavy_check_mark: | | |
 tcpxtract | extract files from network traffic | :heavy_check_mark: | | |
-teamviewer | remote desktop/support | :heavy_check_mark: | [TeamViewer](https://www.teamviewer.com/en/download/linux/) | proprietary |
 terminalizer | record terminal actions | :heavy_multiplication_x: | [terminalizer](https://github.com/faressoft/terminalizer) | |
 terminator | multiple terminals | :heavy_check_mark: | | |
 terminix | CLI emulator | :heavy_multiplication_x: | [terminix](https://github.com/gnunn1/terminix) | |
