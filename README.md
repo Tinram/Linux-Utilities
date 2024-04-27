@@ -202,7 +202,7 @@ cpuid | CPU info | :heavy_check_mark: | | |
 cpulimit | limit process CPU usage | :heavy_check_mark: | | |
 crazydiskmark | GUI disk benchmarker | :heavy_multiplication_x: | [crazydiskmark](https://github.com/fredcox/crazydiskmark) | ppa:fredcox-p/crazydiskmark |
 credcrack | credential harvester | :heavy_multiplication_x: | [CredCrack](https://github.com/gojhonny/CredCrack) | |
-croc | CLI file transfer | :heavy_multiplication_x: | [croc](https://github.com/schollz/croc) | |
+croc | CLI file transfer | :heavy_multiplication_x: | [croc](https://schollz.com/tinker/croc6/) [repo](https://github.com/schollz/croc) | |
 crunch | password list generator | :heavy_check_mark: | | |
 cryptcat | encrypted [netcat](#netcat) | :heavy_check_mark: | | [flaws?](https://github.com/deurstijl/decryptcat) |
 cryptocat | encrypted IM | :heavy_multiplication_x: | [CryptoCat](https://crypto.cat/) | |
@@ -1041,7 +1041,7 @@ rustbuster | web fuzzer | :heavy_multiplication_x: | [rustbuster](https://github
 rustc | Rust compiler | :heavy_multiplication_x: | | |
 rustdesk | remote desktop | :heavy_multiplication_x: | [rustdesk](https://rustdesk.com) [repo](https://github.com/rustdesk/rustdesk) | |
 rymdport | encrypted file sharing | :heavy_multiplication_x: | [rymdport](https://github.com/Jacalz/rymdport) | |
-s-tui | CLI hardware monitor | :heavy_multiplication_x: | [s-tui](https://github.com/amanusk/s-tui/releases) | |
+s-tui | CLI hardware monitor | :heavy_multiplication_x: | [s-tui](https://amanusk.github.io/s-tui/) [repo](https://github.com/amanusk/s-tui/) | |
 samhain | IDS | :heavy_check_mark: | | |
 sampler | CLI visualisation tool | :heavy_multiplication_x: | [sampler](https://github.com/sqshq/sampler) | |
 sane | document scan tools | :heavy_check_mark: | | |
