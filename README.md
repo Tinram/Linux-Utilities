@@ -216,6 +216,7 @@ cuda-z | CUDA-enabled GPU info | :heavy_multiplication_x: | [CUDA-Z](http://cuda
 cudatext | code editor | :heavy_multiplication_x: | [CudaText](http://www.uvviewsoft.com/cudatext/) | |
 cups-pdf | print to PDF | :heavy_check_mark: | | |
 curl | CLI transfer data | :heavy_check_mark: | | |
+cute | HTTP request creator | :heavy_multiplication_x: | [CuTE](https://github.com/PThorpe92/CuTE) | |
 cutegram | IM | :heavy_multiplication_x: | [Cutegram](http://aseman.co/en/products/cutegram/) | |
 cvassistant | multiple CV manager | :heavy_multiplication_x: | [CVAssistant](https://sourceforge.net/projects/cvassistant/) | |
 curl-loader | HTTP benchmark | :heavy_multiplication_x: | [curl-loader](https://sourceforge.net/projects/curl-loader/) | |
@@ -1122,6 +1123,7 @@ sqlmap | SQL injection tool | :heavy_check_mark: | [SQLMap](http://sqlmap.org/) 
 sqlninja | Microsoft SQL Server injection | :heavy_multiplication_x: | [sqlninja](https://sourceforge.net/projects/sqlninja) | |
 sqlsus | MySQL attacker | :heavy_multiplication_x: | | |
 srm | secure file deletion | :heavy_multiplication_x: | [SRM](https://sourceforge.net/projects/srm/) | slow, punishing on SSDs |
+ssc | script to ELF | :heavy_multiplication_x: | [ssc](https://github.com/liberize/ssc) | |
 ssldump | SSLv3/TLS network protocol analyser | :heavy_check_mark: | | |
 sshguard | SSH brute-force protection | :heavy_check_mark: | [SSHGuard](http://www.sshguard.net/) | more intelligent than [fail2ban](#fail2ban) |
 sslscan | SSL scanner | :heavy_check_mark: | | |
@@ -1250,6 +1252,7 @@ usbimager | leightweight USB image writer | :heavy_multiplication_x: | [usbimage
 usbview | GUI `lsusb` | :heavy_check_mark: | [usbview](https://github.com/gregkh/usbview) | |
 usermanager | GUI user/group manager | :heavy_multiplication_x: | [UserManager](https://github.com/xvass/UserManager) | |
 valac | Vala compiler | :heavy_check_mark: | | |
+vale | text linter | :heavy_multiplication_x: | [vale](https://github.com/errata-ai/vale) | |
 valentinastudio | MySQL/[PostgreSQL](postgresql)/MSSQL browser| :heavy_multiplication_x: | [Valentina Studio](http://valentina-db.com/en/all-downloads/vstudio/current) | |
 valgrind | memory debugger and profiler | :heavy_check_mark: | | <a id="valgrind"></a> |
 valkyrie | GUI for [valgrind](#valgrind) | :heavy_check_mark: | | |
