@@ -50,6 +50,7 @@ apfs-fuse | FUSE driver for mounting Apple filesystem | :heavy_multiplication_x:
 apktool | reverse engineer Android apk files | :heavy_check_mark: | | |
 apostrophe | Markdown editor | :heavy_multiplication_x: | [Apostrophe](https://gitlab.gnome.org/somas/apostrophe) | |
 appimagecraft | AppImage builder | :heavy_multiplication_x: | [appimagecraft](https://github.com/TheAssassin/appimagecraft) | |
+appimagelauncher | run AppImages | :heavy_multiplication_x: | [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher/) | |
 appimagelint | AppImage checker | :heavy_multiplication_x: | [appimagelint](https://github.com/TheAssassin/appimagelint) | |
 appimagepool | AppImageHub Client | :heavy_multiplication_x: | [AppImagePool](https://github.com/prateekmedia/appimagepool) | |
 aqemu | [Qemu](#qemu) + KVM GUI | :heavy_check_mark: | | |
@@ -58,6 +59,7 @@ ardour | audio editor | :heavy_check_mark: | | |
 arecabackup | backup | :heavy_multiplication_x: | [Areca Backup](http://areca-backup.org) | Java-based |
 argus | IP network transaction auditor | :heavy_check_mark: | | |
 argyll | monitor colour callibrator | :heavy_check_mark: | | GUI is [dispcalgui](#dispcalgui) <a id="argyll"></a> |
+aria2 | CLI advanced download manager | :heavy_check_mark: | | |
 arista | media converter | :heavy_check_mark: | [Arista Transcoder](http://transcoder.org/) | |
 arp-scan | ARP scanner/fingerprinting | :heavy_check_mark: | | |
 arpwatch | Ethernet MAC address monitor | :heavy_check_mark: | | |
@@ -826,6 +828,7 @@ ntfy | push notifier | :heavy_multiplication_x: | [ntfy](https://github.com/binw
 ntop | top network users | :heavy_check_mark: | | |
 nuttcp | network performance measurement | :heavy_check_mark: | | |
 nutty | network utility | :heavy_multiplication_x: | [Nutty](https://launchpad.net/nutty) [repo](https://github.com/babluboy/nutty) | ppa:bablu-boy/nutty.0.1 |
+nvme-cli  | NVMe management tool | :heavy_check_mark: | | |
 nvidia-smi | NVidia GPU management CLI | :heavy_multiplication_x: | | |
 nvtop | GPU monitor | :heavy_multiplication_x: | [nvtop](https://github.com/Syllo/nvtop) | |
 obnam | incremental daily backups with SFTP/[GnuPG](#gpg) support | :heavy_check_mark: | | |
