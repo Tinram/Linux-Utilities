@@ -881,6 +881,7 @@ pdfedit | PDF editor | :heavy_check_mark: | | good at text, no image editing |
 pdfgrep | PDF search | :heavy_check_mark: | [PDFgrep](https://pdfgrep.org/) |
 pdfmod | PDF editor | :heavy_check_mark: | | simple but good: edit meta data, remove page, extract page |
 pdfresurrect | PDF analyser | :heavy_multiplication_x: | [pdfresurrect](https://github.com/enferex/pdfresurrect) | |
+pdfsam | PDF editor | :heavy_check_mark: | [PDFsam](https://pdfsam.org/) | |
 pdnsd | proxy DNS server | :heavy_check_mark: | | |
 pdfmixtool | PDF editor | :heavy_multiplication_x: | [pdfmixtool](https://scarpetta.eu/pdfmixtool/) [repo](https://gitlab.com/scarpetta/pdfmixtool) | |
 pdftk | PDF tool | :heavy_check_mark: | | |
@@ -1058,6 +1059,7 @@ scrcpy | Android screen connector | :heavy_check_mark: | [scrcpy](https://github
 screenruler | pixel ruler | :heavy_check_mark: | | |
 screenstudio | screencast creator | :heavy_multiplication_x: | [ScreenStudio](http://screenstudio.crombz.com/) | |
 scribus | desktop publisher/PDF editor | :heavy_check_mark: | | |
+scrot | CLI screen capture | :heavy_check_mark: | | |
 scrypt | encryption utility | :heavy_check_mark: | [scrypt](https://github.com/Tarsnap/scrypt) | |
 secure-delete | wipe files/swap/memory | :heavy_check_mark: | | |
 sendemail | CLI email client | :heavy_check_mark: | | |
@@ -1201,7 +1203,7 @@ tigervnc | remote desktop | :heavy_check_mark: | | |
 tightvnc | remote desktop | :heavy_check_mark: | | |
 timeshift | system restore utility | :heavy_check_mark: | | |
 tinyproxy | non-caching HTTP proxy | :heavy_check_mark: | | |
-tlp | laptop power manager | :heavy_multiplication_x: | [TLP](http://linrunner.de/en/tlp/tlp.html) | |
+tlp | laptop power manager | :heavy_check_mark: | [TLP](https://linrunner.de/tlp/) [repo](https://github.com/linrunner/TLP) | |
 tmsu | file tagging app | :heavy_multiplication_x: | [TMSU](https://github.com/oniony/TMSU) | |
 tmux | CLI multiplexer | :heavy_check_mark: | | |
 todo.txt | CLI ToDo notes | :heavy_multiplication_x: | [todo.txt](http://todotxt.com/) | |
