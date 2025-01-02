@@ -427,7 +427,7 @@ gadmin-openvpn-client | GUI config for OpenVPN | :heavy_check_mark: | | |
 gadmin-openvpn-server | GUI config for OpenVPN | :heavy_check_mark: | | |
 gajim | GPG Jabber client | :heavy_check_mark: | | |
 gaupol | subtitles editor | :heavy_check_mark: | [gaupol](https://otsaloma.io/gaupol/) | |
-gamemode | optimise system performance on demand | :heavy_multiplication_x: | [gamemode](https://github.com/Feralinteractive/gamemode) | |
+gamemode | optimise system performance | :heavy_multiplication_x: | [gamemode](https://github.com/Feralinteractive/gamemode) | |
 gatling | static page web server | :heavy_check_mark: | | |
 gcad3d | CAD | :heavy_multiplication_x: | [gCAD3D](http://gcad3d.org/) | |
 gcc | GNU C compiler | :heavy_check_mark: | | |
@@ -583,8 +583,8 @@ ifstat | interface statistics monitoring | :heavy_check_mark: | | `vmstat`-like 
 iftop | network interface usage | :heavy_check_mark: | | |
 imagemagick | CLI image manipulator | :heavy_check_mark: | | <a id="imagemagick"></a> |
 imgp | image converter | :heavy_check_mark: | [imgp](https://github.com/jarun/imgp) | |
-i-nex | GUI system hardware lister | :heavy_multiplication_x: | [i-nex](http://i-nex.linux.pl/) | similar to *CPU-Z* |
-incron | daemon for file system events | :heavy_check_mark: | | |
+i-nex | GUI hardware lister | :heavy_multiplication_x: | [i-nex](http://i-nex.linux.pl/) | similar to *CPU-Z* |
+incron | file system events daemon | :heavy_check_mark: | | |
 indent | C code formatter | :heavy_check_mark: | | |
 indicator-cpufreq | change CPU frequency | :heavy_check_mark: | | |
 infernal-twin | auto wireless hacking tool | :heavy_multiplication_x: | [infernal-twin](https://github.com/entropy1337/infernal-twin) | |
@@ -592,7 +592,7 @@ inguma | pentest framework | :heavy_multiplication_x: | | |
 inkscape | vector imager | :heavy_check_mark: | | |
 innotop | MySQL InnoDB monitor | :heavy_multiplication_x: | [innotop](https://github.com/innotop/innotop) [.deb](https://sourceforge.net/projects/innotop/) | exists in CentOS EPEL |
 innotopgo | MySQL InnoDB monitor | :heavy_multiplication_x: | [innotopgo](https://github.com/lefred/innotopgo) | |
-inotify | monitor filesystem events | :heavy_check_mark: | | good for Samba folders |
+inotify | monitor file system events | :heavy_check_mark: | | good for Samba folders |
 input-remapper | input device button mapper | :heavy_multiplication_x: | [input-remapper](https://github.com/sezanzeb/input-remapper) | |
 input-utils | kernel input layer utilities | :heavy_check_mark: | | `lsinput`, `input-events`, `input-kbd` |
 instarecon | auto digital recon | :heavy_multiplication_x: | [instarecon](https://github.com/vergl4s/instarecon) | high level recon |
@@ -734,7 +734,7 @@ miller | terminal CSV viewer/processor | :heavy_multiplication_x: | [miller](htt
 mindforger | Markdown notebook/IDE | :heavy_multiplication_x: | [mindforger](http://mindforger.com/) | |
 minitube | native YouTube client | :heavy_check_mark: | | |
 minuet | music trainer | :heavy_multiplication_x: | [minuet](https://github.com/KDE/minuet) | |
-missioncenter | system monitor | :heavy_multiplication_x: | [Mission Center](https://missioncenter.io/) | |
+missioncenter | GUI system monitor | :heavy_multiplication_x: | [Mission Center](https://missioncenter.io/) [repo](https://gitlab.com/mission-center-devs/mission-center) | |
 mitmproxy | MITM HTTP proxy | :heavy_check_mark: | | |
 mixxx | audio mixer/editor | :heavy_check_mark: | | |
 mlocate | for `locate` | :heavy_check_mark: | | if `locate` is missing <a id="mlocate"></a> |
@@ -977,7 +977,7 @@ python-setuptools | | :heavy_check_mark: | | needed for [python-mysqldb](#python
 qalc | CLI calculator | :heavy_check_mark: | | |
 qemu | processor emulator | :heavy_check_mark: | | `apt-get install kvm qemu-kvm qemu-kvmextras` <a id="qemu"></a> |
 qemu-kvm | multiple virtual PCs | :heavy_check_mark: | | |
-qjournalctl | GUI for systemd's `journalctl` | :heavy_multiplication_x: | [qjournalctl](https://github.com/pentix/qjournalctl) | |
+qjournalctl | GUI for systemd `journalctl` | :heavy_multiplication_x: | [qjournalctl](https://github.com/pentix/qjournalctl) | |
 qmmp | music player | :heavy_check_mark: | | |
 qownnotes | notepad with Markdown | :heavy_multiplication_x: | [QOwnNotes](http://www.qownnotes.org/) | |
 qmplay2 | video/YouTube player | :heavy_multiplication_x: | [QMPlay2](https://github.com/zaps166/QMPlay2) | GPU acceleration; good options |
@@ -1144,7 +1144,7 @@ statsprocessor | word generator | :heavy_multiplication_x: | | |
 statusok | website/API monitor | :heavy_multiplication_x: | [statusok](https://github.com/sanathp/statusok) | |
 strace | system call tracer | :heavy_check_mark: | | |
 stress | CPU/memory/disk stresser | :heavy_check_mark: | | |
-stress-ng | advanced system stresser | :heavy_check_mark: | | |
+stress-ng | system stresser | :heavy_check_mark: | | |
 structure-synth | 3D structure generator | :heavy_check_mark: | | |
 stunnel | SSL tunnel for own apps | :heavy_check_mark: | [STunnel](https://www.stunnel.org/index.html) | |
 subbrute | enumerate DNS records/subdomains | :heavy_multiplication_x: | [subbrute](https://github.com/TheRook/subbrute) | |
@@ -1163,7 +1163,7 @@ syncthing | sync cloud/network app | :heavy_multiplication_x: | [Syncthing](http
 synfig | vector 2D animation | :heavy_check_mark: | | |
 sysbench | system benchmarker | :heavy_check_mark: | [info](https://www.howtoforge.com/how-to-benchmark-your-system-cpu-file-io-mysql-with-sysbench) | |
 sysdig | system exploration/troubleshooting | :heavy_check_mark: | | |
-sysmontask | GUI system monitor, Windows-style | :heavy_multiplication_x: | [SysMonTask](https://github.com/KrispyCamel4u/SysMonTask) | |
+sysmontask | GUI system monitor | :heavy_multiplication_x: | [SysMonTask](https://github.com/KrispyCamel4u/SysMonTask) | |
 sysstat | system stats/benchmarking | :heavy_check_mark: | | `sar` is binary log reader |
 system-config-lvm | LVM partitioning GUI | :heavy_check_mark: | | |
 system-config-samba | Samba GUI | :heavy_check_mark: | | |
