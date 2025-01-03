@@ -113,9 +113,10 @@ bleachbit | system cleaner | :heavy_check_mark: | | |
 bless | GUI hex editor | :heavy_check_mark: | | |
 blip | MySQL monitor | :heavy_multiplication_x: | [blip](https://cashapp.github.io/blip/) [repo](https://github.com/cashapp/blip) | |
 bluelog | Bluetooth scanner | :heavy_multiplication_x: | | |
-blueman | GUI for Bluetooth | :heavy_check_mark: | | |
+blueman | GUI Bluetooth | :heavy_check_mark: | | |
 bluemon | de/activate programs on Bluetooth link quality | :heavy_check_mark: | | |
 bluetooth | Bluetooth support | :heavy_check_mark: | | |
+bluetuith | TUI Bluetooth manager | :heavy_multiplication_x: | [bluetuith](https://github.com/darkhz/bluetuith) | |
 bluez | Bluetooth tools | :heavy_check_mark: | | |
 bmon | bandwidth monitor | :heavy_check_mark: | | |
 bonzomatic | shader coding tool | :heavy_multiplication_x: | [Bonzomatic](https://github.com/Gargaj/Bonzomatic) | |
@@ -391,6 +392,7 @@ fonts-crosextra-carlito | Calibri-compatible font | :heavy_check_mark: | | |
 fonts-crosextra-caladea | Cambria-compatible font | :heavy_check_mark: | | |
 font-manager | GNOME font manager | :heavy_check_mark: | | |
 foremost | recover/extract files | :heavy_check_mark: | | |
+forkrun | run commands in parallel | :heavy_multiplication_x: | [forkrun](https://github.com/jkool702/forkrun) | |
 forkstat | CLI process monitor | :heavy_check_mark: | | |
 fotoxx | photo editor | :heavy_check_mark: | | good at editing, poor interface |
 fping | ICMP to network hosts | :heavy_check_mark: | | |
