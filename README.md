@@ -16,22 +16,22 @@ A tick in the repo column means the package should exist in the main Ubuntu repo
 
 Some of the programs listed are included by default with Ubuntu-based distros. Nevertheless, they remain, since on some distro installs they are curiously absent.
 
-[**Ubuntu repo search**](http://packages.ubuntu.com/)
+[**Ubuntu repo search**](https://packages.ubuntu.com/)
 
 ----
 
 package | description | repo | URL | notes |
 :--- | :--- | :---: | :--- | :--- |
 0xtools | */proc/* profiler | :heavy_multiplication_x: | [0xtools](https://github.com/tanelpoder/0xtools) | |
-p7zip | file archiver | :heavy_check_mark: | [7-Zip](http://www.7-zip.org/) | also *p7Zip-full* <a id="7zip"></a> |
-abcde | CD ripper | :heavy_check_mark: | [ABCDE](http://www.andrews-corner.org/linux/abcde/index.html) | |
+p7zip | file archiver | :heavy_check_mark: | [7-Zip](https://www.7-zip.org/) | also *p7Zip-full* <a id="7zip"></a> |
+abcde | CD ripper | :heavy_check_mark: | [ABCDE](https://www.andrews-corner.org/linux/abcde/index.html) | |
 abiword | lightweight wordprocessor | :heavy_check_mark: | | |
 abricotine | Markdown editor | :heavy_multiplication_x: | [Abricotine](https://github.com/brrd/Abricotine) | |
 acl | ACL utilities | :heavy_check_mark: | | |
 adb | Android Debug Bridge | :heavy_check_mark: | | |
 aescrypt | cross-platform file encryption | :heavy_multiplication_x: | [AESCrypt](https://github.com/paulej/AESCrypt) | |
 afick | file integrity notifier | :heavy_multiplication_x: | [AFICK](https://sourceforge.net/projects/afick/) | |
-afl | fuzzer | :heavy_check_mark: | [AFL](http://lcamtuf.coredump.cx/afl/) [Google's](https://github.com/google/AFL) | |
+afl | fuzzer | :heavy_check_mark: | [AFL](https://lcamtuf.coredump.cx/afl/) [Google's](https://github.com/google/AFL) | |
 aide | host-based IDS | :heavy_check_mark: | | |
 aircrack-ng | wireless cracker | :heavy_check_mark: | [aircrack-ng](https://github.com/aircrack-ng/aircrack-ng) | <a id="aircrack"></a> |
 alacritty | GPU-accelerated CLI emulator | :heavy_multiplication_x: | [alacritty](https://github.com/jwilm/alacritty) | |
@@ -43,7 +43,7 @@ anjuta | C/C++ editor | :heavy_check_mark: | | |
 anki | flashcards | :heavy_multiplication_x: | [Anki](https://apps.ankiweb.net/) [repo](https://github.com/ankitects/anki) | |
 ansible | alternative to Puppet/Chef | :heavy_check_mark: | | only dependencies are Python/SSH; `pip install ansible` |
 ansifilter | remove control codes | :heavy_multiplication_x: | [Ansifilter](http://andre-simon.de/doku/ansifilter/en/ansifilter.php) | |
-antimony | CAD modeller | :heavy_multiplication_x: | [Antimony](http://www.mattkeeter.com/projects/antimony/) | |
+antimony | CAD modeller | :heavy_multiplication_x: | [Antimony](https://www.mattkeeter.com/projects/antimony/) | |
 antiword | Word files converted to text/PS/PDF | :heavy_check_mark: | | |
 apachetop | `top` for Apache | :heavy_check_mark: | | use `apt` |
 apfs-fuse | FUSE driver for mounting Apple filesystem | :heavy_multiplication_x: | [apfs-fuse](https://github.com/sgan81/apfs-fuse) | |
@@ -56,21 +56,21 @@ appimagepool | AppImageHub Client | :heavy_multiplication_x: | [AppImagePool](ht
 aqemu | [Qemu](#qemu) + KVM GUI | :heavy_check_mark: | | |
 arandr | GUI for xrandr (X settings) | :heavy_check_mark: | | |
 ardour | audio editor | :heavy_check_mark: | | |
-arecabackup | backup | :heavy_multiplication_x: | [Areca Backup](http://areca-backup.org) | Java-based |
+arecabackup | backup | :heavy_multiplication_x: | [Areca Backup](https://areca-backup.org) | Java-based |
 argus | IP network transaction auditor | :heavy_check_mark: | | |
 argyll | monitor colour callibrator | :heavy_check_mark: | | GUI is [dispcalgui](#dispcalgui) <a id="argyll"></a> |
 aria2 | CLI advanced download manager | :heavy_check_mark: | | |
-arista | media converter | :heavy_check_mark: | [Arista Transcoder](http://transcoder.org/) | |
+arista | media converter | :heavy_check_mark: | | |
 arp-scan | ARP scanner/fingerprinting | :heavy_check_mark: | | |
 arpwatch | Ethernet MAC address monitor | :heavy_check_mark: | | |
 artha | offline thesaurus | :heavy_check_mark: | | |
 asciinema | terminal recorder | :heavy_check_mark: | [asciinema](https://asciinema.org/) [repo](https://github.com/asciinema/asciinema) | `asciinema rec >> exit` |
-astyle | code formatter | :heavy_check_mark: | [Artistic Style](http://astyle.sourceforge.net/) | C/C++/Java; good for other langs too |
+astyle | code formatter | :heavy_check_mark: | [Artistic Style](https://astyle.sourceforge.net/) | C/C++/Java; good for other langs too |
 asunder | CD ripper | :heavy_check_mark: | [Asunder](http://littlesvr.ca/asunder/) | |
 athena-jot | data generator | :heavy_check_mark: | | |
 atril | MATE PDF viewer | :heavy_check_mark: | | |
 attr | filesystem extended attribute utils | :heavy_check_mark: | | |
-audacious | music player | :heavy_check_mark: | [Audacious](http://audacious-media-player.org/) | |
+audacious | music player | :heavy_check_mark: | [Audacious](https://audacious-media-player.org/) | |
 audacity | sound editor | :heavy_check_mark: | | |
 aview | images to ASCII art | :heavy_check_mark: | | |
 auditd | user auditing | :heavy_check_mark: | | `auditctl`, `aureport`, `ausearch`, `autrace` |
@@ -90,7 +90,7 @@ babeltrace | trace conversion | :heavy_check_mark: | | |
 babe-qt | tiny Qt music player | :heavy_multiplication_x: | [babe-qt](https://github.com/milohr/babe-qt) | |
 backerupper | *tar.gz* backups | :heavy_multiplication_x: | [Backerupper](https://sourceforge.net/projects/backerupper/) | allows file exclusion | |
 backintime | backup tool | :heavy_check_mark: | [backintime](https://github.com/bit-team/backintime) | |
-bacon | BASIC to C converter | :heavy_multiplication_x: | [BaCon](http://www.basic-converter.org/) | |
+bacon | BASIC to C converter | :heavy_multiplication_x: | [BaCon](https://chiselapp.com/user/bacon/repository/bacon/home) | |
 bacula | backup | :heavy_check_mark: | | |
 bandwhich | TUI bandwidth utilisation | :heavy_multiplication_x: | [bandwhich](https://github.com/imsnif/bandwhich) | |
 bandwidthd | track network usage | :heavy_check_mark: | | HTML/image output|
@@ -101,12 +101,11 @@ beast | music synthesis | :heavy_check_mark: | | |
 bed | daemon vulnerability checker | :heavy_multiplication_x: | [bed](https://github.com/crunchsec/bed/) | |
 bench | CLI benchmark tool | :heavy_multiplication_x: | [bench](https://github.com/Gabriel439/bench) | |
 bfbtester | EXE brute-force tester | :heavy_check_mark: | | |
-billreminder | bill reminders | :heavy_multiplication_x: | [Bill Reminder](http://billreminder.gnulinuxbrasil.org) | |
 binary-analyser | analyse binaries | :heavy_multiplication_x: | [Binary Analyser](https://bitbucket.org/mihaila/bindead/wiki/Home) | |
 bing-ip2hosts | enumerate hostnames via Bing | :heavy_check_mark: | | |
 binstats | binary stats | :heavy_check_mark: | | overview of installed binaries |
 binwalk | binary file searcher | :heavy_check_mark: | [binwalk](https://github.com/devttys0/binwalk) | sub-files + code |
-birdfont | font editor | :heavy_multiplication_x: | [BirdFont](http://birdfont.org) | |
+birdfont | font editor | :heavy_multiplication_x: | [BirdFont](https://birdfont.org) | |
 bit | [Git](#git) CLI client | :heavy_multiplication_x: | [bit](https://github.com/chriswalz/bit) | |
 blast | API load tester | :heavy_multiplication_x: | [blast](https://github.com/dave/blast) | |
 bleachbit | system cleaner | :heavy_check_mark: | | |
@@ -125,8 +124,9 @@ boostchanger | CPU controller | :heavy_multiplication_x: | [boostchanger](https:
 bootchart | boot time analyser | :heavy_check_mark: | | |
 bootiso | ISO to USB booter | :heavy_multiplication_x: | [bootiso](https://github.com/jsamr/bootiso) | |
 borgbackup | CLI backup tool | :heavy_check_mark: | | uses compression and encryption |
-boxbackup-client | Box backup | :heavy_check_mark: | [boxbackup](http://www.boxbackup.org/) | `rsync`-like and encrypted |
-boxbackup-server | Box backup | :heavy_check_mark: | [boxbackup](http://www.boxbackup.org/) | |
+boxbackup-client | Box backup | :heavy_check_mark: | [boxbackup](https://www.boxbackup.org/) | `rsync`-like and encrypted |
+boxbackup-server | Box backup | :heavy_check_mark: | [boxbackup](https://www.boxbackup.org/) | |
+boxxy | isolate apps | :heavy_multiplication_x: | [boxxy](https://github.com/queer/boxxy) | |
 bpfcc-tools | eBPF tools | :heavy_check_mark: | | |
 bpytop | resource monitor | :heavy_multiplication_x: | [bpytop](https://github.com/aristocratos/bpytop) | <a id="bpytop"></a> |
 brandy | BBC Micro emulator | :heavy_check_mark: | | |
@@ -159,7 +159,7 @@ checkbashisms | | :heavy_check_mark: | | in [devscripts](#devscripts) |
 checkinstall | installation tracker | :heavy_check_mark: | | source > package > install with package manager |
 checksecurity | basic security check | :heavy_check_mark: | | |
 chaosreader | trace network sessions, export to HTML | :heavy_check_mark: | | |
-cherrytree | notes organiser with [7-Zip](#7zip) encryption | :heavy_check_mark: | [CentOS version](http://rpm.pbone.net/index.php3/stat/4/idpl/26487133/dir/redhat_el_6/com/cherrytree) | |
+cherrytree | notes organiser with [7-Zip](#7zip) encryption | :heavy_check_mark: | [CentOS version](https://rpm.pbone.net/info_idpl_26487133_distro_redhatel6_com_cherrytree-0.33.4-1.el6.nux.noarch.rpm.html) | |
 chkrootkit | rootkit detector | :heavy_check_mark: | | |
 chm2pdf | *.chm* to PDF converter | :heavy_check_mark: | | |
 chntpw | change Windows SAM password | :heavy_check_mark: | | |
@@ -171,7 +171,7 @@ cloaker | GUI file encryption | :heavy_multiplication_x: | [Cloaker](https://git
 cloakify | text steganography tool | :heavy_multiplication_x: | [Cloakify](https://github.com/TryCatchHCF/Cloakify) | |
 cloc | count lines of code | :heavy_check_mark: | [CLOC](https://sourceforge.net/projects/cloc/) | most languages |
 clonezilla | HDD backup/cloner | :heavy_check_mark: | | |
-cloudcompare | photo to 3D point map | :heavy_multiplication_x: | [CloudCompare](http://cloudcompare.org/) | |
+cloudcompare | photo to 3D point map | :heavy_multiplication_x: | [CloudCompare](https://cloudcompare.org/) | |
 clusterssh | admin. simultaneous SSH shells | :heavy_check_mark: | | |
 cmatrix | CLI Matrix | :heavy_check_mark: | | |
 cmdlauncher | commands to GUI | :heavy_multiplication_x: | [CmdLauncher](http://cmdlauncher.topbug.net/) | |
@@ -184,7 +184,7 @@ codeblocks | C editor/IDE | :heavy_check_mark: | | |
 codecounter | C/BASIC/web code counter | :heavy_multiplication_x: | [CodeCounter](https://github.com/Tinram/CodeCounter) | |
 codelite | C editor | :heavy_check_mark: | | PHP/JS/Python also supported |
 collectd, kcollectd | system stats harvester/monitoring daemon | :heavy_check_mark: | | |
-collectl | collect performance data | :heavy_check_mark: | [Collectl](http://collectl.sourceforge.net/) | |
+collectl | collect performance data | :heavy_check_mark: | [Collectl](https://collectl.sourceforge.net/) | |
 colordiff | colourise diff output | :heavy_check_mark: | | |
 colorgrab | dropper | :heavy_multiplication_x: | [colorgrab](https://github.com/Acolarh/colorgrab) | |
 colorhug | colorimeter | :heavy_check_mark: | | |
@@ -210,17 +210,16 @@ crunch | password list generator | :heavy_check_mark: | | |
 cryptcat | encrypted [netcat](#netcat) | :heavy_check_mark: | | [flaws?](https://github.com/deurstijl/decryptcat) |
 cryptocat | encrypted IM | :heavy_multiplication_x: | [CryptoCat](https://crypto.cat/) | |
 cryptkeeper | GUI encfs for GNOME | :heavy_check_mark: | | |
-cryptote | encrypted tabbed notes | :heavy_multiplication_x: | [Cryptote](http://panthema.net/2009/cryptote/#downloads) | |
+cryptote | encrypted tabbed notes | :heavy_multiplication_x: | [Cryptote](https://panthema.net/2009/cryptote/#downloads) | |
 cscope | C interactive checker | :heavy_check_mark: | | |
 csvtool | CLI CSV file manipulator | :heavy_check_mark: | | |
 ctags | C code indexing tool | :heavy_check_mark: | | |
 ctop | TUI Docker container metrics | :heavy_multiplication_x: | [ctop](https://github.com/bcicen/ctop) | *docker-ctop* |
-cuda-z | CUDA-enabled GPU info | :heavy_multiplication_x: | [CUDA-Z](http://cuda-z.sourceforge.net/) | |
-cudatext | code editor | :heavy_multiplication_x: | [CudaText](http://www.uvviewsoft.com/cudatext/) | |
+cuda-z | CUDA-enabled GPU info | :heavy_multiplication_x: | [CUDA-Z](https://cuda-z.sourceforge.net/) | |
+cudatext | code editor | :heavy_multiplication_x: | [CudaText](https://cudatext.github.io/) | |
 cups-pdf | print to PDF | :heavy_check_mark: | | |
 curl | CLI transfer data | :heavy_check_mark: | | |
 cute | HTTP request creator | :heavy_multiplication_x: | [CuTE](https://github.com/PThorpe92/CuTE) | |
-cutegram | IM | :heavy_multiplication_x: | [Cutegram](http://aseman.co/en/products/cutegram/) | |
 cvassistant | multiple CV manager | :heavy_multiplication_x: | [CVAssistant](https://sourceforge.net/projects/cvassistant/) | |
 curl-loader | HTTP benchmark | :heavy_multiplication_x: | [curl-loader](https://sourceforge.net/projects/curl-loader/) | |
 cutereport | report generator | :heavy_multiplication_x: | [CuteReport](https://sourceforge.net/projects/qreport/) | |
@@ -230,9 +229,9 @@ cyberfox | 64-bit browser | :heavy_multiplication_x: | | |
 cython | Python C extensions | :heavy_check_mark: | | |
 dangerzone | document sanitiser | :heavy_multiplication_x: | [dangerzone](https://github.com/firstlookmedia/dangerzone) | |
 darkhttpd | tiny file server | :heavy_multiplication_x: | [Darkhttpd](https://unix4lyfe.org/darkhttpd/) | 34kB |
-darkstat | network traffic analyser | :heavy_check_mark: | [Darkstat](http://unix4lyfe.org/darkstat/) | |
-darktable | RAW images | :heavy_check_mark: | [Darktable](http://www.darktable.org/), [article](http://www.techrepublic.com/blog/diy-it-guy/diy-enhance-your-graphic-design-work-with-darktable/) | |
-darling | Mac CLI Wine | :heavy_multiplication_x: | [Darling](http://darlinghq.org/) | |
+darkstat | network traffic analyser | :heavy_check_mark: | [Darkstat](https://unix4lyfe.org/darkstat/) | |
+darktable | RAW images | :heavy_check_mark: | [Darktable](https://www.darktable.org/) | |
+darling | Mac CLI Wine | :heavy_multiplication_x: | [Darling](https://www.darlinghq.org/) | |
 datacleaner | database scanner | :heavy_multiplication_x: | | |
 dateutils | CLI date/time utilities | :heavy_multiplication_x: | [Dateutils](http://www.fresse.org/dateutils/) | |
 davfs2 | mount WebDAV resource | :heavy_check_mark: | | |
@@ -243,7 +242,7 @@ dconf-editor | GUI dconf editor | :heavy_check_mark: | | |
 dcraw | CLI RAW converter | :heavy_check_mark: | | |
 ddd | GUI debugger for GDB etc | :heavy_check_mark: | | includes Python, Bash |
 ddrescue | data recovery tool | :heavy_check_mark: | | see [gddrescue](#gddrescue) |
-deadbeef | music player | :heavy_multiplication_x: | [deadbeef](http://deadbeef.sourceforge.net/) [repo](https://github.com/DeaDBeeF-Player/deadbeef) | |
+deadbeef | music player | :heavy_multiplication_x: | [deadbeef](https://deadbeef.sourceforge.net/) [repo](https://github.com/DeaDBeeF-Player/deadbeef) | |
 deadman | CLI website status checker | :heavy_multiplication_x: | [deadman](https://github.com/upa/deadman) | uses ping |
 debconf-utils | debconf utilities | :heavy_check_mark: | | |
 deborphan | unused packages finder | :heavy_check_mark: | | |
@@ -255,7 +254,7 @@ delve | Go debugger | :heavy_multiplication_x: | [delve](https://github.com/go-d
 denyhosts | SSH protection | :heavy_check_mark: | | |
 desktop-files-creator | .desktop file creator | :heavy_multiplication_x: | [desktop-files-creator](https://github.com/alexkdeveloper/desktop-files-creator) | |
 devicesinlan | LAN scanner | :heavy_multiplication_x: | [DevicesInLAN](https://sourceforge.net/projects/devicesinlan/) | |
-devilspie2 | run script upon window interaction | :heavy_check_mark: | [Devilspie2](http://gusnan.se/devilspie2/) | |
+devilspie2 | run script upon window interaction | :heavy_check_mark: | [Devilspie2](https://www.gusnan.se/) | |
 devede | create DVDs/DVD menus | :heavy_check_mark: | | |
 devscripts | Debian package maintenance | :heavy_multiplication_x: | | <a id="devscripts"></a> |
 devtodo | CLI ToDo list | :heavy_check_mark: | | |
@@ -273,7 +272,6 @@ diffuse | file compare/merge | :heavy_check_mark: | | |
 dify | image diff | :heavy_multiplication_x: | [dify](https://github.com/jihchi/dify) | |
 digikam | photo manager | :heavy_check_mark: | | KDE-based |
 ding | GUI dictionary | :heavy_check_mark: | | |
-discourse | phpBB | :heavy_multiplication_x: | [Discourse](http://www.discourse.org/) | |
 discover | automate pen test tasks | :heavy_multiplication_x: | [discover](https://github.com/leebaird/discover) | |
 dispcalgui | GUI for [Argyll](#argyll) colour management | :heavy_check_mark: | | <a id="dispcalgui"></a> |
 dissy | GUI for `objdump` | :heavy_check_mark: | | |
@@ -306,7 +304,7 @@ duc | TUI/GUI disk usage analyser | :heavy_check_mark: | [Duc](https://duc.zevv.
 duf | disk usage monitor | :heavy_multiplication_x: | [duf](https://github.com/muesli/duf) | |
 dukto | LAN transfer tool | :heavy_multiplication_x: | [dukto](https://github.com/guilhem/dukto) | |
 dupeguru | duplicate file finder | :heavy_multiplication_x: | [dupeGuru](https://dupeguru.voltaicideas.net/) [repo](https://github.com/arsenetar/dupeguru) | |
-duplicity | encrypted backup | :heavy_check_mark: | [Duplicity](http://duplicity.nongnu.org/) | built on `rsync` <a id="duplicity"></a> |
+duplicity | encrypted backup | :heavy_check_mark: | [Duplicity](https://duplicity.gitlab.io/) | built on `rsync` <a id="duplicity"></a> |
 dvdbackup | DVD ripper | :heavy_check_mark: | | |
 e4defrag | ext4 defragger | :heavy_multiplication_x: | | |
 earlyoom | faster OOM | :heavy_check_mark: | [earlyoom](https://github.com/rfjakob/earlyoom) | |
@@ -315,18 +313,17 @@ easy-rsa | certificate generator | :heavy_check_mark: | [repo](https://github.co
 easyssh | GUI SSH connection manager | :heavy_multiplication_x: | [easyssh](https://github.com/muriloventuroso/easyssh) | |
 edotool | input device activity simulator | :heavy_multiplication_x: | [edotool](https://github.com/evuraan/edotool) | |
 efiboots | boot manager | :heavy_multiplication_x: | [efiboots](https://github.com/Elinvention/efiboots) | |
-eiciel | GUI ACL editor | :heavy_check_mark: | [Eiciel](http://rofi.roger-ferrer.org/eiciel/) [repo](https://github.com/rofirrim/eiciel) | |
-eko | audio editor | :heavy_multiplication_x: | [Eko](http://semiletov.org/eko/) | |
-elfparser | ELF analyser | :heavy_multiplication_x: | [ELF parser](http://elfparser.com/download.html) [repo](https://github.com/jacob-baines/elfparser) | |
+eiciel | GUI ACL editor | :heavy_check_mark: | [Eiciel](https://rofi.roger-ferrer.org/eiciel/) [repo](https://github.com/rofirrim/eiciel) | |
+elfparser | ELF analyser | :heavy_multiplication_x: | [elfparser](https://github.com/jacob-baines/elfparser) | |
 elfutils | ELF utilities | :heavy_check_mark: | | |
 emilpro | disassembler | :heavy_multiplication_x: | | |
 emma | MySQL GUI client | :heavy_check_mark: | | |
-encryptpad | text editor with encryption | :heavy_multiplication_x: | [EncryptPad](http://evpo.net/encryptpad/) | |
+encryptpad | text editor with encryption | :heavy_multiplication_x: | [EncryptPad](https://evpo.net/encryptpad/) | |
 encryptr | SpiderOak note storage | :heavy_multiplication_x: | [Encryptr](https://spideroak.com/) | |
 engauge-digitizer | graph digitizer: extract nums | :heavy_check_mark: | | |
 enscript | text converter PS/HTML/RTF | :heavy_check_mark: | | |
 ent | entropy checker | :heavy_check_mark: | | |
-entr | trigger actions on file change | :heavy_check_mark: | [Entr](http://entrproject.org/) | |
+entr | trigger actions on file change | :heavy_check_mark: | | |
 eqonmize | financial app | :heavy_multiplication_x: | [Eqonmize](https://github.com/Eqonomize/Eqonomize) | |
 eric | Python IDE | :heavy_check_mark: | [Eric](https://eric-ide.python-projects.org/) | |
 espeak | text speaker + GUIs | :heavy_check_mark: | | GUI is [gespeaker](#gespeaker) <a id="espeak"></a> |
@@ -335,9 +332,9 @@ etckeeper | version control of */etc* | :heavy_check_mark: | | |
 etherape | GUI network monitor | :heavy_check_mark: | | |
 ethtool | display/change Ethernet device settings | :heavy_check_mark: | | |
 ethr | network performance analyser | :heavy_multiplication_x: | [ethr](https://github.com/Microsoft/ethr) | |
-etm | event and task manager | :heavy_multiplication_x: | [ETM](http://people.duke.edu/~dgraham/etmqt/) | |
+etm | event and task manager | :heavy_multiplication_x: | [ETM](https://people.duke.edu/~dgraham/etmqt/) | |
 exa | colourful `ls` replacement | :heavy_multiplication_x: | [Exa](https://the.exa.website/) [repo](https://github.com/ogham/exa) | |
-exelearning | authoring tool | :heavy_multiplication_x: | [eXeLearning](http://exelearning.net/) | pps:exelearning/exelearning |
+exelearning | authoring tool | :heavy_multiplication_x: | [eXeLearning](https://exelearning.net/en/) | pps:exelearning/exelearning |
 exiftool | edit EXIF data | :heavy_check_mark: | [EXIFtool](https://exiftool.org/) | |
 exiv2 | EXIF/metadata editor | :heavy_check_mark: | | |
 exmplayer | GUI for MPlayer | :heavy_check_mark: | | |
@@ -378,7 +375,7 @@ flatseal | GUI Flatpak permissions manager | :heavy_multiplication_x: | [Flatsea
 flawfinder | C/C++ code checker | :heavy_check_mark: | | simpler than [splint](#splint) |
 flif | free lossless image format encoder | :heavy_multiplication_x: | [FLIF](https://github.com/FLIF-hub/FLIF) | <a id="flif"></a> |
 flifcrush | [FLIF](#flif) image optimiser | :heavy_multiplication_x: | [flifcrush](https://github.com/matthiaskrgr/flifcrush) | <a id="flif"></a> |
-flightgear | flight simulator | :heavy_check_mark: | [flightgear](http://flightgear.com) | |
+flightgear | flight simulator | :heavy_check_mark: | | |
 flow | diagrams | :heavy_multiplication_x: | | |
 flowblade | video editor | :heavy_check_mark: | [flowblade](https://github.com/jliljebl/flowblade) | |
 fmap | web app vulnerabilities | :heavy_multiplication_x: | | |
@@ -401,7 +398,7 @@ fracplanet | fractals | :heavy_check_mark: | | |
 fractalnow | fast fractal generator | :heavy_check_mark: | | |
 fraqtive | 3D Mandelbrot/Julia | :heavy_check_mark: | | |
 freac | audio encoder/ripper | :heavy_multiplication_x: | [freac](https://freac.org/) [repo](https://github.com/enzo1982/freac) | |
-freebasic | BASIC compiler | :heavy_multiplication_x: | [FreeBASIC](http://freebasic.net/) | |
+freebasic | BASIC compiler | :heavy_multiplication_x: | [FreeBASIC](https://freebasic.net/) | |
 freefilesynch | GUI folder compare and sync | :heavy_check_mark: | | |
 freemind | mindmap editor | :heavy_multiplication_x: | [FreeMind](https://sourceforge.net/projects/freemind/?source=directory) | Java-based |
 freeplane | mindmap editor | :heavy_check_mark: | | Java-based |
@@ -409,14 +406,14 @@ frescobaldi | sheet music editor | :heavy_check_mark: | | |
 freshmemory | flashcards | :heavy_multiplication_x: | [Fresh Memory](https://sourceforge.net/projects/freshmemory/) | |
 frogr | Flickr uploader/organiser | :heavy_check_mark: | | |
 fruitywifi | wireless network auditing tool | :heavy_multiplication_x: | [FruityWifi](https://github.com/xtr4nge/FruityWifi) | |
-fsarchiver | *tar.gz* alternative | :heavy_check_mark: | [fsarchiver](http://www.fsarchiver.org/) | |
-fsearch | file search | :heavy_multiplication_x: | [FSearch](http://www.fsearch.org/) | |
+fsarchiver | *tar.gz* alternative | :heavy_check_mark: | [fsarchiver](https://www.fsarchiver.org/) | |
+fsearch | file search | :heavy_multiplication_x: | | |
 fslint | problem file manager/cleaner | :heavy_check_mark: | | |
 fsmon | file system monitor | :heavy_multiplication_x: | [fsmon](https://github.com/nowsecure/fsmon) | |
 fswatch | file change monitor | :heavy_multiplication_x: | [fswatch](https://github.com/emcrisostomo/fswatch) | |
 fswebcam | webcam | :heavy_check_mark: | | `sudo fswebcam /dev/video0 x.jpg` |
 ftrace | ELF function analyser | :heavy_multiplication_x: | [ftrace](https://github.com/elfmaster/ftrace) | |
-funkload | web server benchmarker | :heavy_check_mark: | [FunkLoad](http://funkload.nuxeo.org/) | includes unit testing |
+funkload | web server benchmarker | :heavy_check_mark: | | includes unit testing |
 fusil | fuzzer | :heavy_check_mark: | | collection of scripts |
 fuzz | fuzz EXEs with datastream input | :heavy_check_mark: | | |
 fwbuilder | firewall admin GUI | :heavy_check_mark: | | |
@@ -431,7 +428,7 @@ gajim | GPG Jabber client | :heavy_check_mark: | | |
 gaupol | subtitles editor | :heavy_check_mark: | [gaupol](https://otsaloma.io/gaupol/) | |
 gamemode | optimise system performance | :heavy_multiplication_x: | [gamemode](https://github.com/Feralinteractive/gamemode) | |
 gatling | static page web server | :heavy_check_mark: | | |
-gcad3d | CAD | :heavy_multiplication_x: | [gCAD3D](http://gcad3d.org/) | |
+gcad3d | CAD | :heavy_multiplication_x: | [gCAD3D](https://gcad3d.org/) | |
 gcc | GNU C compiler | :heavy_check_mark: | | |
 gcolor2 | GUI colour picker | :heavy_check_mark: | | prefer [GPick](#gpick) |
 gconf-editor | GConf editor | :heavy_check_mark: | | |
@@ -444,12 +441,12 @@ gearlever | AppImage manager | :heavy_multiplication_x: | [gearlever](https://gi
 genisoimage | create CD/DVD images | :heavy_check_mark: | | |
 gespeaker | GUI for [eSpeak](#espeak) | :heavy_check_mark: | | <a id="gespeaker"></a> |
 gethead | HTTP header vulnerability tool | :heavy_multiplication_x: | [gethead](https://github.com/httphacker/gethead) | |
-geeqie | GTK image viewer | :heavy_check_mark: | [Geeqie](http://geeqie.org/) | good for multiple image comparison, sidecar files |
+geeqie | GTK image viewer | :heavy_check_mark: | [Geeqie](https://www.geeqie.org/) | good for multiple image comparison, sidecar files |
 gfio | GUI for [fio](#fio) | :heavy_check_mark: | | |
 gfortran | GNU Fortran 95 compiler | :heavy_check_mark: | | |
 gh-ost | MySQL trigger-less schema migrator | :heavy_multiplication_x: | [gh-ost](https://github.com/github/gh-ost) | |
 ghex | GUI hex viewer | :heavy_check_mark: | | |
-ghostwriter | [FocusWriter](#focuswriter)-like text editor | :heavy_multiplication_x: | [GhostWriter](http://wereturtle.github.io/ghostwriter/) | Markdown default |
+ghostwriter | [FocusWriter](#focuswriter)-like text editor | :heavy_multiplication_x: | [GhostWriter](https://ghostwriter.kde.org/) | Markdown default |
 giada | DJ tool | :heavy_multiplication_x: | | |
 gifcurry | video editor for GIFs | :heavy_multiplication_x: | [gifcurry](https://github.com/lettier/gifcurry) | |
 gigolo | mount manager | :heavy_check_mark: | | |
@@ -513,7 +510,7 @@ gpick | screen colour pick/palette/inverter | :heavy_check_mark: | | <a id="gpic
 gping | CLI visual ping host | :heavy_multiplication_x: | [gping](https://github.com/orf/gping) | |
 gpm | mouse interface/copy-paste on CLI | :heavy_check_mark: | | |
 gpt fdisk | GPT disk tools | :heavy_multiplication_x: | [GPT fdisk](https://sourceforge.net/projects/gptfdisk/) | also see `gdisk` in repo |
-gqrx | GUI radio receiver | :heavy_check_mark: | [Gqrx](http://gqrx.dk/) | |
+gqrx | GUI radio receiver | :heavy_check_mark: | [Gqrx](https://www.gqrx.dk/) | |
 grabber | web app scanner | :heavy_multiplication_x: | | |
 graphviz | graph tools | :heavy_check_mark: | | |
 graudit | grep rough source code audit | :heavy_multiplication_x: | [graudit](https://github.com/wireghoul/graudit/) | |
@@ -543,7 +540,7 @@ handbrake | DVD ripper/video transcoder | :heavy_check_mark: | [HandBrake](https
 hardinfo | hardware info | :heavy_check_mark: | | |
 harvester | info harvester | :heavy_multiplication_x: | [theHarvester](https://github.com/laramies/theHarvester) | |
 HAI | hash algorithm identifier| :heavy_multiplication_x: | [Hash-Algorithm-Identifier](https://github.com/AnimeshShaw/Hash-Algorithm-Identifier) | |
-hash-identifier | identify hash | :heavy_multiplication_x: | [hash-identifier](http://tools.kali.org/password-attacks/hash-identifier) | |
+hash-identifier | identify hash | :heavy_multiplication_x: | [hash-identifier](https://www.kali.org/tools/hash-identifier/) | |
 haveged | random number generator | :heavy_check_mark: | | |
 hdparm | tune HDD parameters | :heavy_check_mark: | | |
 hdck | HDD/media diagnostics | :heavy_multiplication_x: | [hdck](https://github.com/tomato42/hdck) | |
@@ -551,7 +548,7 @@ health-check | process monitoring tool | :heavy_check_mark: | | |
 heaptrack | heap memory profiler | :heavy_multiplication_x: | [heaptrack](https://github.com/KDE/heaptrack) | |
 heartbeat | high-availability servers | :heavy_check_mark: | | |
 hegemon | TUI system monitor | :heavy_multiplication_x: | [hegemon](https://github.com/p-e-w/hegemon) | |
-helm | music synthesizer | :heavy_multiplication_x: | [Helm](http://tytel.org/helm/) | |
+helm | music synthesizer | :heavy_multiplication_x: | [Helm](https://tytel.org/helm/) | |
 hexyl | CLI hex editor | :heavy_multiplication_x: | [hexyl](https://github.com/sharkdp/hexyl) | |
 highlight | convert code to HTML/RTF | :heavy_check_mark: | | |
 hnwatch | CLI news feed | :heavy_multiplication_x: | | |
@@ -585,7 +582,7 @@ ifstat | interface statistics monitoring | :heavy_check_mark: | | `vmstat`-like 
 iftop | network interface usage | :heavy_check_mark: | | |
 imagemagick | CLI image manipulator | :heavy_check_mark: | | <a id="imagemagick"></a> |
 imgp | image converter | :heavy_check_mark: | [imgp](https://github.com/jarun/imgp) | |
-i-nex | GUI hardware lister | :heavy_multiplication_x: | [i-nex](http://i-nex.linux.pl/) | similar to *CPU-Z* |
+i-nex | GUI hardware lister | :heavy_multiplication_x: | [I-Nex](https://github.com/i-nex/I-Nex) | similar to *CPU-Z* |
 incron | file system events daemon | :heavy_check_mark: | | |
 indent | C code formatter | :heavy_check_mark: | | |
 indicator-cpufreq | change CPU frequency | :heavy_check_mark: | | |
@@ -631,7 +628,7 @@ joplin | notes/todo app | :heavy_multiplication_x: | [Joplin](https://joplinapp.
 jp2a | JPG to ASCII art | :heavy_check_mark: | | |
 jpeginfo | JPG info/integrity | :heavy_check_mark: | | |
 jq | CLI JSON stream processor | :heavy_check_mark: | | |
-julia | fast math-oriented language | :heavy_check_mark: | [Julia](http://julialang.org/) | |
+julia | fast math-oriented language | :heavy_check_mark: | [Julia](https://julialang.org/) | |
 kaku | music player | :heavy_multiplication_x: | [Kaku](http://kaku.rocks/) | |
 kamailio | SIP proxy | :heavy_check_mark: | [kamailio](https://www.kamailio.org/) | |
 kanboard | project manager | :heavy_multiplication_x: | [Kanboard](https://kanboard.net/) | |
@@ -642,15 +639,14 @@ kdenlive | video editor | :heavy_check_mark: | | KDE |
 kdiskmark | GUI disk benchmarker | :heavy_multiplication_x: | [KDiskMark](https://github.com/JonMagon/KDiskMark) | |
 keepassx | password vault | :heavy_check_mark: | | <a id="keepassx"></a> |
 keepassxc | password vault | :heavy_multiplication_x: | [KeePassXC](https://keepassxc.org) | revised [KeePassX](#keepassx) |
-kerkythea | renderer | :heavy_multiplication_x: | [Kerkythea](http://www.kerkythea.net/cms/) | |
-kexi | database GUI (MySQL/[SQLite](#sqlite3)/[PostgreSQL](#postgresql)) | :heavy_multiplication_x: | [Kexi](http://kexi-project.org/) | |
+kerkythea | renderer | :heavy_multiplication_x: | [Kerkythea](https://kerkythea.net/) | |
+kexi | database GUI (MySQL/[SQLite](#sqlite3)/[PostgreSQL](#postgresql)) | :heavy_multiplication_x: | [Kexi](https://kexi-project.org/en/) | |
 kismet | wireless sniffer/monitor | :heavy_check_mark: | | |
 kmon | TUI kernel module manager | :heavy_multiplication_x: | [kmon](https://github.com/orhun/kmon) | |
 knock | subdomain scanner | :heavy_multiplication_x: | [knock](https://github.com/guelfoweb/knock) | |
-knotter | Celtic knot app | :heavy_multiplication_x: | [Knotter](https://sourceforge.net/projects/knotter/) [info](http://knotter.mattbas.org/Knotter) | |
-kolormanager | X colour calibration | :heavy_multiplication_x: | [KolorManager](http://oyranos.org/kolormanager) | |
+knotter | Celtic knot app | :heavy_multiplication_x: | [Knotter](https://sourceforge.net/projects/knotter/) [info](https://knotter.mattbas.org/Knotter) | |
 komodoedit | code editor | :heavy_multiplication_x: | | |
-krita | image editor | :heavy_check_mark: | [Krita](krita.org) | hand-drawn focus |
+krita | image editor | :heavy_check_mark: | [Krita](https://krita.org/en/) | hand-drawn focus |
 krop | PDF cropper/editor | :heavy_multiplication_x: | [Krop](http://arminstraub.com/software/krop) | |
 ksnip | snipping tool | :heavy_multiplication_x: | [ksnip](https://github.com/DamirPorobic/ksnip) | |
 kst | data plotting tool | :heavy_check_mark: | [Kst](https://kst-plot.kde.org/) | `kst2` |
@@ -673,7 +669,7 @@ libtomcrypt | crypto toolkit | :heavy_check_mark: | | |
 libtree | `ldd` tree | :heavy_multiplication_x: | [libtree](https://github.com/haampie/libtree) | |
 liferea | GUI RSS | :heavy_check_mark: | | |
 lightworks | video editor | :heavy_multiplication_x: | [LightWorks](https://www.lwks.com/) | 720p only |
-lightzone | RAW editor | :heavy_multiplication_x: | [LightZone](http://lightzoneproject.org/) | |
+lightzone | RAW editor | :heavy_multiplication_x: | | |
 linkchecker | website link checker | :heavy_check_mark: | | |
 linklint | website link checker | :heavy_check_mark: | | |
 linphone | [Skype](#skype) replacement | :heavy_check_mark: | | requires SIP account |
@@ -682,14 +678,13 @@ linux-crashdump | kernel crashdump set-up | :heavy_check_mark: | | |
 linux-firmware | drivers | :heavy_check_mark: | | apparently includes wireless drivers |
 linux-malware-detect | Linux malware detector | :heavy_multiplication_x: | [linux-malware-detect](https://github.com/rfxn/linux-malware-detect) | |
 linux-wifi-hotspot | GUI wireless hotspot tool | :heavy_multiplication_x: | [linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) | |
-linuxrespin | distro builder | :heavy_multiplication_x: | [Linux Respin](http://www.linuxrespin.org/) | |
 lives | video editor | :heavy_check_mark: | | requires <a href="#x264">x264</a>, *gpac* for decent output |
 lldpd | LLDP discovery daemon | :heavy_check_mark: | | discover LAN switches etc, `lldpctl`, `lldpcli` |
 lm-sensors | for `sensors` | :heavy_check_mark: | | |
 lms | login manager settings | :heavy_multiplication_x: | [lms](https://gdm-settings.github.io/) | |
 lmms | audio editor | :heavy_check_mark: | | |
 ln | vector image generator | :heavy_multiplication_x: | [ln](https://github.com/fogleman/ln) | |
-lnav | logfile reader with colour | :heavy_check_mark: | [lnav](http://lnav.org/) | |
+lnav | logfile reader with colour | :heavy_check_mark: | [lnav](https://lnav.org/) | |
 localsend | file transfer | :heavy_multiplication_x: | [LocalSend](https://localsend.org/) | |
 log2ram | RAM logger | :heavy_multiplication_x: | [log2ram](https://github.com/azlux/log2ram) | |
 logcheck | logfile alerter | :heavy_check_mark: | | |
@@ -743,7 +738,7 @@ mlocate | for `locate` | :heavy_check_mark: | | if `locate` is missing <a id="ml
 mmv | mass move/rename | :heavy_check_mark: | | |
 mongodb | MongoDB | :heavy_check_mark: | | meta package; or `pecl install mongo` <a id="mongodb"></a> |
 monit | notify upon server log-ins | :heavy_multiplication_x: | | |
-monitorix | GUI system monitor | :heavy_multiplication_x: | [Monitorix](http://www.monitorix.org/) | |
+monitorix | GUI system monitor | :heavy_multiplication_x: | [Monitorix](https://www.monitorix.org/) | |
 moreutils | `combine`, `errno`, `isutf8`, [`parallel`](#parallel), `zrun` | :heavy_check_mark: | | <a id="moreutils"></a> |
 most | advanced pager, includes colour, bin viewer | :heavy_check_mark: | | |
 mp3diags | MP3 file analyser | :heavy_check_mark: | | |
@@ -816,14 +811,13 @@ nmcli | CLI for NetworkManager | :heavy_check_mark: | | |
 nmon | network/CPU/disk performance | :heavy_check_mark: | | |
 nohang | low memory handler | :heavy_multiplication_x: | [nohang](https://github.com/hakavlad/nohang) | |
 nomacs | image viewer | :heavy_check_mark: | [nomacs](https://nomacs.org/) | good for image comparison via sync |
-notepadqq | code editor | :heavy_multiplication_x: | [Notepadqq](http://notepadqq.altervista.org/wp/download/) | |
 notepas | code editor | :heavy_multiplication_x: | | |
 notes-up | editor supporting Markdown | :heavy_multiplication_x: | [Notes-up](https://github.com/Philip-Scott/Notes-up) | PDF export |
 novelwriter | text editor | :heavy_multiplication_x: | [novelWriter](https://novelwriter.io/) [repo](https://github.com/vkbo/novelWriter) | |
 npkill | Node.js module remover | :heavy_multiplication_x: | [npkill](https://github.com/voidcosmos/npkill) | |
 npm | Node.js package manager | :heavy_check_mark: | | |
 nstreams | tcpdump output analyser | :heavy_check_mark: | | |
-ntfs-3g | NTFS driver | :heavy_check_mark: | [NTFS-3G](http://www.tuxera.com/community/open-source-ntfs-3g/) | r/w |
+ntfs-3g | NTFS driver | :heavy_check_mark: | [NTFS-3G](https://www.tuxera.com/company/open-source/) | r/w |
 ntfsfix | fix NTFS | :heavy_multiplication_x: | | |
 ntfsundelete | recover NTFS files | :heavy_check_mark: | | |
 ntfy | push notifier | :heavy_multiplication_x: | [ntfy](https://github.com/binwiederhier/ntfy) | |
@@ -836,18 +830,17 @@ nvtop | GPU monitor | :heavy_multiplication_x: | [nvtop](https://github.com/Syll
 obnam | incremental daily backups with SFTP/[GnuPG](#gpg) support | :heavy_check_mark: | | |
 obs | video recording/livestreaming | :heavy_multiplication_x: | [OBS](https://obsproject.com/) | |
 obsidian | Markdown mindmap tool | :heavy_multiplication_x: | [obsidian](https://obsidian.md/) | |
-oclint | C/C++/ObjC static code analyser | :heavy_multiplication_x: | [OCLint](http://oclint.org/) [repo](https://github.com/oclint/oclint/) | |
+oclint | C/C++/ObjC static code analyser | :heavy_multiplication_x: | [OCLint](https://oclint.org/) [repo](https://github.com/oclint/oclint/) | |
 ocrfeeder | OCR text scanner | :heavy_check_mark: | | |
 ocrmypdf | OCR PDF files | :heavy_check_mark: | | |
 octave | numerical computation library and GUI | :heavy_check_mark: | | Matlab-like |
 od2txt | ODT to text converter | :heavy_check_mark: | | |
 oletoy | file format analyser | :heavy_multiplication_x: | [re-lab](https://github.com/renyxa/re-lab) | |
 olive | video editor | :heavy_multiplication_x: | [olive](https://olivevideoeditor.org) [repo](https://github.com/olive-editor/olive) | |
-omd | Nagios fork | :heavy_multiplication_x: | [OMD](http://omdistro.org/) | easier set-up than [Nagios](#nagios) |
+omd | Nagios fork | :heavy_multiplication_x: | [OMD](https://omdistro.org/) | easier set-up than [Nagios](#nagios) |
 onedrive-d | OneDrive sync | :heavy_multiplication_x: | [onedrive-d](https://github.com/xybu92/onedrive-d) | |
 onetime | one-time pad | :heavy_check_mark: | | |
 onionshare | secure communications | :heavy_multiplication_x: | [onionshare](https://onionshare.org/) | |
-oolite | Elite game | :heavy_check_mark: | [Oolite](http://oolite.org/) | |
 openarena | Quake-like FPS | :heavy_check_mark: | | |
 openrgb | hardware RGB lighting manager | :heavy_multiplication_x: | [OpenRGB](https://gitlab.com/CalcProgrammer1/OpenRGB) | |
 openshot | video editor | :heavy_check_mark: | | good all rounder, requires Frei0r-plugins |
@@ -867,7 +860,7 @@ packit | network injection/capture tool	 | :heavy_check_mark: | | |
 packeth | GUI Ethernet packet generator | :heavy_check_mark: | | |
 packetsender | GUI packet generator | :heavy_multiplication_x: | [Packet Sender](https://packetsender.com/download) | |
 pamix | PulseAudio mixer | :heavy_multiplication_x: | [PAmix](https://github.com/patroclos/PAmix) | |
-pandoc | DOCX/RTF/HTML/Markdown converter | :heavy_check_mark: | [Pandoc](http://pandoc.org/) | |
+pandoc | DOCX/RTF/HTML/Markdown converter | :heavy_check_mark: | [Pandoc](https://pandoc.org/) | |
 panwriter | Markdown editor | :heavy_multiplication_x: | [panwriter](https://github.com/mb21/panwriter) | tight integration with `pandoc` |
 paper-clip | PDF metadata editor | :heavy_multiplication_x: | [paper-clip](https://github.com/Diego-Ivan/Paper-Clip) | |
 parallel | multi-threaded Bash scripts | :heavy_check_mark: | | in [moreutils](#moreutils) <a id="parallel"></a> |
@@ -951,7 +944,7 @@ prowler | AWS security tool | :heavy_multiplication_x: | [prowler](https://githu
 proxychains | redirect connections through proxy servers | :heavy_check_mark: | | |
 psad | port scan detector | :heavy_check_mark: | | from iptables |
 psensor | temperature sensors GUI | :heavy_check_mark: | | |
-pspp | statistical analysis | :heavy_check_mark: | [PSPP](http://www.gnu.org/software/pspp/) | SPSS replacement |
+pspp | statistical analysis | :heavy_check_mark: | [PSPP](https://www.gnu.org/software/pspp/) | SPSS replacement |
 pst-utils | read Microsoft Outlook *.pst* files | :heavy_check_mark: | | *.pst* to *.mbox* |
 pstop | MySQL top from perf schema | :heavy_multiplication_x: | [ps-top](https://github.com/sjmudd/ps-top) | |
 publican | docbook XML publisher | :heavy_check_mark: | | |
@@ -981,9 +974,9 @@ qemu | processor emulator | :heavy_check_mark: | | `apt-get install kvm qemu-kvm
 qemu-kvm | multiple virtual PCs | :heavy_check_mark: | | |
 qjournalctl | GUI for systemd `journalctl` | :heavy_multiplication_x: | [qjournalctl](https://github.com/pentix/qjournalctl) | |
 qmmp | music player | :heavy_check_mark: | | |
-qownnotes | notepad with Markdown | :heavy_multiplication_x: | [QOwnNotes](http://www.qownnotes.org/) | |
+qownnotes | notepad with Markdown | :heavy_multiplication_x: | [QOwnNotes](https://www.qownnotes.org/) | |
 qmplay2 | video/YouTube player | :heavy_multiplication_x: | [QMPlay2](https://github.com/zaps166/QMPlay2) | GPU acceleration; good options |
-qpdf | CLI PDF editor | :heavy_multiplication_x: | [QPDF](http://qpdf.sourceforge.net/) | |
+qpdf | CLI PDF editor | :heavy_multiplication_x: | [QPDF](https://qpdf.sourceforge.io/) | |
 qrencode | QR generator | :heavy_check_mark: | | `qrencode -o f.png 'txt'` # -s height of pixel, -l H highest level of error correction|
 qtox | encrypted chat | :heavy_multiplication_x: | [qTox](https://github.com/qTox/qTox) | |
 qtpfsgui | HDR tonemapper | :heavy_check_mark: | | |
@@ -1006,7 +999,7 @@ raspiraw | RaspPi RAW processing | :heavy_multiplication_x: | [raspiraw](https:/
 ratproxy | passive web app security assessor | :heavy_check_mark: | | |
 rats | rough auditing tool for security | :heavy_check_mark: | | |
 rawtherapee | RAW file editor | :heavy_check_mark: | [RawTherapee](http://rawtherapee.com) | |
-rclone | `rsync` for cloud drives | :heavy_multiplication_x: | [RClone](http://rclone.org/) [repo](https://github.com/ncw/rclone) | <a id="rclone"></a> |
+rclone | `rsync` for cloud drives | :heavy_multiplication_x: | [RClone](https://rclone.org/) [repo](https://github.com/ncw/rclone) | <a id="rclone"></a> |
 rclonebrowser | GUI for [rclone](#rclone) | :heavy_multiplication_x: | [RcloneBrowser](https://github.com/mmozeiko/RcloneBrowser) | |
 rcrack | cracker via rainbow tables | :heavy_multiplication_x: | | |
 rdiff-backup | remote incremental backup | :heavy_check_mark: | | |
@@ -1023,7 +1016,6 @@ remmina | Gnome GUI remote desktop client | :heavy_check_mark: | | |
 remmina-plugin-vnc | VNC plugin for Remmina | :heavy_check_mark: | | |
 remnux | Linux malware analyser | :heavy_multiplication_x: | [REMnux](https://sourceforge.net/projects/remnux/) | |
 retext | ReText/Markdown editor | :heavy_check_mark: | [Retext](https://github.com/retext-project/retext) | |
-retroshare | encrypted IM/filesharing | :heavy_multiplication_x: | [RetroShare](http://retroshare.net) | |
 rdesktop | CLI remote desktop client | :heavy_check_mark: | | *grdesktop* for GUI <a id="rdesktop"></a> |
 recode | file charset conversion | :heavy_check_mark: | | |
 recoverjpeg | recover JPGs/MOVs | :heavy_check_mark: | | from SD card |
@@ -1044,6 +1036,7 @@ rst2pdf | ReText to PDF | :heavy_check_mark: | | |
 rsyncrypto | `rsync` encryption | :heavy_check_mark: | | |
 rtgen | rainbow table generator | :heavy_multiplication_x: | | `rtgen md5 loweralpha-numeric 1 5 0 3800 33554432 0` |
 ruby | Ruby interpreter | :heavy_check_mark: | | `irb` |
+ruffle | Flash emulator | :heavy_multiplication_x: | [ruffle](https://ruffle.rs/) | |
 rustbuster | web fuzzer | :heavy_multiplication_x: | [rustbuster](https://github.com/phra/rustbuster) | |
 rustc | Rust compiler | :heavy_multiplication_x: | | |
 rustdesk | remote desktop | :heavy_multiplication_x: | [rustdesk](https://rustdesk.com) [repo](https://github.com/rustdesk/rustdesk) | |
@@ -1059,7 +1052,6 @@ scalpel | file recovery/data carver | :heavy_check_mark: | [scalpel](https://git
 scamper | network measurement tool | :heavy_check_mark: | | |
 scrcpy | Android screen connector | :heavy_check_mark: | [scrcpy](https://github.com/Genymobile/scrcpy) | |
 screenruler | pixel ruler | :heavy_check_mark: | | |
-screenstudio | screencast creator | :heavy_multiplication_x: | [ScreenStudio](http://screenstudio.crombz.com/) | |
 scribus | desktop publisher/PDF editor | :heavy_check_mark: | | |
 scrot | CLI screen capture | :heavy_check_mark: | | |
 scrypt | encryption utility | :heavy_check_mark: | [scrypt](https://github.com/Tarsnap/scrypt) | |
@@ -1069,7 +1061,7 @@ sendmail | mail agent | :heavy_check_mark: | | |
 sentry | brute-force blocker | :heavy_multiplication_x: | [sentry](https://github.com/msimerson/sentry) | |
 sfk | comprehensive file utilities | :heavy_multiplication_x: | [Swiss File Knife](http://stahlworks.com/dev/swiss-file-knife.html) | |
 sg3-utils | SCSI utilities | :heavy_check_mark: | | |
-shellcheck | Bash lint | :heavy_check_mark: | [ShellCheck](http://www.shellcheck.net/) | |
+shellcheck | Bash lint | :heavy_check_mark: | [ShellCheck](https://www.shellcheck.net/) | |
 shellnoob | shell code generator | :heavy_multiplication_x: | [shellnoob](https://gitlab.com/kalilinux/packages/shellnoob) | |
 shellpic | preview images in SSH | :heavy_multiplication_x: | [shellpic](https://github.com/larsjsol/shellpic) | |
 sherlock | OSINT tool | :heavy_multiplication_x: | [sherlock](https://github.com/sherlock-project/sherlock) | |
@@ -1079,17 +1071,15 @@ siege | server stress tester | :heavy_check_mark: | | |
 sigil | eBook editor | :heavy_multiplication_x: | [Sigil](https://sigil-ebook.com/) | |
 silver-searcher | source code grep | :heavy_multiplication_x: | [TSS](https://github.com/ggreer/the_silver_searcher) | |
 simplebackup | backup utility | :heavy_check_mark: | | |
-simplescreenrecorder | record programs | :heavy_multiplication_x: | [SSR](http://www.maartenbaert.be/simplescreenrecorder/) | |
+simplescreenrecorder | record programs | :heavy_multiplication_x: | [SSR](https://www.maartenbaert.be/simplescreenrecorder/) | |
 simon | voice recognition | :heavy_check_mark: | | |
 singlefilez | webpage archiver | :heavy_multiplication_x: | [SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) | |
 sipcrack | SIP log-in dumper/cracker | :heavy_check_mark: | | |
 sipvicious | audit SIP-based VoIP systems | :heavy_multiplication_x: | | |
 sirikali | GUI for gocryptfs/encfs/securefs | :heavy_multiplication_x: | [SiriKali](https://mhogomchungu.github.io/sirikali/) | |
 skeema | CLI MySQL schema management | :heavy_multiplication_x: | [skeema](https://github.com/skeema/skeema) | |
-sk1 | vector graphics editor | :heavy_multiplication_x: | [sK1](http://sk1project.org/) | |
 skipfish | web app recon tool | :heavy_check_mark: | | |
 skrooge | money accounting | :heavy_check_mark: | | |
-skype | VoIP telephony | :heavy_multiplication_x: | [skype](https://www.skype.com/en/get-skype/) | <a id="skype"></a> |
 slack-desktop | team messenger | :heavy_check_mark: | | proprietary |
 slate | pixel art editor | :heavy_multiplication_x: | [slate](https://github.com/mitchcurtis/slate) | |
 slowhttptest | server stress tool | :heavy_check_mark: | | |
@@ -1126,13 +1116,13 @@ sqlite3 | SQLite | :heavy_check_mark: | | <a id="sqlite3"></a> |
 sqlitebrowser | [SQLite](#sqlite3) GUI | :heavy_check_mark: | | simpler than [sqliteman](#sqliteman) |
 sqliteman | [SQLite](#sqlite3) GUI | :heavy_check_mark: | | [SQLiteStudio](#sqlitestudio) is better for unicode data import <a id="sqliteman"></a> |
 sqlitestudio | [SQLite](#sqlite3) GUI | :heavy_multiplication_x: | [SQLiteStudio](https://sqlitestudio.pl) [repo](https://github.com/pawelsalawa/sqlitestudio) | <a id="sqlitestudio"><a> |
-sqlmap | SQL injection tool | :heavy_check_mark: | [SQLMap](http://sqlmap.org/) [repo](https://github.com/sqlmapproject/sqlmap) | |
+sqlmap | SQL injection tool | :heavy_check_mark: | [SQLMap](https://sqlmap.org/) [repo](https://github.com/sqlmapproject/sqlmap) | |
 sqlninja | Microsoft SQL Server injection | :heavy_multiplication_x: | [sqlninja](https://sourceforge.net/projects/sqlninja) | |
 sqlsus | MySQL attacker | :heavy_multiplication_x: | | |
 srm | secure file deletion | :heavy_multiplication_x: | [SRM](https://sourceforge.net/projects/srm/) | slow, punishing on SSDs |
 ssc | script to ELF | :heavy_multiplication_x: | [ssc](https://github.com/liberize/ssc) | |
 ssldump | SSLv3/TLS network protocol analyser | :heavy_check_mark: | | |
-sshguard | SSH brute-force protection | :heavy_check_mark: | [SSHGuard](http://www.sshguard.net/) | more intelligent than [fail2ban](#fail2ban) |
+sshguard | SSH brute-force protection | :heavy_check_mark: | [SSHGuard](https://www.sshguard.net/) | more intelligent than [fail2ban](#fail2ban) |
 sslscan | SSL scanner | :heavy_check_mark: | | |
 ssh-audit | SSH config analyser | :heavy_multiplication_x: | [ssh-audit](https://github.com/jtesta/ssh-audit) | |
 sshfs | mount remote filesystem | :heavy_check_mark: | | GNOME already does this through gvfs |
@@ -1208,7 +1198,7 @@ tinyproxy | non-caching HTTP proxy | :heavy_check_mark: | | |
 tlp | laptop power manager | :heavy_check_mark: | [TLP](https://linrunner.de/tlp/) [repo](https://github.com/linrunner/TLP) | |
 tmsu | file tagging app | :heavy_multiplication_x: | [TMSU](https://github.com/oniony/TMSU) | |
 tmux | CLI multiplexer | :heavy_check_mark: | | |
-todo.txt | CLI ToDo notes | :heavy_multiplication_x: | [todo.txt](http://todotxt.com/) | |
+todo.txt | CLI ToDo notes | :heavy_multiplication_x: | [todo.txt](http://todotxt.org/) | |
 tofromdos | EOL character converter | :heavy_check_mark: | | <a id="tofromdos"></a> |
 tomahawk | media player | :heavy_check_mark: | | |
 tor | anonymising overlay | :heavy_check_mark: | | get source, **not** repo version <a id="tor"></a> |
@@ -1220,7 +1210,6 @@ transmageddon | media file converter | :heavy_check_mark: | | |
 trash-cli | CLI trash bin control | :heavy_check_mark: | | `trash-empty`, `trash-list` |
 tree | CLI directory tree lister | :heavy_check_mark: | | |
 treeline | [TreePadLite](#treepadlite)/XML/bookmark editor | :heavy_check_mark: | [Treeline](http://treeline.bellz.org) | |
-treepadlite | notes manager | :heavy_multiplication_x: | [TreePadLite](http://www.treepad.com/linux/treepadlite/) | <a id="treepadlite"></a> |
 trelby | screenwriting program | :heavy_multiplication_x: | [Trelby](https://www.trelby.org/download/) | |
 trickle | bandwidth throttler | :heavy_check_mark: | | |
 trimage | PNG/JPG compressor | :heavy_check_mark: | | |
@@ -1231,9 +1220,9 @@ tt-rss | tiny tiny RSS | :heavy_check_mark: | | |
 ttf-mscorefonts-installer | Microsoft TTF fonts | :heavy_check_mark: | | |
 tuc | improved `cut` | :heavy_multiplication_x: | [tuc](https://github.com/riquito/tuc) | |
 tuptime | historical (total) uptime | :heavy_check_mark: | | |
-tuxguitar | music app including scoresheet | :heavy_check_mark: | [Tuxguitar](http://tuxguitar.herac.com.ar) | |
+tuxguitar | music app including scoresheet | :heavy_check_mark: | [Tuxguitar](https://tuxguitar.herac.com.ar/) | |
 typora | Markdown/Mermaid editor | :heavy_check_mark: | [Typora](https://typora.io/) | |
-uberwriter | Markdown editor | :heavy_multiplication_x: | [UberWriter](http://uberwriter.github.io/uberwriter/) [repo](https://github.com/UberWriter/uberwriter) | |
+uberwriter | Markdown editor | :heavy_multiplication_x: | [UberWriter](https://uberwriter.github.io/uberwriter/) [repo](https://github.com/UberWriter/uberwriter) | |
 ubuntu-tweak | Ubuntu config tool | :heavy_check_mark: | | use `apt` |
 udptunnel | tunnel UDP over TCP | :heavy_check_mark: | | |
 ugui_flif | GUI for [FLIF](#flif) | :heavy_multiplication_x: | [UGUI_FLIF](https://github.com/FLIF-hub/UGUI_FLIF) | |
@@ -1260,14 +1249,14 @@ usbview | GUI `lsusb` | :heavy_check_mark: | [usbview](https://github.com/gregkh
 usermanager | GUI user/group manager | :heavy_multiplication_x: | [UserManager](https://github.com/xvass/UserManager) | |
 valac | Vala compiler | :heavy_check_mark: | | |
 vale | text linter | :heavy_multiplication_x: | [vale](https://github.com/errata-ai/vale) | |
-valentinastudio | MySQL/[PostgreSQL](postgresql)/MSSQL browser| :heavy_multiplication_x: | [Valentina Studio](http://valentina-db.com/en/all-downloads/vstudio/current) | |
+valentinastudio | MySQL/[PostgreSQL](postgresql)/MSSQL browser| :heavy_multiplication_x: | [Valentina Studio](https://valentina-db.com/en/all-downloads/vstudio/current) | |
 valgrind | memory debugger and profiler | :heavy_check_mark: | | <a id="valgrind"></a> |
 valkyrie | GUI for [valgrind](#valgrind) | :heavy_check_mark: | | |
 vbindiff | visual binary file compare | :heavy_check_mark: | | |
 vega | web app tester | :heavy_multiplication_x: | | Java-based |
 vegeta | HTTP load tester | :heavy_multiplication_x: | [vegeta](https://github.com/tsenart/vegeta) | |
 ventoy | create bootable USB drives | :heavy_multiplication_x: | [Ventoy](https://ventoy.net) [repo](https://github.com/ventoy/Ventoy) | |
-veracrypt | TrueCrypt replacement | :heavy_multiplication_x: | [VeraCrypt](http://veracrypt.codeplex.com/) | |
+veracrypt | TrueCrypt replacement | :heavy_multiplication_x: | [VeraCrypt](https://www.veracrypt.fr/) | |
 veusz | GUI scientific plotter | :heavy_check_mark: | [Veusz](https://veusz.github.io/) | |
 vidalia | [Tor](#tor) GUI frontend | :heavy_check_mark: | | |
 video-trimmer | video editor | :heavy_multiplication_x: | [video-trimmer](https://gitlab.gnome.org/YaLTeR/video-trimmer) | |
@@ -1277,7 +1266,7 @@ vinetto | interrogate thumbs.db files | :heavy_check_mark: | | |
 virt-manager | GUI VM manager | :heavy_check_mark: | [virt-manager](https://virt-manager.org/) | good options range; still 'experimental' |
 virtualbox | virtual machines | :heavy_check_mark: | [Virtual Box](https://www.virtualbox.org/) | GPU acceleration |
 vizex | disk usage visualiser | :heavy_multiplication_x: | [vizex](https://github.com/bexxmodd/vizex) | |
-visual studio code | code editor/IDE | :heavy_multiplication_x: | [Visual Studio Code](http://code.visualstudio.com/) | also [vscodium](#vscodium) and a [snap](https://snapcraft.io/code) |
+visual studio code | code editor/IDE | :heavy_multiplication_x: | [Visual Studio Code](https://code.visualstudio.com/) | also [vscodium](#vscodium) and a [snap](https://snapcraft.io/code) |
 vivaldi | highly-customisable browser | :heavy_multiplication_x: | [Vivaldi](https://vivaldi.com/) | |
 vmware | virtual machines | :heavy_check_mark: | | GPU acceleration |
 vnstat | CLI network traffic monitor | :heavy_check_mark: | | |
@@ -1285,7 +1274,7 @@ vobcopy | CD/MP4 track copier | :heavy_check_mark: | | |
 voiphopper | VoIP security testing tool | :heavy_multiplication_x: | | |
 voipong | VoIP sniffer/call detector | :heavy_multiplication_x: | | |
 vokoscreen | screencast creator | :heavy_check_mark: | | |
-vpaint | vector paint | :heavy_multiplication_x: | [VPaint](http://vpaint.org/) | |
+vpaint | vector paint | :heavy_multiplication_x: | [VPaint](https://www.vpaint.org/) | |
 vrfy | verify email addresses | :heavy_check_mark: | | |
 vrms | virtual Richard Stallman: list non-free packages | :heavy_check_mark: | | |
 vscodium | VS Code without telemetry | :heavy_multiplication_x: | [VSCodium](https://vscodium.com/) | <a id="vscodium"></a> |
@@ -1329,8 +1318,8 @@ wrk2 | HTTP benchmarker | :heavy_multiplication_x: | [wrk2](https://github.com/g
 wtop | Apache top | :heavy_multiplication_x: | [wtop](https://github.com/ClockworkNet/wtop) | |
 wuzz | CLI HTTP inspection tool | :heavy_multiplication_x: | [wuzz](https://github.com/asciimoo/wuzz) | |
 x264 | video encoder | :heavy_check_mark: | | <a id="x264"></a> |
-x265 | video compressor | :heavy_multiplication_x: | [x265](http://x265.org) | |
-x2go | remote GUI connection | :heavy_multiplication_x: | [X2Go](http://wiki.x2go.org/doku.php) | with SSH |
+x265 | video compressor | :heavy_multiplication_x: | [x265](https://www.x265.org/) | |
+x2go | remote GUI connection | :heavy_multiplication_x: | [X2Go](https://wiki.x2go.org/doku.php) | with SSH |
 x86info | CPU info | :heavy_check_mark: | | |
 xa65 | 6502 CPU cross-assembler | :heavy_check_mark: | [xa65](http://www.floodgap.com/retrotech/xa/) | |
 xanmod | kernel performance patch | :heavy_multiplication_x: | [XanMod](https://xanmod.org/) | |
@@ -1350,7 +1339,7 @@ xmlint | XML linter | :heavy_check_mark: | | |
 xnee | X user-action recorder | :heavy_check_mark: | | |
 xnretro | retro photo effects | :heavy_multiplication_x: | | |
 xowa | Wikipedia reader | :heavy_multiplication_x: | [Xowa](https://sourceforge.net/projects/xowa/) | |
-xplico | network analysis | :heavy_multiplication_x: | [Xplico](http://www.xplico.org/) | browser-based |
+xplico | network analysis | :heavy_multiplication_x: | [Xplico](https://www.xplico.org/) | browser-based |
 xplot | simple data plotter | :heavy_check_mark: | | |
 xpra | attach/detach X programs | :heavy_check_mark: | | |
 xprobe | remote OS identification | :heavy_check_mark: | | [NMap](#nmap)-like, calls `xprobe2` |
@@ -1379,7 +1368,7 @@ zenith | TUI system monitor | :heavy_multiplication_x: | [zenith](https://github
 zenity | shell dialog boxes | :heavy_check_mark: | | |
 zenmap | [NMap](#nmap) GUI | :heavy_check_mark: | | |
 zentyal | server GUI set-up + MS Exchange replacement | :heavy_check_mark: | | |
-zerotier | easy VPN | :heavy_multiplication_x: | [ZeroTier](http://zerotier.com) | |
+zerotier | easy VPN | :heavy_multiplication_x: | [ZeroTier](https://www.zerotier.com/) | |
 zim | 'desktop wiki' notepad | :heavy_check_mark: | | |
 zint | barcode generator | :heavy_multiplication_x: | [zint](https://github.com/zint/zint) | |
 zipcmp | zip contents comparison | :heavy_check_mark: | | |
