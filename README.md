@@ -1003,7 +1003,7 @@ rclone | `rsync` for cloud drives | :heavy_multiplication_x: | [RClone](https://
 rclonebrowser | GUI for [rclone](#rclone) | :heavy_multiplication_x: | [RcloneBrowser](https://github.com/mmozeiko/RcloneBrowser) | |
 rcrack | cracker via rainbow tables | :heavy_multiplication_x: | | |
 rdiff-backup | remote incremental backup | :heavy_check_mark: | | |
-realvnc | remote desktop client | :heavy_check_mark: | | |
+realvnc | remote desktop | :heavy_check_mark: | | |
 reaver | router WPS PIN brute-forcer | :heavy_check_mark: | | |
 recoll | desktop/network GUI search engine | :heavy_check_mark: | | |
 recsveditor | CSV editor | :heavy_multiplication_x: | [reCsvEditor](https://sourceforge.net/projects/recsveditor/) | Java-based |
@@ -1012,7 +1012,7 @@ redshift | diurnal screen colour temp adjuster | :heavy_check_mark: | | deps: *G
 redshift-gtk | GUI for redshift | :heavy_check_mark: | | |
 reformat | text formatter | :heavy_check_mark: | | line length, margin |
 remarkable | Markdown editor | :heavy_multiplication_x: | [Remarkable](http://remarkableapp.github.io/) | deps: `python3-markdown`, `python3-bs4`, `wkhtmltopdf` |
-remmina | Gnome GUI remote desktop client | :heavy_check_mark: | | |
+remmina | remote desktop | :heavy_check_mark: | | |
 remmina-plugin-vnc | VNC plugin for Remmina | :heavy_check_mark: | | |
 remnux | Linux malware analyser | :heavy_multiplication_x: | [REMnux](https://sourceforge.net/projects/remnux/) | |
 retext | ReText/Markdown editor | :heavy_check_mark: | [Retext](https://github.com/retext-project/retext) | |
@@ -1020,6 +1020,7 @@ rdesktop | CLI remote desktop client | :heavy_check_mark: | | *grdesktop* for GU
 recode | file charset conversion | :heavy_check_mark: | | |
 recoverjpeg | recover JPGs/MOVs | :heavy_check_mark: | | from SD card |
 regexxer | file regex view and replace | :heavy_check_mark: | | |
+restic | CLI backup manager | :heavy_check_mark: | [restic](https://restic.net/) [repo](https://github.com/restic/restic) | |
 richochet | [Tor](#tor) chat | :heavy_multiplication_x: | [richochet](https://ricochet.im/) | |
 rig | random person id generator | :heavy_check_mark: | | |
 rkhunter | rootkit hunter | :heavy_check_mark: | | |
@@ -1220,6 +1221,7 @@ tt-rss | tiny tiny RSS | :heavy_check_mark: | | |
 ttf-mscorefonts-installer | Microsoft TTF fonts | :heavy_check_mark: | | |
 tuc | improved `cut` | :heavy_multiplication_x: | [tuc](https://github.com/riquito/tuc) | |
 tuptime | historical (total) uptime | :heavy_check_mark: | | |
+turbovnc | remote desktop | :heavy_multiplication_x: | [TurboVNC](https://turbovnc.org/) [repo](https://github.com/TurboVNC/turbovnc) | |
 tuxguitar | music app including scoresheet | :heavy_check_mark: | [Tuxguitar](https://tuxguitar.herac.com.ar/) | |
 typora | Markdown/Mermaid editor | :heavy_check_mark: | [Typora](https://typora.io/) | |
 uberwriter | Markdown editor | :heavy_multiplication_x: | [UberWriter](https://uberwriter.github.io/uberwriter/) [repo](https://github.com/UberWriter/uberwriter) | |
