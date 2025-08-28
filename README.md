@@ -323,7 +323,9 @@ encryptr | SpiderOak note storage | :heavy_multiplication_x: | [Encryptr](https:
 engauge-digitizer | graph digitizer: extract nums | :heavy_check_mark: | | |
 enscript | text converter PS/HTML/RTF | :heavy_check_mark: | | |
 ent | entropy checker | :heavy_check_mark: | | |
+entangle | tethered camera control | :heavy_check_mark: | [Entangle](https://entangle-photo.org/) | |
 entr | trigger actions on file change | :heavy_check_mark: | | |
+envio | CLI env vars manager | :heavy_multiplication_x: | [envio](https://envio-cli.github.io/home/) [repo](https://github.com/envio-cli/envio) | |
 eqonmize | financial app | :heavy_multiplication_x: | [Eqonmize](https://github.com/Eqonomize/Eqonomize) | |
 eric | Python IDE | :heavy_check_mark: | [Eric](https://eric-ide.python-projects.org/) | |
 espeak | text speaker + GUIs | :heavy_check_mark: | | GUI is [gespeaker](#gespeaker) <a id="espeak"></a> |
@@ -394,6 +396,7 @@ forkstat | CLI process monitor | :heavy_check_mark: | | |
 fotoxx | photo editor | :heavy_check_mark: | | good at editing, poor interface |
 fping | ICMP to network hosts | :heavy_check_mark: | | |
 fpm | package converter | :heavy_multiplication_x: | [fpm](https://github.com/jordansissel/fpm) | |
+fr | find and replace in files | :heavy_multiplication_x: | [fr](https://github.com/elliot40404/fr) | |
 fracplanet | fractals | :heavy_check_mark: | | |
 fractalnow | fast fractal generator | :heavy_check_mark: | | |
 fraqtive | 3D Mandelbrot/Julia | :heavy_check_mark: | | |
@@ -418,6 +421,7 @@ fusil | fuzzer | :heavy_check_mark: | | collection of scripts |
 fuzz | fuzz EXEs with datastream input | :heavy_check_mark: | | |
 fwbuilder | firewall admin GUI | :heavy_check_mark: | | |
 fwlogwatch | firewall log analyser | :heavy_check_mark: | | |
+fx | CLI JSON processor | :heavy_multiplication_x: | [fx](https://github.com/antonmedv/fx) | |
 fzf | TUI fuzzy finder | :heavy_check_mark: | [repo](https://github.com/junegunn/fzf) | |
 g213colours | key colour customiser for G213 keyboard | :heavy_multiplication_x: | [G213Colors](https://github.com/SebiTimeWaster/G213Colors) | requires [python3-usb](#python3-usb) |
 gadmin-samba | GUI config for Samba | :heavy_check_mark: | | |
@@ -512,6 +516,7 @@ gpm | mouse interface/copy-paste on CLI | :heavy_check_mark: | | |
 gpt fdisk | GPT disk tools | :heavy_multiplication_x: | [GPT fdisk](https://sourceforge.net/projects/gptfdisk/) | also see `gdisk` in repo |
 gqrx | GUI radio receiver | :heavy_check_mark: | [Gqrx](https://www.gqrx.dk/) | |
 grabber | web app scanner | :heavy_multiplication_x: | | |
+graphite | vector/raster 2D editor | :heavy_check_mark: | [Graphite](https://graphite.rs/) [repo](https://github.com/GraphiteEditor/Graphite) | |
 graphviz | graph tools | :heavy_check_mark: | | |
 graudit | grep rough source code audit | :heavy_multiplication_x: | [graudit](https://github.com/wireghoul/graudit/) | |
 graylog | manage PC logfiles in one place | :heavy_multiplication_x: | [Graylog](https://www.graylog.org/) | |
@@ -591,7 +596,7 @@ inguma | pentest framework | :heavy_multiplication_x: | | |
 inkscape | vector imager | :heavy_check_mark: | | |
 innotop | MySQL InnoDB monitor | :heavy_multiplication_x: | [innotop](https://github.com/innotop/innotop) [.deb](https://sourceforge.net/projects/innotop/) | exists in CentOS EPEL |
 innotopgo | MySQL InnoDB monitor | :heavy_multiplication_x: | [innotopgo](https://github.com/lefred/innotopgo) | |
-inotify | monitor file system events | :heavy_check_mark: | | good for Samba folders |
+inotify | monitor file system events | :heavy_check_mark: | [inotify-tools](https://github.com/inotify-tools/inotify-tools/) | good for Samba folders |
 input-remapper | input device button mapper | :heavy_multiplication_x: | [input-remapper](https://github.com/sezanzeb/input-remapper) | |
 input-utils | kernel input layer utilities | :heavy_check_mark: | | `lsinput`, `input-events`, `input-kbd` |
 instarecon | auto digital recon | :heavy_multiplication_x: | [instarecon](https://github.com/vergl4s/instarecon) | high level recon |
@@ -1214,6 +1219,7 @@ treeline | [TreePadLite](#treepadlite)/XML/bookmark editor | :heavy_check_mark: 
 trelby | screenwriting program | :heavy_multiplication_x: | [Trelby](https://www.trelby.org/download/) | |
 trickle | bandwidth throttler | :heavy_check_mark: | | |
 trimage | PNG/JPG compressor | :heavy_check_mark: | | |
+trippy | TUI traceroute + ping | :heavy_multiplication_x: | [trippy](https://trippy.rs/) [repo](https://github.com/fujiapple852/trippy) | |
 trupax | encrypt files and folders | :heavy_multiplication_x: | [TruPax](https://coderslagoon.com/) | |
 tshark | CLI [Wireshark](#wireshark) | :heavy_check_mark: | | |
 tsung | HTTP benchmark and database tester | :heavy_check_mark: | [TSung](http://tsung.erlang-projects.org) | sophisticated |
