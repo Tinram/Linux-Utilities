@@ -875,6 +875,7 @@ patator | multi brute-forcer | :heavy_check_mark: | [patator](https://github.com
 pavucontrol | PulseAudio volume control | :heavy_check_mark: | | independently adjust audio streams |
 pax-utils | ELF checking utilities | :heavy_check_mark: | | `dumpelf`, `scanelf`, `lddtree`, `pspax` etc |
 pbnj | monitor network changes | :heavy_check_mark: | | |
+pdf-tinkerer | PDF editor | :heavy_multiplication_x: | [PDF Tinkerer](https://gitlab.com/gjwu/pdf-tinkerer) | Java |
 pdfbooklet | PDF printer | :heavy_multiplication_x: | [PDFbooklet](https://sourceforge.net/projects/pdfbooklet/) | |
 pdfcrack | PDF password cracker | :heavy_check_mark: | | |
 pdfedit | PDF editor | :heavy_check_mark: | | good at text, no image editing |
@@ -952,6 +953,7 @@ psensor | temperature sensors GUI | :heavy_check_mark: | | |
 pspp | statistical analysis | :heavy_check_mark: | [PSPP](https://www.gnu.org/software/pspp/) | SPSS replacement |
 pst-utils | read Microsoft Outlook *.pst* files | :heavy_check_mark: | | *.pst* to *.mbox* |
 pstop | MySQL top from perf schema | :heavy_multiplication_x: | [ps-top](https://github.com/sjmudd/ps-top) | |
+ptcpdump | tcpdump revealing ps origin | :heavy_multiplication_x: | [ptcpdump](https://github.com/mozillazg/ptcpdump) | |
 publican | docbook XML publisher | :heavy_check_mark: | | |
 puddletag | music file tag editor | :heavy_check_mark: | | |
 pulseeffects | equalizer for PulseAudio apps | :heavy_multiplication_x: | [pulseeffects](https://github.com/wwmm/pulseeffects) | ppa:yunnxx/gnome3 |
@@ -982,7 +984,7 @@ qmmp | music player | :heavy_check_mark: | | |
 qownnotes | notepad with Markdown | :heavy_multiplication_x: | [QOwnNotes](https://www.qownnotes.org/) | |
 qmplay2 | video/YouTube player | :heavy_multiplication_x: | [QMPlay2](https://github.com/zaps166/QMPlay2) | GPU acceleration; good options |
 qpdf | CLI PDF editor | :heavy_multiplication_x: | [QPDF](https://qpdf.sourceforge.io/) | |
-qrencode | QR generator | :heavy_check_mark: | | `qrencode -o f.png 'txt'` # -s height of pixel, -l H highest level of error correction|
+qrencode | QR generator | :heavy_check_mark: | | `qrencode -o f.png 'txt'` |
 qtox | encrypted chat | :heavy_multiplication_x: | [qTox](https://github.com/qTox/qTox) | |
 qtpfsgui | HDR tonemapper | :heavy_check_mark: | | |
 qtqr | GUI QR generator | :heavy_check_mark: | | |
@@ -1020,6 +1022,7 @@ remarkable | Markdown editor | :heavy_multiplication_x: | [Remarkable](http://re
 remmina | remote desktop | :heavy_check_mark: | | |
 remmina-plugin-vnc | VNC plugin for Remmina | :heavy_check_mark: | | |
 remnux | Linux malware analyser | :heavy_multiplication_x: | [REMnux](https://sourceforge.net/projects/remnux/) | |
+rename | Linux malware analyser | :heavy_check_mark: | [rename](https://linuxcommandlibrary.com/man/rename) | |
 retext | ReText/Markdown editor | :heavy_check_mark: | [Retext](https://github.com/retext-project/retext) | |
 rdesktop | CLI remote desktop client | :heavy_check_mark: | | *grdesktop* for GUI <a id="rdesktop"></a> |
 recode | file charset conversion | :heavy_check_mark: | | |
